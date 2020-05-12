@@ -45,19 +45,20 @@ class Footer extends Component {
               Lorem Ipsum has been the industry's standard dummy text ever since
               the 1500s, when an unknown printer took.
             </p>
+            <p className="agent">Agent Login</p>
           </div>
           <div className="box">
             <h4>Our Menu:</h4>
             <div className="nav">
               <nav>
                 <p>Home</p>
-                <p>About</p>
+                <p>Agents</p>
                 <p>Services</p>
-                <p>Listings</p>
+                <p>Events</p>
               </nav>
               <nav>
-                <p>Properties</p>
-                <p>Contact</p>
+                <p>Testimonials</p>
+                <p>About</p>
                 <p>Terms of Service</p>
                 <p>Privacy Policy</p>
               </nav>
@@ -102,6 +103,10 @@ const FooterWrapper = styled.div`
   .phone {
     font-size: 0.7rem;
     line-height: 1.2rem;
+  }
+  .agent {
+    font-weight: bold;
+    margin-top: 0.5rem;
   }
   .box {
     flex-basis: 20%;

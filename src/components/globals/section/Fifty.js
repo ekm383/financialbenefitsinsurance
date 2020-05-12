@@ -29,12 +29,11 @@ const SectionWrapper = styled.div`
   }
   h4 {
     color: var(--mainColor);
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 700;
-    letter-spacing: 4px;
   }
   h6 {
-    letter-spacing: 4px;
+    letter-spacing: 3px;
   }
   @media (max-width: 768px) {
     width: 90vw;

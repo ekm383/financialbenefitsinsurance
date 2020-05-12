@@ -65,9 +65,11 @@ const LinkWrapper = styled.ul`
   }
   .nav-link {
     display: block;
+    font-family: 'Poppins';
+    font-weight: bold;
     text-decoration: none;
     padding: 0.8rem 1.2rem;
-    color: var(--white);
+    color: var(--mainColor);
     font-size: 1rem;
     text-transform: uppercase;
     cursor: pointer;
@@ -78,23 +80,28 @@ const LinkWrapper = styled.ul`
       padding: 0.8rem 1.5rem;
     }
   }
-  height: ${props => (props.open ? "290px" : "0px")};
+  height: ${props => (props.open ? "355px" : "0px")};
   overflow: hidden;
   transition: all 0.3s ease-in-out;
   @media (min-width: 768px) {
     height: auto;
     display: flex;
     .nav-link {
-      padding: 1rem 1.2rem;
-      font-size: 0.8rem;
+      padding: 1.4rem 1.2rem;
+      font-size: 1rem;
+      color: var(--mainColor);
     }
     .nav-link:hover {
-      background: var(--white);
-      color: var(--mainColor);
-      padding: 1rem 1.2rem;
+      color: var(--lightGray);
+      background-color: var(--white);
+      padding: 1.4rem 1.2rem;
+    }
+    li:nth-child(7) > a {
+      background-color: var(--mainColor);
+      color: var(--white);
     }
     li:nth-child(7) > a:hover {
-      color: var(--mainColor);
+      color: var(--lightGray);
     }
   }
 `

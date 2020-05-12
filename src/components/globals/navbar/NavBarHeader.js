@@ -1,15 +1,14 @@
 import React from "react"
 import { Link } from "gatsby"
 import { FaBars } from "react-icons/fa"
+import img from '../../../images/fbihi-logo-gray.png'
 import styled from "styled-components"
 
 const NavBarHeader = ({ handleNavBar }) => {
   return (
     <HeaderWrapper>
       <Link to="/">
-        <p className="logo">
-          <strong>FBI</strong> HI
-        </p>
+        <img src={img} alt="logo" width="90px" />
       </Link>
       <FaBars
         className="toggle-icon"
@@ -28,16 +27,9 @@ const HeaderWrapper = styled.div`
   align-items: center;
   justify-content: space-between;
   .toggle-icon {
-    font-size: 1.5rem;
-    color: var(--white);
+    font-size: 2rem;
+    color: var(--mainColor);
     cursor: pointer;
-  }
-  .logo {
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    font-weight: light;
-    margin-left: 10px;
-    color: var(--white);
   }
   a {
     text-decoration: none;

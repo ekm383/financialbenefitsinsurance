@@ -1,14 +1,12 @@
 import React from "react"
 import styled from "styled-components"
-import logo from "../../../images/fbihi-logo.png"
 
 const Banner = ({ style, title, titleSmall, subtitle, children }) => {
   return (
     <BannerWrapper style={style}>
       <div className="box">
-        <img src={logo} alt="logo" />
-        <h1 className="title">{title}</h1>
         <h2 className="titleSmall">{titleSmall}</h2>
+        <h1 className="title">{title}</h1>
         <h3 className="subtitle">{subtitle}</h3>
         {children}
       </div>
@@ -18,16 +16,13 @@ const Banner = ({ style, title, titleSmall, subtitle, children }) => {
 
 const BannerWrapper = styled.div`
   width: 80%;
-  margin: 0px auto;
+  margin: -100px auto 0px auto;
   display: flex;
   flex-wrap: wrap;
   color: var(--white);
   .box {
     flex-basis: 80%;
     text-align: left;
-  }
-  img {
-    width: 50%;
   }
   .title,
   .subtitle {
@@ -40,7 +35,9 @@ const BannerWrapper = styled.div`
     text-transform: uppercase;
   }
   .titleSmall {
-    line-height: 4rem;
+    font-size: 1rem;
+    line-height: 3rem;
+    letter-spacing: 0px;
   }
   .subtitle {
     font-size: 0.7rem;
@@ -58,9 +55,16 @@ const BannerWrapper = styled.div`
     img {
       width: 60%;
     }
-    .titleSmall {
+    .title {
+      margin-bottom: 2rem;
       font-size: 2rem;
       line-height: 2rem;
+    }
+    .titleSmall {
+      letter-spacing: 0px;
+      font-size: 1rem;
+      line-height: 2rem;
+      margin-bottom: 1rem;
     }
     .subtitle {
       font-size: 0.8rem;

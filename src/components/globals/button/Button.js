@@ -10,14 +10,20 @@ const ButtonWrapper = styled.button`
   display: block;
   margin-top: 1rem;
   color: var(--mainColor);
+  font-family: 'Poppins';
   background: var(--white);
   border: 1px solid var(--white);
   cursor: pointer;
-  padding: 1rem 2rem;
-  font-size: 0.8rem;
+  padding: 1rem 2rem 1rem 2.5rem;
+  font-size: 1.5rem;
   letter-spacing: 1px;
-  font-weight: 400;
+  font-weight: bold;
   transition: all 0.2s linear;
+  svg {
+    font-size: 2rem;
+    vertical-align: middle;
+    margin-top: -5px;
+  }
   &:hover {
     background: transparent;
     border: 1px solid var(--white);
