@@ -25,13 +25,13 @@ const ContactForm = () => {
           </li>
           <li class="form-list__row">
             <label htmlFor="email">
-              Email
+              Email:
               <input id="email" type="text" name="email" required="true" />
             </label>
           </li>
           <li class="form-list__row">
             <label htmlFor="message">
-              Message
+              Message:
               <textarea
                 id="message"
                 type="textarea"
@@ -162,9 +162,10 @@ const FormWrapper = styled.div`
     position: relative;
     display: block;
     text-transform: capitalize;
-    font-weight: 400;
-    font-size: 11px;
-    color: var(--gray);
+    font-weight: bold;
+    font-size: 1rem;
+    color: var(--mainColor);
+    padding-bottom: 1rem;
   }
   .form-list__row--inline {
     display: -ms-flexbox;

@@ -4,6 +4,7 @@ import SEO from "../components/seo"
 import HeaderIndex from "../components/globals/header/HeaderIndex"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
+import Search from "../components/Search"
 
 const AgentsPage = () => (
   <Layout>
@@ -23,6 +24,9 @@ const AgentsPage = () => (
         <BannerPage titleSmall="Agents" />
       </Section>
     </HeaderIndex>
+    <Section style={{ padding: "3rem 0rem" }}>
+      <Search />
+    </Section>
   </Layout>
 )
 
