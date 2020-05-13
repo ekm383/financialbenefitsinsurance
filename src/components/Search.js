@@ -1,6 +1,7 @@
 import React, { Component } from "react"
-import Axios from "axios"
+// import Axios from "axios"
 import * as JsSearch from "js-search"
+import agents from '../data/agents.json'
 import styled from "styled-components"
 import { Link } from "gatsby"
 
@@ -16,19 +17,24 @@ class Search extends Component {
   /**
    * React lifecycle method to fetch the data
    */
-  async componentDidMount() {
-    Axios.get("/data/agents.json")
-      .then(result => {
-        const agentData = result.data
-        this.setState({ agentList: agentData })
-        this.rebuildIndex()
-      })
-      .catch(err => {
-        this.setState({ isError: true })
-        console.log("====================================")
-        console.log(`Something bad happened while fetching the data\n${err}`)
-        console.log("====================================")
-      })
+  // async componentDidMount() {
+  //   Axios.get("/data/agents.json")
+  //     .then(result => {
+  //       const agentData = result.data
+  //       this.setState({ agentList: agentData })
+  //       this.rebuildIndex()
+  //     })
+  //     .catch(err => {
+  //       this.setState({ isError: true })
+  //       console.log("====================================")
+  //       console.log(`Something bad happened while fetching the data\n${err}`)
+  //       console.log("====================================")
+  //     })
+  // }
+  componentDidMount() {
+    const agentData = agents
+    this.setState({ agentList: agentData })
+    this.rebuildIndex()
   }
 
   /**
