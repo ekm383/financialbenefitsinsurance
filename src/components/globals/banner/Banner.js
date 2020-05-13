@@ -24,7 +24,7 @@ const BannerWrapper = styled.div`
   .box {
     flex-basis: 80%;
     text-align: left;
-    margin-top: -5rem;
+    margin-top: -7rem;
   }
   .title,
   .subtitle {
@@ -53,6 +53,7 @@ const BannerWrapper = styled.div`
     .box {
       flex-basis: 100%;
       text-align: center;
+      margin-top: -10rem;
     }
     img {
       width: 60%;
