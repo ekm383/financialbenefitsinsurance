@@ -40,6 +40,7 @@ const BannerWrapper = styled.div`
   }
   .titleSmall {
     line-height: 4rem;
+    letter-spacing: 0px;
     font-weight: 700;
   }
   .subtitle {
