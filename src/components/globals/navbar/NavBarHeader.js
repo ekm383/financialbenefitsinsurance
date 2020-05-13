@@ -27,6 +27,8 @@ const HeaderWrapper = styled.div`
   align-items: center;
   justify-content: space-between;
   .toggle-icon {
+    position: relative;
+    z-index: 9998;
     font-size: 2rem;
     color: var(--mainColor);
     cursor: pointer;

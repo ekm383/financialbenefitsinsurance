@@ -16,9 +16,10 @@ const Banner = ({ style, title, titleSmall, subtitle, children }) => {
 
 const BannerWrapper = styled.div`
   width: 80%;
-  margin: -100px auto 0px auto;
+  margin: 0px auto;
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   color: var(--white);
   .box {
     flex-basis: 80%;
@@ -46,11 +47,11 @@ const BannerWrapper = styled.div`
   }
   @media (max-width: 768px) {
     flex-basis: 90%;
+    align-items: center;
     justify-content: flex-start;
     .box {
       flex-basis: 100%;
       text-align: center;
-      padding: 3rem 0rem 3rem 0rem;
     }
     img {
       width: 60%;
