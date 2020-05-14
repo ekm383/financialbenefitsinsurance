@@ -4,6 +4,8 @@ import SEO from "../components/seo"
 import HeaderIndex from "../components/globals/header/HeaderIndex"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
+import Intro from "../components/Intro"
+import Card from "../components/Card"
 
 const ServicesPage = () => (
   <Layout>
@@ -20,9 +22,13 @@ const ServicesPage = () => (
     />
     <HeaderIndex style={{ padding: "3rem 0rem" }}>
       <Section style={{ width: "100vw", alignItems: "center" }}>
-        <BannerPage titleSmall="services" />
+        <BannerPage titleSmall="what we offer" />
       </Section>
     </HeaderIndex>
+    <Section style={{ padding: "3rem 0rem", justifyContent: "flex-start" }}>
+      <Intro heading="services" />
+      <Card />
+    </Section>
   </Layout>
 )
 

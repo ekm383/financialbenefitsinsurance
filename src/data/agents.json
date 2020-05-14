@@ -1,310 +1,310 @@
 [
   {
-    "id" : "1",
-    "slug" : "jessica-arruda",
-    "name" : "Jessica Arruda",
-    "phone" : "808-345-7102",
-    "email" : "jarruda@fbihi.com"
+    "id": "1",
+    "slug": "jessica-arruda",
+    "name": "Jessica Arruda",
+    "phone": "808-345-7102",
+    "email": "jarruda@fbihi.com"
   },
   {
-    "id" : "2",
-    "slug" : "teresita-martin",
-    "name" : "Teresita Martin",
-    "phone" : "808-927-1696",
-    "email" : "JTmartin@fbihi.com"
+    "id": "2",
+    "slug": "teresita-martin",
+    "name": "Teresita Martin",
+    "phone": "808-927-1696",
+    "email": "JTmartin@fbihi.com"
   },
   {
-    "id" : "3",
-    "slug" : "michael-anderson",
-    "name" : "Michael Anderson",
-    "phone" : "808-722-7385",
-    "email" : "Manderson@fbihi.com"
+    "id": "3",
+    "slug": "michael-anderson",
+    "name": "Michael Anderson",
+    "phone": "808-722-7385",
+    "email": "Manderson@fbihi.com"
   },
   {
-    "id" : "4",
-    "slug" : "kamaka-jingao",
-    "name" : "Kamaka Jingao",
-    "phone" : "808-286-0022",
-    "email" : "Kjingao@fbihi.com"
+    "id": "4",
+    "slug": "kamaka-jingao",
+    "name": "Kamaka Jingao",
+    "phone": "808-286-0022",
+    "email": "Kjingao@fbihi.com"
   },
   {
-    "id" : "5",
-    "slug" : "tamlyn-laurence",
-    "name" : "Tamlyn Laurence",
-    "phone" : "808-315-9148",
-    "email" : "Tlaurence@fbihi.com"
+    "id": "5",
+    "slug": "tamlyn-laurence",
+    "name": "Tamlyn Laurence",
+    "phone": "808-315-9148",
+    "email": "Tlaurence@fbihi.com"
   },
   {
-    "id" : "6",
-    "slug" : "nikki-kida",
-    "name" : "Nikki Kida",
-    "phone" : "808-222-5516",
-    "email" : "Ykida@fbihi.com"
+    "id": "6",
+    "slug": "nikki-kida",
+    "name": "Nikki Kida",
+    "phone": "808-222-5516",
+    "email": "Ykida@fbihi.com"
   },
   {
-    "id" : "7",
-    "slug" : "damien-morales",
-    "name" : "Damien Morales",
-    "phone" : "808-371-8772",
-    "email" : "Dmorales@fbihi.com"
+    "id": "7",
+    "slug": "damien-morales",
+    "name": "Damien Morales",
+    "phone": "808-371-8772",
+    "email": "Dmorales@fbihi.com"
   },
   {
-    "id" : "8",
-    "slug" : "pauline-spainer",
-    "name" : "Pauline Spainer",
-    "phone" : "808-343-0042",
-    "email" : "Pspainer@fbihi.com"
+    "id": "8",
+    "slug": "pauline-spainer",
+    "name": "Pauline Spainer",
+    "phone": "808-343-0042",
+    "email": "Pspainer@fbihi.com"
   },
   {
-    "id" : "9",
-    "slug" : "kyle-kwock",
-    "name" : "Kyle Kwock",
-    "phone" : "808-781-8218",
-    "email" : "Kkwock@fbihi.com"
+    "id": "9",
+    "slug": "kyle-kwock",
+    "name": "Kyle Kwock",
+    "phone": "808-781-8218",
+    "email": "Kkwock@fbihi.com"
   },
   {
-    "id" : "10",
-    "slug" : "herb-kaopua",
-    "name" : "Herb Kaopua",
-    "phone" : "808-688-8802",
-    "email" : "Hkaopua@fbihi.com"
+    "id": "10",
+    "slug": "herb-kaopua",
+    "name": "Herb Kaopua",
+    "phone": "808-688-8802",
+    "email": "Hkaopua@fbihi.com"
   },
   {
-    "id" : "11",
-    "slug" : "kawela-incillio",
-    "name" : "Kawela Incillio",
-    "phone" : "808-825-2955",
-    "email" : "Kincillio@fbihi.com"
+    "id": "11",
+    "slug": "kawela-incillio",
+    "name": "Kawela Incillio",
+    "phone": "808-825-2955",
+    "email": "Kincillio@fbihi.com"
   },
   {
-    "id" : "12",
-    "slug" : "caroline-dupio",
-    "name" : "Caroline Dupio",
-    "phone" : "808-221-8396",
-    "email" : "Cdupio@fbihi.com"
+    "id": "12",
+    "slug": "caroline-dupio",
+    "name": "Caroline Dupio",
+    "phone": "808-221-8396",
+    "email": "Cdupio@fbihi.com"
   },
   {
-    "id" : "13",
-    "slug" : "frank-rafanan",
-    "name" : "Frank Rafanan",
-    "phone" : "808-343-0252",
-    "email" : "Frafanan@fbihi.com"
+    "id": "13",
+    "slug": "frank-rafanan",
+    "name": "Frank Rafanan",
+    "phone": "808-343-0252",
+    "email": "Frafanan@fbihi.com"
   },
   {
-    "id" : "14",
-    "slug" : "mj-kim",
-    "name" : "MJ Kim",
-    "phone" : "808-321-0770",
-    "email" : "MJkim@fbihi.com"
+    "id": "14",
+    "slug": "mj-kim",
+    "name": "MJ Kim",
+    "phone": "808-321-0770",
+    "email": "MJkim@fbihi.com"
   },
   {
-    "id" : "15",
-    "slug" : "brenda-takahashi",
-    "name" : "Brenda Takahashi",
-    "phone" : "808-341-5557",
-    "email" : "Btakahashi@fbihi.com"
+    "id": "15",
+    "slug": "brenda-takahashi",
+    "name": "Brenda Takahashi",
+    "phone": "808-341-5557",
+    "email": "Btakahashi@fbihi.com"
   },
   {
-    "id" : "16",
-    "slug" : "debbie-takafuji",
-    "name" : "Debbie Takafuji",
-    "phone" : "808-230-3138",
-    "email" : "Dtakafuji@fbihi.com"
+    "id": "16",
+    "slug": "debbie-takafuji",
+    "name": "Debbie Takafuji",
+    "phone": "808-230-3138",
+    "email": "Dtakafuji@fbihi.com"
   },
   {
-    "id" : "17",
-    "slug" : "klem-unciano",
-    "name" : "Klem Unciano",
-    "phone" : "808-354-4880",
-    "email" : "Kunciano@fbihi.com"
+    "id": "17",
+    "slug": "klem-unciano",
+    "name": "Klem Unciano",
+    "phone": "808-354-4880",
+    "email": "Kunciano@fbihi.com"
   },
   {
-    "id" : "18",
-    "slug" : "lourdes-dela-cruz",
-    "name" : "Lourdes Dela Cruz",
-    "phone" : "808-393-9549",
-    "email" : "Ldelacruz@fbihi.com"
+    "id": "18",
+    "slug": "lourdes-dela-cruz",
+    "name": "Lourdes Dela Cruz",
+    "phone": "808-393-9549",
+    "email": "Ldelacruz@fbihi.com"
   },
   {
-    "id" : "19",
-    "slug" : "zashell-labrador-espinosa",
-    "name" : "Zashell Labrador-Espinosa",
-    "phone" : "808-217-6063",
-    "email" : "Zespinosa@fbihi.com"
+    "id": "19",
+    "slug": "zashell-labrador-espinosa",
+    "name": "Zashell Labrador-Espinosa",
+    "phone": "808-217-6063",
+    "email": "Zespinosa@fbihi.com"
   },
   {
-    "id" : "20",
-    "slug" : "sherry-lau",
-    "name" : "Sherry Lau",
-    "phone" : "808-497-8866",
-    "email" : "SLau@fbihi.com"
+    "id": "20",
+    "slug": "sherry-lau",
+    "name": "Sherry Lau",
+    "phone": "808-497-8866",
+    "email": "SLau@fbihi.com"
   },
   {
-    "id" : "21",
-    "slug" : "angie-wahinekapu",
-    "name" : "Angie Wahinekapu",
-    "phone" : "808-987-8783",
-    "email" : "Awahinekapu@fbihi.com"
+    "id": "21",
+    "slug": "angie-wahinekapu",
+    "name": "Angie Wahinekapu",
+    "phone": "808-987-8783",
+    "email": "Awahinekapu@fbihi.com"
   },
   {
-    "id" : "22",
-    "slug" : "wes-sakamoto",
-    "name" : "Wes Sakamoto",
-    "phone" : "808-371-1190",
-    "email" : "Wsakamoto@fbihi.com"
+    "id": "22",
+    "slug": "wes-sakamoto",
+    "name": "Wes Sakamoto",
+    "phone": "808-371-1190",
+    "email": "Wsakamoto@fbihi.com"
   },
   {
-    "id" : "23",
-    "slug" : "kahale-camara",
-    "name" : "Kahale Camara",
-    "phone" : "808-931-9525",
-    "email" : "Kcamara@fbihi.com"
+    "id": "23",
+    "slug": "kahale-camara",
+    "name": "Kahale Camara",
+    "phone": "808-931-9525",
+    "email": "Kcamara@fbihi.com"
   },
   {
-    "id" : "24",
-    "slug" : "pearl-yuen",
-    "name" : "Pearl Yuen",
-    "phone" : "808-721-0533",
-    "email" : "Pyuen@fbihi.com"
+    "id": "24",
+    "slug": "pearl-yuen",
+    "name": "Pearl Yuen",
+    "phone": "808-721-0533",
+    "email": "Pyuen@fbihi.com"
   },
   {
-    "id" : "25",
-    "slug" : "leeah-tano",
-    "name" : "Leeah Tano",
-    "phone" : "808-358-1370",
-    "email" : "Ltano@fbihi.com"
+    "id": "25",
+    "slug": "leeah-tano",
+    "name": "Leeah Tano",
+    "phone": "808-358-1370",
+    "email": "Ltano@fbihi.com"
   },
   {
-    "id" : "26",
-    "slug" : "gerald-hirata",
-    "name" : "Gerald Hirata",
-    "phone" : "808-392-3718",
-    "email" : "Ghirata@fbihi.com"
+    "id": "26",
+    "slug": "gerald-hirata",
+    "name": "Gerald Hirata",
+    "phone": "808-392-3718",
+    "email": "Ghirata@fbihi.com"
   },
   {
-    "id" : "27",
-    "slug" : "claren-afong",
-    "name" : "Claren Afong",
-    "phone" : "808-277-1907",
-    "email" : "Cafong@fbihi.com"
+    "id": "27",
+    "slug": "claren-afong",
+    "name": "Claren Afong",
+    "phone": "808-277-1907",
+    "email": "Cafong@fbihi.com"
   },
   {
-    "id" : "28",
-    "slug" : "bricyn-afong",
-    "name" : "Bricyn Afong",
-    "phone" : "808-349-3873",
-    "email" : "Bafong@fbihi.com"
+    "id": "28",
+    "slug": "bricyn-afong",
+    "name": "Bricyn Afong",
+    "phone": "808-349-3873",
+    "email": "Bafong@fbihi.com"
   },
   {
-    "id" : "29",
-    "slug" : "natividad-ragudo-smith",
-    "name" : "Natividad Ragudo-Smith",
-    "phone" : "808-276-8864",
-    "email" : "Nragudosmith@fbihi.com"
+    "id": "29",
+    "slug": "natividad-ragudo-smith",
+    "name": "Natividad Ragudo-Smith",
+    "phone": "808-276-8864",
+    "email": "Nragudosmith@fbihi.com"
   },
   {
-    "id" : "30",
-    "slug" : "karen-kwock",
-    "name" : "Karen Kwock",
-    "phone" : "808-220-2178",
-    "email" : "Kckwock@fbihi.com"
+    "id": "30",
+    "slug": "karen-kwock",
+    "name": "Karen Kwock",
+    "phone": "808-220-2178",
+    "email": "Kckwock@fbihi.com"
   },
   {
-    "id" : "31",
-    "slug" : "yukiko-suzuki",
-    "name" : "Yukiko Suzuki",
-    "phone" : "808-330-1758",
-    "email" : "Ysuzuki@fbihi.com"
+    "id": "31",
+    "slug": "yukiko-suzuki",
+    "name": "Yukiko Suzuki",
+    "phone": "808-330-1758",
+    "email": "Ysuzuki@fbihi.com"
   },
   {
-    "id" : "32",
-    "slug" : "manuel-roberto",
-    "name" : "Manuel Roberto",
-    "phone" : "808-640-2643",
-    "email" : "Mroberto@fbihi.com"
+    "id": "32",
+    "slug": "manuel-roberto",
+    "name": "Manuel Roberto",
+    "phone": "808-640-2643",
+    "email": "Mroberto@fbihi.com"
   },
   {
-    "id" : "33",
-    "slug" : "laurie-smith",
-    "name" : "Laurie Smith",
-    "phone" : "808-855-5328",
-    "email" : "Lsmith@fbihi.com"
+    "id": "33",
+    "slug": "laurie-smith",
+    "name": "Laurie Smith",
+    "phone": "808-855-5328",
+    "email": "Lsmith@fbihi.com"
   },
   {
-    "id" : "34",
-    "slug" : "yolanda-yee",
-    "name" : "Yolanda Yee",
-    "phone" : "808-651-3247",
-    "email" : "Ylee@fbihi.com"
+    "id": "34",
+    "slug": "yolanda-yee",
+    "name": "Yolanda Yee",
+    "phone": "808-651-3247",
+    "email": "Ylee@fbihi.com"
   },
   {
-    "id" : "35",
-    "slug" : "alan-lum",
-    "name" : "Alan Lum",
-    "phone" : "808-284-4664",
-    "email" : "Alum@fbihi.com"
+    "id": "35",
+    "slug": "alan-lum",
+    "name": "Alan Lum",
+    "phone": "808-284-4664",
+    "email": "Alum@fbihi.com"
   },
   {
-    "id" : "36",
-    "slug" : "jin-ok-ra",
-    "name" : "Jin-Ok 'Anna' Ra",
-    "phone" : "808-358-8240",
-    "email" : "Jra@fbihi.com"
+    "id": "36",
+    "slug": "jin-ok-ra",
+    "name": "Jin-Ok 'Anna' Ra",
+    "phone": "808-358-8240",
+    "email": "Jra@fbihi.com"
   },
   {
-    "id" : "37",
-    "slug" : "austin-uzama",
-    "name" : "Austin Uzama",
-    "phone" : "808-436-4212",
-    "email" : "Auzama@fbihi.com"
+    "id": "37",
+    "slug": "austin-uzama",
+    "name": "Austin Uzama",
+    "phone": "808-436-4212",
+    "email": "Auzama@fbihi.com"
   },
   {
-    "id" : "38",
-    "slug" : "bernice-roberto",
-    "name" : "Bernice Roberto",
-    "phone" : "808-640-6398",
-    "email" : "Broberto@fbihi.com"
+    "id": "38",
+    "slug": "bernice-roberto",
+    "name": "Bernice Roberto",
+    "phone": "808-640-6398",
+    "email": "Broberto@fbihi.com"
   },
   {
-    "id" : "39",
-    "slug" : "grace-rous",
-    "name" : "Grace Rous",
-    "phone" : "808-384-2588",
-    "email" : "Grous@fbihi.com"
+    "id": "39",
+    "slug": "grace-rous",
+    "name": "Grace Rous",
+    "phone": "808-384-2588",
+    "email": "Grous@fbihi.com"
   },
   {
-    "id" : "40",
-    "slug" : "garry-yee",
-    "name" : "Garry Yee",
-    "phone" : "808-349-2720",
-    "email" : "Gyee@fbihi.com"
+    "id": "40",
+    "slug": "garry-yee",
+    "name": "Garry Yee",
+    "phone": "808-349-2720",
+    "email": "Gyee@fbihi.com"
   },
   {
-    "id" : "41",
-    "slug" : "stephen-fung",
-    "name" : "Stephen Fung",
-    "phone" : "808-295-5875",
-    "email" : "Sfung@fbihi.com"
+    "id": "41",
+    "slug": "stephen-fung",
+    "name": "Stephen Fung",
+    "phone": "808-295-5875",
+    "email": "Sfung@fbihi.com"
   },
   {
-    "id" : "42",
-    "slug" : "christy-chun",
-    "name" : "Christy Chun",
-    "phone" : "808-542-1807",
-    "email" : "Cchun@fbihi.com"
+    "id": "42",
+    "slug": "christy-chun",
+    "name": "Christy Chun",
+    "phone": "808-542-1807",
+    "email": "Cchun@fbihi.com"
   },
   {
-    "id" : "43",
-    "slug" : "sue-jorgenson",
-    "name" : "Sue Jorgenson",
-    "phone" : "808-389-5073",
-    "email" : "Sjorgenson@fbihi.com"
+    "id": "43",
+    "slug": "sue-jorgenson",
+    "name": "Sue Jorgenson",
+    "phone": "808-389-5073",
+    "email": "Sjorgenson@fbihi.com"
   },
   {
-    "id" : "44",
-    "slug" : "suzeth-carreon",
-    "name" : "Suzeth Carreon",
-    "phone" : "808-779-9242",
-    "email" : "Scarreon@fbihi.com"
+    "id": "44",
+    "slug": "suzeth-carreon",
+    "name": "Suzeth Carreon",
+    "phone": "808-779-9242",
+    "email": "Scarreon@fbihi.com"
   }
 ]

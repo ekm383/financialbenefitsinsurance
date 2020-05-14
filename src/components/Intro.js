@@ -13,7 +13,9 @@ const Intro = ({ heading, subheading }) => {
 }
 
 const IntroWrapper = styled.div`
-  flex-basis: 90%;
+  flex-basis: 100%;
+  margin: 0rem auto;
+  padding: 1rem;
   h2 {
     color: var(--mainColor);
     font-size: 2rem;
@@ -21,7 +23,7 @@ const IntroWrapper = styled.div`
   @media (max-width: 768px) {
     flex-basis: 100%;
     h2 {
-      font-size: 1.2rem;
+      font-size: 2rem;
       margin-bottom: 0rem;
     }
     p {

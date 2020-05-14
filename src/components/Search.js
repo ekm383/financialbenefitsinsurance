@@ -54,6 +54,7 @@ class Search extends Component {
      */
     dataToSearch.searchIndex = new JsSearch.TfIdfSearchIndex("id")
 
+    dataToSearch.addIndex("image") // sets the index attribute for the data
     dataToSearch.addIndex("name") // sets the index attribute for the data
     dataToSearch.addIndex("phone") // sets the index attribute for the data
     dataToSearch.addIndex("email") // sets the index attribute for the data
@@ -98,7 +99,12 @@ class Search extends Component {
             {queryResults.map(item => {
               return (
                 <div className="box" key={`row_${item.id}`}>
-                  {/* TO DO: Image goes here */}
+                  <img
+                    className="avatar"
+                    src={item.image}
+                    alt="avatar"
+                    width="100"
+                  />
                   <p className="name">
                     <Link to={`/agent/${item.slug}`}>{item.name}</Link>
                   </p>
@@ -180,6 +186,9 @@ const SearchWrapper = styled.div`
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+  }
+  .avatar {
+    border-radius: 50%;
   }
   .box {
     flex-basis: 25%;
