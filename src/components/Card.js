@@ -10,21 +10,23 @@ const Card = () => {
         edges {
           node {
             title
-            content
+            content {
+              paragraph
+            }
           }
         }
       }
     }
   `)
-  const title = data.services.edges
+  const services = data.services.edges
   return (
     <>
-      {title.map(({ node }, index) => {
+      {services.map(({ node }, index) => {
         return (
           <CardWrapper>
             <div className="box" key={index}>
               <h4>{node.title}</h4>
-              <p>{node.content}</p>
+              <p className="content">{node.content.paragraph}</p>
               <AniLink className="link" fade to="#">
                 More Information
               </AniLink>
@@ -51,6 +53,7 @@ const CardWrapper = styled.div`
     color: var(--lightGray);
   }
   @media (max-width: 768px) {
+    flex-basis: 100%
   }
 `
 
