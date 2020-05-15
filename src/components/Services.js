@@ -1,18 +1,18 @@
 import React from "react"
 import styled from "styled-components"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import { Link } from "gatsby"
 import { useStaticQuery, graphql } from "gatsby"
+import { FaArrowAltCircleRight } from "react-icons/fa"
 
-const Card = () => {
+const Services = () => {
   const data = useStaticQuery(graphql`
     query {
       services: allServicesJson {
         edges {
           node {
             title
-            content {
-              paragraph
-            }
+            content
+            slug
           }
         }
       }
@@ -26,10 +26,10 @@ const Card = () => {
           <CardWrapper>
             <div className="box" key={index}>
               <h4>{node.title}</h4>
-              <p className="content">{node.content.paragraph}</p>
-              <AniLink className="link" fade to="#">
-                More Information
-              </AniLink>
+              <p className="content">{node.content[0].slice(0, 70)}...</p>
+              <Link className="link" fade to={`/service/${node.slug}`}>
+                More Information <FaArrowAltCircleRight />
+              </Link>
             </div>
           </CardWrapper>
         )
@@ -39,13 +39,19 @@ const Card = () => {
 }
 
 const CardWrapper = styled.div`
-  flex-basis: 25%;
+  flex-basis: 33%;
   flex-wrap: wrap;
   .box {
     padding: 1rem;
   }
+  .content {
+    margin-bottom: 0.5rem;
+  }
   h4 {
     color: var(--mainColor);
+  }
+  svg {
+    font-size: 0.6rem;
   }
   .link {
     font-size: 0.8rem;
@@ -53,8 +59,8 @@ const CardWrapper = styled.div`
     color: var(--lightGray);
   }
   @media (max-width: 768px) {
-    flex-basis: 100%
+    flex-basis: 100%;
   }
 `
 
-export default Card
+export default Services

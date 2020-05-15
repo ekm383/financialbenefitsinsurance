@@ -5,7 +5,8 @@ import HeaderIndex from "../components/globals/header/HeaderIndex"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Intro from "../components/Intro"
-import Card from "../components/Card"
+import Services from "../components/Services"
+import Products from "../components/Products"
 
 const ServicesPage = () => (
   <Layout>
@@ -27,7 +28,11 @@ const ServicesPage = () => (
     </HeaderIndex>
     <Section style={{ padding: "3rem 0rem", justifyContent: "flex-start" }}>
       <Intro heading="services" />
-      <Card />
+      <Services />
+    </Section>
+    <Section style={{ paddingBottom: "4rem", justifyContent: "flex-start" }}>
+      <Intro heading="Products" />
+      <Products />
     </Section>
   </Layout>
 )
