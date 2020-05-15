@@ -1,12 +1,13 @@
 import React from "react"
 import styled from "styled-components"
 
-const SectionRow = ({ id, heading, subheading, text, style }) => {
+const SectionRow = ({ id, heading, subheading, text, style, children }) => {
   return (
     <SectionWrapper id={id} style={style}>
       <div>
         <h4>{heading}</h4>
         <h6>{subheading}</h6>
+        {children}
       </div>
       <div>
         <p>{text}</p>
