@@ -31,7 +31,11 @@ const ServiceTemplate = ({ data }) => {
         </HeaderIndex>
         <Section style={{ paddingTop: "4rem" }}>
           <div>
-            <p>{content}</p>
+            <ul className="serviceList">
+              {content.map((value, id) => {
+                return <li key={id}>{value}</li>
+              })}
+            </ul>
           </div>
         </Section>
         <Section style={{ width: "100vw", margin: "3rem auto" }}>
@@ -122,6 +126,13 @@ const Wrapper = styled.div`
     font-size: 1rem;
     font-weight: bold;
     text-align: center;
+  }
+  .serviceList {
+    list-style-type: none;
+    li {
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
   }
   svg {
     font-size: 0.8rem;

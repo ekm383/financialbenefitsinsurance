@@ -31,7 +31,11 @@ const ProductTemplate = ({ data }) => {
         </HeaderIndex>
         <Section style={{ paddingTop: "4rem" }}>
           <div>
-            <p>{content}</p>
+            <ul className="productList">
+              {content.map((value, id) => {
+                return <li key={id}>{value}</li>
+              })}
+            </ul>
           </div>
         </Section>
         <Section style={{ width: "100vw", margin: "3rem auto" }}>
@@ -125,6 +129,13 @@ const Wrapper = styled.div`
   }
   svg {
     font-size: 0.8rem;
+  }
+  .productList {
+    list-style-type: none;
+    li {
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
   }
   form {
     width: 80vw;
