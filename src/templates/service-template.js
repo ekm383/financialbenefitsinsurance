@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import HeaderIndex from "../components/globals/header/HeaderIndex"
+import Background from "../components/globals/header/Background"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import SEO from "../components/seo"
@@ -24,11 +24,11 @@ const ServiceTemplate = ({ data }) => {
             `Hawaii Health Insurance`,
           ]}
         />
-        <HeaderIndex>
+        <Background>
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage titleSmall={title} />
+            <BannerPage title={title} />
           </Section>
-        </HeaderIndex>
+        </Background>
         <Section style={{ paddingTop: "4rem" }}>
           <div>
             <ul className="serviceList">

@@ -4,11 +4,12 @@ import SEO from "../components/seo"
 import Background from "../components/globals/header/Background"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
+import Products from "../components/Products"
 
-const EventsPage = () => (
+const ProductsPage = () => (
   <Layout>
     <SEO
-      title="Events"
+      title="Agents"
       description="We are an independent insurance agency. We do not work for an insurance company; we work for you!`,
       author: `@financialbenefitsinsurance"
       keywords={[
@@ -20,10 +21,13 @@ const EventsPage = () => (
     />
     <Background style={{ padding: "3rem 0rem" }}>
       <Section style={{ width: "100vw", alignItems: "center" }}>
-        <BannerPage title="Events" />
+        <BannerPage title="products" />
       </Section>
     </Background>
+    <Section style={{ padding: "3rem 0rem", justifyContent: "flex-start" }}>
+      <Products />
+    </Section>
   </Layout>
 )
 
-export default EventsPage
+export default ProductsPage

@@ -31,7 +31,6 @@ const SectionWrapper = styled.div`
   h4 {
     color: var(--mainColor);
     font-size: 3rem;
-    font-weight: 700;
   }
   h6 {
     letter-spacing: 3px;

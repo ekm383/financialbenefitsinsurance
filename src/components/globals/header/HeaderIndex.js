@@ -1,42 +1,58 @@
 import React from "react"
+import { graphql, useStaticQuery } from "gatsby"
 import styled from "styled-components"
-import { graphql, StaticQuery } from "gatsby"
-import BackgroundImage from "gatsby-background-image"
+import Img from "gatsby-image"
+import { Carousel } from "react-bootstrap"
 
-const BackgroundSection = ({ className, children }) => (
-  <StaticQuery
-    query={graphql`
-      query {
-        desktop: file(relativePath: { eq: "FBI-Slider-1.jpg" }) {
-          childImageSharp {
-            fluid(quality: 90, maxWidth: 1920) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
+const BackgroundSection = ({ children }) => {
+  const data = useStaticQuery(graphql`
+    query {
+      slide1: file(relativePath: { eq: "FBI-Slider-1.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid_withWebp
           }
         }
       }
-    `}
-    render={data => {
-      const imageData = data.desktop.childImageSharp.fluid
-      return (
-        <BackgroundImage
-          Tag="section"
-          className={className}
-          fluid={imageData}
-          backgroundColor={`#040e18`}
-        >
-          {children}
-        </BackgroundImage>
-      )
-    }}
-  />
-)
+      slide2: file(relativePath: { eq: "FBI-Slider-2.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+      slide3: file(relativePath: { eq: "FBI-Slider-3.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+    }
+  `)
+  return (
+    <CarouselWrapper>
+      {children}
+      <Carousel>
+        <Carousel.Item>
+          <Img fluid={data.slide1.childImageSharp.fluid} alt="First Slide" />
+        </Carousel.Item>
+        <Carousel.Item>
+          <Img fluid={data.slide2.childImageSharp.fluid} alt="Second Slide" />
+        </Carousel.Item>
+        <Carousel.Item>
+          <Img fluid={data.slide3.childImageSharp.fluid} alt="Third Slide" />
+        </Carousel.Item>
+      </Carousel>
+    </CarouselWrapper>
+  )
+}
 
-const StyledBackgroundSection = styled(BackgroundSection)`
-  width: 100%;
-  background-position: center center;
-  background-repeat: repeat-y;
-  background-size: cover;
+const CarouselWrapper = styled.div`
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    display: none;
+  }
 `
 
-export default StyledBackgroundSection
+export default BackgroundSection

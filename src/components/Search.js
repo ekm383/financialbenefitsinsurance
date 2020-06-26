@@ -82,7 +82,7 @@ class Search extends Component {
     return (
       <SearchWrapper>
         <div style={{ margin: "0 auto" }}>
-          <form onSubmit={this.handleSubmit}>
+          {/* <form onSubmit={this.handleSubmit}>
             <div className="searchContainer cursor">
               <input
                 type="text"
@@ -94,7 +94,7 @@ class Search extends Component {
               <i></i>
               <p>Search: {queryResults.length} Agents</p>
             </div>
-          </form>
+          </form> */}
           <div className="container">
             {queryResults.map(item => {
               return (
@@ -108,6 +108,7 @@ class Search extends Component {
                   <p className="name">
                     <Link to={`/agent/${item.slug}`}>{item.name}</Link>
                   </p>
+                  <p>View Website</p>
                   <p>{item.phone}</p>
                   <p>{item.email}</p>
                 </div>
@@ -186,9 +187,6 @@ const SearchWrapper = styled.div`
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-  }
-  .avatar {
-    border-radius: 50%;
   }
   .box {
     flex-basis: 25%;

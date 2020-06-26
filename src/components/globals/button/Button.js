@@ -11,7 +11,6 @@ const ButtonWrapper = styled.button`
   margin-top: 1rem;
   margin-right: 0.5rem;
   color: var(--mainColor);
-  font-family: 'Poppins';
   background: var(--white);
   border: 1px solid var(--white);
   border-radius: 50px;

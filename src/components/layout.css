@@ -25,7 +25,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Poppins";
+  font-family: "Fredoka One";
+  letter-spacing: 1px;
+  font-weight: lighter;
 }
 
 h4,
@@ -34,7 +36,6 @@ h6 {
 }
 h2 {
   font-size: 4rem;
-  font-weight: 400;
   letter-spacing: 5px;
   text-transform: uppercase;
 }

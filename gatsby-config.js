@@ -47,8 +47,8 @@ module.exports = {
       options: {
         fonts: [
           {
-            family: `Poppins`,
-            variants: [`light`, `bold`],
+            family: `Fredoka One`,
+            variants: [`400`],
           },
           {
             family: `Open Sans`,

@@ -2,14 +2,13 @@ import React from "react"
 import Layout from "../components/layout"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 import SEO from "../components/seo"
-import styled from 'styled-components'
+import styled from "styled-components"
 import HeaderIndex from "../components/globals/header/HeaderIndex"
 import Banner from "../components/globals/banner/Banner"
 import Button from "../components/globals/button/Button"
-import Section from "../components/globals/section/Section"
-import { FaArrowCircleRight } from 'react-icons/fa'
+import { FaArrowCircleRight } from "react-icons/fa"
 import Fifty from "../components/globals/section/Fifty"
-import Background from '../components/globals/header/Background'
+import Background from "../components/globals/header/Background"
 
 const IndexPage = () => (
   <Layout>
@@ -26,18 +25,27 @@ const IndexPage = () => (
         ]}
       />
       <HeaderIndex>
-        <Section style={{ height: "100vh", width: "100vw" }}>
-          <Banner titleSmall="Welcome to Financial Benefits Insurance" title="BENEFITS ARE OUR BUSINESS. SERVICE SETS US APART.">
+        <div className="BannerContainer">
+          <Banner
+            titleSmall="Welcome to Financial Benefits Insurance"
+            title="BENEFITS ARE OUR BUSINESS. SERVICE SETS US APART."
+          >
             <div className="buttonContainer">
               <AniLink fade to="/services">
-                <Button>VIEW OUR SERVICES<FaArrowCircleRight /></Button>
+                <Button>
+                  VIEW OUR SERVICES
+                  <FaArrowCircleRight />
+                </Button>
               </AniLink>
               <a href="https://travismotosue.zohobookings.com">
-                <Button>BOOK APPOINTMENT<FaArrowCircleRight /></Button>
+                <Button>
+                  BOOK APPOINTMENT
+                  <FaArrowCircleRight />
+                </Button>
               </a>
             </div>
           </Banner>
-        </Section>
+        </div>
       </HeaderIndex>
       <Fifty
         style={{ margin: "4rem auto" }}
@@ -52,7 +60,9 @@ const IndexPage = () => (
             heading="agent login"
             subheading="financial benefits insurance"
           >
-            <Button>SIGN IN <FaArrowCircleRight /></Button>
+            <Button>
+              SIGN IN <FaArrowCircleRight />
+            </Button>
           </Fifty>
         </div>
       </Background>
@@ -61,6 +71,11 @@ const IndexPage = () => (
 )
 
 const IndexWrapper = styled.div`
+  .BannerContainer {
+    position: absolute;
+    z-index: 9999;
+    top: 15%;
+  }
   .buttonContainer {
     display: flex;
     flex-wrap: wrap;
@@ -77,14 +92,14 @@ const IndexWrapper = styled.div`
   }
   @media (max-width: 768px) {
     justify-content: center;
-    align-content:center;
+    align-content: center;
     margin: 0rem auto;
     .buttonContainer a {
       margin: 0rem auto;
     }
     .login Button {
-    margin: 1rem 0rem 0rem 0rem;
-  }
+      margin: 1rem 0rem 0rem 0rem;
+    }
   }
 `
 

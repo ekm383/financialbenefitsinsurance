@@ -1,6 +1,7 @@
 import React, { Component } from "react"
 import styled from "styled-components"
 import Section from "../section/Section"
+import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { FaInstagram, FaFacebook, FaGoogle } from "react-icons/fa"
 
 class Footer extends Component {
@@ -51,7 +52,11 @@ class Footer extends Component {
             <div className="nav">
               <nav>
                 <p>Home</p>
-                <p>Agents</p>
+                <p>
+                  <AniLink fade to="/agents">
+                    Agents
+                  </AniLink>
+                </p>
                 <p>Services</p>
                 <p>Events</p>
               </nav>
@@ -102,6 +107,7 @@ const FooterWrapper = styled.div`
   .phone {
     font-size: 0.7rem;
     line-height: 1.2rem;
+    margin-bottom: 0rem;
   }
   .agent {
     font-weight: bold;

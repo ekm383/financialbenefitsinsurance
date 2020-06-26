@@ -4,8 +4,7 @@ import styled from "styled-components"
 const Copyright = () => {
   return (
     <CopyrightWrapper className="copyright">
-      &copy; Copyright 2020 | Financial Benefits Insurance |
-      <a href="https://www.superscriptcreative.com"> Superscript</a>
+      &copy; Copyright 2020 | Financial Benefits Insurance
     </CopyrightWrapper>
   )
 }
