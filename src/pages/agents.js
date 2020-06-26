@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import HeaderIndex from "../components/globals/header/HeaderIndex"
+import Background from "../components/globals/header/Background"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Search from "../components/Search"
@@ -19,11 +19,11 @@ const AgentsPage = () => (
         `Hawaii Health Insurance`,
       ]}
     />
-    <HeaderIndex style={{ padding: "3rem 0rem" }}>
+    <Background style={{ padding: "3rem 0rem" }}>
       <Section style={{ width: "100vw", alignItems: "center" }}>
         <BannerPage titleSmall="Agents" />
       </Section>
-    </HeaderIndex>
+    </Background>
     <Section style={{ padding: "3rem 0rem" }}>
       <Search />
     </Section>

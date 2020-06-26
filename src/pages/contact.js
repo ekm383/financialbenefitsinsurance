@@ -24,7 +24,7 @@ const ContactPage = () => (
         <BannerPage title="contact us" />
       </Section>
     </Background>
-    <Section style={{ margin: "4rem auto" }}>
+    <Section style={{ margin: "4rem auto 0rem auto" }}>
       <ContactForm />
     </Section>
   </Layout>

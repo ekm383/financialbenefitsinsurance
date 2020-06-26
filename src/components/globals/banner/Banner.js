@@ -60,12 +60,12 @@ const BannerWrapper = styled.div`
     }
     .title {
       margin-bottom: 2rem;
-      font-size: 2rem;
-      line-height: 2rem;
+      font-size: 1.4rem;
+      line-height: 1.2rem;
     }
     .titleSmall {
       letter-spacing: 0px;
-      font-size: 0.8rem;
+      font-size: 0.5rem;
       line-height: 2rem;
       margin-bottom: 1rem;
     }

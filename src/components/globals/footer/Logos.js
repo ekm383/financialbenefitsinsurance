@@ -45,7 +45,7 @@ const GalleryWrapper = styled.div`
   display: flex;
   flex-wrap: wrap;
   width: 80%;
-  margin: 4rem auto;
+  margin: 0rem auto 4rem auto;
   .item {
     padding: 1rem;
     position: relative;

@@ -81,7 +81,7 @@ class Search extends Component {
     const queryResults = searchQuery === "" ? agentList : searchResults
     return (
       <SearchWrapper>
-        <div style={{ margin: "0 auto" }}>
+        <div style={{ margin: "0rem auto" }}>
           {/* <form onSubmit={this.handleSubmit}>
             <div className="searchContainer cursor">
               <input
@@ -99,18 +99,17 @@ class Search extends Component {
             {queryResults.map(item => {
               return (
                 <div className="box" key={`row_${item.id}`}>
-                  <img
-                    className="avatar"
-                    src={item.image}
-                    alt="avatar"
-                    width="100"
-                  />
-                  <p className="name">
-                    <Link to={`/agent/${item.slug}`}>{item.name}</Link>
-                  </p>
-                  <p>View Website</p>
-                  <p>{item.phone}</p>
-                  <p>{item.email}</p>
+                  <div className="avatar">
+                    <img src={item.image} alt="avatar" width="100" />
+                  </div>
+                  <div className="name">
+                    <p>
+                      <Link to={`/agent/${item.slug}`}>{item.name}</Link>
+                    </p>
+                    <p>View Website</p>
+                    <p>{item.phone}</p>
+                    <p>{item.email}</p>
+                  </div>
                 </div>
               )
             })}
@@ -122,88 +121,42 @@ class Search extends Component {
 }
 
 const SearchWrapper = styled.div`
-  width: 80vw;
-  .searchContainer {
-    width: 80%;
-    margin: -5rem auto 2rem auto;
-    position: relative;
-    z-index: 9999;
-    p {
-      font-size: 0.7rem;
-      text-align: center;
-      margin-top: 0.3rem;
-    }
-  }
-  #Search {
-    width: 100%;
-    font-size: 1.1rem;
-    padding: 1rem 0rem;
-    text-align: center;
-    border: 1px solid white;
-    box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.1);
-    &:focus {
-      outline: none;
-      border-color: var(--mainColor);
-    }
-  }
-  a {
-    color: var(--darkGray);
-    transition: 200ms ease-in;
-    text-transform: capitalize;
-    &:hover {
-      color: var(--mainColor);
-      padding-left: 0.1rem;
-    }
-  }
-  /* Blinking Cursor Style */
-  .cursor {
-    position: relative;
-  }
-  .cursor i {
-    position: absolute;
-    width: 1px;
-    height: 1.4rem;
-    background-color: #000000;
-    left: 50%;
-    top: 20%;
-    animation-name: blink;
-    animation-duration: 800ms;
-    animation-iteration-count: infinite;
-    opacity: 1;
-  }
-  .cursor input:focus + i {
-    display: none;
-  }
-  @keyframes blink {
-    from {
-      opacity: 1;
-    }
-    to {
-      opacity: 0;
-    }
-  }
-  /* Agent Box */
   .container {
-    width: 100%;
+    width: 80vw;
+    margin: 0rem auto;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
   }
+  /* Agent Box */
   .box {
-    flex-basis: 25%;
-    text-align: center;
-    margin-bottom: 2rem;
+    display: flex;
+    flex-basis: 50%;
+    margin-bottom: 1.5rem;
+    p {
+      margin-bottom: 0rem;
+    }
   }
-  .name a {
-    font-weight: bold;
-    color: var(--mainColor);
+  .avatar {
+    width: 25%;
+  }
+  .name {
+    width: 65%;
+    padding: 10px;
+    background-color: var(--mainColor);
+    color: white;
+    a {
+      color: white;
+      font-weight: bolder;
+    }
+    p {
+      line-height: 1rem;
+    }
   }
   /* Mobile */
   @media (max-width: 768px) {
-    width: 100%;
     .box {
-      flex-basis: 50%;
-      text-align: center;
-      margin-bottom: 2rem;
+      flex-basis: 100%;
     }
   }
 `

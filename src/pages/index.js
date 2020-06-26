@@ -73,7 +73,7 @@ const IndexPage = () => (
 const IndexWrapper = styled.div`
   .BannerContainer {
     position: absolute;
-    z-index: 9999;
+    z-index: 3;
     top: 15%;
   }
   .buttonContainer {
@@ -82,6 +82,7 @@ const IndexWrapper = styled.div`
   }
   .login {
     padding: 4rem 0rem;
+    margin-bottom: 4rem;
     color: var(--white);
     h4 {
       color: var(--white);
@@ -94,6 +95,9 @@ const IndexWrapper = styled.div`
     justify-content: center;
     align-content: center;
     margin: 0rem auto;
+    .BannerContainer {
+      top: 12%;
+    }
     .buttonContainer a {
       margin: 0rem auto;
     }
