@@ -1,23 +1,9 @@
 import React from "react"
-import { Link } from "gatsby"
-import { FaBars } from "react-icons/fa"
-import img from '../../../images/fbihi-logo-gray.png'
+
 import styled from "styled-components"
 
-const NavBarHeader = ({ handleNavBar }) => {
-  return (
-    <HeaderWrapper>
-      <Link to="/">
-        <img src={img} alt="logo" width="90px" />
-      </Link>
-      <FaBars
-        className="toggle-icon"
-        onClick={() => {
-          handleNavBar()
-        }}
-      />
-    </HeaderWrapper>
-  )
+const NavBarHeader = () => {
+  return <HeaderWrapper></HeaderWrapper>
 }
 
 const HeaderWrapper = styled.div`

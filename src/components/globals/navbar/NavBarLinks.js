@@ -1,111 +1,82 @@
-import React, { Component } from "react"
+import React from "react"
+import { Nav, Navbar, NavDropdown } from "react-bootstrap"
 import styled from "styled-components"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
+import img from "../../../images/fbihi-logo-gray.png"
 
-class NavBarLinks extends Component {
-  state = {
-    links: [
-      {
-        id: 0,
-        path: "/",
-        text: "home",
-      },
-      {
-        id: 1,
-        path: "/medicare",
-        text: "medicare 101",
-      },
-      {
-        id: 2,
-        path: "/services",
-        text: "services",
-      },
-      {
-        id: 3,
-        path: "/products",
-        text: "products",
-      },
-      {
-        id: 4,
-        path: "/events",
-        text: "events",
-      },
-      {
-        id: 5,
-        path: "/testimonials",
-        text: "testimonials",
-      },
-      {
-        id: 6,
-        path: "/about",
-        text: "about",
-      },
-      {
-        id: 7,
-        path: "/contact",
-        text: "contact",
-      },
-    ],
-  }
-  render() {
-    return (
-      <LinkWrapper open={this.props.navBarOpen}>
-        {this.state.links.map(item => {
-          return (
-            <li key={item.id}>
-              <AniLink fade to={item.path} className="nav-link">
-                {item.text}
-              </AniLink>
-            </li>
-          )
-        })}
-      </LinkWrapper>
-    )
-  }
+const NavBarLinks = () => {
+  return (
+    <StyledNav>
+      <Navbar collapseOnSelect expand="md">
+        <Navbar.Brand href="/">
+          <img
+            style={{ marginRight: "3rem" }}
+            src={img}
+            alt="logo"
+            width="90px"
+          />
+        </Navbar.Brand>
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+        <Navbar.Collapse id="responsive-navbar-nav">
+          <Nav className="mr-auto">
+            <Nav.Link href="/medicare">Medicare 101</Nav.Link>
+            <NavDropdown title="Services" id="collasible-nav-dropdown">
+              <NavDropdown.Item href="/service/dental">Dental</NavDropdown.Item>
+              <NavDropdown.Item href="/service/group-plans">
+                Group Plans
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/service/health-insurance">
+                Health Insurance
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/service/life-insurance">
+                Life Insurance
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/service/permanent-life-insurance">
+                Permanent Life Insurance
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/service/term-life-insurance">
+                Term Life Insurance
+              </NavDropdown.Item>
+            </NavDropdown>
+            <NavDropdown title="Products" id="collasible-nav-dropdown">
+              <NavDropdown.Item href="/product/medicare-advantage">
+                Medicare Advantage
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/product/final-expense">
+                Final Expense
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/product/annuity">
+                Annuity
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/product/long-term-care">
+                Long Term Care
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/product/medicare-supplements">
+                Medicare Supplements
+              </NavDropdown.Item>
+            </NavDropdown>
+            <Nav.Link href="/">Events</Nav.Link>
+            <Nav.Link href="/">Testimonials</Nav.Link>
+            <Nav.Link href="/">About</Nav.Link>
+            <Nav.Link href="/">Contact</Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
+    </StyledNav>
+  )
 }
 
-const LinkWrapper = styled.ul`
-  margin-bottom: 0px;
-  li {
-    list-style-type: none;
+const StyledNav = styled.div`
+  margin: 0 auto;
+  .navbar-light .navbar-toggler {
+    border: none;
   }
-  .nav-link {
-    display: block;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 0.8rem 1rem;
-    color: var(--mainColor);
+  #responsive-navbar-nav div a {
     font-size: 1rem;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: all 0.5s linear;
+    font-weight: bold;
+    margin-right: 0.2rem;
+    color: #297aaf;
+    transition: 0.3s ease-in-out;
     &:hover {
-      background: var(--darkGray);
-      color: var(--white);
-      padding: 0.8rem 1.5rem;
-    }
-  }
-  height: ${props => (props.open ? "385px" : "0px")};
-  overflow: hidden;
-  transition: all 0.3s ease-in-out;
-  @media (min-width: 768px) {
-    height: auto;
-    display: flex;
-    .nav-link {
-      padding: 1.6rem 1rem;
-      font-size: 0.8rem;
-      color: var(--mainColor);
-    }
-    .nav-link:hover {
-      color: var(--lightGray);
-      background-color: var(--white);
-      padding: 1.6rem 1rem;
-    }
-    li:nth-child(8) > a {
-      background-color: var(--mainColor);
-      color: var(--white);
-    }
-    li:nth-child(8) > a:hover {
       color: var(--lightGray);
     }
   }
