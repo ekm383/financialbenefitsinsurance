@@ -44,7 +44,7 @@ const AgentsPage = () => {
             <BannerPage title="Agents" />
           </Section>
         </BackgroundImage>
-        <Section style={{ padding: "3rem 0rem" }}>
+        <Section style={{ width: "80vw", padding: "3rem 0rem" }}>
           <Search />
         </Section>
       </StyledAgents>

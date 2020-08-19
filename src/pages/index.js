@@ -1,7 +1,6 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import Layout from "../components/layout"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
 import SEO from "../components/seo"
 import styled from "styled-components"
 import HeaderIndex from "../components/globals/header/HeaderIndex"
@@ -44,12 +43,6 @@ const IndexPage = () => {
               title="Benefits are our business. Service sets us apart."
             >
               <div className="buttonContainer">
-                <AniLink fade to="/services">
-                  <Button>
-                    View Our Services
-                    <FaArrowCircleRight />
-                  </Button>
-                </AniLink>
                 <a href="/">
                   <Button>
                     Book Appointment
@@ -121,7 +114,7 @@ const IndexWrapper = styled.div`
     align-content: center;
     margin: 0rem auto;
     .BannerContainer {
-      top: 11%;
+      top: 14%;
     }
     .buttonContainer a {
       margin: 0rem auto;

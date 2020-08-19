@@ -29,7 +29,7 @@ class Footer extends Component {
   render() {
     return (
       <FooterWrapper>
-        <Section>
+        <Section style={{ width: "80vw" }}>
           <div className="box">
             <h4>Contact:</h4>
             <p>
