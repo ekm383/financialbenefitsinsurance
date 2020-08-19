@@ -72,7 +72,7 @@ const IndexPage = () => {
           fluid={image.bg.childImageSharp.fluid}
           backgroundColor={`#ffffff`}
         >
-          <div className="login">
+          <div style={{ marginBottom: "0" }} className="login">
             <Fifty
               style={{ margin: "4rem auto" }}
               heading="Agent Portal"
@@ -93,7 +93,7 @@ const IndexWrapper = styled.div`
   .BannerContainer {
     position: absolute;
     z-index: 3;
-    top: 15%;
+    top: 18%;
   }
   .buttonContainer {
     display: flex;

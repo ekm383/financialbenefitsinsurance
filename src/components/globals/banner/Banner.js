@@ -59,7 +59,7 @@ const BannerWrapper = styled.div`
       width: 60%;
     }
     .title {
-      margin-bottom: 2rem;
+      margin-bottom: 0.8rem;
       font-size: 1.4rem;
       line-height: 1.2rem;
     }
