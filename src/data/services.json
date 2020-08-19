@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": "dental",
+    "service": "Dental",
     "slug": "dental",
     "content": [
       "Dental Insurance is equally important to Health Insurance because dental disease is still very prevalent.",
@@ -18,7 +18,7 @@
   },
   {
     "id": "2",
-    "title": "group plans",
+    "service": "Group Plans",
     "slug": "group-plans",
     "content": [
       "Business Groups Products: • Group Dental • Group Disability • Group Life • Group Long Term Care • Group Health"
@@ -26,7 +26,7 @@
   },
   {
     "id": "3",
-    "title": "health insurance",
+    "service": "Health Insurance",
     "slug": "health-insurance",
     "content": [
       "What kinds of health insurance are there?",
@@ -45,7 +45,7 @@
   },
   {
     "id": "4",
-    "title": "life insurance",
+    "service": "Life Insurance",
     "slug": "life-insurance",
     "content": [
       "Life Insurance - What are the principal types of life insurance?",
@@ -64,7 +64,7 @@
   },
   {
     "id": "5",
-    "title": "permanent life insurance",
+    "service": "Permanent Life Insurance",
     "slug": "permanent-life-insurance",
     "content": [
       "Permanent (cash value) Insurance",
@@ -80,7 +80,7 @@
   },
   {
     "id": "6",
-    "title": "term life insurance",
+    "service": "Term Life Insurance",
     "slug": "term-life-insurance",
     "content": [
       "It provides protection for a specified period of time, typically from one to 30 years. It pays a death benefit only if you die during this term.",

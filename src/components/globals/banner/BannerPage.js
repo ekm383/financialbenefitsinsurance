@@ -35,9 +35,9 @@ const BannerWrapper = styled.div`
   }
   .title {
     font-size: 3rem;
-    font-weight: lighter;
+    font-style: italic;
     line-height: 3.5rem;
-    text-transform: uppercase;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
   }
   .titleSmall {
     line-height: 4rem;

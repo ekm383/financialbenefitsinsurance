@@ -25,19 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Fredoka One";
-  letter-spacing: 1px;
-  font-weight: lighter;
-}
-
-h4,
-h6 {
-  text-transform: uppercase;
-}
-h2 {
-  font-size: 4rem;
-  letter-spacing: 5px;
-  text-transform: uppercase;
+  font-family: "Merriweather";
 }
 
 p {

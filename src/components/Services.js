@@ -10,7 +10,7 @@ const Services = () => {
       services: allServicesJson {
         edges {
           node {
-            title
+            service
             content
             slug
           }
@@ -25,7 +25,7 @@ const Services = () => {
         return (
           <CardWrapper>
             <div className="box" key={index}>
-              <h4>{node.title}</h4>
+              <h4>{node.service}</h4>
               <p className="content">{node.content[0].slice(0, 70)}...</p>
               <Link className="link" fade to={`/service/${node.slug}`}>
                 More Information <FaArrowAltCircleRight />

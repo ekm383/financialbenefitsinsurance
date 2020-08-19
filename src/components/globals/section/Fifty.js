@@ -31,9 +31,12 @@ const SectionWrapper = styled.div`
   h4 {
     color: var(--mainColor);
     font-size: 3rem;
+    font-style: italic;
+    font-weight: 700;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
   }
   h6 {
-    letter-spacing: 3px;
+    font-family: "Open Sans";
   }
   @media (max-width: 768px) {
     width: 90vw;

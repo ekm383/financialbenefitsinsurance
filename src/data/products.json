@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "product": "medicare advantage",
+    "product": "Medicare Advantage",
     "slug": "medicare-advantage",
     "content": [
       "Medicare Advantage plans first came into Hawaii in 2005.  A Medicare Advantage Plan is another Medicare Health Plan choice you may have as part of Medicare.",
@@ -16,7 +16,7 @@
   },
   {
     "id": "2",
-    "product": "final expense",
+    "product": "Final Expense",
     "slug": "final-expense",
     "content": [
       "Final Expense (also known as Burial Insurance)",
@@ -27,7 +27,7 @@
   },
   {
     "id": "3",
-    "product": "annuity",
+    "product": "Annuity",
     "slug": "annuity",
     "content": [
       "Life spans in the United States have been increasing for over a hundred years. It is now common for people who reach retirement age to live 20 years or more in retirement, most of those years in good health. It's good to live a long and full life, but you want to be sure that your income lasts as long as you do, and its purchasing power is as strong as you are. How can you manage the risk of 'outliving your assets'?",
@@ -50,7 +50,7 @@
   },
   {
     "id": "4",
-    "product": "long term care",
+    "product": "Long Term Care",
     "slug": "long-term-care",
     "content": [
       "What is Long Term Care Insurance? Because of old age, mental or physical illness, or injury, some people find themselves in need of help with eating, bathing, dressing, toileting or continence, and/or transferring (e.g., getting out of a chair or out of bed). These six actions are called Activities of Daily Living-sometimes referred to as ADLs. In general, if you can't do two or more of these activities, or if you have a cognitive impairment, you are said to need 'long-term care.'",
@@ -71,7 +71,7 @@
   },
   {
     "id": "5",
-    "product": "medicare supplements",
+    "product": "Medicare Supplements",
     "slug": "medicare-supplements",
     "content": [
       "A Medigap policy is health insurance sold by private insurance companies to fill the “gaps” in Original Medicare Plan coverage. Medigap policies help pay some of the health care costs that the Original Medicare Plan doesn’t cover. If you are in the Original Medicare Plan and have a Medigap policy, then Medicare and your Medigap policy will pay both their shares of covered health care costs.",

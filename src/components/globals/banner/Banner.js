@@ -22,7 +22,7 @@ const BannerWrapper = styled.div`
   align-items: center;
   color: var(--white);
   .box {
-    flex-basis: 80%;
+    flex-basis: 100%;
     text-align: left;
     margin-top: -7rem;
   }
@@ -34,12 +34,13 @@ const BannerWrapper = styled.div`
   .title {
     font-size: 3rem;
     line-height: 3.5rem;
-    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 700;
+    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
   }
   .titleSmall {
     font-size: 1rem;
     line-height: 3rem;
-    letter-spacing: 0px;
   }
   .subtitle {
     font-size: 0.7rem;
@@ -51,7 +52,6 @@ const BannerWrapper = styled.div`
     align-items: center;
     justify-content: flex-start;
     .box {
-      flex-basis: 100%;
       text-align: center;
       margin-top: -10rem;
     }

@@ -38,64 +38,6 @@ const ProductTemplate = ({ data }) => {
             </ul>
           </div>
         </Section>
-        <Section style={{ width: "100vw", margin: "3rem auto" }}>
-          <form
-            name="agentcontact"
-            method="POST"
-            netlify-honeypot="bot-field"
-            data-netlify="true"
-          >
-            <input type="hidden" name="form-name" value="contact" />
-            <ul class="form-list">
-              <li id="hidden">
-                <label>
-                  Don’t fill this out if you're human:{" "}
-                  <input name="bot-field" />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="name">
-                  Your Name:
-                  <input id="name" type="text" name="name" required="true" />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="email">
-                  Your Email:
-                  <input id="email" type="text" name="email" required="true" />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="product">
-                  Product:
-                  <input
-                    id="product"
-                    type="text"
-                    name="product"
-                    required="true"
-                    value={product}
-                  />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="message">
-                  Message
-                  <textarea
-                    id="message"
-                    type="textarea"
-                    name="message"
-                    required=""
-                  />
-                </label>
-              </li>
-              <li>
-                <button type="submit" class="button">
-                  let's talk
-                </button>
-              </li>
-            </ul>
-          </form>
-        </Section>
       </Wrapper>
     </Layout>
   )

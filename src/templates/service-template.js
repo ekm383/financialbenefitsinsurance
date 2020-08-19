@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 import styled from "styled-components"
 
 const ServiceTemplate = ({ data }) => {
-  const { title, content } = data.serviceItem
+  const { service, content } = data.serviceItem
 
   return (
     <Layout>
@@ -26,7 +26,7 @@ const ServiceTemplate = ({ data }) => {
         />
         <Background>
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title={title} />
+            <BannerPage title={service} />
           </Section>
         </Background>
         <Section style={{ paddingTop: "4rem" }}>
@@ -38,64 +38,6 @@ const ServiceTemplate = ({ data }) => {
             </ul>
           </div>
         </Section>
-        <Section style={{ width: "100vw", margin: "3rem auto" }}>
-          <form
-            name="agentcontact"
-            method="POST"
-            netlify-honeypot="bot-field"
-            data-netlify="true"
-          >
-            <input type="hidden" name="form-name" value="contact" />
-            <ul class="form-list">
-              <li id="hidden">
-                <label>
-                  Don’t fill this out if you're human:{" "}
-                  <input name="bot-field" />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="name">
-                  Your Name:
-                  <input id="name" type="text" name="name" required="true" />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="email">
-                  Your Email:
-                  <input id="email" type="text" name="email" required="true" />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="service">
-                  Service:
-                  <input
-                    id="service"
-                    type="text"
-                    name="service"
-                    required="true"
-                    value={title}
-                  />
-                </label>
-              </li>
-              <li class="form-list__row">
-                <label htmlFor="message">
-                  Message
-                  <textarea
-                    id="message"
-                    type="textarea"
-                    name="message"
-                    required=""
-                  />
-                </label>
-              </li>
-              <li>
-                <button type="submit" class="button">
-                  let's talk
-                </button>
-              </li>
-            </ul>
-          </form>
-        </Section>
       </Wrapper>
     </Layout>
   )
@@ -106,7 +48,7 @@ export const query = graphql`
     serviceItem: servicesJson(slug: { eq: $slug }) {
       id
       slug
-      title
+      service
       content
     }
   }

@@ -6,18 +6,15 @@ const Button = ({ children, style }) => {
 }
 
 const ButtonWrapper = styled.button`
-  /* width: 10rem; */
   display: block;
   margin-top: 1rem;
   margin-right: 0.5rem;
   color: var(--mainColor);
   background: var(--white);
   border: 1px solid var(--white);
-  border-radius: 50px;
+  border-radius: 5px;
   cursor: pointer;
   padding: 1rem 2rem 1rem 2.5rem;
-  font-size: 1rem;
-  font-weight: bold;
   transition: all 0.2s linear;
   svg {
     font-size: 1rem;
@@ -34,7 +31,9 @@ const ButtonWrapper = styled.button`
     outline: none;
   }
   @media (max-width: 768px) {
-    margin: 0.5rem auto;
+    margin: 0.5rem auto 0rem auto;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    font-size: 0.9rem;
   }
 `
 

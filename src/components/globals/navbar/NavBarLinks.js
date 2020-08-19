@@ -54,10 +54,10 @@ const NavBarLinks = () => {
                 Medicare Supplements
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="/">Events</Nav.Link>
-            <Nav.Link href="/">Testimonials</Nav.Link>
-            <Nav.Link href="/">About</Nav.Link>
-            <Nav.Link href="/">Contact</Nav.Link>
+            <Nav.Link href="/events">Events</Nav.Link>
+            <Nav.Link href="/testimonials">Testimonials</Nav.Link>
+            <Nav.Link href="/about">About</Nav.Link>
+            <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
@@ -67,17 +67,31 @@ const NavBarLinks = () => {
 
 const StyledNav = styled.div`
   margin: 0 auto;
+  font-family: "Merriweather";
+  font-size: 0.9rem;
   .navbar-light .navbar-toggler {
     border: none;
   }
+  .dropdown-menu {
+    border: none;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.2);
+  }
+  .dropdown-item {
+    padding: 0.5rem 2rem;
+  }
   #responsive-navbar-nav div a {
-    font-size: 1rem;
     font-weight: bold;
+    font-size: 0.9rem;
     margin-right: 0.2rem;
     color: #297aaf;
     transition: 0.3s ease-in-out;
     &:hover {
-      color: var(--lightGray);
+      color: var(--gray);
+    }
+  }
+  @media (max-width: 768px) {
+    .dropdown-menu {
+      box-shadow: none;
     }
   }
 `

@@ -3,6 +3,8 @@ import styled from "styled-components"
 import Section from "../section/Section"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { FaInstagram, FaFacebook, FaGoogle } from "react-icons/fa"
+import BBB from "../../../images/BBB.png"
+import Ethics from "../../../images/ethics-net.png"
 
 class Footer extends Component {
   state = {
@@ -80,6 +82,8 @@ class Footer extends Component {
                 {item.icon}
               </a>
             ))}
+            <img src={BBB} alt="BBB" width="75px" />
+            <img src={Ethics} alt="ethics" width="75px" />
           </div>
         </Section>
       </FooterWrapper>
@@ -119,6 +123,11 @@ const FooterWrapper = styled.div`
   a {
     color: var(--white);
     margin-right: 5px;
+  }
+  img {
+    display: block;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
   }
   @media (max-width: 800px) {
     padding: 1rem 0rem 3rem 0rem;
