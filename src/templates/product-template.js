@@ -1,14 +1,14 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import Background from "../components/globals/header/Background"
+import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import SEO from "../components/seo"
 import styled from "styled-components"
 
 const ProductTemplate = ({ data }) => {
-  const { product, content } = data.productItem
+  const { product, content, productImage } = data.productItem
 
   return (
     <Layout>
@@ -24,11 +24,16 @@ const ProductTemplate = ({ data }) => {
             `Hawaii Health Insurance`,
           ]}
         />
-        <Background>
+        <BackgroundImage
+          Tag="section"
+          className="bg-hero"
+          fluid={productImage.childImageSharp.fluid}
+          backgroundColor={`#ffffff`}
+        >
           <Section style={{ width: "100vw", alignItems: "center" }}>
             <BannerPage title={product} />
           </Section>
-        </Background>
+        </BackgroundImage>
         <Section style={{ paddingTop: "4rem" }}>
           <div>
             <ul className="productList">
@@ -49,6 +54,13 @@ export const query = graphql`
       id
       slug
       product
+      productImage {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
       content
     }
   }
@@ -58,6 +70,12 @@ const Wrapper = styled.div`
   width: 100%;
   padding-bottom: 4rem;
   margin: 0px auto;
+  .bg-hero {
+    width: 100%;
+    background-position: center center;
+    background-repeat: repeat-y;
+    background-size: cover;
+  }
   .agentStyle {
     margin: 0px auto;
   }

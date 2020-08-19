@@ -121,7 +121,7 @@ const IndexWrapper = styled.div`
     align-content: center;
     margin: 0rem auto;
     .BannerContainer {
-      top: 12%;
+      top: 11%;
     }
     .buttonContainer a {
       margin: 0rem auto;

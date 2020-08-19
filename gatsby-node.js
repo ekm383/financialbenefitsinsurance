@@ -31,7 +31,7 @@ exports.createPages = async ({ graphql, actions }) => {
   data.agents.edges.forEach(({ node }) => {
     createPage({
       path: `agent/${node.slug}`,
-      component: path.resolve("./src/templates/post-template.js"),
+      component: path.resolve("./src/templates/agent-template.js"),
       context: {
         slug: node.slug,
       },

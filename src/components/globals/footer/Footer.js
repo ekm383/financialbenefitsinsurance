@@ -65,8 +65,11 @@ class Footer extends Component {
               <nav>
                 <p>Testimonials</p>
                 <p>About</p>
-                <p>Terms of Service</p>
-                <p>Privacy Policy</p>
+                <p>
+                  <AniLink fade to="/privacy">
+                    Privacy Policy
+                  </AniLink>
+                </p>
               </nav>
             </div>
           </div>

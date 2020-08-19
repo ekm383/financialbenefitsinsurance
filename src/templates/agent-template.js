@@ -6,10 +6,9 @@ import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import SEO from "../components/seo"
 import styled from "styled-components"
-import { FaUser, FaPhoneSquare, FaEnvelope } from "react-icons/fa"
 
 const Post = ({ data }) => {
-  const { name, phone, email } = data.agentItem
+  const { name, phone, email, bilingual, bio, testimonials } = data.agentItem
 
   return (
     <Layout>
@@ -27,21 +26,58 @@ const Post = ({ data }) => {
         />
         <Background>
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title="Contact Agent">
-              <div className="agentStyle">
-                <p>
-                  <FaUser /> {name}
-                </p>
-                <p>
-                  <FaPhoneSquare /> {phone}
-                </p>
-                <p>
-                  <FaEnvelope /> {email}
-                </p>
-              </div>
-            </BannerPage>
+            <BannerPage title="Contact Agent" />
           </Section>
         </Background>
+        <Section style={{ margin: "4rem auto" }}>
+          <div className="agentStyle">
+            <h2>{name}</h2>
+            <p>
+              Phone: <span>{phone}</span>
+            </p>
+            <p>
+              Email: <span>{email}</span>
+            </p>
+
+            {!bilingual ? (
+              ""
+            ) : (
+              <p>
+                Bilingual: <span>{bilingual}</span>
+              </p>
+            )}
+
+            {!bio ? (
+              ""
+            ) : (
+              <p>
+                Bio:
+                <span>
+                  {bio.map(item => (
+                    <ul className="item-list">
+                      <li>{item}</li>
+                    </ul>
+                  ))}
+                </span>
+              </p>
+            )}
+
+            {!testimonials ? (
+              " "
+            ) : (
+              <p>
+                Testimonials:
+                <span>
+                  {testimonials.map(item => (
+                    <ul className="item-list">
+                      <li>{item}</li>
+                    </ul>
+                  ))}
+                </span>
+              </p>
+            )}
+          </div>
+        </Section>
         <Section style={{ width: "100vw", margin: "3rem auto" }}>
           <form
             name="agentcontact"
@@ -113,6 +149,9 @@ export const query = graphql`
       name
       phone
       email
+      bilingual
+      bio
+      testimonials
     }
   }
 `
@@ -121,19 +160,22 @@ const Wrapper = styled.div`
   width: 100%;
   padding-bottom: 4rem;
   margin: 0px auto;
+  .image-template {
+    width: 50%;
+  }
   .agentStyle {
-    margin: 0px auto;
+    color: var(--mainColor);
   }
   .agentStyle p {
-    color: var(--white);
-    display: inline;
-    margin: 1rem;
     font-size: 1rem;
     font-weight: bold;
-    text-align: center;
+    margin: 0;
+    span {
+      font-weight: lighter;
+    }
   }
-  svg {
-    font-size: 0.8rem;
+  .item-list {
+    list-style-type: none;
   }
   form {
     width: 80vw;

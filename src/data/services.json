@@ -3,6 +3,7 @@
     "id": "1",
     "service": "Dental",
     "slug": "dental",
+    "serviceImage": "../images/background/fbihi-bg-08.jpg",
     "content": [
       "Dental Insurance is equally important to Health Insurance because dental disease is still very prevalent.",
       "Dental care is a very important part of any healthy lifestyle, but because dental insurance or dental coverage is not included as part of standard health care insurance, it is something that is often overlooked or forgotten until it is too late. The rising cost of quality dental care means that dental insurance might be just what you and/or your family need to ensure that your teeth remain health and well cared for.",
@@ -20,6 +21,7 @@
     "id": "2",
     "service": "Group Plans",
     "slug": "group-plans",
+    "serviceImage": "../images/background/fbihi-bg-09.jpg",
     "content": [
       "Business Groups Products: • Group Dental • Group Disability • Group Life • Group Long Term Care • Group Health"
     ]
@@ -28,6 +30,7 @@
     "id": "3",
     "service": "Health Insurance",
     "slug": "health-insurance",
+    "serviceImage": "../images/background/fbihi-bg-10.jpg",
     "content": [
       "What kinds of health insurance are there?",
       "There are essentially two kinds of health insurance -- Fee-for-Service and Managed Care. Although these plans differ, they both cover an array of medical, surgical and hospital expenses. Most cover prescription drugs and some also offer dental coverage.Fee-for-Service.",
@@ -47,6 +50,7 @@
     "id": "4",
     "service": "Life Insurance",
     "slug": "life-insurance",
+    "serviceImage": "../images/background/fbihi-bg-11.jpg",
     "content": [
       "Life Insurance - What are the principal types of life insurance?",
       "There are two major types of life insurance—term and whole life. Whole life is sometimes called permanent life insurance, and it encompasses several subcategories, including traditional whole life, universal life, variable life and variable universal life. In 2003, about 6.4 million individual life insurance policies bought were term and about 7.1 million were whole life. Life insurance products for groups are different from life insurance sold to individuals. The information below focuses on life insurance sold to individuals.",
@@ -66,6 +70,7 @@
     "id": "5",
     "service": "Permanent Life Insurance",
     "slug": "permanent-life-insurance",
+    "serviceImage": "../images/background/fbihi-bg-12.jpg",
     "content": [
       "Permanent (cash value) Insurance",
       "It provides life-long protection as long as you continue to pay premiums. The premiums are based on your age at the time of purchase, and generally remain level. They do not increase as you age. Therefore, the younger you are when you buy the policy, the lower the premium you will pay for the life of the policy.",
@@ -82,6 +87,7 @@
     "id": "6",
     "service": "Term Life Insurance",
     "slug": "term-life-insurance",
+    "serviceImage": "../images/background/fbihi-bg-13.jpg",
     "content": [
       "It provides protection for a specified period of time, typically from one to 30 years. It pays a death benefit only if you die during this term.",
       "Some policies can be automatically renewed at the end of the coverage period, and some can be converted to permanent insurance without need for a medical exam.",

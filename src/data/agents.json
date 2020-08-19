@@ -1,310 +1,519 @@
 [
   {
+    "island": "big island",
     "id": "1",
     "slug": "jessica-arruda",
+    "photo": "../images/agents/FBI-Jessica-Arruda.jpg",
     "name": "Jessica Arruda",
     "phone": "808-345-7102",
     "email": "jarruda@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "2",
     "slug": "teresita-martin",
+    "photo": "../images/agents/FBI-Teresita-Martin.jpg",
     "name": "Teresita Martin",
     "phone": "808-927-1696",
     "email": "JTmartin@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "3",
     "slug": "michael-anderson",
+    "photo": "../images/agents/FBI-Michael-Anderson.png",
     "name": "Michael Anderson",
     "phone": "808-722-7385",
     "email": "Manderson@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "4",
     "slug": "kamaka-jingao",
+    "photo": "../images/agents/FBI-Kamaka-Jingao.jpg",
     "name": "Kamaka Jingao",
     "phone": "808-286-0022",
-    "email": "Kjingao@fbihi.com"
+    "email": "Kjingao@fbihi.com",
+    "bilingual": "Hawaiian",
+    "bio": [
+      "Kamaka Jingao is a Hawaii based Hawaiian Health and wellness practitioner and Medicare Advisor.  Throughout the years, Kamaka has helped people achieve wellness and healing through lomilomi, as well as helped hundreds of people choose their Medicare health plans.",
+      "He is a graduate of Kamehameha Schools and received a double major Bachelors degree in Community Health and Physical Activity & Exercise with a Minor in Community Development from Portland State University in Oregon.  Kamaka is actively involved in the Hawaii Healing community as Luna Hoʻokele, Executive Director of Hui Mauli Ola a non-profit organization perpetuating Hawaiian Healing and wellness.  Since 2015, Kamaka has been a licensed and certified Insurance broker with Financial Benefits Insurance specializing in Medicare, Life Insurance, Long Term Care Insurance and Final Expense.",
+      "Kamaka is passionate about his family, wife Jami and daughter Kīpukalani, traveling around the world, farming in his backyard, surfing, golfing, spending time with family and friends, and serving the community."
+    ],
+    "testimonials": [
+      "Kamaka is our Medicare Insurance Agent… Kamaka has been very helpful in explaining the benefits and the policy which provides the best coverage for my husband and myself..  We have been so happy with his service for our insurance needs.  He has become a good friend.",
+      "Rosalie and Melvin Mākuaʻole Waimanalo, Hi",
+      "Kamaka Jingao has been a wonderful agent. He is always quick to respond to my questions and concerns. He looks out for my best interest. I have referred many people to Kamaka. Thank you for your help!",
+      "Jeanette P. Kaneohe, HI",
+      "It has been an extreme pleasure having Kamaka Jingao, from Financial Benefits Insurance, as my Medicare Insurance agent. His level of service and professionalism is unparalleled. I would HIGHLY recommend Kamaka to anyone!",
+      "Abby P. Pearl City, HI"
+    ]
   },
   {
+    "island": "big island",
     "id": "5",
     "slug": "tamlyn-laurence",
+    "photo": "../images/agents/FBI-Tamlyn-Laurence.jpg",
     "name": "Tamlyn Laurence",
     "phone": "808-315-9148",
     "email": "Tlaurence@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "6",
     "slug": "nikki-kida",
+    "photo": "../images/agents/FBI-Nikki-Kida.jpg",
     "name": "Nikki Kida",
     "phone": "808-222-5516",
-    "email": "Ykida@fbihi.com"
+    "email": "Ykida@fbihi.com",
+    "bilingual": "Cantonese and Mandarin",
+    "bio": [
+      "Yucong (Nikki) Fan is a licensed insurance broker specializing in Medicare Advantage, prescription drug plans and Medicare Supplement plans.  She is also licensed to offer life insurance and long-term care plans. Nikki has been in the insurance industry for about 10 years; and has been affiliated with, Financial Benefits Insurance (FBI) for the last 5 years. She enjoys helping seniors and often volunteers her time at senior centers on a regular basis. Caring and giving back to the community are important to her, and she takes pride in providing excellent customer service.",
+      "She was born and raised in Zhenjiang, located in the Jiangsu Province of southern China; and immigrated to Hawaii in 2009. Nikki is fluent in English, Mandarin, Cantonese and Shanghainese.",
+      "Nikki enjoys the outdoors and nature; and is a member of Hawaii Trail and Mountain Club and the Chinese Tea Club of Hawaii. She enjoys traveling and hiking in her free time."
+    ]
   },
   {
+    "island": "oahu",
     "id": "7",
     "slug": "damien-morales",
+    "photo": "../images/agents/FBI-Damien-Morales.png",
     "name": "Damien Morales",
     "phone": "808-371-8772",
-    "email": "Dmorales@fbihi.com"
+    "email": "Dmorales@fbihi.com",
+    "bio": [
+      "My name is Damien Morales and I am a Financial Advisor with Financial Benefits Insurance Agency.",
+      "I was born and raised in Hawaii.  After I graduated from Waipahu High School, I enlisted in the US Air Force and I became an Avionics Technician working on the F-111E. I was stationed at Upper Heyford Air Force Base located in England UK, which is about 80 miles Northwest of London.  After being honorably discharged from the Air Force I attended and graduated from UH’s Aviation Maintenance program at HCC.",
+      "Previously, I worked in the Food and Beverage industry as a bartender for 25 years and for the past 17 years I have been in the  finance industry as a Financial Advisor providing:",
+      "Insurance for your protection.",
+      "Investments for your future.",
+      "Ideas for strategies and simplicity.",
+      "I enjoy surfing, golfing, and ballroom dancing."
+    ]
   },
   {
+    "island": "maui",
     "id": "8",
     "slug": "pauline-spainer",
+    "photo": "../images/agents/FBI-Pauline-Spainer.jpg",
     "name": "Pauline Spainer",
     "phone": "808-343-0042",
     "email": "Pspainer@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "9",
     "slug": "kyle-kwock",
+    "photo": "../images/agents/FBI-Kyle-Kwock.jpg",
     "name": "Kyle Kwock",
     "phone": "808-781-8218",
-    "email": "Kkwock@fbihi.com"
+    "email": "Kkwock@fbihi.com",
+    "bio": [
+      "Kyle Kwock currently serves as one of the senior insurance consultants at Financial Benefits Insurance. Kyle has over 15 years of professional experience in helping clients with their financial and insurance needs. He graduated with honors from the University of Hawaii College of Business Administation and has many years of managerial work experience in both the private sector as well as with the Federal government. He is licensed in both life and health insurance and is appointed with a large number of major insurance carriers."
+    ]
   },
   {
+    "island": "oahu",
     "id": "10",
     "slug": "herb-kaopua",
+    "photo": "../images/agents/FBI-Herb-Kaopua.png",
     "name": "Herb Kaopua",
     "phone": "808-688-8802",
-    "email": "Hkaopua@fbihi.com"
+    "email": "Hkaopua@fbihi.com",
+    "bio": [
+      "Born in Honolulu and raised in Aiea. I earned the rank of Eagle scout. I’m a graduate of Aiea High School. Following high school, I lived in Portugal for a number of years where I learned to speak Portuguese. I now reside in Waimanalo. I enjoy surfing, fishing and spending time with family and friends.",
+      "I started in the healthcare industry in my early 20’s earning my National and State of Hawaii licenses as an optician. In 2015, I earned my Life and Health insurance license. As an insurance agent, I have been appointed and contracted to help individuals like you navigate through this complicated system we know as Medicare. I help you with your Medicare options and look forward to helping you get all the benefits you deserve."
+    ]
   },
   {
+    "island": "big island",
     "id": "11",
     "slug": "kawela-incillio",
+    "photo": "../images/agents/FBI-Kawela-Incillio.jpg",
     "name": "Kawela Incillio",
     "phone": "808-825-2955",
     "email": "Kincillio@fbihi.com"
   },
   {
+    "island": "big island",
     "id": "12",
     "slug": "caroline-dupio",
+    "photo": "../images/agents/FBI-Caroline-Dupio.png",
     "name": "Caroline Dupio",
     "phone": "808-221-8396",
-    "email": "Cdupio@fbihi.com"
+    "email": "Cdupio@fbihi.com",
+    "bio": [
+      "I help seniors maneuver through the medicare system to find a healthcare plan that fits their needs like a glove.",
+      "I am pure Filipino and grew up on Oahu with a big and loving family. I got married to my soul mate in 1978 and moved to Hilo to start our family. My husband Larry and I raised three beautiful children and currently have two dynamic grandsons.",
+      "I’ve been in the workforce for many years, wearing several different hats in banking, media advertising, event planning, real estate and property management. All the skills I’ve acquired over the years comes to my aid as an agent. It amazes me every year how much I’ve grown and how much I have come to value this colorful hat that I’m wearing now. Colorful because I have the opportunity to meet people with diverse backgrounds. It is gratifying for me to help one senior at a time climb through this medicare jungle.....and to help them breathe easier at the top of their mountain."
+    ]
   },
   {
+    "island": "oahu",
     "id": "13",
     "slug": "frank-rafanan",
+    "photo": "../images/agents/FBI-Frank-Rafanan.jpg",
     "name": "Frank Rafanan",
     "phone": "808-343-0252",
-    "email": "Frafanan@fbihi.com"
+    "email": "Frafanan@fbihi.com",
+    "bilingual": "Ilocano and Tagalog"
   },
   {
+    "island": "oahu",
     "id": "14",
     "slug": "mj-kim",
+    "photo": "../images/agents/FBI-MJ-Kim.jpg",
     "name": "MJ Kim",
     "phone": "808-321-0770",
-    "email": "MJkim@fbihi.com"
+    "email": "MJkim@fbihi.com",
+    "bilingual": "Korean"
   },
   {
+    "island": "oahu",
     "id": "15",
     "slug": "brenda-takahashi",
+    "photo": "../images/agents/FBI-Brenda-Takahashi.png",
     "name": "Brenda Takahashi",
     "phone": "808-341-5557",
     "email": "Btakahashi@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "16",
     "slug": "debbie-takafuji",
+    "photo": "../images/agents/FBI-Debbie-Takafuji.jpg",
     "name": "Debbie Takafuji",
     "phone": "808-230-3138",
     "email": "Dtakafuji@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "17",
     "slug": "klem-unciano",
+    "photo": "../images/agents/FBI-Klem-Unciano.jpg",
     "name": "Klem Unciano",
     "phone": "808-354-4880",
     "email": "Kunciano@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "18",
     "slug": "lourdes-dela-cruz",
+    "photo": "../images/agents/FBI-Lourdes-Dela-Cruz.jpg",
     "name": "Lourdes Dela Cruz",
     "phone": "808-393-9549",
-    "email": "Ldelacruz@fbihi.com"
+    "email": "Ldelacruz@fbihi.com",
+    "bio": [
+      "Lourdes Dela Cruz is a country girl who was born and raised in the Philippines.  She earned her Bachelors Degree in Business Administration from the University of the East in Manila.  After passing the CPA board exam, she immigrated to the United States, settled here in Hawaii.  Her starting job as an Accounting Clerk with the US Army and Air Force Exchange Service which was supposed to be temporary became a career that spanned for 38+ years.  She held several positions then retired as Operatons Manager at the Ft Shafter Exchange.",
+      "She joined the Financial Benefits Insurance Medicare Team in mid 2017.  As a senior herself, she trained and learned the value and benefits of Medicare.  From here, she visioned the opportunity and potential to reach out and educate other seniors about Medicare thereby making a positive contribution.",
+      "Besides English, she speaks fluent Tagalog and Ilocano.  Her husband and she have 2 kids.  She is also an active Real Estate Agent and Language Interpreter for injured workers independent medical evaluations.  She holds a passion for plants and gardening as an extension to her daily life activities."
+    ],
+    "testimonials": [
+      "I wanted to thank you, for helping me understand my medicare AB and how Humana PPO allows me to continue with my current physicians. You saved me from the many mistakes, that my friends went through. I have a better understanding of my current benefits, which are much broader than part D. You've been a knowledgeable blessing to my life. Whenever I can share your services, you better believe, I will.",
+      "My prepayment for Medicare, just arrived and I sent a check for 3 months, just as you had coached me. No surprises, just what I needed.",
+      "Thank you again!",
+      "Kind regards, Larry"
+    ]
   },
   {
+    "island": "big island",
     "id": "19",
     "slug": "zashell-labrador-espinosa",
+    "photo": "../images/agents/FBI-Zashell-Labrador-Espinosa.jpg",
     "name": "Zashell Labrador-Espinosa",
     "phone": "808-217-6063",
-    "email": "Zespinosa@fbihi.com"
+    "email": "Zespinosa@fbihi.com",
+    "bio": [
+      "Zashell is a Big Island Girl Born and Raised in Pahoa, Hawaii. Daughter of Leonard and Zola Labrador. Wife to Roy E. Espinosa Jr. And Mother of 5 children of which 2 are Dual Diagnosed With Autism and ADHD. She loves and adores her children and mo’opuna.",
+      "Zashell started her Insurance Career in 2017 as a Public Benefits Coordinator and has been with Financial Benefits Insurance since 2018. Her most valuable points is that she cares for, understands and is compassionate with her Kupuna and people with Disabilities. You may often see her in the community with her infectious smile, delivering exceptional customer service. She aims to assist you in finding the right plan to fit your personal health care needs.",
+      "Her weekends are spent with her Ohana volunteering within the community at Special Olympics with Team Explosions, playing music, Singing and going to the beach."
+    ]
   },
   {
+    "island": "oahu",
     "id": "20",
     "slug": "sherry-lau",
+    "photo": "../images/agents/FBI-Sherry-Lau.jpg",
     "name": "Sherry Lau",
     "phone": "808-497-8866",
-    "email": "SLau@fbihi.com"
+    "email": "SLau@fbihi.com",
+    "bilingual": "Mandarin",
+    "bio": [
+      "aloha, my name is sherry lau, have a degree of business management, love to travel, also believe:",
+      "1.  work at something you enjoy and that's worthy of your time and talent.",
+      "2.  give people more than they expect and do it cheerfully.",
+      "3.  have a grateful heart.",
+      "4.  be generous.",
+      "5.  be a self-starter.",
+      "6.  be loyal."
+    ],
+    "testimonials": [
+      "sherry lau is our agent , for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms. thank u very much! take me around!  also, help me pick up medicine!",
+      "GANG HUANG HONOLULU",
+      "Sherry Lau is my agent. I depend on her helping me all the mails come in. I am 80 years old. To pick up medicine or english letters and housing events. I need her to do since my leg is not good for walking. Whenever monthly to see doctors. I need help! Thank you very much.",
+      "AYLONG CHANG HONOLULU",
+      "sherry lau is our agent, for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms.  thank u very much! take me around!  also, help me pick up medicine!"
+    ]
   },
   {
+    "island": "big island",
     "id": "21",
     "slug": "angie-wahinekapu",
+    "photo": "../images/agents/FBI-Angie-Wahinekapu.jpg",
     "name": "Angie Wahinekapu",
     "phone": "808-987-8783",
-    "email": "Awahinekapu@fbihi.com"
+    "email": "Awahinekapu@fbihi.com",
+    "bio": [
+      "Anjeannette Wahinekapu grew up in Kailua Kona Hawaii; she spent part of her life in Tampa Florida before returning to the islands as the eldest sibling to help take care of her grandmother and her mother.  She started her insurance career in 2017 as a broker and has been a Public Benefits Coordinator with Financial Benefits Insurance since December 2018.  She’s been very successful in helping hundreds of her Medicare clients find better healthcare and retirement solutions and prides herself in being able to successfully help her Kupuna to navigate through the Medicare system and take the confusion out of their Medicare options.  If you were to ask her “Why Medicare Insurance” she would say because she understands how important it is to have proper coverage and access to healthcare when you need it!  It makes all the difference in the quality of your life when you know that you’re protected financially and have access to excellent care.  That’s what mattered to her as a caregiver for two of the most amazing and important women in her life, they meant the world to her.  The best insurance available is the insurance you have in place that fits YOUR needs when an emergency happens.  You… are your family’s most valuable asset, peace of mind for yourself and your family, that’s important.",
+      "Anjeannette’s most common compliment has been her Aloha Spirit, how welcoming and approachable she is and how comfortable her members feel working together with her.  She will take whatever time is necessary to make sure she explains how Medicare works and solutions to help solve any issues her members may have.  She will take that time to listen to what her clients say, what they want, and what they need.  She will make sure everyone’s happy working together so that her clients and members are able to make well informed decisions about their healthcare choices; making sure she can help find the best fit for her clients and maximize benefits available to them.",
+      "Anjeannette loves art; she spends a lot of her spare time painting with her children and grandchildren.  When she isn’t working you can find her time spent with her family.  Anjeannette is married to George Leslie and they have a blended family of five children and seven grandchildren.  As a family they love the ocean and spend a lot of their time outdoors in the yard, at the beach or in our island forests.  She loves road trips, camping, painting, gardening and just enjoying life with her hubby and her family."
+    ]
   },
   {
+    "island": "oahu",
     "id": "22",
     "slug": "wes-sakamoto",
+    "photo": "../images/agents/FBI-Wes-Sakamoto.jpg",
     "name": "Wes Sakamoto",
     "phone": "808-371-1190",
     "email": "Wsakamoto@fbihi.com"
   },
   {
+    "island": "big island",
     "id": "23",
     "slug": "kahale-camara",
+    "photo": "../images/agents/FBI-Kahale-Camara.jpg",
     "name": "Kahale Camara",
     "phone": "808-931-9525",
     "email": "Kcamara@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "24",
     "slug": "pearl-yuen",
+    "photo": "../images/agents/FBI-Pearl-Yuen.jpg",
     "name": "Pearl Yuen",
     "phone": "808-721-0533",
-    "email": "Pyuen@fbihi.com"
+    "email": "Pyuen@fbihi.com",
+    "bilingual": "Cantonese and Mandarin"
   },
   {
+    "island": "oahu",
     "id": "25",
     "slug": "leeah-tano",
+    "photo": "../images/agents/FBI-Leeah-Tano.png",
     "name": "Leeah Tano",
     "phone": "808-358-1370",
     "email": "Ltano@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "26",
     "slug": "gerald-hirata",
+    "photo": "../images/agents/FBI-Gerald-Hirata.jpg",
     "name": "Gerald Hirata",
     "phone": "808-392-3718",
     "email": "Ghirata@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "27",
     "slug": "claren-afong",
+    "photo": "../images/agents/FBI-Claren-Afong.png",
     "name": "Claren Afong",
     "phone": "808-277-1907",
     "email": "Cafong@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "28",
     "slug": "bricyn-afong",
+    "photo": "../images/agents/FBI-Bricyn-Afong.png",
     "name": "Bricyn Afong",
     "phone": "808-349-3873",
     "email": "Bafong@fbihi.com"
   },
   {
+    "island": "maui",
     "id": "29",
     "slug": "natividad-ragudo-smith",
+    "photo": "../images/agents/FBI-Natividad-Ragudo-Smith.png",
     "name": "Natividad Ragudo-Smith",
     "phone": "808-276-8864",
     "email": "Nragudosmith@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "30",
     "slug": "karen-kwock",
+    "photo": "../images/agents/FBI-Karen-Kwock.png",
     "name": "Karen Kwock",
     "phone": "808-220-2178",
     "email": "Kckwock@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "31",
     "slug": "yukiko-suzuki",
+    "photo": "../images/agents/FBI-Yukiko-Suzuki.jpg",
     "name": "Yukiko Suzuki",
     "phone": "808-330-1758",
-    "email": "Ysuzuki@fbihi.com"
+    "email": "Ysuzuki@fbihi.com",
+    "bilingual": "Japanese"
   },
   {
+    "island": "big island",
     "id": "32",
     "slug": "manuel-roberto",
+    "photo": "../images/agents/FBI-Manuel-Roberto.png",
     "name": "Manuel Roberto",
     "phone": "808-640-2643",
     "email": "Mroberto@fbihi.com"
   },
   {
+    "island": "kauai",
     "id": "33",
     "slug": "laurie-smith",
+    "photo": "../images/agents/FBI-Laurie-Smith.jpg",
     "name": "Laurie Smith",
     "phone": "808-855-5328",
     "email": "Lsmith@fbihi.com"
   },
   {
+    "island": "kauai",
     "id": "34",
     "slug": "yolanda-yee",
+    "photo": "../images/agents/FBI-Yolanda-Yee.jpg",
     "name": "Yolanda Yee",
     "phone": "808-651-3247",
-    "email": "Ylee@fbihi.com"
+    "email": "Ylee@fbihi.com",
+    "bio": [
+      "Aloha, from Kauai Island! I’m Yolanda “Yolie” Yee and I current serve as Vice President of YeeCorp, Inc., a family-owned corporation since 1988 offering Life, Health, and Disability insurance choices for clients statewide, as well as in California and Washington. My area of focus includes Individual and Family Health plans, Medicare plans, and Group Health, Life/Disability plans. I joined Financial Benefits Insurance and do Medicare with them.",
+      "Having graduated from Waipahu HS on Oahu, I also received Bachelor of Arts-Psychology from University of Hawaii-Manoa. My career includes over 25 years in Human Resources in many industry sectors, including Hotel, Auto, Retail and Insurance.",
+      "I enjoy being with my family of husband and three sons, and recently a daughter-in-law. My favorite past-time includes travel all over the world, as well as fishing for trout in Kokee or Oama at Anini Beach."
+    ]
   },
   {
+    "island": "oahu",
     "id": "35",
     "slug": "alan-lum",
+    "photo": "../images/agents/FBI-Alan-Lum.jpg",
     "name": "Alan Lum",
     "phone": "808-284-4664",
-    "email": "Alum@fbihi.com"
+    "email": "Alum@fbihi.com",
+    "bilingual": "Cantonese",
+    "bio": [
+      "Alan S.F. Lum MA, MSW, BA",
+      "One of Alan Lum’s passions is to help make life better for people.  He has therefore chosen to become an agent under Financial Benefits Insurance. He feels FBI has an unprecedented and impeccable record of helping, protecting, and improving people’s lives, and feels honored to be a part FBI.",
+      "His background includes Feng Shui consultant, speaker, and author.  He is also an instructor in the fields of Feng Shui and Chinese Astrology, and a professor in World Religions. Further, he is a Community Services Counselor at Hawaiian Memorial Park Cemetery.",
+      "In addition, as a former social worker with the State of Hawaii Department of Human Services Adult Services Unit, he has experience and over 10 years helping elderly clients with Medicare and Medicaid issues. "
+    ]
   },
   {
+    "island": "oahu",
     "id": "36",
     "slug": "jin-ok-ra",
+    "photo": "../images/agents/FBI-Jin-Ok-Anna-Ra.jpg",
     "name": "Jin-Ok 'Anna' Ra",
     "phone": "808-358-8240",
     "email": "Jra@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "37",
     "slug": "austin-uzama",
+    "photo": "../images/agents/FBI-Austin-Uzama.jpg",
     "name": "Austin Uzama",
     "phone": "808-436-4212",
     "email": "Auzama@fbihi.com"
   },
   {
+    "island": "big island",
     "id": "38",
     "slug": "bernice-roberto",
+    "photo": "../images/agents/FBI-Bernice-Roberto.jpg",
     "name": "Bernice Roberto",
     "phone": "808-640-6398",
     "email": "Broberto@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "39",
     "slug": "grace-rous",
+    "photo": "../images/agents/FBI-Grace-Rous.jpg",
     "name": "Grace Rous",
     "phone": "808-384-2588",
     "email": "Grous@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "40",
     "slug": "garry-yee",
+    "photo": "../images/agents/FBI-Garry-Yee.jpg",
     "name": "Garry Yee",
     "phone": "808-349-2720",
     "email": "Gyee@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "41",
     "slug": "stephen-fung",
+    "photo": "../images/agents/FBI-Stephen-Fung.jpg",
     "name": "Stephen Fung",
     "phone": "808-295-5875",
-    "email": "Sfung@fbihi.com"
+    "email": "Sfung@fbihi.com",
+    "bio": [
+      "I was born and raised in Honolulu, Hawaii, where I attended Iolani High School. After graduating, I accepted an athletic scholarship to play soccer at the University of Washington in Seattle. Upon graduating from the university in 2010, I was trying to figure out what I wanted to do professionally and stumbled across the health insurance industry. I started working for Aflac doing supplemental health insurance for local businesses and while I held a number of different jobs while I was in school, brokering health insurance was my first job where I could build a career. As I progressed in my career, I started brokering full medical plans for companies as well as selling life insurance. I eventually joined FBI where, in addition to maintaining my current book of business, I am now able to help our Medicare beneficiaries with their health insurance needs. It was a natural progression to offer health insurance coverage not only for the people who worked at the companies I had a relationship with, but also when they went into retirement. In my spare time I enjoy playing soccer, golfing, cooking, gardening, coaching and hanging out with my family."
+    ]
   },
   {
+    "island": "oahu",
     "id": "42",
     "slug": "christy-chun",
+    "photo": "../images/agents/FBI-Christy-Chun.jpg",
     "name": "Christy Chun",
     "phone": "808-542-1807",
     "email": "Cchun@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "43",
     "slug": "sue-jorgenson",
+    "photo": "../images/agents/FBI-Sue-Jorgenson.jpg",
     "name": "Sue Jorgenson",
     "phone": "808-389-5073",
     "email": "Sjorgenson@fbihi.com"
   },
   {
+    "island": "oahu",
     "id": "44",
     "slug": "suzeth-carreon",
+    "photo": "../images/agents/FBI-Suzeth-Carreon.jpg",
     "name": "Suzeth Carreon",
     "phone": "808-779-9242",
-    "email": "Scarreon@fbihi.com"
+    "email": "Scarreon@fbihi.com",
+    "bio": [
+      "Why will you work with SUZETH CARREON as your Health Insurance Benefits Coordinator?  Here are some of the reasons why:",
+      "1. Suzeth is an experienced Insurance Broker with a demonstrated history of working in the life and health insurance industry.",
+      "2. Suzeth provides services that exemplify the spirit of Aloha and Care for the Ohana. It includes Life insurance with living benefits, Indexed crediting strategies, Fixed Indexed Annuities, Cancer insurance, Dental insurance, Hospital indemnity, Group medical insurance, Long term care, and Medicare advantage plans.",
+      "3. Suzeth will be your advocate and your ally as she helps you navigate through all your options in helping you choose the right product that is catered to your needs, goals, and objectives. Hence, she will be available for you if you have questions or concerns, or if you some issues that may arise before, during, and after she has helped you with your enrollment application.",
+      "4. Suzeth graduated in 1995 from the University of Hawaii at Manoa with a Master’s Degree in Secondary Education.  Her love for teaching & learning continues as she shares knowledge to her clients about the value and importance of having the health and life insurance that every individual needs integral to living a healthy and stress-free life.",
+      "5. Suzeth loves to take care of her family. She’s a housewife, a mother, a mentor, a sister, a daughter, a lifelong learner, and most of all a faith-filled woman whose conviction is to share and to serve the for the glory of God.",
+      "Suzeth is a housewife to Wilfredo, whom she’s been  married for 37 years; a mother to three adult children, namely Lizzeth, Lyzelle, and Jan Phillip; a daughter to her 88 year old  Mom named Leonida, a sister to her siblings: Amando, Emelita, Elizabeth, and Norman, a mentor to her colleagues, a lifelong learner for knowledge and wisdom that makes her  life complete.  She has been so blessed that God has given her so much and it has been her passion to pay it forward."
+    ]
+  },
+  {
+    "island": "oahu",
+    "id": "45",
+    "slug": "edward-motosue",
+    "photo": "../images/agents/FBI-Edward-Motosue.jpg",
+    "name": "Edward Motosue",
+    "phone": "808-792-5194",
+    "email": "emotosue@fbihi.com",
+    "bio": [
+      "I am one of you, a Medicare Beneficiary. At age 71 years old I walk in your shoes.  I can relate to you. My father is 95 years old and my mother died two years ago at the age of 93. She was getting forgetful in her 70's and had signs of dementia in her 80's. She fell broke her hip and spent 3 weeks in a skilled nursing facility. Two years later she was gone. One of my regrets is taking away my father's drivers license when he was 86 years old. He was still working as taxi driver and worked the Airport-Waikiki route. In hindsight we took away his independence. At age 86 he was still golfing twice a week with his fellow taxi drivers. He was the old man on his golf club teams. Now at age 95 he has outlived all his childhood and close friends. This year after years of denial I finally got hearing aids. My wife is so happy. As we get older we know the importance of good health and spending time with family.",
+      "After working 35 years at Sears in retail management, I retired in 2006. I passed the Hawaii State Licensing Exam and worked with my son, Travis, learning Medicare health insurance. Travis and I started Financial Benefits Insurance in 2010 with 3 agents. This year Financial Benefits Insurance is celebrating 10 years of growth, expansion, and innovation. We currently have 52 years and 3 offices (Honolulu, Hilo, and Waipahu). Most of my time is spent training our 52 agents on Medicare health plans and options. Travis and I do over 140 Medicare formal presentations very year. Yes, we know Medicare and love educating our Kupuna.",
+      "After 50 years of marriage I finally run the house. I run the dishwasher, run the vacuum cleaner, and run the washer & dryer. We have 3 children, 10 grandkids, and 14 great grandkids. We spend more time with our grandkids than with our own children. Being empty nesters, Darlee and I love to travel and go on cruises. So far we went on 5 cruises and numerous vacation trips to the mainland. We not only enjoy visiting Europe, Scandinavia, Baltic countries, China and Japan but also learning different cultures and eating their food. We enjoy growing old with each other."
+    ]
   }
 ]

@@ -56,7 +56,10 @@ const NavBarLinks = () => {
             </NavDropdown>
             <Nav.Link href="/events">Events</Nav.Link>
             <Nav.Link href="/testimonials">Testimonials</Nav.Link>
-            <Nav.Link href="/about">About</Nav.Link>
+            <NavDropdown title="Who We Are" id="collasible-nav-dropdown">
+              <NavDropdown.Item href="/about">About</NavDropdown.Item>
+              <NavDropdown.Item href="/our-story">Our Story</NavDropdown.Item>
+            </NavDropdown>
             <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
