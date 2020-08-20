@@ -56,15 +56,6 @@ module.exports = {
           },
         ],
       },
-    }, // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
-    {
-      resolve: "gatsby-plugin-auth0",
-      options: {
-        domain: "dev-j3qn12nf.auth0.com",
-        clientId: "jrzdgtNGTNdAinoX7AcouXBi8nhWGIpt",
-      },
     },
   ],
 }
