@@ -33,7 +33,7 @@ const SectionWrapper = styled.div`
     font-size: 3rem;
     font-style: italic;
     font-weight: 700;
-    text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.3);
   }
   h6 {
     font-family: "Open Sans";

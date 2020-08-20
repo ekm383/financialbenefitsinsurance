@@ -24,7 +24,6 @@ const BannerWrapper = styled.div`
   .box {
     flex-basis: 100%;
     text-align: left;
-    margin-top: -7rem;
   }
   .title,
   .subtitle {
@@ -60,8 +59,8 @@ const BannerWrapper = styled.div`
     }
     .title {
       margin-bottom: 0.8rem;
-      font-size: 1.4rem;
-      line-height: 1.2rem;
+      font-size: 1.6rem;
+      line-height: 1.5rem;
     }
     .titleSmall {
       letter-spacing: 0px;

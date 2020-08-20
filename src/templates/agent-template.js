@@ -78,7 +78,7 @@ const Post = ({ data }) => {
             )}
           </div>
         </Section>
-        <Section style={{ width: "100vw", margin: "3rem auto" }}>
+        <Section style={{ margin: "3rem auto" }}>
           <form
             name="agentcontact"
             method="POST"

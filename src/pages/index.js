@@ -13,7 +13,7 @@ import BackgroundImage from "gatsby-background-image"
 const IndexPage = () => {
   const image = useStaticQuery(graphql`
     {
-      bg: file(relativePath: { eq: "background/fbihi-bg-01.jpg" }) {
+      bg: file(relativePath: { eq: "background/fbihi-bg-02.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 1920, quality: 90) {
             ...GatsbyImageSharpFluid
@@ -68,12 +68,17 @@ const IndexPage = () => {
           <div style={{ marginBottom: "0" }} className="login">
             <Fifty
               style={{ margin: "4rem auto" }}
-              heading="Agent Portal"
+              heading="Service Portal"
               subheading="Financial Benefits Insurance"
             >
-              <Button>
-                Sign In <FaArrowCircleRight />
-              </Button>
+              <div className="portal-buttons">
+                <Button>
+                  Client Sign In <FaArrowCircleRight />
+                </Button>
+                <Button>
+                  Agent Sign In <FaArrowCircleRight />
+                </Button>
+              </div>
             </Fifty>
           </div>
         </BackgroundImage>
@@ -86,13 +91,14 @@ const IndexWrapper = styled.div`
   .BannerContainer {
     position: absolute;
     z-index: 3;
-    top: 18%;
+    top: 12%;
   }
   .buttonContainer {
     display: flex;
     flex-wrap: wrap;
   }
   .login {
+    text-align: left;
     padding: 4rem 0rem;
     margin-bottom: 4rem;
     color: var(--white);
@@ -109,15 +115,26 @@ const IndexWrapper = styled.div`
   .login Button {
     padding: 1rem 2rem;
   }
+  .portal-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
   @media (max-width: 768px) {
     justify-content: center;
     align-content: center;
     margin: 0rem auto;
     .BannerContainer {
-      top: 14%;
+      top: 12%;
     }
     .buttonContainer a {
       margin: 0rem auto;
+    }
+    .portal-buttons {
+      justify-content: center;
+    }
+    .login {
+      text-align: center;
     }
     .login Button {
       margin: 1rem 0rem 0rem 0rem;

@@ -63,6 +63,7 @@ const Agents = () => {
 }
 
 const SearchWrapper = styled.div`
+  margin: 0rem auto;
   .container {
     width: 100%;
     margin: 0rem auto;
@@ -84,7 +85,7 @@ const SearchWrapper = styled.div`
     width: 40%;
   }
   .name {
-    width: 55%;
+    width: 60%;
     padding: 10px;
     background-color: var(--mainColor);
     color: white;

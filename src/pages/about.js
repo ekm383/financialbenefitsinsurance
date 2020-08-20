@@ -96,7 +96,10 @@ const AboutPage = () => {
           <div className="container">
             <div className="profile">
               <img src={Img1} alt="travis" width="200" />
-              <h4>Travis Motosue | President</h4>
+              <h4>
+                Travis Motosue
+                <br /> President
+              </h4>
               <p>
                 Born February 17, 1981 and raised on the Windward side of Oahu
                 in Kailua, to Ed and Darlee-Ruth, Travis Motosue was the last
@@ -146,7 +149,10 @@ const AboutPage = () => {
             </div>
             <div className="profile">
               <img src={Img2} alt="travis" width="200" />
-              <h4>Edward Motosue | Vice President</h4>
+              <h4>
+                Edward Motosue
+                <br /> Vice President
+              </h4>
               <p>
                 Born February 10, 1949, in Honolulu, Hawaii, to Seiji and
                 Kiyoko, Edward Motosue was the first of five children – two boys
@@ -237,18 +243,17 @@ const Wrapper = styled.div`
     font-size: 0.8rem;
   }
   img {
-    margin-left: 2rem;
-    margin-bottom: 10px;
+    margin-bottom: 1rem;
   }
   .container {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     margin: 0rem auto;
-    width: 62vw;
   }
   .profile {
     flex-basis: 45%;
-    padding: 0.5rem;
+    margin-top: 2rem;
   }
   h4 {
     color: var(--mainColor);

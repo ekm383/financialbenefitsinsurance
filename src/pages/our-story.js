@@ -6,6 +6,7 @@ import styled from "styled-components"
 import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
+import Photo from "../images/generations.jpg"
 
 const OurStoryPage = () => {
   const image = useStaticQuery(graphql`
@@ -111,6 +112,7 @@ const OurStoryPage = () => {
             agents are among the most dedicated and engaged in serving our
             community.{" "}
           </p>
+          <img className="generation" src={Photo} alt="ed" />
           <p>
             Travis and Ed are currently updating their Webpage for the 3rd time
             to keep up with the new changes and making it more client friendly.
@@ -142,6 +144,10 @@ const OurStoryPage = () => {
 }
 
 const StyledStory = styled.div`
+  .generation {
+    width: 100%;
+    margin: 2rem auto;
+  }
   .bg-hero {
     width: 100%;
     background-position: center center;
