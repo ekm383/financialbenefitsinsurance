@@ -18,8 +18,7 @@ const SecureApp = () => (
 )
 
 const StyledSecureApp = styled.div`
-  width: 60vw;
-  height: 60vh;
+  height: 80vh;
   margin: 0rem auto;
   display: flex;
   flex-direction: column;
