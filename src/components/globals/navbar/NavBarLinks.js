@@ -73,7 +73,6 @@ const NavBarLinks = () => {
 const StyledNav = styled.div`
   margin: 0 auto;
   font-family: "Merriweather";
-  font-size: 0.9rem;
   .navbar-light .navbar-toggler {
     border: none;
   }
@@ -86,7 +85,7 @@ const StyledNav = styled.div`
   }
   #responsive-navbar-nav div a {
     font-weight: bold;
-    font-size: 0.9rem;
+    font-size: 1rem;
     margin-right: 0.2rem;
     color: #297aaf;
     transition: 0.3s ease-in-out;
