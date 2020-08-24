@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, navigate } from "gatsby"
-import { getUser, isLoggedIn, logout } from "./services/auth"
+import { isLoggedIn, logout } from "./services/auth"
 import styled from "styled-components"
 
 const NavBar = () => {

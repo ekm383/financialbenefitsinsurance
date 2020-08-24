@@ -21,7 +21,7 @@
     "island": "oahu",
     "id": "3",
     "slug": "michael-anderson",
-    "photo": "../images/agents/FBI-Michael-Anderson.png",
+    "photo": "../images/agents/FBI-Michael-Anderson.jpg",
     "name": "Michael Anderson",
     "phone": "808-722-7385",
     "email": "Manderson@fbihi.com"
@@ -77,7 +77,7 @@
     "island": "oahu",
     "id": "7",
     "slug": "damien-morales",
-    "photo": "../images/agents/FBI-Damien-Morales.png",
+    "photo": "../images/agents/FBI-Damien-Morales.jpg",
     "name": "Damien Morales",
     "phone": "808-371-8772",
     "email": "Dmorales@fbihi.com",
@@ -116,7 +116,7 @@
     "island": "oahu",
     "id": "10",
     "slug": "herb-kaopua",
-    "photo": "../images/agents/FBI-Herb-Kaopua.png",
+    "photo": "../images/agents/FBI-Herb-Kaopua.jpg",
     "name": "Herb Kaopua",
     "phone": "808-688-8802",
     "email": "Hkaopua@fbihi.com",
@@ -138,7 +138,7 @@
     "island": "big island",
     "id": "12",
     "slug": "caroline-dupio",
-    "photo": "../images/agents/FBI-Caroline-Dupio.png",
+    "photo": "../images/agents/FBI-Caroline-Dupio.jpg",
     "name": "Caroline Dupio",
     "phone": "808-221-8396",
     "email": "Cdupio@fbihi.com",
@@ -172,7 +172,7 @@
     "island": "oahu",
     "id": "15",
     "slug": "brenda-takahashi",
-    "photo": "../images/agents/FBI-Brenda-Takahashi.png",
+    "photo": "../images/agents/FBI-Brenda-Takahashi.jpg",
     "name": "Brenda Takahashi",
     "phone": "808-341-5557",
     "email": "Btakahashi@fbihi.com"
@@ -301,7 +301,7 @@
     "island": "oahu",
     "id": "25",
     "slug": "leeah-tano",
-    "photo": "../images/agents/FBI-Leeah-Tano.png",
+    "photo": "../images/agents/FBI-Leeah-Tano.jpg",
     "name": "Leeah Tano",
     "phone": "808-358-1370",
     "email": "Ltano@fbihi.com"
@@ -319,7 +319,7 @@
     "island": "oahu",
     "id": "27",
     "slug": "claren-afong",
-    "photo": "../images/agents/FBI-Claren-Afong.png",
+    "photo": "../images/agents/FBI-Claren-Afong.jpg",
     "name": "Claren Afong",
     "phone": "808-277-1907",
     "email": "Cafong@fbihi.com"
@@ -328,7 +328,7 @@
     "island": "oahu",
     "id": "28",
     "slug": "bricyn-afong",
-    "photo": "../images/agents/FBI-Bricyn-Afong.png",
+    "photo": "../images/agents/FBI-Bricyn-Afong.jpg",
     "name": "Bricyn Afong",
     "phone": "808-349-3873",
     "email": "Bafong@fbihi.com"
@@ -337,7 +337,7 @@
     "island": "maui",
     "id": "29",
     "slug": "natividad-ragudo-smith",
-    "photo": "../images/agents/FBI-Natividad-Ragudo-Smith.png",
+    "photo": "../images/agents/FBI-Natividad-Ragudo-Smith.jpg",
     "name": "Natividad Ragudo-Smith",
     "phone": "808-276-8864",
     "email": "Nragudosmith@fbihi.com"
@@ -346,7 +346,7 @@
     "island": "oahu",
     "id": "30",
     "slug": "karen-kwock",
-    "photo": "../images/agents/FBI-Karen-Kwock.png",
+    "photo": "../images/agents/FBI-Karen-Kwock.jpg",
     "name": "Karen Kwock",
     "phone": "808-220-2178",
     "email": "Kckwock@fbihi.com"
@@ -365,7 +365,7 @@
     "island": "big island",
     "id": "32",
     "slug": "manuel-roberto",
-    "photo": "../images/agents/FBI-Manuel-Roberto.png",
+    "photo": "../images/agents/FBI-Manuel-Roberto.jpg",
     "name": "Manuel Roberto",
     "phone": "808-640-2643",
     "email": "Mroberto@fbihi.com"
@@ -515,5 +515,59 @@
       "After working 35 years at Sears in retail management, I retired in 2006. I passed the Hawaii State Licensing Exam and worked with my son, Travis, learning Medicare health insurance. Travis and I started Financial Benefits Insurance in 2010 with 3 agents. This year Financial Benefits Insurance is celebrating 10 years of growth, expansion, and innovation. We currently have 52 years and 3 offices (Honolulu, Hilo, and Waipahu). Most of my time is spent training our 52 agents on Medicare health plans and options. Travis and I do over 140 Medicare formal presentations very year. Yes, we know Medicare and love educating our Kupuna.",
       "After 50 years of marriage I finally run the house. I run the dishwasher, run the vacuum cleaner, and run the washer & dryer. We have 3 children, 10 grandkids, and 14 great grandkids. We spend more time with our grandkids than with our own children. Being empty nesters, Darlee and I love to travel and go on cruises. So far we went on 5 cruises and numerous vacation trips to the mainland. We not only enjoy visiting Europe, Scandinavia, Baltic countries, China and Japan but also learning different cultures and eating their food. We enjoy growing old with each other."
     ]
+  },
+  {
+    "island": "oahu",
+    "id": "46",
+    "slug": "art-engenio",
+    "photo": "../images/agents/FBI-Agent.jpg",
+    "name": "Art Engenio",
+    "phone": "808-393-9284",
+    "email": "aeugenio@fbihi.com"
+  },
+  {
+    "island": "oahu",
+    "id": "47",
+    "slug": "christina-pahio",
+    "photo": "../images/agents/FBI-Agent.jpg",
+    "name": "Christina Pahio",
+    "phone": "808-430-9869",
+    "email": "cpahio@fbihi.com"
+  },
+  {
+    "island": "oahu",
+    "id": "48",
+    "slug": "renato-protacio",
+    "photo": "../images/agents/FBI-Agent.jpg",
+    "name": "Renato Protacio",
+    "phone": "808-800-7232",
+    "email": "rprotacio@fbihi.com"
+  },
+  {
+    "island": "oahu",
+    "id": "49",
+    "slug": "honorata-protacio",
+    "photo": "../images/agents/FBI-Agent.jpg",
+    "name": "Honorata Protacio",
+    "phone": "805-216-6549",
+    "email": "hprotacio@fbihi.com"
+  },
+  {
+    "island": "oahu",
+    "id": "51",
+    "slug": "brenda-tanga",
+    "photo": "../images/agents/FBI-Agent.jpg",
+    "name": "Brenda Tanga",
+    "phone": "808-341-5557",
+    "email": "btakahashi@fbihi.com"
+  },
+  {
+    "island": "oahu",
+    "id": "52",
+    "slug": "lowana-richardson",
+    "photo": "../images/agents/FBI-Richardson-Lowana.jpg",
+    "name": "Lowana Richardson",
+    "phone": "808-657-4411",
+    "email": "lrichardson@fbihi.com"
   }
 ]
