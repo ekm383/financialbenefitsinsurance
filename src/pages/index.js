@@ -78,9 +78,11 @@ const IndexPage = () => {
                     Client Portal <FaArrowCircleRight />
                   </Button>
                 </Link>
-                <Button>
-                  Agent Portal <FaArrowCircleRight />
-                </Button>
+                <Link to="/agent-secure">
+                  <Button>
+                    Agent Portal <FaArrowCircleRight />
+                  </Button>
+                </Link>
               </div>
             </Fifty>
           </div>
