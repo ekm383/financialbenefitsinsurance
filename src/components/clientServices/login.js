@@ -1,6 +1,6 @@
 import React from "react"
 import { navigate } from "gatsby"
-import { handleLogin, isLoggedIn } from "./services/auth"
+import { handleLogin, isLoggedIn } from "./auth"
 import styled from "styled-components"
 
 class Login extends React.Component {
@@ -22,7 +22,7 @@ class Login extends React.Component {
 
   render() {
     if (isLoggedIn()) {
-      navigate(`/app/profile`)
+      navigate(`/client-app/profile`)
     }
 
     return (
@@ -32,7 +32,7 @@ class Login extends React.Component {
           method="post"
           onSubmit={event => {
             this.handleSubmit(event)
-            navigate(`/app/profile`)
+            navigate(`/client-app/profile`)
           }}
         >
           <label>

@@ -1,17 +1,17 @@
 import React from "react"
 import { Router } from "@reach/router"
-import PrivateRoute from "../components/privateRoute"
-import SecureLayout from "../components/SecureLayout"
+import PrivateRoute from "../components/clientServices/privateRoute"
+import SecureLayout from "../components/clientServices/SecureLayout"
 import styled from "styled-components"
-import Profile from "../components/profile"
-import Login from "../components/login"
+import Profile from "../components/clientServices/profile"
+import Login from "../components/clientServices/login"
 
 const SecureApp = () => (
   <SecureLayout>
     <StyledSecureApp>
       <Router>
-        <PrivateRoute path="/app/profile" component={Profile} />
-        <Login path="/app/login" />
+        <PrivateRoute path="/client-app/profile" component={Profile} />
+        <Login path="/client-app/login" />
       </Router>
     </StyledSecureApp>
   </SecureLayout>

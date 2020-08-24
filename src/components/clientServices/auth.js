@@ -9,11 +9,11 @@ const setUser = user =>
   window.localStorage.setItem("gatsbyUser", JSON.stringify(user))
 
 export const handleLogin = ({ username, password }) => {
-  if (username === `john` && password === `pass`) {
+  if (username === `customer` && password === `fbihi`) {
     return setUser({
-      username: `john`,
-      name: `Johnny`,
-      email: `johnny@example.org`,
+      username: `customer`,
+      name: `FBI Customer`,
+      email: `customer@fbihi.com`,
     })
   }
 

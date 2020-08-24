@@ -1,12 +1,12 @@
 import React from "react"
 import { Link, navigate } from "gatsby"
-import { isLoggedIn, logout } from "./services/auth"
+import { isLoggedIn, logout } from "./auth"
 import styled from "styled-components"
 
 const NavBar = () => {
   let greetingMessage = ""
   if (isLoggedIn()) {
-    greetingMessage = "Aloha, FBIHI Agent"
+    greetingMessage = "Aloha, FBIHI Customer"
   } else {
     greetingMessage = "You are not logged in"
   }
@@ -16,14 +16,14 @@ const NavBar = () => {
       <nav>
         <Link to="/">Home</Link>
         {` `}
-        <Link to="/app/profile">Videos</Link>
+        <Link to="/client-app/profile">Videos</Link>
         {` `}
         {isLoggedIn() ? (
           <a
             href="/"
             onClick={event => {
               event.preventDefault()
-              logout(() => navigate(`/app/login`))
+              logout(() => navigate(`/client-app/login`))
             }}
           >
             Logout

@@ -1,10 +1,10 @@
 import React from "react"
 import { graphql, useStaticQuery } from "gatsby"
 import { Link } from "gatsby"
-import { isLoggedIn } from "../components/services/auth"
+import { isLoggedIn } from "../components/clientServices/auth"
 import styled from "styled-components"
 import BackgroundImage from "gatsby-background-image"
-import SecureLayout from "../components/SecureLayout"
+import SecureLayout from "../components/clientServices/SecureLayout"
 
 const SecurePage = () => {
   const image = useStaticQuery(graphql`
@@ -31,13 +31,14 @@ const SecurePage = () => {
           <p>
             {isLoggedIn() ? (
               <>
-                You are logged in, click <Link to="/app/profile">here </Link>
+                You are logged in, click{" "}
+                <Link to="/client-app/profile">here </Link>
                 to view videos.
               </>
             ) : (
               <>
-                Please <Link to="/app/login">LOGIN</Link> to see the restricted
-                content.
+                Please <Link to="/client-app/login">LOGIN</Link> to see the
+                restricted content.
               </>
             )}
           </p>
