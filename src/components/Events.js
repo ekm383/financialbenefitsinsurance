@@ -98,11 +98,11 @@ const StyledEvent = styled.div`
     }
   }
   .event-box {
-    flex-basis: 50%;
+    flex-basis: 30%;
   }
   @media (max-width: 768px) {
     .event-box {
-      flex-basis: 90%;
+      flex-basis: 50%;
     }
   }
 `
