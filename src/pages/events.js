@@ -6,6 +6,7 @@ import styled from "styled-components"
 import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
+import Events from "../components/Events"
 
 const EventsPage = () => {
   const image = useStaticQuery(graphql`
@@ -43,6 +44,7 @@ const EventsPage = () => {
             <BannerPage title="Events" />
           </Section>
         </BackgroundImage>
+        <Events />
       </StyledEvents>
     </Layout>
   )
