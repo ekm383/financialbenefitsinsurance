@@ -87,24 +87,23 @@ const StyledEvent = styled.div`
   }
   h3 {
     flex-basis: 100%;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     margin: 1rem 0rem 0rem 0rem;
     color: var(--mainColor);
   }
   p {
-    font-size: 0.8rem;
-    line-height: 1.2rem;
     margin: 0rem;
     span {
       font-weight: bold;
     }
   }
   .event-box {
-    flex-basis: 30%;
+    flex-basis: 50%;
+    margin-bottom: 1rem;
   }
   @media (max-width: 768px) {
     .event-box {
-      flex-basis: 50%;
+      flex-basis: 100%;
     }
   }
 `

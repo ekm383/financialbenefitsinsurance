@@ -239,9 +239,6 @@ const Wrapper = styled.div`
     margin-bottom: 1rem;
     padding-left: 3rem;
   }
-  ul li {
-    font-size: 0.8rem;
-  }
   img {
     margin-bottom: 1rem;
   }

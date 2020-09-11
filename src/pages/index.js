@@ -7,9 +7,12 @@ import styled from "styled-components"
 import HeaderIndex from "../components/globals/header/HeaderIndex"
 import Banner from "../components/globals/banner/Banner"
 import Button from "../components/globals/button/Button"
+import Section from "../components/globals/section/Section"
 import { FaArrowCircleRight } from "react-icons/fa"
 import Fifty from "../components/globals/section/Fifty"
 import BackgroundImage from "gatsby-background-image"
+import OahuPhotos from "../components/OahuPhotos"
+import HiloPhotos from "../components/HiloPhotos"
 
 const IndexPage = () => {
   const image = useStaticQuery(graphql`
@@ -61,6 +64,14 @@ const IndexPage = () => {
           subheading="Financial Benefits Insurance"
           text="We are a little old fashioned, if you want something done quickly, we will do everything we can to assist. Customer service is of paramount importance to us. Our customers recommend us to their friends. Our expertise is based on well-trained experienced staff that can tailor a comprehensive insurance program for your specific needs. You will have the added benefit of working with agents who understand your needs. Finding the right policy is only the beginning."
         />
+        <Section style={{ width: "80vw", margin: "4rem auto 0rem auto" }}>
+          <p>Oahu Office</p>
+          <OahuPhotos />
+        </Section>
+        <Section style={{ width: "80vw", margin: "1rem auto 4rem auto" }}>
+          <p>Hilo Office</p>
+          <HiloPhotos />
+        </Section>
         <BackgroundImage
           Tag="section"
           className="bg-hero"
