@@ -6,11 +6,47 @@ import SEO from "../components/seo"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import BackgroundImage from "gatsby-background-image"
+import Img from "gatsby-image"
 
 const MedicarePage = () => {
   const image = useStaticQuery(graphql`
     {
       bg: file(relativePath: { eq: "background/fbihi-bg-02.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      image1: file(relativePath: { eq: "medicare/fbihi-medicare-01.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      image2: file(relativePath: { eq: "medicare/fbihi-medicare-02.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      image3: file(relativePath: { eq: "medicare/fbihi-medicare-03.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      image4: file(relativePath: { eq: "medicare/fbihi-medicare-04.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      image5: file(relativePath: { eq: "medicare/fbihi-medicare-05.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 1920, quality: 90) {
             ...GatsbyImageSharpFluid
@@ -72,7 +108,11 @@ const MedicarePage = () => {
             </p>
           </div>
           <div className="box">
-            <h4>HOW IS MEDICARE FUNDED?</h4>
+            <Img
+              style={{ marginBottom: "2rem" }}
+              fluid={image.image1.childImageSharp.fluid}
+            />
+            <h4>How is Medicare funded?</h4>
             <p>
               According to CMS, total medicare expenditures for 2017 totaled
               $705.9 billion. This is funded through two U.S. Treasury trust
@@ -95,7 +135,11 @@ const MedicarePage = () => {
             </ul>
           </div>
           <div className="box">
-            <h4>WHEN CAN I ENROLL?</h4>
+            <Img
+              style={{ marginBottom: "2rem" }}
+              fluid={image.image2.childImageSharp.fluid}
+            />
+            <h4>When can I enroll?</h4>
             <p>
               You become eligible for Medicare when you Turn 65, are not 65 yet
               but have a qualifying disability, or have end stage renal disease.
@@ -138,7 +182,11 @@ const MedicarePage = () => {
             </p>
           </div>
           <div className="box">
-            <h4>WHEN DOES MY COVERAGE START?</h4>
+            <Img
+              style={{ marginBottom: "2rem" }}
+              fluid={image.image3.childImageSharp.fluid}
+            />
+            <h4>When does my coverage start?</h4>
             <p>
               If you sign up before the month of your birthday, then your
               coverage will usually begin on the 1st of the month that you turn
@@ -172,7 +220,11 @@ const MedicarePage = () => {
             </p>
           </div>
           <div className="box">
-            <h4>HOW TO CHOOSE BETWEEN A SUPPLEMENT PLAN OR ADVANTAGE PLAN.</h4>
+            <Img
+              style={{ marginBottom: "2rem" }}
+              fluid={image.image4.childImageSharp.fluid}
+            />
+            <h4>How to choose between A Supplement Plan or Advantage Plan</h4>
             <p>
               Choosing the right plan will be different for each person.
               Futhermore, it should be based on your individual financial and
@@ -194,6 +246,10 @@ const MedicarePage = () => {
             </p>
           </div>
           <div className="box">
+            <Img
+              style={{ marginBottom: "2rem" }}
+              fluid={image.image5.childImageSharp.fluid}
+            />
             <h3>TIP: CONTACT SOCIAL SECURITY</h3>
             <br />
             <div className="column">
@@ -295,10 +351,6 @@ const MedicareWrapper = styled.div`
     margin: 1rem auto;
     ul {
       margin-left: 2rem;
-    }
-    ul li {
-      font-size: 0.8rem;
-      line-height: 1.5rem;
     }
   }
   .column {

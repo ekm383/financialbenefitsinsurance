@@ -63,7 +63,7 @@ const Post = ({ data }) => {
             )}
 
             {!testimonials ? (
-              " "
+              ""
             ) : (
               <p>
                 Testimonials:

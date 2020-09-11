@@ -18,8 +18,8 @@
     "photo": "../images/agents/FBI-Teresita-Martin.jpg",
     "name": "Teresita Martin",
     "phone": "808-927-1696",
-    "email": "JTmartin@fbihi.com",
-    "bilingual": "",
+    "email": "tquirante@fbihi.com",
+    "bilingual": "Ilocano and Tagalog",
     "bio": [
       "Licensed Life and Health Producer in the State of Hawaii. Certified and appointed Medicare Insurance Specialist for UnitedHealthcare, Humana, Ohana and Aloha Care. with Financial Benefits Insurance, Inc.",
       "Teresita is fluent in Ilocano and Tagalog, born of parents from Isabela and Laguna, Philippines. Graduated from the University of the East with Bachelor of Science in Business Administration. Married with 2 children and 3 grandchildren.",
@@ -57,7 +57,7 @@
     ],
     "testimonials": [
       "Kamaka is our Medicare Insurance Agent… Kamaka has been very helpful in explaining the benefits and the policy which provides the best coverage for my husband and myself..  We have been so happy with his service for our insurance needs.  He has become a good friend.",
-      "Rosalie and Melvin Mākuaʻole Waimanalo, Hi",
+      "Rosalie and Melvin M. Waimanalo, Hi",
       "Kamaka Jingao has been a wonderful agent. He is always quick to respond to my questions and concerns. He looks out for my best interest. I have referred many people to Kamaka. Thank you for your help!",
       "Jeanette P. Kaneohe, HI",
       "It has been an extreme pleasure having Kamaka Jingao, from Financial Benefits Insurance, as my Medicare Insurance agent. His level of service and professionalism is unparalleled. I would HIGHLY recommend Kamaka to anyone!",
@@ -118,18 +118,6 @@
     "testimonials": [""]
   },
   {
-    "island": "maui",
-    "id": "8",
-    "slug": "pauline-spainer",
-    "photo": "../images/agents/FBI-Pauline-Spainer.jpg",
-    "name": "Pauline Spainer",
-    "phone": "808-343-0042",
-    "email": "Pspainer@fbihi.com",
-    "bilingual": "",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
     "island": "oahu",
     "id": "9",
     "slug": "kyle-kwock",
@@ -186,7 +174,11 @@
     ],
     "testimonials": [
       "I'd like to say that Caroline Dupio was very helpful in my time of transition for when I turned 65 years of age. She was very diligent when helping me to understand and to fill out the form's I needed. She was also patient and kind during the process. It was a pleasant experience as I was very confused when starting out. I want to Thank Caroline and Medicare for providing such a service.",
-      "- Lenora A"
+      "- Lenora A",
+      "I just wanted to take a minute and thank one of your agents, Caroline Dupio.",
+      "I am making a transition at present from working on a cruise ship the Pride of America to being on land til the time comes that we can sail again. We have received notice that our Medical, Dental etc will run out for us staff non union personnel on the ship. I have chatted with Caroline to help me when retirement is happening. This time with no plans at the moment I got our warn notice that it was going to happen August 11.",
+      "I did a phone visit with her and she walked me through all the different plans available as a Medicare card holder. With excellent attention to detail and follow up she guided me through all I now need to do to get my Medicare completely up to speed. Little did I know the details involved til she took me through the necessary steps I now much do to get the coverage I will need going forward! Hats off to Caroline for a professional job well done!",
+      "Patrick O. Hilo, Hawaii"
     ]
   },
   {
@@ -198,7 +190,12 @@
     "phone": "808-343-0252",
     "email": "Frafanan@fbihi.com",
     "bilingual": "Ilocano and Tagalog",
-    "bio": [""],
+    "bio": [
+      "I am Franklin Rafanan, married and gifted with five children and 6 loving grandchildren. I finished my Bachelor of Law degree in Manila, Philippines. I worked with Bristol Myers Squibb (BMS) Company, where I devoted my youthful and productive years working with doctors, paramedics and ultimate customers.",
+      "In 2009, my wife and I came to America to explore or for another chapter of our lives. Through the mentorship of a Pastor-friend, I got licensed into this challenging and yet rewarding fields of Life and Health Insurance and along the way I discover that my former company (BMS) and the present companies I am certified and contracted with, share similar mission and vision, \"To enhance and improve the quality of lives through quality medical, prescriptions, wellness, and more by touching the lives of people.\"",
+      "Being a \"baby boomer\" myself, I strongly feel and can relate to the inherent needs of the beneficiaries- the gradual changes of lifestyle, health challenges and total wellbeing, and to a certain degree, their desire to stay young, capable and productive.",
+      "It is for this reason that I love and enjoy meeting and interacting with my fellow baby boomers in every step of the way, touching their lives through appropriate professional services at the right time, at the right place, and doing it compliantly as it deemed necessary. "
+    ],
     "testimonials": [""]
   },
   {
@@ -270,7 +267,7 @@
     "photo": "../images/agents/FBI-Zashell-Labrador-Espinosa.jpg",
     "name": "Zashell Labrador-Espinosa",
     "phone": "808-217-6063",
-    "email": "Zespinosa@fbihi.com",
+    "email": " zlabradorespinosa@fbihi.com",
     "bilingual": "",
     "bio": [
       "Zashell is a Big Island Girl Born and Raised in Pahoa, Hawaii. Daughter of Leonard and Zola Labrador. Wife to Roy E. Espinosa Jr. And Mother of 5 children of which 2 are Dual Diagnosed With Autism and ADHD. She loves and adores her children and mo’opuna.",
@@ -299,9 +296,9 @@
     ],
     "testimonials": [
       "sherry lau is our agent , for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms. thank u very much! take me around!  also, help me pick up medicine!",
-      "GANG HUANG HONOLULU",
+      "GANG H. Honolulu, HI",
       "Sherry Lau is my agent. I depend on her helping me all the mails come in. I am 80 years old. To pick up medicine or english letters and housing events. I need her to do since my leg is not good for walking. Whenever monthly to see doctors. I need help! Thank you very much.",
-      "AYLONG CHANG HONOLULU",
+      "AYLONG C. Honolulu, HI",
       "sherry lau is our agent, for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms.  thank u very much! take me around!  also, help me pick up medicine!"
     ]
   },
@@ -342,10 +339,19 @@
     "phone": "808-721-0533",
     "email": "Pyuen@fbihi.com",
     "bilingual": "Cantonese and Mandarin",
-    "bio": [""],
+    "bio": [
+      "Hi, I am Pearl Yuen.",
+      "Among the many different types of insurance available, Medicare is complicated. Some people may have enrolled in plans not meeting their needs, I would like to help them.",
+      "With a degree in accounting and decades of experience in the insurance industry, I am a licensed, certified and appointed insurance broker with several insurance carriers.  In addition, I am bilingual in English and Chinese.",
+      "A board member of the Chinese Chamber of Commerce, I have also volunteered for different community groups.  I am a proud mother of two wonderful daughters, one is a medical doctor and the other one is an internet news manager.",
+      "Whenever possible, I spend quality time with my family, go shopping, do some cooking and watch some TV.",
+      "I look forward to assisting you with Medicare and other insurance needs, as well as to answer any questions you may have."
+    ],
     "testimonials": [
       "We want you to know that you as an agent for Financial Benefits Insurance, INC, have given us exceptional service on behalf of Humana. Your follow through in keeping us well informed about our medical/dental/ optical plan plus your many timely reminders about deadlines and benefits has been great. We couldn't have asked for better service. We feel very fortunate in having you as our agent and we hope you have many success in your chosen career.",
-      "- Ed and Elsie Kawakone"
+      "- Ed and Elsie K.",
+      "My wife, Debbie and I met Pearl P.J. Yuen, at one of the United Health Care seminars. We were very impressed with how personable, friendly and knowledgeable she was. She was very patient with our questions and concerns, and we were very amazed at how knowledgeable she was with all the different companies that offered supplemental Medicare coverage! She never made us feel ignorant or unimportant. Because of Pearl, we understood more about supplemental coverage, than we weren't confused, lol! We feel we cannot do without her... her wealth of knowledge and wisdom. Each and every year, she faithfully contacts us and checks on us to see if we need any help, and apprises us of any changes. You are very fortunate to have Pearl, she is a great asset to your company. We are fortunate to know her well!",
+      "Jonathan K. Honolulu, HI "
     ]
   },
   {
@@ -371,7 +377,9 @@
     "phone": "808-277-1907",
     "email": "Cafong@fbihi.com",
     "bilingual": "",
-    "bio": [""],
+    "bio": [
+      "As a Licensed Insurance Agent and a Licensed Registered Nurse, Claren has front line experience helping our Kupuna with healthcare as well as over 10 years experience working in the Medicare industry. Claren and her husband Bricyn (who is also licensed) work together in servicing our community."
+    ],
     "testimonials": [""]
   },
   {
@@ -383,7 +391,9 @@
     "phone": "808-349-3873",
     "email": "Bafong@fbihi.com",
     "bilingual": "",
-    "bio": [""],
+    "bio": [
+      "As life long fisherman, free diver and chef, Bricyn has been helping Medicare members since 2006. He is one of the “oldest” licensed agents in Hawaii. Be careful when hanging around Bricyn, he is known to affect positive influence and is always asking people to taste his cooking. Married to Claren Afong (also licensed agent and Registered Nurse), together they have been successfully building their business and helping the community."
+    ],
     "testimonials": [""]
   },
   {
@@ -394,7 +404,7 @@
     "name": "Natividad Ragudo-Smith",
     "phone": "808-276-8864",
     "email": "Nragudosmith@fbihi.com",
-    "bilingual": "",
+    "bilingual": "Ilocano and Tagalog",
     "bio": [""],
     "testimonials": [""]
   },
@@ -418,7 +428,7 @@
     "name": "Manuel Roberto",
     "phone": "808-640-2643",
     "email": "Mroberto@fbihi.com",
-    "bilingual": "",
+    "bilingual": "Spanish",
     "bio": [""],
     "testimonials": [""]
   },
@@ -441,7 +451,7 @@
     "photo": "../images/agents/FBI-Yolanda-Yee.jpg",
     "name": "Yolanda Yee",
     "phone": "808-651-3247",
-    "email": "Ylee@fbihi.com",
+    "email": "yyee@fbihi.com ",
     "bilingual": "",
     "bio": [
       "Aloha, from Kauai Island! I’m Yolanda “Yolie” Yee and I current serve as Vice President of YeeCorp, Inc., a family-owned corporation since 1988 offering Life, Health, and Disability insurance choices for clients statewide, as well as in California and Washington. My area of focus includes Individual and Family Health plans, Medicare plans, and Group Health, Life/Disability plans. I joined Financial Benefits Insurance and do Medicare with them.",
@@ -474,7 +484,7 @@
     "name": "Jin-Ok 'Anna' Ra",
     "phone": "808-358-8240",
     "email": "Jra@fbihi.com",
-    "bilingual": "",
+    "bilingual": "Korean",
     "bio": [""],
     "testimonials": [""]
   },
@@ -510,7 +520,7 @@
     "name": "Grace Rous",
     "phone": "808-384-2588",
     "email": "Grous@fbihi.com",
-    "bilingual": "",
+    "bilingual": "Ilocano and Tagalog",
     "bio": [""],
     "testimonials": [""]
   },
@@ -697,9 +707,9 @@
     "bilingual": "",
     "bio": [""],
     "testimonials": [
-      "I have received excellent services from Brenda KWP Takahashi.  She has keep me informed and knows her products.  Brenda is a wonderful person.",
+      "I have received excellent services from Brenda KWP Tanga.  She has keep me informed and knows her products.  Brenda is a wonderful person.",
       "- Kenrick C., Honolulu, HI",
-      "I am very happy with my insurance plan and owe it all to you (Brenda Takahashi). I appreciate you keeping in contact. You're great!",
+      "I am very happy with my insurance plan and owe it all to you (Brenda Tanga). I appreciate you keeping in contact. You're great!",
       "- Lorraine T., Honolulu HI"
     ]
   },
@@ -712,7 +722,10 @@
     "phone": "808-657-4411",
     "email": "lrichardson@fbihi.com",
     "bilingual": "",
-    "bio": [""],
+    "bio": [
+      "My name is Lowana Richardson, born in Hawaii on the island of Oahu and moved to the Big Island in 2104 to the  Hamakua Coast.  I am the proud mother of four grown children, two boys and two girls, who represent to me my best achievements, as a single working mom.  My background has been varied, working for the Department of Education in Hawaii and in sales, having owned my own retail florist shop in Riverside, California.  I was raised both in California and Hawaii, but my heart has always been in the islands.",
+      "When I reached retirement age, I had to negotiate the world of Medicare Insurance - they don’t teach you this in college.  I also needed to help a family member that had a disability find the best plan for him when he qualified for SSI.  After years of struggling to figure out what was best, I ran into my agent who also works for FBIHI  and she shared her knowledge with me.  She was so wonderful and took such good care of me, making sure that when the different companies plans changed that she had me on the best plan for my needs.  I was so grateful to her, that I decided that I wanted to do the same and help others who were struggling to understand.  I knew it was important to be with a good company that would keep me updated and educated and thus why I joined FBIHI.  I love what I do and I love helping others in being informed about the best way to go when it comes to their Medicare coverage."
+    ],
     "testimonials": [""]
   },
   {
@@ -741,7 +754,7 @@
   },
   {
     "island": "oahu",
-    "id": "54",
+    "id": "55",
     "slug": "erline-shiraki ",
     "photo": "../images/agents/FBI-Erline-Shiraki.jpg",
     "name": "Erline Shiraki",
@@ -749,6 +762,21 @@
     "email": "eshiraki@fbihi.com",
     "bilingual": "",
     "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "56",
+    "slug": "kyler-kwock",
+    "photo": "../images/agents/FBI-Kyler.jpg",
+    "name": "Kyler Kwock",
+    "phone": "",
+    "email": "klkwock@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Kyler Kwock is a licensed insurance consultant with Financial Benefits Insurance.  He is passionate about finding the right policies to fit individual client's needs, providing an exceptional experience, and building long-term relationships.",
+      "Kyler currently resides in Hawaii Kai with his wife and 2 daughters. He graduated from the University of Hawaii with a double major in Communications and Art. He is an avid photographer and has won numerous awards, both locally and nationally.  Other interests include technology, movies, traveling, and good eats (epicurean)."
+    ],
     "testimonials": [""]
   }
 ]

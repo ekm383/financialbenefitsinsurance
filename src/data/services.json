@@ -18,15 +18,6 @@
     ]
   },
   {
-    "id": "2",
-    "service": "Group Plans",
-    "slug": "group-plans",
-    "serviceImage": "../images/background/fbihi-bg-09.jpg",
-    "content": [
-      "Business Groups Products: • Group Dental • Group Disability • Group Life • Group Long Term Care • Group Health"
-    ]
-  },
-  {
     "id": "3",
     "service": "Health Insurance",
     "slug": "health-insurance",

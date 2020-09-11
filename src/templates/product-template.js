@@ -92,10 +92,6 @@ const Wrapper = styled.div`
   }
   .productList {
     list-style-type: none;
-    li {
-      margin-bottom: 1rem;
-      font-size: 0.8rem;
-    }
   }
   form {
     width: 80vw;

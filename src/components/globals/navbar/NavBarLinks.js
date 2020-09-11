@@ -18,12 +18,9 @@ const NavBarLinks = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
-            <Nav.Link href="/medicare">Medicare 101</Nav.Link>
+            <Nav.Link href="/medicare">Medicare Basics</Nav.Link>
             <NavDropdown title="Services" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/service/dental">Dental</NavDropdown.Item>
-              <NavDropdown.Item href="/service/group-plans">
-                Group Plans
-              </NavDropdown.Item>
               <NavDropdown.Item href="/service/health-insurance">
                 Health Insurance
               </NavDropdown.Item>

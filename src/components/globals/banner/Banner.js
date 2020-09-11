@@ -1,12 +1,13 @@
 import React from "react"
 import styled from "styled-components"
 
-const Banner = ({ style, title, titleSmall, subtitle, children }) => {
+const Banner = ({ style, title, title2, titleSmall, subtitle, children }) => {
   return (
     <BannerWrapper style={style}>
       <div className="box">
         <h2 className="titleSmall">{titleSmall}</h2>
         <h1 className="title">{title}</h1>
+        <h1 className="title">{title2}</h1>
         <h3 className="subtitle">{subtitle}</h3>
         {children}
       </div>
@@ -15,8 +16,6 @@ const Banner = ({ style, title, titleSmall, subtitle, children }) => {
 }
 
 const BannerWrapper = styled.div`
-  width: 80%;
-  margin: 0px auto;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -28,11 +27,10 @@ const BannerWrapper = styled.div`
   .title,
   .subtitle {
     margin-top: 0px;
-    margin-bottom: 10px;
   }
   .title {
     font-size: 3rem;
-    line-height: 3.5rem;
+    line-height: 3rem;
     font-style: italic;
     font-weight: 700;
     text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);

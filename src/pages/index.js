@@ -41,7 +41,8 @@ const IndexPage = () => {
           <div className="BannerContainer">
             <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
-              title="Benefits are our business. Service sets us apart."
+              title="Benefits are our business."
+              title2="Service sets us apart."
             >
               <div className="buttonContainer">
                 <a href="/">
@@ -97,6 +98,7 @@ const IndexWrapper = styled.div`
     position: absolute;
     z-index: 3;
     top: 12%;
+    left: 10%;
   }
   .buttonContainer {
     display: flex;

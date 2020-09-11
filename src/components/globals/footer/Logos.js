@@ -8,8 +8,9 @@ import logo05 from "../../../images/logos/mutual-of-omaha-logo.jpg"
 import logo06 from "../../../images/logos/ohana-health-plan-logo.jpg"
 import logo07 from "../../../images/logos/silverscript-logo.jpg"
 import logo08 from "../../../images/logos/united-american-insurance-company-logo.jpg"
-import logo09 from "../../../images/logos/united-health-care-logo.jpg"
+import logo09 from "../../../images/logos/united-health-care-logo.png"
 import logo10 from "../../../images/logos/well-care-logo.jpg"
+import logo11 from "../../../images/logos/aetna-logo-2.png"
 
 const Logos = () => {
   return (
@@ -26,6 +27,7 @@ const Logos = () => {
           <img src={logo08} alt="logo" />
           <img src={logo09} alt="logo" />
           <img src={logo10} alt="logo" />
+          <img src={logo11} alt="logo" />
         </div>
       </div>
     </LogoWrapper>

@@ -130,13 +130,13 @@ const Agents = () => {
                   <p className="agent-name">
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
-                  <p>
+                  <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Website</Link>
                   </p>
                   <p>{node.phone}</p>
-                  <p>{node.email}</p>
-                  <p>Island: {node.island}</p>
-                  <p>Bilingual: {node.bilingual}</p>
+                  <p className="email">{node.email}</p>
+                  <p className="island">{node.island}</p>
+                  {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                 </div>
               </div>
             )
@@ -152,13 +152,13 @@ const Agents = () => {
                   <p className="agent-name">
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
-                  <p>
+                  <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Website</Link>
                   </p>
                   <p>{node.phone}</p>
-                  <p>{node.email}</p>
-                  <p>Island: {node.island}</p>
-                  <p>Bilingual: {node.bilingual}</p>
+                  <p className="email">{node.email}</p>
+                  <p className="island">{node.island}</p>
+                  {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                 </div>
               </div>
             )
@@ -174,13 +174,13 @@ const Agents = () => {
                   <p className="agent-name">
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
-                  <p>
+                  <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Website</Link>
                   </p>
                   <p>{node.phone}</p>
-                  <p>{node.email}</p>
-                  <p>Island: {node.island}</p>
-                  <p>Bilingual: {node.bilingual}</p>
+                  <p className="email">{node.email}</p>
+                  <p className="island">{node.island}</p>
+                  {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                 </div>
               </div>
             )
@@ -196,13 +196,13 @@ const Agents = () => {
                   <p className="agent-name">
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
-                  <p>
+                  <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Website</Link>
                   </p>
                   <p>{node.phone}</p>
-                  <p>{node.email}</p>
-                  <p>Island: {node.island}</p>
-                  <p>Bilingual: {node.bilingual}</p>
+                  <p className="email">{node.email}</p>
+                  <p className="island">{node.island}</p>
+                  {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                 </div>
               </div>
             )
@@ -218,13 +218,13 @@ const Agents = () => {
                   <p className="agent-name">
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
-                  <p>
+                  <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Website</Link>
                   </p>
                   <p>{node.phone}</p>
-                  <p>{node.email}</p>
-                  <p>Island: {node.island}</p>
-                  <p>Bilingual: {node.bilingual}</p>
+                  <p className="email">{node.email}</p>
+                  <p className="island">{node.island}</p>
+                  {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                 </div>
               </div>
             )
@@ -269,17 +269,23 @@ const SearchWrapper = styled.div`
     padding: 10px;
     background-color: var(--mainColor);
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     a {
       color: white;
       font-weight: bolder;
     }
     p {
-      line-height: 1.2rem;
+      line-height: 1.5rem;
     }
-    .agent-name {
-      font-size: 1.2rem;
-      margin-bottom: 0.5rem;
-    }
+  }
+  .website-link {
+    font-weight: lighter;
+  }
+  .email::first-letter,
+  .island::first-letter {
+    text-transform: uppercase;
   }
   /* Mobile */
   @media (max-width: 768px) {

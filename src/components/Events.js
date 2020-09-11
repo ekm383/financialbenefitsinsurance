@@ -52,7 +52,9 @@ const Events = () => {
           </div>
         )
       })}
-      <h2>October Events</h2>
+      <h2>
+        October Events <br /> <p>Annual Enrollment Period</p>
+      </h2>
       {octoberEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>

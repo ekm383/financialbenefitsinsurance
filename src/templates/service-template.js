@@ -89,10 +89,6 @@ const Wrapper = styled.div`
   }
   .serviceList {
     list-style-type: none;
-    li {
-      margin-bottom: 1rem;
-      font-size: 0.8rem;
-    }
   }
   svg {
     font-size: 0.8rem;

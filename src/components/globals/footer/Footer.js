@@ -127,6 +127,11 @@ const FooterWrapper = styled.div`
     list-style-type: none;
     font-size: 10px;
     margin-bottom: 0;
+    li {
+      font-size: 10px;
+      line-height: 1.1rem;
+      margin-top: 0rem;
+    }
   }
   svg {
     font-size: 1.5rem;
