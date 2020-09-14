@@ -5,9 +5,9 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BannerPage from "../components/globals/banner/BannerPage"
 import BackgroundImage from "gatsby-background-image"
-
 import Section from "../components/globals/section/Section"
 import ContactForm from "../components/ContactForm"
+import Logos from "../components/globals/footer/Logos"
 
 const ContactPage = () => {
   const image = useStaticQuery(graphql`
@@ -49,6 +49,7 @@ const ContactPage = () => {
           <ContactForm />
         </Section>
       </StyledContact>
+      <Logos />
     </Layout>
   )
 }

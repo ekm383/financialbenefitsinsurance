@@ -7,6 +7,7 @@ import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Search from "../components/Search"
+import Logos from "../components/globals/footer/Logos"
 
 const AgentsPage = () => {
   const image = useStaticQuery(graphql`
@@ -48,6 +49,7 @@ const AgentsPage = () => {
           <Search />
         </Section>
       </StyledAgents>
+      <Logos />
     </Layout>
   )
 }

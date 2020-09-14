@@ -1,16 +1,32 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/layout"
 import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import SEO from "../components/seo"
 import styled from "styled-components"
-import Logos from "../components/globals/footer/Logos"
+import TermLifeLogos from "../components/logos/TermLifeLogos"
 
-const ProductTemplate = ({ data }) => {
-  const { product, content, productImage } = data.productItem
-
+const TermLife = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      serviceItem: servicesJson(slug: { eq: "term-life" }) {
+        id
+        slug
+        service
+        serviceImage {
+          childImageSharp {
+            fluid(maxWidth: 1920, quality: 90) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        content
+      }
+    }
+  `)
+  const { service, content, serviceImage } = data.serviceItem
   return (
     <Layout>
       <Wrapper>
@@ -28,16 +44,16 @@ const ProductTemplate = ({ data }) => {
         <BackgroundImage
           Tag="section"
           className="bg-hero"
-          fluid={productImage.childImageSharp.fluid}
+          fluid={serviceImage.childImageSharp.fluid}
           backgroundColor={`#ffffff`}
         >
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title={product} />
+            <BannerPage title={service} />
           </Section>
         </BackgroundImage>
         <Section style={{ paddingTop: "4rem" }}>
           <div>
-            <ul className="productList">
+            <ul className="serviceList">
               {content.map((value, id) => {
                 return <li key={id}>{value}</li>
               })}
@@ -45,28 +61,10 @@ const ProductTemplate = ({ data }) => {
           </div>
         </Section>
       </Wrapper>
-      <Logos />
+      <TermLifeLogos />
     </Layout>
   )
 }
-
-export const query = graphql`
-  query($slug: String!) {
-    productItem: productsJson(slug: { eq: $slug }) {
-      id
-      slug
-      product
-      productImage {
-        childImageSharp {
-          fluid(maxWidth: 1920, quality: 90) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
-      content
-    }
-  }
-`
 
 const Wrapper = styled.div`
   width: 100%;
@@ -89,11 +87,11 @@ const Wrapper = styled.div`
     font-weight: bold;
     text-align: center;
   }
+  .serviceList {
+    list-style-type: none;
+  }
   svg {
     font-size: 0.8rem;
-  }
-  .productList {
-    list-style-type: none;
   }
   form {
     width: 80vw;
@@ -260,4 +258,4 @@ const Wrapper = styled.div`
   }
 `
 
-export default ProductTemplate
+export default TermLife

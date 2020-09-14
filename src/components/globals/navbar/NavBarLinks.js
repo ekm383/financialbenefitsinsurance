@@ -9,10 +9,10 @@ const NavBarLinks = () => {
       <Navbar collapseOnSelect expand="md">
         <Navbar.Brand href="/">
           <img
-            style={{ marginRight: "3rem" }}
+            style={{ marginRight: "1rem" }}
             src={img}
             alt="logo"
-            width="90px"
+            width="120px"
           />
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -24,13 +24,13 @@ const NavBarLinks = () => {
               <NavDropdown.Item href="/service/health-insurance">
                 Health Insurance
               </NavDropdown.Item>
-              <NavDropdown.Item href="/service/life-insurance">
+              <NavDropdown.Item href="/life-insurance">
                 Life Insurance
               </NavDropdown.Item>
-              <NavDropdown.Item href="/service/permanent-life-insurance">
+              <NavDropdown.Item href="/permanent-life">
                 Permanent Life Insurance
               </NavDropdown.Item>
-              <NavDropdown.Item href="/service/term-life-insurance">
+              <NavDropdown.Item href="/term-life">
                 Term Life Insurance
               </NavDropdown.Item>
             </NavDropdown>
@@ -38,7 +38,7 @@ const NavBarLinks = () => {
               <NavDropdown.Item href="/product/medicare-advantage">
                 Medicare Advantage
               </NavDropdown.Item>
-              <NavDropdown.Item href="/product/final-expense">
+              <NavDropdown.Item href="/final-expense">
                 Final Expense
               </NavDropdown.Item>
               <NavDropdown.Item href="/product/annuity">

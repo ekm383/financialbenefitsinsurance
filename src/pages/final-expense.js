@@ -1,14 +1,31 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/layout"
 import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import SEO from "../components/seo"
 import styled from "styled-components"
-import Logos from "../components/globals/footer/Logos"
+import FinalExpenseLogo from "../components/logos/FinalExpense"
 
-const ProductTemplate = ({ data }) => {
+const FinalExpense = () => {
+  const data = useStaticQuery(graphql`
+    query {
+      productItem: productsJson(slug: { eq: "final-expense" }) {
+        id
+        slug
+        product
+        productImage {
+          childImageSharp {
+            fluid(maxWidth: 1920, quality: 90) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+        content
+      }
+    }
+  `)
   const { product, content, productImage } = data.productItem
 
   return (
@@ -45,28 +62,10 @@ const ProductTemplate = ({ data }) => {
           </div>
         </Section>
       </Wrapper>
-      <Logos />
+      <FinalExpenseLogo />
     </Layout>
   )
 }
-
-export const query = graphql`
-  query($slug: String!) {
-    productItem: productsJson(slug: { eq: $slug }) {
-      id
-      slug
-      product
-      productImage {
-        childImageSharp {
-          fluid(maxWidth: 1920, quality: 90) {
-            ...GatsbyImageSharpFluid
-          }
-        }
-      }
-      content
-    }
-  }
-`
 
 const Wrapper = styled.div`
   width: 100%;
@@ -260,4 +259,4 @@ const Wrapper = styled.div`
   }
 `
 
-export default ProductTemplate
+export default FinalExpense

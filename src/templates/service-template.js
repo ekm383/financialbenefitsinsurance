@@ -6,6 +6,7 @@ import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import SEO from "../components/seo"
 import styled from "styled-components"
+import Logos from "../components/globals/footer/Logos"
 
 const ServiceTemplate = ({ data }) => {
   const { service, content, serviceImage } = data.serviceItem
@@ -44,6 +45,7 @@ const ServiceTemplate = ({ data }) => {
           </div>
         </Section>
       </Wrapper>
+      <Logos />
     </Layout>
   )
 }

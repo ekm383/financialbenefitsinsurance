@@ -7,6 +7,7 @@ import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Photo from "../images/generations.jpg"
+import Logos from "../components/globals/footer/Logos"
 
 const OurStoryPage = () => {
   const image = useStaticQuery(graphql`
@@ -139,6 +140,7 @@ const OurStoryPage = () => {
           </p>
         </Section>
       </StyledStory>
+      <Logos />
     </Layout>
   )
 }

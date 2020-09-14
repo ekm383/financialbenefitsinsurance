@@ -13,6 +13,7 @@ import Fifty from "../components/globals/section/Fifty"
 import BackgroundImage from "gatsby-background-image"
 import OahuPhotos from "../components/OahuPhotos"
 import HiloPhotos from "../components/HiloPhotos"
+import Logos from "../components/globals/footer/Logos"
 
 const IndexPage = () => {
   const image = useStaticQuery(graphql`
@@ -48,9 +49,9 @@ const IndexPage = () => {
               title2="Service sets us apart."
             >
               <div className="buttonContainer">
-                <a href="/">
+                <a href="/events">
                   <Button>
-                    Book Appointment
+                    Upcoming Events
                     <FaArrowCircleRight />
                   </Button>
                 </a>
@@ -65,11 +66,18 @@ const IndexPage = () => {
           text="We are a little old fashioned, if you want something done quickly, we will do everything we can to assist. Customer service is of paramount importance to us. Our customers recommend us to their friends. Our expertise is based on well-trained experienced staff that can tailor a comprehensive insurance program for your specific needs. You will have the added benefit of working with agents who understand your needs. Finding the right policy is only the beginning."
         />
         <Section style={{ width: "80vw", margin: "4rem auto 0rem auto" }}>
-          <p>Oahu Office</p>
+          <p>
+            <strong>Hawaii Kapiolani Office</strong>
+            <br />
+            1311 Kapiolani Blvd. Ste. 504 Honolulu, HI 96814
+          </p>
           <OahuPhotos />
         </Section>
         <Section style={{ width: "80vw", margin: "1rem auto 4rem auto" }}>
-          <p>Hilo Office</p>
+          <p>
+            <strong>Big Island Hilo Office</strong>
+            <br /> 1289 Kilauea Ave. Hilo, HI  96720
+          </p>
           <HiloPhotos />
         </Section>
         <BackgroundImage
@@ -100,6 +108,7 @@ const IndexPage = () => {
           </div>
         </BackgroundImage>
       </IndexWrapper>
+      <Logos />
     </Layout>
   )
 }
@@ -108,7 +117,7 @@ const IndexWrapper = styled.div`
   .BannerContainer {
     position: absolute;
     z-index: 3;
-    top: 12%;
+    top: 10%;
     left: 10%;
   }
   .buttonContainer {

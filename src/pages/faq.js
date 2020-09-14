@@ -6,6 +6,7 @@ import SEO from "../components/seo"
 import BannerPage from "../components/globals/banner/BannerPage"
 import BackgroundImage from "gatsby-background-image"
 import Section from "../components/globals/section/Section"
+import Logos from "../components/globals/footer/Logos"
 
 const FaqPage = () => {
   const image = useStaticQuery(graphql`
@@ -45,6 +46,7 @@ const FaqPage = () => {
         </BackgroundImage>
         <Section style={{ margin: "4rem auto 0rem auto" }}></Section>
       </StyledContact>
+      <Logos />
     </Layout>
   )
 }

@@ -92,6 +92,15 @@
   {
     "month": "october",
     "day": "Oct 14",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 14",
     "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm ",
     "location": "Pagoda Hotel (Lasalle Ballroom)",
     "street": "1525 Rycroft St.",
@@ -110,6 +119,24 @@
   {
     "month": "october",
     "day": "Oct 15",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 15",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Big Island",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 15",
     "time": " 9:00am-10:30am, 11:00am-12:30pm",
     "location": "All Saints Church (Memorial Hall Room)",
     "street": "4-1065 Kuhio Hwy",
@@ -123,6 +150,15 @@
     "location": "FILCOM (Tech Room 2)",
     "street": "94-428 Mokuola St",
     "city": "Waipahu, HI 96797",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 15",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
     "type": ""
   },
   {
@@ -164,8 +200,26 @@
   {
     "month": "october",
     "day": "Oct 17",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Virtual Meeting",
+    "time": "9:00am-10:30am",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 19",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 19",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Big Island",
     "street": "",
     "city": "",
     "type": ""
@@ -199,11 +253,47 @@
   },
   {
     "month": "october",
+    "day": "Oct 20",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 21",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 21",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Big Island",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
     "day": "Oct 21",
     "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
     "location": "Pagoda Hotel (Lasalle Ballroom)",
     "street": "1525 Rycroft St.",
     "city": "Honolulu, HI 96814",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 22",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
     "type": ""
   },
   {
@@ -217,11 +307,20 @@
   },
   {
     "month": "october",
-    "day": "Oct 22",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "King Kamehameha Hotel (Meeting Room)",
-    "street": "75-5660 Palani Rd.",
-    "city": "Kailua-Kona, HI 96740",
+    "day": "Oct 23",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 23",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Big Island",
+    "street": "",
+    "city": "",
     "type": ""
   },
   {
@@ -245,8 +344,17 @@
   {
     "month": "october",
     "day": "Oct 24",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Virtual Meeting",
+    "time": "9:00am-10:30am",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 26",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
     "street": "",
     "city": "",
     "type": ""
@@ -258,6 +366,24 @@
     "location": "Pagoda Hotel (Lasalle Ballroom)",
     "street": "1525 Rycroft St.",
     "city": "Honolulu, HI 96814",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 27",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 27",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Big Island",
+    "street": "",
+    "city": "",
     "type": ""
   },
   {
@@ -281,6 +407,15 @@
   {
     "month": "october",
     "day": "Oct 28",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 28",
     "time": "9:00am-10:30am, 11:00am-12:30pm",
     "location": "Aina Hina Public Library (Meeting Room)",
     "street": "5246 Kalaniana'ole Hwy",
@@ -294,6 +429,24 @@
     "location": "Imiloa Astronomy Center (Imiloa Classroom)",
     "street": "600 Imiloa Pl.",
     "city": "Hilo, HI 96720",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 29",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 29",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Big Island",
+    "street": "",
+    "city": "",
     "type": ""
   },
   {
@@ -317,6 +470,15 @@
   {
     "month": "october",
     "day": "Oct 30",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting Oahu",
+    "street": "",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "october",
+    "day": "Oct 30",
     "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm ",
     "location": "FILCOM (Tech Room 2)",
     "street": "94-428 Mokuola St",
@@ -335,8 +497,8 @@
   {
     "month": "october",
     "day": "Oct 31",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Virtual Meeting",
+    "time": "9:00am-10:30am",
+    "location": "Virtual Meeting Oahu",
     "street": "",
     "city": "",
     "type": ""

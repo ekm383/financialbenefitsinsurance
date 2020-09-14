@@ -28,6 +28,20 @@ const BackgroundSection = ({ children }) => {
           }
         }
       }
+      slide4: file(relativePath: { eq: "FBI-Slider-4.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+      slide5: file(relativePath: { eq: "FBI-Slider-5.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
     }
   `)
   return (
@@ -42,6 +56,12 @@ const BackgroundSection = ({ children }) => {
         </Carousel.Item>
         <Carousel.Item>
           <Img fluid={data.slide3.childImageSharp.fluid} alt="Third Slide" />
+        </Carousel.Item>
+        <Carousel.Item>
+          <Img fluid={data.slide4.childImageSharp.fluid} alt="Fourth Slide" />
+        </Carousel.Item>
+        <Carousel.Item>
+          <Img fluid={data.slide5.childImageSharp.fluid} alt="Fifth Slide" />
         </Carousel.Item>
       </Carousel>
     </CarouselWrapper>

@@ -60,7 +60,7 @@
   {
     "id": "5",
     "service": "Permanent Life Insurance",
-    "slug": "permanent-life-insurance",
+    "slug": "permanent-life",
     "serviceImage": "../images/background/fbihi-bg-12.jpg",
     "content": [
       "Permanent (cash value) Insurance",
@@ -77,7 +77,7 @@
   {
     "id": "6",
     "service": "Term Life Insurance",
-    "slug": "term-life-insurance",
+    "slug": "term-life",
     "serviceImage": "../images/background/fbihi-bg-13.jpg",
     "content": [
       "It provides protection for a specified period of time, typically from one to 30 years. It pays a death benefit only if you die during this term.",

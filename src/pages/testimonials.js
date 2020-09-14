@@ -8,6 +8,7 @@ import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import { FaQuoteLeft, FaQuoteRight } from "react-icons/fa"
+import Logos from "../components/globals/footer/Logos"
 
 const TestimonialsPage = () => {
   const image = useStaticQuery(graphql`
@@ -127,6 +128,7 @@ const TestimonialsPage = () => {
           </div>
         </Section>
       </Wrapper>
+      <Logos />
     </Layout>
   )
 }

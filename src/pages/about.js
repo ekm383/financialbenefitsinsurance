@@ -8,6 +8,11 @@ import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Img1 from "../images/agents/FBI-Travis-Motosue.jpg"
 import Img2 from "../images/agents/FBI-Edward-Motosue.jpg"
+import Img3 from "../images/scout-medal.png"
+import Img4 from "../images/generations.jpg"
+import Img5 from "../images/silver-beaver-medal.jpg"
+import Img6 from "../images/helmet.jpg"
+import Logos from "../components/globals/footer/Logos"
 
 const AboutPage = () => {
   const image = useStaticQuery(graphql`
@@ -111,6 +116,8 @@ const AboutPage = () => {
                 selling person for Boy Scout Makahiki tickets for many years in
                 row. Travis eventually attained the rank of Eagle Scout and also
                 attended and graduated from Iolani High School in 1999.
+                <img src={Img3} alt="scout" width="200" />
+                <br />
                 Following his graduation, he went on to attend Oregon State
                 University and then graduated at University of Hawaii with a
                 B.S. major in Biology in 2003.
@@ -164,17 +171,20 @@ const AboutPage = () => {
                 1978. At sixty-nine years old he has three children, nine
                 grandchildren, and twelve great grandchildren. Edward is
                 fortunate his dad is still alive. He is ninety-three years old.
+                <img src={Img4} alt="ed" width="200" />
               </p>
               <p>
                 Enjoying the outdoors, Edward leads Scouts on five-day high
                 adventure trips on the Neighbor Islands where he backpacks with
                 his own tent, food, and water carried on his back. Being an avid
-                Scouter, he received the Silver Beaver award in 1998. He was the
-                Activities/Civic Committee Chairman in Aloha Council. Edward is
-                also a diehard football fan since his days at UH, holding seven
-                season tickets every year to take his family and friends.
-                Through winning seasons and losing seasons, Edward is at UH
-                football games. Go Warriors!!!
+                Scouter, he received the Silver Beaver award in 1998.
+                <img src={Img5} alt="ed" width="200" /> <br />
+                He was the Activities/Civic Committee Chairman in Aloha Council.
+                Edward is also a diehard football fan since his days at UH,
+                holding seven season tickets every year to take his family and
+                friends. Through winning seasons and losing seasons, Edward is
+                at UH football games. Go Warriors!!!
+                <img src={Img6} alt="ed" width="200" /> <br />
               </p>
               <p>
                 In 1972 Edward entered the Sears Roebuck National Trainee
@@ -218,6 +228,7 @@ const AboutPage = () => {
           </div>
         </Section>
       </Wrapper>
+      <Logos />
     </Layout>
   )
 }

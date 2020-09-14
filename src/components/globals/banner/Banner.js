@@ -50,15 +50,12 @@ const BannerWrapper = styled.div`
     justify-content: flex-start;
     .box {
       text-align: center;
-      margin-top: -10rem;
-    }
-    img {
-      width: 60%;
+      margin-top: -22rem;
     }
     .title {
       margin-bottom: 0.8rem;
       font-size: 1.6rem;
-      line-height: 1.5rem;
+      line-height: 1rem;
     }
     .titleSmall {
       letter-spacing: 0px;
