@@ -42,7 +42,7 @@ const ContactForm = () => {
           </li>
           <li>
             <button type="submit" class="button">
-              let's talk
+              Send Email
             </button>
           </li>
         </ul>

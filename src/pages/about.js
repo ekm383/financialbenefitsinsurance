@@ -12,6 +12,7 @@ import Img3 from "../images/scout-medal.png"
 import Img4 from "../images/generations.jpg"
 import Img5 from "../images/silver-beaver-medal.jpg"
 import Img6 from "../images/helmet.jpg"
+import Img7 from "../images/grandparents.jpg"
 import Logos from "../components/globals/footer/Logos"
 
 const AboutPage = () => {
@@ -127,18 +128,20 @@ const AboutPage = () => {
                 with his grandparents as they lived in Kaimuki which was closer
                 to his schooling than the windward side. During his stays, he
                 had grown a close bond and relationship with his grandparents
-                and eventually saw the changing of the times. While he was
-                younger, they took care of him; but as times have passed he
-                found himself helping with their needs of taking them to the
-                doctors, stores, and making them food. Seeing this occurring and
-                the fact that the seniors needed help, he decided to look into
-                working with the seniors in the insurance market. Recently,
-                Travis has had a very busy personal life having had his son,
-                Julian, born on May 27, 2017 and then getting married in 2018 to
-                his longtime girlfriend and now wife, Jessica. Family life for
-                Travis has definitely been a blessing, but also a lifestyle
-                change that keeps on evolving as he adjusts to life as a father
-                and husband.
+                and eventually saw the changing of the times.
+                <img src={Img7} alt="scout" width="200" />
+                <br />
+                While he was younger, they took care of him; but as times have
+                passed he found himself helping with their needs of taking them
+                to the doctors, stores, and making them food. Seeing this
+                occurring and the fact that the seniors needed help, he decided
+                to look into working with the seniors in the insurance market.
+                Recently, Travis has had a very busy personal life having had
+                his son, Julian, born on May 27, 2017 and then getting married
+                in 2018 to his longtime girlfriend and now wife, Jessica. Family
+                life for Travis has definitely been a blessing, but also a
+                lifestyle change that keeps on evolving as he adjusts to life as
+                a father and husband.
               </p>
               <p>
                 Travis Motosue has been working with insurance and has
@@ -165,12 +168,12 @@ const AboutPage = () => {
                 Kiyoko, Edward Motosue was the first of five children – two boys
                 followed by three girls. Attending Iolani School he graduated in
                 1967, then later married his high school sweetheart, Darlee.
-                They have been together for forty-nine years. Edward earned a
+                They have been together for fifty-one years. Edward earned a
                 bachelor’s degree (BS Biology) from University of Hawaii in 1971
                 and earned a master’s degree (MBA) from Pepperdine University in
-                1978. At sixty-nine years old he has three children, nine
-                grandchildren, and twelve great grandchildren. Edward is
-                fortunate his dad is still alive. He is ninety-three years old.
+                1978. At seventy-one years old he has three children, ten
+                grandchildren, and fourteen great grandchildren. Edward is
+                fortunate his dad is still alive. He is ninety-six years old.
                 <img src={Img4} alt="ed" width="200" />
               </p>
               <p>
@@ -179,15 +182,15 @@ const AboutPage = () => {
                 his own tent, food, and water carried on his back. Being an avid
                 Scouter, he received the Silver Beaver award in 1998.
                 <img src={Img5} alt="ed" width="200" /> <br />
-                He was the Activities/Civic Committee Chairman in Aloha Council.
-                Edward is also a diehard football fan since his days at UH,
-                holding seven season tickets every year to take his family and
-                friends. Through winning seasons and losing seasons, Edward is
-                at UH football games. Go Warriors!!!
+                He was the Activities/Civic Committee Chairman in Aloha Council
+                Ko'olau District Commissioner. Edward is also a diehard football
+                fan since his days at UH, holding seven season tickets every
+                year to take his family and friends. Through winning seasons and
+                losing seasons, Edward is at UH football games. Go Warriors!!!
                 <img src={Img6} alt="ed" width="200" /> <br />
               </p>
               <p>
-                In 1972 Edward entered the Sears Roebuck National Trainee
+                In 1971 Edward entered the Sears Roebuck National Trainee
                 Program and started work at the Ala Moana store. After
                 managerial assignments in Ala Moana, Pearlridge, Kaneohe, and
                 Waipahu stores Edward stayed in the Sears District Office for
@@ -217,9 +220,9 @@ const AboutPage = () => {
               </p>
               <p>
                 Since its inception, Financial Benefits Insurance has grown
-                rapidly and currently has over sixty agents. The agents have
+                rapidly and currently has over fifty agents. The agents have
                 venues with various Senior Residences and Community Centers.
-                Edward and Travis also do over 40 Medicare seminars every year.
+                Edward and Travis also do over 140 Medicare seminars every year.
                 Emphasizing everyone has different wants and needs, Edward’s
                 motto is “No one plan is good for everybody”. He also says,”
                 Benefits are our business, service sets us apart”.

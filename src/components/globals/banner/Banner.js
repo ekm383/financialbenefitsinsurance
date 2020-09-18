@@ -22,7 +22,7 @@ const BannerWrapper = styled.div`
   color: var(--white);
   .box {
     flex-basis: 100%;
-    text-align: left;
+    text-align: center;
   }
   .title,
   .subtitle {

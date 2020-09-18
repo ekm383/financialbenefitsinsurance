@@ -45,9 +45,9 @@ const Events = () => {
             <p>
               <span>{node.location}</span>
             </p>
-            <p>{node.time}</p>
             <p>{node.street}</p>
             <p>{node.city}</p>
+            <p>{node.time}</p>
             <p>{node.type}</p>
           </div>
         )
@@ -62,9 +62,9 @@ const Events = () => {
             <p>
               <span>{node.location}</span>
             </p>
-            <p>{node.time}</p>
             <p>{node.street}</p>
             <p>{node.city}</p>
+            <p>{node.time}</p>
             <p>{node.type}</p>
           </div>
         )

@@ -11,8 +11,9 @@ import Section from "../components/globals/section/Section"
 import { FaArrowCircleRight } from "react-icons/fa"
 import Fifty from "../components/globals/section/Fifty"
 import BackgroundImage from "gatsby-background-image"
-import OahuPhotos from "../components/OahuPhotos"
-import HiloPhotos from "../components/HiloPhotos"
+import OahuPhotos from "../components/officePhotos/OahuPhotos"
+import HiloPhotos from "../components/officePhotos/HiloPhotos"
+import WaipahuPhotos from "../components/officePhotos/WaipahuPhotos"
 import Logos from "../components/globals/footer/Logos"
 
 const IndexPage = () => {
@@ -42,21 +43,12 @@ const IndexPage = () => {
           ]}
         />
         <HeaderIndex>
-          <div className="BannerContainer">
+          <div className="banner-container">
             <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
               title="Benefits are our business."
               title2="Service sets us apart."
-            >
-              <div className="buttonContainer">
-                <a href="/events">
-                  <Button>
-                    Upcoming Events
-                    <FaArrowCircleRight />
-                  </Button>
-                </a>
-              </div>
-            </Banner>
+            ></Banner>
           </div>
         </HeaderIndex>
         <Fifty
@@ -65,20 +57,26 @@ const IndexPage = () => {
           subheading="Financial Benefits Insurance"
           text="We are a little old fashioned, if you want something done quickly, we will do everything we can to assist. Customer service is of paramount importance to us. Our customers recommend us to their friends. Our expertise is based on well-trained experienced staff that can tailor a comprehensive insurance program for your specific needs. You will have the added benefit of working with agents who understand your needs. Finding the right policy is only the beginning."
         />
-        <Section style={{ width: "80vw", margin: "4rem auto 0rem auto" }}>
-          <p>
-            <strong>Hawaii Kapiolani Office</strong>
-            <br />
-            1311 Kapiolani Blvd. Ste. 504 Honolulu, HI 96814
-          </p>
+        <Section style={{ width: "80vw", margin: "4rem auto 4rem auto" }}>
+          <div className="photo-header">
+            <h6>Honolulu Kapiolani Office</h6>
+            <p>1311 Kapiolani Blvd. Ste. 504 Honolulu, HI 96814</p>
+          </div>
           <OahuPhotos />
         </Section>
-        <Section style={{ width: "80vw", margin: "1rem auto 4rem auto" }}>
-          <p>
-            <strong>Big Island Hilo Office</strong>
-            <br /> 1289 Kilauea Ave. Hilo, HI  96720
-          </p>
+        <Section style={{ width: "80vw", margin: "4rem auto" }}>
+          <div className="photo-header">
+            <h6>Big Island Hilo Office</h6>
+            <p>1289 Kilauea Ave. Hilo, HI  96720</p>
+          </div>
           <HiloPhotos />
+        </Section>
+        <Section style={{ width: "80vw", margin: "4rem auto" }}>
+          <div className="photo-header">
+            <h6>Waipahu Community Office</h6>
+            <p>94-050 Farrington Hwy Waipahu, HI 96797</p>
+          </div>
+          <WaipahuPhotos />
         </Section>
         <BackgroundImage
           Tag="section"
@@ -114,16 +112,6 @@ const IndexPage = () => {
 }
 
 const IndexWrapper = styled.div`
-  .BannerContainer {
-    position: absolute;
-    z-index: 3;
-    top: 10%;
-    left: 10%;
-  }
-  .buttonContainer {
-    display: flex;
-    flex-wrap: wrap;
-  }
   .login {
     text-align: left;
     padding: 4rem 0rem;
@@ -132,6 +120,16 @@ const IndexWrapper = styled.div`
     h4 {
       color: var(--white);
     }
+  }
+  .banner-container {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 8%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 9000;
   }
   .bg-hero {
     width: 100%;
@@ -147,15 +145,22 @@ const IndexWrapper = styled.div`
     flex-wrap: wrap;
     justify-content: flex-start;
   }
+  .photo-header {
+    h6 {
+      font-family: "Merriweather";
+      font-style: italic;
+      font-size: 1.8rem;
+      margin: 0;
+      color: var(--mainColor);
+      text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.1);
+    }
+  }
   @media (max-width: 768px) {
     justify-content: center;
     align-content: center;
     margin: 0rem auto;
-    .BannerContainer {
-      top: 12%;
-    }
-    .buttonContainer a {
-      margin: 0rem auto;
+    .banner-container {
+      top: 10%;
     }
     .portal-buttons {
       justify-content: center;

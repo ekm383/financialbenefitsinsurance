@@ -89,6 +89,7 @@ class Footer extends Component {
               <a href="https://www.ethics.net/member=107896/edward-motosue">
                 <img src={Ethics} alt="ethics" width="75px" />
               </a>
+              <p>Belong to HIIA, HAHU Org. Hawaii Genealogical Society</p>
             </div>
           </div>
         </Section>

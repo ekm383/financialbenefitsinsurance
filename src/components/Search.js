@@ -272,6 +272,11 @@ const SearchWrapper = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: center;
+    .agent-name {
+      a {
+        text-decoration: underline;
+      }
+    }
     a {
       color: white;
       font-weight: bolder;

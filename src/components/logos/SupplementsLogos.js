@@ -1,7 +1,6 @@
 import React from "react"
 import styled from "styled-components"
 import logo01 from "../../images/logos/aetna-logo.jpg"
-import logo02 from "../../images/logos/aloha-care-logo.jpg"
 import logo03 from "../../images/logos/cigna-logo.jpg"
 import logo04 from "../../images/logos/humana-logo.jpg"
 import logo05 from "../../images/logos/mutual-of-omaha-logo.jpg"
@@ -16,7 +15,6 @@ const SupplementsLogos = () => {
       <div class="logo-slider">
         <div class="logo-slide">
           <img src={logo01} alt="logo" />
-          <img src={logo02} alt="logo" />
           <img src={logo03} alt="logo" />
           <img src={logo04} alt="logo" />
           <img src={logo05} alt="logo" />

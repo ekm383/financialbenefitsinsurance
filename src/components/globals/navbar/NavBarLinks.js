@@ -18,6 +18,11 @@ const NavBarLinks = () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
+            <NavDropdown title="About Us" id="collasible-nav-dropdown">
+              <NavDropdown.Item href="/about">Principles</NavDropdown.Item>
+              <NavDropdown.Item href="/our-story">Our Story</NavDropdown.Item>
+              <NavDropdown.Item href="/executives">Executives</NavDropdown.Item>
+            </NavDropdown>
             <Nav.Link href="/medicare">Medicare Basics</Nav.Link>
             <NavDropdown title="Services" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/dental">Dental</NavDropdown.Item>
@@ -50,13 +55,7 @@ const NavBarLinks = () => {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/events">Events</Nav.Link>
-            <Nav.Link href="/testimonials">Testimonials</Nav.Link>
-            <NavDropdown title="Who We Are" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="/about">About</NavDropdown.Item>
-              <NavDropdown.Item href="/our-story">Our Story</NavDropdown.Item>
-              <NavDropdown.Item href="/agents">Agents</NavDropdown.Item>
-              <NavDropdown.Item href="/faq">FAQ</NavDropdown.Item>
-            </NavDropdown>
+            <Nav.Link href="/agents">Agents</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>

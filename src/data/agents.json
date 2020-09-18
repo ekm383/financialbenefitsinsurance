@@ -31,15 +31,29 @@
   },
   {
     "island": "oahu",
-    "id": "3",
-    "slug": "michael-anderson",
-    "photo": "../images/agents/FBI-Michael-Anderson.jpg",
-    "name": "Michael Anderson",
-    "phone": "808-722-7385",
-    "email": "Manderson@fbihi.com",
-    "bilingual": "",
-    "bio": [""],
-    "testimonials": [""]
+    "id": "20",
+    "slug": "sherry-lau",
+    "photo": "../images/agents/FBI-Sherry-Lau.jpg",
+    "name": "Sherry Lau",
+    "phone": "808-497-8866",
+    "email": "SLau@fbihi.com",
+    "bilingual": "Mandarin",
+    "bio": [
+      "aloha, my name is sherry lau, have a degree of business management, love to travel, also believe:",
+      "1.  work at something you enjoy and that's worthy of your time and talent.",
+      "2.  give people more than they expect and do it cheerfully.",
+      "3.  have a grateful heart.",
+      "4.  be generous.",
+      "5.  be a self-starter.",
+      "6.  be loyal."
+    ],
+    "testimonials": [
+      "sherry lau is our agent , for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms. thank u very much! take me around!  also, help me pick up medicine!",
+      "GANG H. Honolulu, HI",
+      "Sherry Lau is my agent. I depend on her helping me all the mails come in. I am 80 years old. To pick up medicine or english letters and housing events. I need her to do since my leg is not good for walking. Whenever monthly to see doctors. I need help! Thank you very much.",
+      "AYLONG C. Honolulu, HI",
+      "sherry lau is our agent, for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms.  thank u very much! take me around!  also, help me pick up medicine!"
+    ]
   },
   {
     "island": "oahu",
@@ -236,6 +250,23 @@
     "phone": "808-354-4880",
     "email": "Kunciano@fbihi.com",
     "bilingual": "Ilocano and Tagalog",
+    "bio": [
+      "I am a retired Entrepreneur, and now also a Medicare Advantage recipient.",
+      "My hobby is playing golf, in which I’m meeting a lot of retirees who are eager to know more about their Medicare Benefits and for their old parents who needed more Medicare Benefits.",
+      "I have joined the Brokerage company, Financial Benefits Insurance. As a Broker, I am licensed, certified, contracted representing private companies who are providers for Medicare in Hawaii. I also speak Ilocano and Tagalog. Call me anytime. I am your ‘Kamaaina’ agent. I ‘ll make a special time for you.",
+      "Aloha!"
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "3",
+    "slug": "michael-anderson",
+    "photo": "../images/agents/FBI-Michael-Anderson.jpg",
+    "name": "Michael Anderson",
+    "phone": "808-722-7385",
+    "email": "Manderson@fbihi.com",
+    "bilingual": "",
     "bio": [""],
     "testimonials": [""]
   },
@@ -276,32 +307,7 @@
     ],
     "testimonials": [""]
   },
-  {
-    "island": "oahu",
-    "id": "20",
-    "slug": "sherry-lau",
-    "photo": "../images/agents/FBI-Sherry-Lau.jpg",
-    "name": "Sherry Lau",
-    "phone": "808-497-8866",
-    "email": "SLau@fbihi.com",
-    "bilingual": "Mandarin",
-    "bio": [
-      "aloha, my name is sherry lau, have a degree of business management, love to travel, also believe:",
-      "1.  work at something you enjoy and that's worthy of your time and talent.",
-      "2.  give people more than they expect and do it cheerfully.",
-      "3.  have a grateful heart.",
-      "4.  be generous.",
-      "5.  be a self-starter.",
-      "6.  be loyal."
-    ],
-    "testimonials": [
-      "sherry lau is our agent , for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms. thank u very much! take me around!  also, help me pick up medicine!",
-      "GANG H. Honolulu, HI",
-      "Sherry Lau is my agent. I depend on her helping me all the mails come in. I am 80 years old. To pick up medicine or english letters and housing events. I need her to do since my leg is not good for walking. Whenever monthly to see doctors. I need help! Thank you very much.",
-      "AYLONG C. Honolulu, HI",
-      "sherry lau is our agent, for the past year, she is helping us a lot of getting Medicaid for me, since mr. Huang is 93 years old. hard to walk around. also to fill up all the froms.  thank u very much! take me around!  also, help me pick up medicine!"
-    ]
-  },
+
   {
     "island": "big island",
     "id": "21",
@@ -429,7 +435,13 @@
     "phone": "808-640-2643",
     "email": "Mroberto@fbihi.com",
     "bilingual": "Spanish",
-    "bio": [""],
+    "bio": [
+      "My name is Manuel Roberto,  I am a licensed Insurance Broker and Agent in the State of Hawaii. I have been helping people with their Insurance needs for the last 20 years since October 2000.  In 2015,  I started selling Medicare Insurance products through Financial Benefits Insurance Hawaii. I really enjoyed helping seniors to get the Insurance Health Benefits they deserve and need to live a healthy lifestyle in our community. I am personally enrolled in parts A and B of the Federal Medicare Insurance program and enjoyed the extra benefits which are offered through a local Medicare Advantage Plan.",
+      "I graduated from UC Berkeley and have worked for various companies in the Financial Services Industry, I also sell Life Insurance, Long Term care and Annuities. Besides my Insurance Business, I play music with my wife Bernice, we are members of the Kona Harp Ensemble and enjoy playing music at the resorts or community venues specially during Christmas.",
+      "For further information, please contact me at",
+      "mroberto@fbihi.com",
+      "808-640-2643"
+    ],
     "testimonials": [""]
   },
   {

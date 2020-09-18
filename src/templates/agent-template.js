@@ -47,11 +47,11 @@ const Post = ({ data }) => {
               </p>
             )}
 
-            {!bio ? (
+            {bio < 1 ? (
               ""
             ) : (
               <p>
-                Bio:
+                Biography:
                 <span>
                   {bio.map(item => (
                     <ul className="item-list">
@@ -61,8 +61,7 @@ const Post = ({ data }) => {
                 </span>
               </p>
             )}
-
-            {!testimonials ? (
+            {testimonials < 1 ? (
               ""
             ) : (
               <p>
@@ -130,7 +129,7 @@ const Post = ({ data }) => {
               </li>
               <li>
                 <button type="submit" class="button">
-                  let's talk
+                  Send Email
                 </button>
               </li>
             </ul>
@@ -176,6 +175,9 @@ const Wrapper = styled.div`
   }
   .item-list {
     list-style-type: none;
+    li {
+      margin-top: 0;
+    }
   }
   form {
     width: 80vw;

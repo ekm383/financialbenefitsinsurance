@@ -50,51 +50,27 @@ const OurStoryPage = () => {
             Planning for the future:
           </h4>
           <p>
-            “Expanding our position in the Medicare marketplace is crucial. If
-            you don’t, you are going to get rolled over by the big guys”. If you
-            don’t expand you cannot help the many Seniors who need help. If you
-            don’t help the Seniors navigate Medicare no one else will. Seniors
-            need agents who are knowledgeable, caring, and trustworthy.
-          </p>
-          <p>
-            Do you want to own the marketplace or are you happy with your market
-            share? Studies shows if you stop innovation and creativity, a
-            business entity will eventually die a slow death because competition
-            is improving and trying to do better. You need to be ahead of the
-            wave and this takes vision and planning. Are there risks involved?
-            Yes. But through “organization and preparation for every needful
-            thing”, risks can be nominal. Financial Benefits Insurance has
-            surged ahead and taken advantage of business opportunities and
-            growth even during economic turmoil.
-          </p>
-          <p>
-            Restructuring and re-evaluating goals in times of economic turmoil
-            is a fight for survival. Where does a business want to be in 1 year?
-            5 years? 10 years? Does the business entity want to be a player or
-            spectator?{" "}
-          </p>
-          <p>
-            “10 years of growth, expansion, and innovation” Travis Motosue and
-            Ed Motosue started Financial Benefits Insurance in August 2010 with
-            two Medicare carriers (United Healthcare and Humana). In 2018 their
-            agency contracted with WellCare (Ohana Health) and AlohaCare in
-            2019. Currently Financial Benefits Insurance has United Healthcare,
-            Humana, Centene (WellCare, Ohana Health), AlohaCare, Aetna
-            (SilverScripts), CIGNA, TransAmerica, United American, and Mutual of
-            Omaha as part of their Medicare carrier family.{" "}
+            <strong>“10 years of growth, expansion, and innovation” </strong>
+            <br />
+            Travis Motosue and Ed Motosue started Financial Benefits Insurance
+            in August 2010 with two Medicare carriers (United Healthcare and
+            Humana). In 2018 their agency contracted with WellCare (Ohana
+            Health) and AlohaCare in 2019. Currently Financial Benefits
+            Insurance has United Healthcare, Humana, Centene (WellCare, Ohana
+            Health), AlohaCare, Aetna (SilverScripts), CIGNA, United American,
+            and Mutual of Omaha as part of their Medicare carrier family.{" "}
           </p>
           <p>
             In 2016 Financial Benefits Insurance changed their marketing
             strategy to expand to the Neighbor Islands and expand into the
             ethnic speaking markets (Chinese, Korean, Filipino) on Oahu. They
             also entered the DSNP (Dual Special Needs Plan) marketplace and set
-            up retail kiosks in Walmart stores for AEP (Annual Election Period)
-            and OEP (Open Enrollment Period). In 2017 Financial Benefits
-            Insurance tripled their 2016 sales revenue and have been on the
-            upclimb every year. Last year 2019 was a banner year as Financial
-            Benefits Insurance ran on all 4 cylinders. Training, training,
-            training. Their agents are among the most knowledgeable in the
-            Medicare marketplace.
+            up retail kiosks in Walmart stores for Annual Election Period and
+            Open Enrollment Period. In 2017 Financial Benefits Insurance tripled
+            their 2016 sales revenue and have been on the upclimb every year.
+            Last year 2019 was a banner year as Financial Benefits Insurance ran
+            on all 4 cylinders. Training, training, training. Their agents are
+            among the most knowledgeable in the Medicare marketplace.
           </p>
           <p>
             From 3 agents in Aug 2010, Financial Benefits Insurance currently
@@ -115,9 +91,9 @@ const OurStoryPage = () => {
           </p>
           <img className="generation" src={Photo} alt="ed" />
           <p>
-            Travis and Ed are currently updating their Webpage for the 3rd time
-            to keep up with the new changes and making it more client friendly.
-            In April 2020 they introduced a CRM system to their office staff and
+            Travis and Ed recently updated their web page for the third time to
+            keep up with the new changes and making it more client friendly. In
+            April 2020 they introduced a CRM system to their office staff and
             agents. CRM is a client relationship management system. Agents not
             only record the communications with their clients but have a
             timeline for every relationship building contact. Financial Benefits
@@ -131,7 +107,7 @@ const OurStoryPage = () => {
             two in the Appointment Rooms. Hand sanitizers are readily available
             in all rooms. Desks, tables, chairs and door knobs are disinfected
             regularly. Face shields and face masks are available and offered to
-            clients upon entry.{" "}
+            clients upon entry and temperature checks are done.{" "}
           </p>
           <p>
             Time surely flies when you are helping Seniors and having fun.
