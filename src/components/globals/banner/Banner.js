@@ -32,7 +32,7 @@ const BannerWrapper = styled.div`
     font-size: 3rem;
     line-height: 3rem;
     font-style: italic;
-    font-weight: 700;
+    font-weight: bold;
     text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.4);
   }
   .titleSmall {
@@ -50,9 +50,10 @@ const BannerWrapper = styled.div`
     justify-content: flex-start;
     .box {
       text-align: center;
-      margin-top: -22rem;
+      margin-top: -19rem;
     }
     .title {
+      letter-spacing: 0px;
       margin-bottom: 0.8rem;
       font-size: 1.6rem;
       line-height: 1rem;

@@ -112,6 +112,7 @@ const CarouselWrapper = styled.div`
   .carousel-caption {
     bottom: 100px;
   }
+
   button {
     font-size: 1rem;
     width: 200px;
@@ -134,7 +135,10 @@ const CarouselWrapper = styled.div`
   }
   @media (max-width: 768px) {
     .carousel-caption {
-      bottom: 0px;
+      bottom: 20px;
+    }
+    .gatsby-image-wrapper {
+      height: 300px;
     }
   }
 `
