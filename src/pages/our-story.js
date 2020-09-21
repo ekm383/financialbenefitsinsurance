@@ -4,6 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import styled from "styled-components"
 import BackgroundImage from "gatsby-background-image"
+import Img from "gatsby-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Photo from "../images/generations.jpg"
@@ -13,6 +14,20 @@ const OurStoryPage = () => {
   const image = useStaticQuery(graphql`
     {
       bg: file(relativePath: { eq: "background/fbihi-bg-08.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      covid: file(relativePath: { eq: "COVID-19.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 1920, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
+      mask: file(relativePath: { eq: "mask.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 1920, quality: 90) {
             ...GatsbyImageSharpFluid
@@ -101,6 +116,10 @@ const OurStoryPage = () => {
             system.
           </p>
           <p>
+            <Img
+              fluid={image.covid.childImageSharp.fluid}
+              style={{ marginBottom: "2rem" }}
+            />
             In these challenging times with the COVID-19 pandemic, the office is
             a safe office. The Financial Benefits Insurance office has 3 large
             plexi-glass cough shields; one at the reception desk and the other
@@ -108,6 +127,10 @@ const OurStoryPage = () => {
             in all rooms. Desks, tables, chairs and door knobs are disinfected
             regularly. Face shields and face masks are available and offered to
             clients upon entry and temperature checks are done.{" "}
+            <Img
+              fluid={image.mask.childImageSharp.fluid}
+              style={{ margin: "2rem 0rem" }}
+            />
           </p>
           <p>
             Time surely flies when you are helping Seniors and having fun.

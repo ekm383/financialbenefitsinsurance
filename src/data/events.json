@@ -93,7 +93,7 @@
     "month": "october",
     "day": "Oct 14",
     "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
+    "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meetin Link",
     "city": "",
     "type": ""
@@ -120,7 +120,7 @@
     "month": "october",
     "day": "Oct 15",
     "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
+    "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meetin Link",
     "city": "",
     "type": ""
@@ -129,7 +129,7 @@
     "month": "october",
     "day": "Oct 15",
     "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Big Island",
+    "location": "Virtual Meeting Medicare Supplement",
     "street": "Call (808) 792-5194 For Meetin Link",
     "city": "",
     "type": ""
@@ -156,7 +156,7 @@
     "month": "october",
     "day": "Oct 15",
     "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
+    "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meetin Link",
     "city": "",
     "type": ""
@@ -201,315 +201,9 @@
     "month": "october",
     "day": "Oct 17",
     "time": "9:00am-10:30am",
-    "location": "Virtual Meeting Oahu",
+    "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meetin Link",
     "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Big Island",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19",
-    "time": "9am-10:30am, 11am-12:30pm",
-    "location": "Big City Diner Windward Mall",
-    "street": "46-056 Kamehameha Hwy D-01",
-    "city": "Kaneohe, HI 96744",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19",
-    "time": "9am-10:30am, 11am-12:30pm",
-    "location": "Kam Bowl (Front Room)",
-    "street": "1620 N School St.",
-    "city": "Honolulu, HI 96817",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Maui Beach Hotel (Maui Room)",
-    "street": "170 W Kaahumanu Ave.",
-    "city": "Kahului, HI 96732",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 20",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Big Island",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21",
-    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St.",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 22",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 22",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Ruby Tuesday's Mililani",
-    "street": "95-1249 Meheula Pkwy",
-    "city": "Mililani, HI 96789",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Big Island",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23",
-    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
-    "location": "FILCOM (Tech Room 2)",
-    "street": "94-428 Mokuola St",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "All Saints Church (Memorial Hall Room)",
-    "street": "4-1065 Kuhio Hwy",
-    "city": "Kapa'a, HI 96746",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 24",
-    "time": "9:00am-10:30am",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 26",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 26",
-    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St.",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Big Island",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Hanapepe Public Library (Meeting Room)",
-    "street": "4490 Kona Rd.",
-    "city": "Hanapepe, HI 96716",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27",
-    "time": "9:00am-10:30am",
-    "location": "Ohana Hilo Office",
-    "street": "194 Kilauea Ave. # 102",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 28",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 28",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Aina Hina Public Library (Meeting Room)",
-    "street": "5246 Kalaniana'ole Hwy",
-    "city": "Honolulu, HI 96821",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 28",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Imiloa Astronomy Center (Imiloa Classroom)",
-    "street": "600 Imiloa Pl.",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 29",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 29",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Big Island",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 29",
-    "time": "9am-10:30am, 11am-12:30pm",
-    "location": "Kam Bowl (Front Room)",
-    "street": "1620 N School St.",
-    "city": "Honolulu, HI 96817",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 29",
-    "time": "9:00am-10:30am",
-    "location": "Ohana Hilo Office",
-    "street": "194 Kilauea Ave. # 102",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 30",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 30",
-    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm ",
-    "location": "FILCOM (Tech Room 2)",
-    "street": "94-428 Mokuola St",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 30",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Maui Beach Hotel (Maui Room)",
-    "street": "170 W Kaahumanu Ave.",
-    "city": "Kahului, HI 96732",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 31",
-    "time": "9:00am-10:30am",
-    "location": "Virtual Meeting Oahu",
-    "street": "Call (808) 792-5194 For Meetin Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 31",
-    "time": "9:00am-10:30am, 11:00am-12:30pm",
-    "location": "Fountain of Living Water Church",
-    "street": "2412 Rose St.",
-    "city": "Honolulu, HI 96819",
     "type": ""
   }
 ]

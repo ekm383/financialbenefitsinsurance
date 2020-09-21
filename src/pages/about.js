@@ -117,6 +117,7 @@ const AboutPage = () => {
                 selling person for Boy Scout Makahiki tickets for many years in
                 row. Travis eventually attained the rank of Eagle Scout and also
                 attended and graduated from Iolani High School in 1999.
+                <br />
                 <img src={Img3} alt="scout" width="200" />
                 <br />
                 Following his graduation, he went on to attend Oregon State
@@ -129,6 +130,7 @@ const AboutPage = () => {
                 to his schooling than the windward side. During his stays, he
                 had grown a close bond and relationship with his grandparents
                 and eventually saw the changing of the times.
+                <br />
                 <img src={Img7} alt="scout" width="200" />
                 <br />
                 While he was younger, they took care of him; but as times have
@@ -174,19 +176,23 @@ const AboutPage = () => {
                 1978. At seventy-one years old he has three children, ten
                 grandchildren, and fourteen great grandchildren. Edward is
                 fortunate his dad is still alive. He is ninety-six years old.
+                <br />
                 <img src={Img4} alt="ed" width="200" />
+                <br />
               </p>
               <p>
                 Enjoying the outdoors, Edward leads Scouts on five-day high
                 adventure trips on the Neighbor Islands where he backpacks with
                 his own tent, food, and water carried on his back. Being an avid
                 Scouter, he received the Silver Beaver award in 1998.
+                <br />
                 <img src={Img5} alt="ed" width="200" /> <br />
                 He was the Activities/Civic Committee Chairman in Aloha Council
                 Ko'olau District Commissioner. Edward is also a diehard football
                 fan since his days at UH, holding seven season tickets every
                 year to take his family and friends. Through winning seasons and
                 losing seasons, Edward is at UH football games. Go Warriors!!!
+                <br />
                 <img src={Img6} alt="ed" width="200" /> <br />
               </p>
               <p>
@@ -220,12 +226,11 @@ const AboutPage = () => {
               </p>
               <p>
                 Since its inception, Financial Benefits Insurance has grown
-                rapidly and currently has over fifty agents. The agents have
-                venues with various Senior Residences and Community Centers.
-                Edward and Travis also do over 140 Medicare seminars every year.
-                Emphasizing everyone has different wants and needs, Edward’s
-                motto is “No one plan is good for everybody”. He also says,”
-                Benefits are our business, service sets us apart”.
+                rapidly and currently has fifty agents. Edward and Travis do
+                over 140 Medicare seminars every year. Emphasizing everyone has
+                different wants and needs, Edward’s motto is “No one plan is
+                good for everybody”. He also says,” Benefits are our business,
+                service sets us apart”.
               </p>
             </div>
           </div>

@@ -77,7 +77,7 @@ const ExecutivesPage = () => {
               <div className="name">
                 <p className="agent-name">Erline Shiraki</p>
                 <p className="website-link">
-                  Agent Advocate and Marketing Coordinator 
+                  Agent Advocate and Service Coordinator 
                 </p>
               </div>
             </div>
@@ -87,7 +87,9 @@ const ExecutivesPage = () => {
               </div>
               <div className="name">
                 <p className="agent-name">Maryann Ancog</p>
-                <p className="website-link">Client Retention Coordinator</p>
+                <p className="website-link">
+                  Client Retention and Service Coordinator
+                </p>
               </div>
             </div>
           </div>
