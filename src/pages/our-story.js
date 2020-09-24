@@ -83,9 +83,10 @@ const OurStoryPage = () => {
             up retail kiosks in Walmart stores for Annual Election Period and
             Open Enrollment Period. In 2017 Financial Benefits Insurance tripled
             their 2016 sales revenue and have been on the upclimb every year.
-            Last year 2019 was a banner year as Financial Benefits Insurance ran
-            on all 4 cylinders. Training, training, training. Their agents are
-            among the most knowledgeable in the Medicare marketplace.
+            2018 was a good year. Last year 2019 was a banner year as Financial
+            Benefits Insurance ran on all 4 cylinders. Training, training,
+            training. Their agents are among the most knowledgeable in the
+            Medicare marketplace.
           </p>
           <p>
             From 3 agents in Aug 2010, Financial Benefits Insurance currently
