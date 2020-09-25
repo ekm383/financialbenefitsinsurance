@@ -20,10 +20,10 @@ const NavBarLinks = () => {
           <Nav className="mr-auto">
             <NavDropdown title="About Us" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/about">Principles</NavDropdown.Item>
-              <NavDropdown.Item href="/our-story">Our Story</NavDropdown.Item>
               <NavDropdown.Item href="/executives">
                 Office Staff
               </NavDropdown.Item>
+              <NavDropdown.Item href="/our-story">Our Story</NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/medicare">Medicare Basics</Nav.Link>
             <NavDropdown title="Services" id="collasible-nav-dropdown">

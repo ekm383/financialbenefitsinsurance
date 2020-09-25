@@ -5,10 +5,19 @@ import Background from "../components/globals/header/Background"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import SEO from "../components/seo"
+import Img from "gatsby-image"
 import styled from "styled-components"
 
 const Post = ({ data }) => {
-  const { name, phone, email, bilingual, bio, testimonials } = data.agentItem
+  const {
+    name,
+    phone,
+    photo,
+    email,
+    bilingual,
+    bio,
+    testimonials,
+  } = data.agentItem
 
   return (
     <Layout>
@@ -31,6 +40,9 @@ const Post = ({ data }) => {
         </Background>
         <Section style={{ margin: "4rem auto" }}>
           <div className="agentStyle">
+            <div className="avatar">
+              <Img fluid={photo.childImageSharp.fluid} />
+            </div>
             <h2>{name}</h2>
             <p>
               Phone: <span>{phone}</span>
@@ -145,6 +157,13 @@ export const query = graphql`
     agentItem: agentsJson(slug: { eq: $slug }) {
       id
       slug
+      photo {
+        childImageSharp {
+          fluid(maxWidth: 500, quality: 100) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
       name
       phone
       email
@@ -196,7 +215,10 @@ const Wrapper = styled.div`
     position: absolute;
     width: 1px;
   }
-
+  .avatar {
+    width: 40%;
+    margin-bottom: 2rem;
+  }
   .button {
     color: var(--white);
     background-color: var(--mainColor);
@@ -341,6 +363,11 @@ const Wrapper = styled.div`
     border-radius: 4px;
     box-sizing: border-box;
     resize: vertical;
+  }
+  @media (max-width: 768px) {
+    .avatar {
+      width: 60%;
+    }
   }
 `
 

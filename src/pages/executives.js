@@ -51,14 +51,14 @@ const ExecutivesPage = () => {
           backgroundColor={`#ffffff`}
         >
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title="Executives" />
+            <BannerPage title="Office Staff" />
           </Section>
         </BackgroundImage>
         <Section
           style={{ width: "90vw", alignItems: "center", margin: "2rem auto" }}
         >
           <div className="card-container">
-            <h4 className="executives-header">Our Executives</h4>
+            <h4 className="executives-header">Office Staff</h4>
             <div className="box">
               <div className="avatar">
                 <Img fluid={data.dana.childImageSharp.fluid} />

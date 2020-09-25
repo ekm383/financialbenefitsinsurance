@@ -8,6 +8,7 @@ const OahuPhotos = () => {
     query {
       oahuOffice: allFile(
         filter: { relativeDirectory: { eq: "oahu-office" } }
+        sort: { fields: name, order: ASC }
       ) {
         edges {
           node {

@@ -42,16 +42,16 @@
     "location": "FILCOM (Tech Room 2)",
     "street": "94-428 Mokuola St #102",
     "city": "Waipahu, HI 96797",
-    "type": "ANOC (Annual Notice of Change) for members"
+    "type": "Member Appreciation Meetings"
   },
   {
     "month": "october",
     "day": "Oct 7",
     "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St.",
+    "location": "Honolulu Kapiolani Office",
+    "street": "1311 Kapiolani Blvd Suite 504 & 506",
     "city": "Honolulu, HI 96814",
-    "type": "ANOC (Annual Notice of Change) for members"
+    "type": "Member Appreciation Meetings"
   },
   {
     "month": "october",
@@ -60,7 +60,7 @@
     "location": "Big City Diner Windward Mall",
     "street": "46-056 Kamehameha Hwy D-01",
     "city": "Kaneohe, HI 96744",
-    "type": "ANOC (Annual Notice of Change) for members"
+    "type": "Member Appreciation Meetings"
   },
   {
     "month": "october",
@@ -69,43 +69,34 @@
     "location": "Big City Diner Windward Mall",
     "street": "46-056 Kamehameha Hwy D-01",
     "city": "Kaneohe, HI 96744",
-    "type": "ANOC (Annual Notice of Change) for members"
+    "type": "Member Appreciation Meetings"
   },
   {
     "month": "october",
     "day": "Oct 10",
     "time": "9:00am-10:30am, 11:00am-12:30pm",
     "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meetin Link",
+    "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
-    "type": "ANOC (Annual Notice of Change) for members"
+    "type": "Member Appreciation Meetings"
   },
   {
     "month": "october",
     "day": "Oct 13",
     "time": "5pm-6:30pm, 7:00pm-8:30pm",
     "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meetin Link",
+    "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
-    "type": "ANOC (Annual Notice of Change) for members"
+    "type": "Member Appreciation Meetings"
   },
   {
     "month": "october",
     "day": "Oct 14",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meetin Link",
+    "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
     "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 14",
-    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm ",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St.",
-    "city": "Honolulu, HI 96814",
-    "type": "Annual Enrollment Period (AEP)"
   },
   {
     "month": "october",
@@ -121,7 +112,7 @@
     "day": "Oct 15",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meetin Link",
+    "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
     "type": ""
   },
@@ -157,7 +148,7 @@
     "day": "Oct 15",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meetin Link",
+    "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
     "type": ""
   },
@@ -202,7 +193,7 @@
     "day": "Oct 17",
     "time": "9:00am-10:30am",
     "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meetin Link",
+    "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
     "type": ""
   }
