@@ -8,6 +8,7 @@ const OahuPhotos = () => {
     query {
       hiloPhotos: allFile(
         filter: { relativeDirectory: { eq: "hilo-office" } }
+        sort: { fields: name, order: ASC }
       ) {
         edges {
           node {
