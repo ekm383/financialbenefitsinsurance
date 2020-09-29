@@ -51,6 +51,17 @@ const AboutPage = () => {
             <BannerPage title="About Us" />
           </Section>
         </BackgroundImage>
+        <Section style={{ marginTop: "4rem" }}>
+          <iframe
+            src="https://player.vimeo.com/video/456722825"
+            width="640"
+            height="360"
+            frameborder="0"
+            webkitallowfullscreen
+            mozallowfullscreen
+            allowfullscreen
+          ></iframe>
+        </Section>
         <Section style={{ paddingTop: "3rem" }}>
           <div className="box">
             <p>
@@ -140,10 +151,10 @@ const AboutPage = () => {
                 to look into working with the seniors in the insurance market.
                 Recently, Travis has had a very busy personal life having had
                 his son, Julian, born on May 27, 2017 and then getting married
-                in 2018 to his longtime girlfriend and now wife, Jessica. Family
-                life for Travis has definitely been a blessing, but also a
-                lifestyle change that keeps on evolving as he adjusts to life as
-                a father and husband.
+                in 2018 to his longtime girlfriend and now wife, Jessica. Mason
+                his second son was born March 21, 2019. Family life for Travis
+                has definitely been a blessing, but also a lifestyle change that
+                keeps on evolving as he adjusts to life as a father and husband.
               </p>
               <p>
                 Travis Motosue has been working with insurance and has
@@ -188,10 +199,11 @@ const AboutPage = () => {
                 <br />
                 <img src={Img5} alt="ed" width="200" /> <br />
                 He was the Activities/Civic Committee Chairman in Aloha Council
-                Ko'olau District Commissioner. Edward is also a diehard football
-                fan since his days at UH, holding seven season tickets every
-                year to take his family and friends. Through winning seasons and
-                losing seasons, Edward is at UH football games. Go Warriors!!!
+                and also Ko'olau District Commissioner. Edward is also a diehard
+                football fan since his days at UH, holding seven season tickets
+                every year to take his family and friends. Through winning
+                seasons and losing seasons, Edward is at UH football games. Go
+                Warriors!!!
                 <br />
                 <img src={Img6} alt="ed" width="200" /> <br />
               </p>

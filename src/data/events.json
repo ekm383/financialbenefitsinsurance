@@ -109,15 +109,6 @@
   },
   {
     "month": "october",
-    "day": "Oct 9",
-    "time": "9am-10:30am, 11am-12:30pm",
-    "location": "Big City Diner Windward Mall",
-    "street": "46-056 Kamehameha Hwy D-01",
-    "city": "Kaneohe, HI 96744",
-    "type": "Member Appreciation Meetings"
-  },
-  {
-    "month": "october",
     "day": "Oct 10 - UHC",
     "time": "9:00am-10:30am",
     "location": "Virtual Meeting",
@@ -168,33 +159,6 @@
     "location": "Ohana Hilo Office",
     "street": "194 Kilauea Ave. # 102",
     "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 14 - Humana",
-    "time": "9:00am-10:30am",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St.",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 14 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St.",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 14 - Ohana",
-    "time": "1:00pm-2:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St.",
-    "city": "Honolulu, HI 96814",
     "type": ""
   },
   {
@@ -294,24 +258,6 @@
     "location": "Maui Beach Hotel",
     "street": "170 W Kaahumanu Ave.",
     "city": "Kahului, HI 96732",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 16 - Humana",
-    "time": "9:00am-10:30am",
-    "location": "Aina Hina Public Library (Meeting Room)",
-    "street": "5246 Kalaniana'ole Hwy",
-    "city": "Honolulu, HI 96821",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 16 - UHC",
-    "time": "11:00am-12:30pm",
-    "location": "Aina Hina Public Library (Meeting Room)",
-    "street": "5246 Kalaniana'ole Hwy",
-    "city": "Honolulu, HI 96821",
     "type": ""
   },
   {

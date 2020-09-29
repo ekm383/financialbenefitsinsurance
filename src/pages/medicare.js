@@ -80,6 +80,17 @@ const MedicarePage = () => {
         </Section>
       </BackgroundImage>
       <MedicareWrapper>
+        <Section style={{ marginTop: "4rem" }}>
+          <iframe
+            src="https://player.vimeo.com/video/457147776"
+            width="640"
+            height="360"
+            frameborder="0"
+            webkitallowfullscreen
+            mozallowfullscreen
+            allowfullscreen
+          ></iframe>
+        </Section>
         <Section style={{ margin: "4rem auto" }}>
           <div className="box">
             <h4>What is Medicare?</h4>
