@@ -24,6 +24,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            website
           }
         }
       }
@@ -131,12 +132,19 @@ const Agents = () => {
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
                   <p className="website-link">
-                    <Link to={`/agent/${node.slug}`}>View Website</Link>
+                    <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
                   <p>{node.phone}</p>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
                 </div>
               </div>
             )
@@ -153,7 +161,7 @@ const Agents = () => {
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
                   <p className="website-link">
-                    <Link to={`/agent/${node.slug}`}>View Website</Link>
+                    <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
                   <p>{node.phone}</p>
                   <p className="email">{node.email}</p>
@@ -175,7 +183,7 @@ const Agents = () => {
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
                   <p className="website-link">
-                    <Link to={`/agent/${node.slug}`}>View Website</Link>
+                    <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
                   <p>{node.phone}</p>
                   <p className="email">{node.email}</p>
@@ -197,7 +205,7 @@ const Agents = () => {
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
                   <p className="website-link">
-                    <Link to={`/agent/${node.slug}`}>View Website</Link>
+                    <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
                   <p>{node.phone}</p>
                   <p className="email">{node.email}</p>
@@ -219,7 +227,7 @@ const Agents = () => {
                     <Link to={`/agent/${node.slug}`}>{node.name}</Link>
                   </p>
                   <p className="website-link">
-                    <Link to={`/agent/${node.slug}`}>View Website</Link>
+                    <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
                   <p>{node.phone}</p>
                   <p className="email">{node.email}</p>
@@ -264,6 +272,9 @@ const SearchWrapper = styled.div`
   .avatar {
     width: 40%;
   }
+  .personal-site {
+    font-size: 0.9rem;
+  }
   .name {
     width: 60%;
     padding: 10px;
@@ -275,18 +286,16 @@ const SearchWrapper = styled.div`
     .agent-name {
       a {
         text-decoration: underline;
+        font-weight: bolder;
       }
     }
     a {
-      color: white;
-      font-weight: bolder;
+      color: var(--white);
     }
     p {
-      line-height: 1.5rem;
+      line-height: 1.3rem;
+      font-size: 0.9rem;
     }
-  }
-  .website-link {
-    font-weight: lighter;
   }
   .email::first-letter,
   .island::first-letter {
