@@ -51,10 +51,10 @@ const AboutPage = () => {
             <BannerPage title="About Us" />
           </Section>
         </BackgroundImage>
-        <Section style={{ marginTop: "4rem" }}>
+        <Section style={{ margin: "4rem auto 0rem auto" }}>
           <iframe
-            src="https://player.vimeo.com/video/456722825"
-            width="640"
+            src="https://player.vimeo.com/video/467002224"
+            width="100%"
             height="360"
             frameborder="0"
             webkitallowfullscreen
