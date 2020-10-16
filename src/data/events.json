@@ -280,24 +280,6 @@
   },
   {
     "month": "october",
-    "day": "October 19 - UHC",
-    "time": "9:00am-10:30am",
-    "location": "Kam Bowl (Front Room)",
-    "street": "1620 N School St",
-    "city": "Honolulu, HI 96817",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "October 19 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "Kam Bowl (Front Room)",
-    "street": "1620 N School St",
-    "city": "Honolulu, HI 96817",
-    "type": ""
-  },
-  {
-    "month": "october",
     "day": "Oct 19 - Humana",
     "time": "9:00am-10:30am",
     "location": "Maui Beach Hotel (Maui Room)",
@@ -344,33 +326,6 @@
   {
     "month": "october",
     "day": "Oct 21 - Humana",
-    "time": "9:00am-10:30am",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St,",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St,",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21 - Ohana",
-    "time": "1:00pm-2:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St,",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21 - Humana",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meeting Link",
@@ -384,24 +339,6 @@
     "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 22 - UHC",
-    "time": "9:00am-10:30am",
-    "location": "Ruby Tuesday's (Mililani)",
-    "street": "95-1249 Meheula Pkwy",
-    "city": "Mililani, HI 96789",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 22 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "Ruby Tuesday's (Mililani)",
-    "street": "95-1249 Meheula Pkwy",
-    "city": "Mililani, HI 96789",
     "type": ""
   },
   {
@@ -568,47 +505,11 @@
   },
   {
     "month": "october",
-    "day": "Oct 28 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "Imiloa Classroom",
-    "street": "600 Imiloa Pl,",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 28 - Ohana",
-    "time": "11:00am-12:30pm",
-    "location": "Imiloa Classroom",
-    "street": "600 Imiloa Pl,",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
     "day": "Oct 28 - UHC",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 29 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "Kam Bowl (Front Room)",
-    "street": "1620 N School St,",
-    "city": "Honolulu, HI 96817",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 29 - UHC",
-    "time": "11:00am-12:30pm",
-    "location": "Kam Bowl (Front Room)",
-    "street": "1620 N School St,",
-    "city": "Honolulu, HI 96817",
     "type": ""
   },
   {
