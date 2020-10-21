@@ -289,33 +289,6 @@
   },
   {
     "month": "october",
-    "day": "Oct 26 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St,",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 26 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St,",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 26 - Humana",
-    "time": "1:00pm-2:30pm",
-    "location": "Pagoda Hotel (Lasalle Ballroom)",
-    "street": "1525 Rycroft St,",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "october",
     "day": "Oct 26 - UHC",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
@@ -480,6 +453,141 @@
     "month": "october",
     "day": "Oct 31 - UHC",
     "time": "9:00am-10:30am",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 2 - Humana",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 2 - UHC",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 3 - UHC",
+    "time": "9:00am-10:30am",
+    "location": "Big City Diner (Windward Mall)",
+    "street": "46-056 Kamehameha Hwy D-01",
+    "city": "Kaneohe, HI",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 3 - Humana",
+    "time": "11:00am-12:30pm",
+    "location": "Big City Diner (Windward Mall)",
+    "street": "46-056 Kamehameha Hwy D-01",
+    "city": "Kaneohe, HI 96744",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 3 - UHC",
+    "time": "9:00am-10:30am",
+    "location": "Maui Beach Hotel (Maui Room)",
+    "street": "170 W Kaahumanu Ave,",
+    "city": "Kahului, HI 96732",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 3 - Humana",
+    "time": "11:00am-12:30pm",
+    "location": "Maui Beach Hotel (Maui Room)",
+    "street": "170 W Kaahumanu Ave,",
+    "city": "Kahului, HI 96732",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 3 - Ohana",
+    "time": "9:00am-10:30am",
+    "location": "Ohana Hilo Office",
+    "street": "194 Kilauea Ave. # 102",
+    "city": "Hilo, HI 96720",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 3 - UHC",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 4 - Ohana",
+    "time": "9:00am-10:30am",
+    "location": "Pearl Country Club (Pearl 2)",
+    "street": "98-535 Kaonohi St",
+    "city": "Aiea, HI 96701",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 4 - UHC",
+    "time": "11:00am-12:30pm",
+    "location": "Pearl Country Club (Pearl 2)",
+    "street": "98-535 Kaonohi St",
+    "city": "Aiea, HI 96701",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 4 - Humana",
+    "time": "1:00pm-2:30pm",
+    "location": "Pearl Country Club (Pearl 2)",
+    "street": "98-535 Kaonohi St",
+    "city": "Aiea, HI 96701",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 4 - Humana",
+    "time": "9:00am-10:30am",
+    "location": "Hanapepe Public Library",
+    "street": "4490 Kona Rd",
+    "city": "Hanapepe, HI 96716",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 4 - UHC",
+    "time": "11:00am-12:30pm",
+    "location": "Hanapepe Public Library",
+    "street": "4490 Kona Rd",
+    "city": "Hanapepe, HI 96716",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 4 - Humana",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 4 - UHC",
+    "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
