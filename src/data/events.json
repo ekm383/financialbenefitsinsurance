@@ -592,5 +592,86 @@
     "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
     "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 5 - Ohana",
+    "time": "9:00am-10:30am",
+    "location": "King Kamehameha Hotel (Meeting Room)",
+    "street": "75-5660 Palani Rd",
+    "city": "Kailua-Kona, HI 96740",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 5 - Ohana",
+    "time": "11:00am-12:30pm",
+    "location": "King Kamehameha Hotel (Meeting Room)",
+    "street": "75-5660 Palani Rd",
+    "city": "Kailua-Kona, HI 96740",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 5 - Ohana",
+    "time": "9:00am-10:30am",
+    "location": "Ohana Hilo Office",
+    "street": "194 Kilauea Ave. # 102",
+    "city": "Hilo, HI 96720",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 5 - UHC",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 6 - UHC",
+    "time": "9:00am-10:30am",
+    "location": "FILCOM (Tech Center 2)",
+    "street": "94-428 Mokuola St",
+    "city": "Waipahu, HI 96797",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 6 - Ohana",
+    "time": "11:00am-12:30pm",
+    "location": "FILCOM (Tech Center 2)",
+    "street": "94-428 Mokuola St",
+    "city": "Waipahu, HI 96797",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 6 - Humana",
+    "time": "1:00pm-2:30pm",
+    "location": "FILCOM (Tech Center 2)",
+    "street": "94-428 Mokuola St",
+    "city": "Waipahu, HI 96797",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 6 - Humana",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "november",
+    "day": "Nov 6 - Ohana",
+    "time": "6:00pm-7:30pm",
+    "location": "Virtual Meeting",
+    "street": "Call (808) 792-5194 For Meeting Link",
+    "city": "",
+    "type": ""
   }
 ]
