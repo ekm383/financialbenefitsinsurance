@@ -1,348 +1,6 @@
 [
   {
     "month": "october",
-    "day": "Every Friday, Saturday, & Monday",
-    "time": "9:00am - 6:00pm",
-    "location": "Seafood City Supermarket",
-    "street": "94-050 Farrington Hwy",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 14 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 14 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "Ohana Hilo Office",
-    "street": "194 Kilauea Ave. # 102",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 15 - UHC",
-    "time": "9:00am-10:30am",
-    "location": "All Saints Church (Memorial Hall Room)",
-    "street": "4-1065 Kuhio Hwy",
-    "city": "Kapa'a, HI 96746",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 15 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "All Saints Church (Memorial Hall Room)",
-    "street": "4-1065 Kuhio Hwy",
-    "city": "Kapa'a, HI 96746",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 15 - Humana",
-    "time": "9am-10:30am",
-    "location": "FILCOM (Tech Room 2)",
-    "street": "94-428 Mokuola St",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 15 - UHC",
-    "time": "11am-12:30pm",
-    "location": "FILCOM (Tech Room 2)",
-    "street": "94-428 Mokuola St",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 15 - Ohana",
-    "time": "1:00pm-2:30pm",
-    "location": "FILCOM (Tech Room 2)",
-    "street": "94-428 Mokuola St",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 15 - Humana",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 15 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 16 - UHC",
-    "time": "9:00am-10:30am",
-    "location": "Maui Beach Hotel",
-    "street": "170 W Kaahumanu Ave.",
-    "city": "Kahului, HI 96732",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 16 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "Maui Beach Hotel",
-    "street": "170 W Kaahumanu Ave.",
-    "city": "Kahului, HI 96732",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 16 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 17 - Humana",
-    "time": "9:00am-10:30am",
-    "location": "Fountain of Living Water Church",
-    "street": "2412 Rose St.",
-    "city": "Honolulu, HI 96819",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 17 - UHC",
-    "time": "11:00am-12:30pm",
-    "location": "Fountain of Living Water Church",
-    "street": "2412 Rose St.",
-    "city": "Honolulu, HI 96819",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 17 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19 - Humana",
-    "time": "9:00am-10:30am",
-    "location": "Maui Beach Hotel (Maui Room)",
-    "street": "170 W Kaahumanu Ave",
-    "city": "Kahului, HI 96732",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19 - UHC",
-    "time": "11:00am-12:30pm",
-    "location": "Maui Beach Hotel (Maui Room)",
-    "street": "170 W Kaahumanu Ave",
-    "city": "Kahului, HI 96732",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19 - Humana",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 19 - Ohana",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 20 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21 - Humana",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 21 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 22 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "FILCOM (Tech Center 2)",
-    "street": "94-428 Mokuola St,",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23 - Humana",
-    "time": "11:00am-12:30pm",
-    "location": "FILCOM (Tech Center 2)",
-    "street": "94-428 Mokuola St,",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23 - UHC",
-    "time": "1:00pm-2:30pm",
-    "location": "FILCOM (Tech Center 2)",
-    "street": "94-428 Mokuola St,",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23 - Humana",
-    "time": "9:00am-10:30am",
-    "location": "All Saints Church (Memorial Hall)",
-    "street": "4-1065 Kuhio Hwy",
-    "city": "Kapaʻa, HI 96746",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23 - UHC",
-    "time": "11:00am-12:30pm",
-    "location": "All Saints Church (Memorial Hall)",
-    "street": "4-1065 Kuhio Hwy",
-    "city": "Kapaʻa, HI 96746",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23 - Humana",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 23 - Ohana",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 24 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 26 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27 - UHC",
-    "time": "9:00am-10:30am",
-    "location": "Hanapepe Public Library",
-    "street": "4490 Kona Rd,",
-    "city": "Hanapepe, HI 96716",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27 - UHC",
-    "time": "11:00am-12:30pm",
-    "location": "Hanapepe Public Library",
-    "street": "4490 Kona Rd,",
-    "city": "Hanapepe, HI 96716",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27 - UHC",
-    "time": "9:00am-10:30am",
-    "location": "Ohana Hilo Office",
-    "street": "194 Kilauea Ave # 102, ",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27 - Humana",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
-    "day": "Oct 27 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Virtual Meeting",
-    "street": "Call (808) 792-5194 For Meeting Link",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "october",
     "day": "Oct 28 - UHC",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
@@ -1044,7 +702,7 @@
     "type": ""
   },
   {
-    "month": "october",
+    "month": "november",
     "day": "Oct 19 - UHC",
     "time": "9am-10:30am",
     "location": "FILCOM (Tech Room 2)",
@@ -1053,7 +711,7 @@
     "type": ""
   },
   {
-    "month": "october",
+    "month": "november",
     "day": "Oct 19 - Humana",
     "time": "11am-12:30pm",
     "location": "FILCOM (Tech Room 2)",
@@ -1062,7 +720,7 @@
     "type": ""
   },
   {
-    "month": "october",
+    "month": "november",
     "day": "Oct 19 - Ohana",
     "time": "1:00pm-2:30pm",
     "location": "FILCOM (Tech Room 2)",
@@ -1170,7 +828,7 @@
     "type": ""
   },
   {
-    "month": "october",
+    "month": "november",
     "day": "Oct 23 - Humana",
     "time": "9:00am-10:30am",
     "location": "All Saints Church (Memorial Hall Room)",
@@ -1179,7 +837,7 @@
     "type": ""
   },
   {
-    "month": "october",
+    "month": "november",
     "day": "Oct 23 - UHC",
     "time": "11:00am-12:30pm",
     "location": "All Saints Church (Memorial Hall Room)",
@@ -1251,7 +909,7 @@
     "type": ""
   },
   {
-    "month": "october",
+    "month": "november",
     "day": "Oct 25 - Humana",
     "time": "9:00am-10:30am",
     "location": "Maui Beach Hotel",
@@ -1260,7 +918,7 @@
     "type": ""
   },
   {
-    "month": "october",
+    "month": "november",
     "day": "Oct 25 - UHC",
     "time": "11:00am-12:30pm",
     "location": "Maui Beach Hotel",
