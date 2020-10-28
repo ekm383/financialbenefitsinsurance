@@ -199,24 +199,6 @@
   },
   {
     "month": "november",
-    "day": "Nov 4 - UHC",
-    "time": "11:00am-12:30pm",
-    "location": "Pearl Country Club (Pearl 2)",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 4 - Humana",
-    "time": "1:00pm-2:30pm",
-    "location": "Pearl Country Club (Pearl 2)",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": ""
-  },
-  {
-    "month": "november",
     "day": "Nov 4 - Humana",
     "time": "9:00am-10:30am",
     "location": "Hanapepe Public Library",
@@ -249,24 +231,6 @@
     "location": "Virtual Meeting",
     "street": "Call (808) 792-5194 For Meeting Link",
     "city": "",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 5 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "King Kamehameha Hotel (Meeting Room)",
-    "street": "75-5660 Palani Rd",
-    "city": "Kailua-Kona, HI 96740",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 5 - Ohana",
-    "time": "11:00am-12:30pm",
-    "location": "King Kamehameha Hotel (Meeting Room)",
-    "street": "75-5660 Palani Rd",
-    "city": "Kailua-Kona, HI 96740",
     "type": ""
   },
   {
@@ -388,24 +352,6 @@
   },
   {
     "month": "november",
-    "day": "Nov 10 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "All Saints Church (Memorial Hall)",
-    "street": "75-5660 Palani Rd",
-    "city": "Kailua-Kona, HI 96740",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 10 - Ohana",
-    "time": "11:00am-12:30pm",
-    "location": "All Saints Church (Memorial Hall)",
-    "street": "75-5660 Palani Rd",
-    "city": "Kailua-Kona, HI 96740",
-    "type": ""
-  },
-  {
-    "month": "november",
     "day": "Nov 10 - Humana",
     "time": "6:00pm-7:30pm",
     "location": "Virtual Meeting",
@@ -474,24 +420,6 @@
     "location": "Kam Bowl (Front Room)",
     "street": "1620 N School St",
     "city": "Honolulu, HI 96817",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 12 - Humana",
-    "time": "9:00am-10:30am",
-    "location": "Imiloa Classroom",
-    "street": "600 Imiloa Pl",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 12 - Ohana",
-    "time": "11:00am-12:30pm",
-    "location": "Imiloa Classroom",
-    "street": "600 Imiloa Pl",
-    "city": "Hilo, HI 96720",
     "type": ""
   },
   {
@@ -739,24 +667,6 @@
   },
   {
     "month": "november",
-    "day": "Nov 20 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "King Kamehameha Hotel (Meeting Room)",
-    "street": "75-5660 Palani Rd",
-    "city": "Kailua-Kona, HI 96740",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 20 - Ohana",
-    "time": "11:00am-12:30pm",
-    "location": "King Kamehameha Hotel (Meeting Room)",
-    "street": "75-5660 Palani Rd",
-    "city": "Kailua-Kona, HI 96740",
-    "type": ""
-  },
-  {
-    "month": "november",
     "day": "Nov 20 - Humana",
     "time": "9:00am-10:30am",
     "location": "Big City Diner (Windward Mall)",
@@ -802,33 +712,6 @@
   },
   {
     "month": "november",
-    "day": "Nov 23 - UHC",
-    "time": "9:00am-10:30am",
-    "location": "Pearl Country Club (Pearl 2)",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 23 - Ohana",
-    "time": "11:00am-12:30pm",
-    "location": "Pearl Country Club (Pearl 2)",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 23 - Humana",
-    "time": "1:00pm-2:30pm",
-    "location": "Pearl Country Club (Pearl 2)",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": ""
-  },
-  {
-    "month": "november",
     "day": "Nov 23 - Humana",
     "time": "9:00am-10:30am",
     "location": "All Saints Church (Memorial Hall Room)",
@@ -870,24 +753,6 @@
     "location": "Kam Bowl (Front Room)",
     "street": "1620 N School St",
     "city": "Honolulu, HI 96817",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 24 - Ohana",
-    "time": "9:00am-10:30am",
-    "location": "Imiloa Classroom",
-    "street": "600 Imiloa Pl",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "november",
-    "day": "Nov 24 - Ohana",
-    "time": "11:00am-12:30pm",
-    "location": "Imiloa Classroom",
-    "street": "600 Imiloa Pl",
-    "city": "Hilo, HI 96720",
     "type": ""
   },
   {
