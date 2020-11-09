@@ -24,6 +24,17 @@ const Events = () => {
   return (
     <StyledEvent>
       <h2>November Events</h2>
+      <div className="repeat-days">
+        <p>Ka Makana Ali'i Farmers Market</p>
+        <p>91-5431 Kapolei Pkwy Kapolei, HI 96707</p>
+        <p>Every Wednesday 3pm-7pm</p>
+        <p>Every Sunday 11am-3pm</p>
+      </div>
+      <div className="repeat-days">
+        <p>Seafood City</p>
+        <p>94-050 Farrington Hwy Waipahu, HI 96797</p>
+        <p>Every Friday, Saturday, & Monday 9am-6pm</p>
+      </div>
       {novemberEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
@@ -69,6 +80,12 @@ const StyledEvent = styled.div`
   .event-box {
     flex-basis: 50%;
     margin-bottom: 1rem;
+  }
+  .repeat-days {
+    flex-basis: 50%;
+    p:nth-child(1) {
+      font-weight: bold;
+    }
   }
   @media (max-width: 768px) {
     .event-box {
