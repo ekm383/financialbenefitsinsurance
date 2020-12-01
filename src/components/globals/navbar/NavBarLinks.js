@@ -56,7 +56,7 @@ const NavBarLinks = () => {
                 Medicare Supplements
               </NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="/events">Events</Nav.Link>
+            {/* <Nav.Link href="/events">Events</Nav.Link> */}
             <Nav.Link href="/agents">Agents</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>

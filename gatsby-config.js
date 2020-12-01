@@ -43,18 +43,13 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Merriweather`,
-            variants: [`700`, `italic`],
-          },
-          {
-            family: `Open Sans`,
-            variants: [`400`, `700`],
-          },
+          `Merriweather\:700,italic`,
+          `Open Sans\:400,700`, // you can also specify font weights and styles
         ],
+        display: "swap",
       },
     },
   ],
