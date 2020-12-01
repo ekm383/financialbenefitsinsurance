@@ -53,6 +53,7 @@ const AboutPage = () => {
         </BackgroundImage>
         <Section style={{ margin: "4rem auto 0rem auto" }}>
           <iframe
+            title="About FBIHI"
             src="https://player.vimeo.com/video/467002224"
             width="100%"
             height="360"

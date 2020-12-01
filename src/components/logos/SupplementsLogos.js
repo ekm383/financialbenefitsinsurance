@@ -12,8 +12,8 @@ import logo09 from "../../images/logos/aetna-logo-2.png"
 const SupplementsLogos = () => {
   return (
     <LogoWrapper>
-      <div class="logo-slider">
-        <div class="logo-slide">
+      <div className="logo-slider">
+        <div className="logo-slide">
           <img src={logo01} alt="logo" />
           <img src={logo03} alt="logo" />
           <img src={logo04} alt="logo" />

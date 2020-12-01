@@ -11,8 +11,8 @@ import logo07 from "../../images/logos/national-guardian-life.jpg"
 const FinalExpenseLogos = () => {
   return (
     <LogoWrapper>
-      <div class="logo-slider">
-        <div class="logo-slide">
+      <div className="logo-slider">
+        <div className="logo-slide">
           <img src={logo01} alt="logo" />
           <img src={logo02} alt="logo" />
           <img src={logo03} alt="logo" />

@@ -6,8 +6,8 @@ import logo02 from "../../images/logos/spirit.jpg"
 const DentalLogos = () => {
   return (
     <LogoWrapper>
-      <div class="logo-slider">
-        <div class="logo-slide">
+      <div className="logo-slider">
+        <div className="logo-slide">
           <img src={logo01} alt="logo" />
           <img src={logo02} alt="logo" />
         </div>
