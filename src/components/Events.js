@@ -1,29 +1,56 @@
 import React from "react"
 import styled from "styled-components"
-// import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql } from "gatsby"
 
 const Events = () => {
-  // const data = useStaticQuery(graphql`
-  //   query {
-  //     novemberEvents: allEventsJson(filter: { month: { eq: "november" } }) {
-  //       edges {
-  //         node {
-  //           month
-  //           day
-  //           time
-  //           location
-  //           street
-  //           city
-  //           type
-  //         }
-  //       }
-  //     }
-  //   }
-  // `)
-  // const novemberEvents = data.novemberEvents.edges
+  const data = useStaticQuery(graphql`
+    query {
+      januaryEvents: allEventsJson(filter: { month: { eq: "january" } }) {
+        edges {
+          node {
+            month
+            day
+            time
+            location
+            street
+            city
+            type
+          }
+        }
+      }
+      februaryEvents: allEventsJson(filter: { month: { eq: "february" } }) {
+        edges {
+          node {
+            month
+            day
+            time
+            location
+            street
+            city
+            type
+          }
+        }
+      }
+      marchEvents: allEventsJson(filter: { month: { eq: "march" } }) {
+        edges {
+          node {
+            month
+            day
+            time
+            location
+            street
+            city
+            type
+          }
+        }
+      }
+    }
+  `)
+  const januaryEvents = data.januaryEvents.edges
+  const februaryEvents = data.februaryEvents.edges
+  const marchEvents = data.marchEvents.edges
   return (
     <StyledEvent>
-      {/* <h2>November Events</h2> */}
       <div className="repeat-days">
         <p>Ka Makana Ali'i Farmers Market</p>
         <p>91-5431 Kapolei Pkwy Kapolei, HI 96707</p>
@@ -35,7 +62,12 @@ const Events = () => {
         <p>94-050 Farrington Hwy Waipahu, HI 96797</p>
         <p>Every Friday, Saturday, & Monday 9am-6pm</p>
       </div>
-      {/* {novemberEvents.map(({ node }, index) => {
+      <div className="repeat-days">
+        <p>Pearl City Shopping Center (Near Don Quijote)</p>
+        <p>850 Kamehameha Hwy Pearl City, 96782</p>
+        <p>Tuesdays 9am-5pm, Wednesdays 1pm-5pm, Thursdays 9am-5pm</p>
+      </div>
+      {januaryEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
@@ -48,7 +80,35 @@ const Events = () => {
             <p>{node.type}</p>
           </div>
         )
-      })} */}
+      })}
+      {februaryEvents.map(({ node }, index) => {
+        return (
+          <div className="event-box" key={index}>
+            <h3>{node.day}</h3>
+            <p>
+              <span>{node.location}</span>
+            </p>
+            <p>{node.street}</p>
+            <p>{node.city}</p>
+            <p>{node.time}</p>
+            <p>{node.type}</p>
+          </div>
+        )
+      })}
+      {marchEvents.map(({ node }, index) => {
+        return (
+          <div className="event-box" key={index}>
+            <h3>{node.day}</h3>
+            <p>
+              <span>{node.location}</span>
+            </p>
+            <p>{node.street}</p>
+            <p>{node.city}</p>
+            <p>{node.time}</p>
+            <p>{node.type}</p>
+          </div>
+        )
+      })}
     </StyledEvent>
   )
 }
@@ -83,12 +143,16 @@ const StyledEvent = styled.div`
   }
   .repeat-days {
     flex-basis: 50%;
+    margin-top: 2rem;
     p:nth-child(1) {
       font-weight: bold;
     }
   }
   @media (max-width: 768px) {
     .event-box {
+      flex-basis: 100%;
+    }
+    .repeat-days {
       flex-basis: 100%;
     }
   }
