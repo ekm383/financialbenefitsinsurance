@@ -56,8 +56,9 @@ const NavBarLinks = () => {
                 Medicare Supplements
               </NavDropdown.Item>
             </NavDropdown>
-            {/* <Nav.Link href="/events">Events</Nav.Link> */}
+            <Nav.Link href="/events">Events</Nav.Link>
             <Nav.Link href="/agents">Agents</Nav.Link>
+            <Nav.Link href="/join">Join Us</Nav.Link>
             <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
@@ -81,7 +82,7 @@ const StyledNav = styled.div`
   }
   #responsive-navbar-nav div a {
     font-weight: bold;
-    font-size: 1rem;
+    font-size: 0.9rem;
     margin-right: 0.2rem;
     color: #297aaf;
     transition: 0.3s ease-in-out;

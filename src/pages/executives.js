@@ -66,7 +66,7 @@ const ExecutivesPage = () => {
               <div className="name">
                 <p className="agent-name">Dana Higa-Rolls Emerick</p>
                 <p className="website-link">
-                  Manager of Sales and Administration
+                  Manager of Marketing and Administration
                 </p>
               </div>
             </div>
