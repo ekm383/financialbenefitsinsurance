@@ -57,7 +57,7 @@ const OurStoryPage = () => {
           backgroundColor={`#ffffff`}
         >
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title="Join Us" />
+            <BannerPage title="Our Story" />
           </Section>
         </BackgroundImage>
         <Section style={{ margin: "4rem auto" }}>

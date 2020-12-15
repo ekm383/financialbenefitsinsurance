@@ -41,7 +41,7 @@ const JoinPage = () => {
           backgroundColor={`#ffffff`}
         >
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title="Our Story" />
+            <BannerPage title="Join Us" />
           </Section>
         </BackgroundImage>
         <Section style={{ margin: "4rem auto" }}>
