@@ -18,37 +18,11 @@ const Events = () => {
           }
         }
       }
-      februaryEvents: allEventsJson(filter: { month: { eq: "february" } }) {
-        edges {
-          node {
-            month
-            day
-            time
-            location
-            street
-            city
-            type
-          }
-        }
-      }
-      marchEvents: allEventsJson(filter: { month: { eq: "march" } }) {
-        edges {
-          node {
-            month
-            day
-            time
-            location
-            street
-            city
-            type
-          }
-        }
-      }
     }
   `)
   const januaryEvents = data.januaryEvents.edges
-  const februaryEvents = data.februaryEvents.edges
-  const marchEvents = data.marchEvents.edges
+  // const februaryEvents = data.februaryEvents.edges
+  // const marchEvents = data.marchEvents.edges
   return (
     <StyledEvent>
       <div className="repeat-days">
@@ -81,7 +55,7 @@ const Events = () => {
           </div>
         )
       })}
-      {februaryEvents.map(({ node }, index) => {
+      {/* {februaryEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
@@ -108,7 +82,7 @@ const Events = () => {
             <p>{node.type}</p>
           </div>
         )
-      })}
+      })} */}
     </StyledEvent>
   )
 }
