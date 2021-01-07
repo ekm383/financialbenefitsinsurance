@@ -60,6 +60,18 @@ const OurStoryPage = () => {
             <BannerPage title="Our Story" />
           </Section>
         </BackgroundImage>
+        <Section style={{ margin: "4rem auto 0rem auto" }}>
+          <iframe
+            title="FBIHI Services"
+            src="https://player.vimeo.com/video/495890012"
+            width="100%"
+            height="360"
+            frameborder="0"
+            webkitallowfullscreen
+            mozallowfullscreen
+            allowfullscreen
+          ></iframe>
+        </Section>
         <Section style={{ margin: "4rem auto" }}>
           <h4 style={{ marginBottom: "2rem", color: "var(--mainColor)" }}>
             Planning for the future:
