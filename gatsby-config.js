@@ -52,5 +52,11 @@ module.exports = {
         display: "swap",
       },
     },
+    {
+      resolve: `gatsby-plugin-facebook-pixel`,
+      options: {
+        pixelId: "261120445374261",
+      },
+    },
   ],
 }
