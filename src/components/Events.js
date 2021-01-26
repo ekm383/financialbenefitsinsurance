@@ -18,10 +18,23 @@ const Events = () => {
           }
         }
       }
+      februaryEvents: allEventsJson(filter: { month: { eq: "february" } }) {
+        edges {
+          node {
+            month
+            day
+            time
+            location
+            street
+            city
+            type
+          }
+        }
+      }
     }
   `)
   const januaryEvents = data.januaryEvents.edges
-  // const februaryEvents = data.februaryEvents.edges
+  const februaryEvents = data.februaryEvents.edges
   // const marchEvents = data.marchEvents.edges
   return (
     <StyledEvent>
@@ -55,7 +68,7 @@ const Events = () => {
           </div>
         )
       })}
-      {/* {februaryEvents.map(({ node }, index) => {
+      {februaryEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
@@ -69,7 +82,7 @@ const Events = () => {
           </div>
         )
       })}
-      {marchEvents.map(({ node }, index) => {
+      {/* {marchEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
