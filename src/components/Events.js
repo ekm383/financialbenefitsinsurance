@@ -39,12 +39,6 @@ const Events = () => {
   return (
     <StyledEvent>
       <div className="repeat-days">
-        <p>Ka Makana Ali'i Farmers Market</p>
-        <p>91-5431 Kapolei Pkwy Kapolei, HI 96707</p>
-        <p>Every Wednesday 3pm-7pm</p>
-        <p>Every Sunday 11am-3pm</p>
-      </div>
-      <div className="repeat-days">
         <p>Seafood City</p>
         <p>94-050 Farrington Hwy Waipahu, HI 96797</p>
         <p>Every Friday, Saturday, & Monday 9am-6pm</p>
@@ -52,7 +46,7 @@ const Events = () => {
       <div className="repeat-days">
         <p>Pearl City Shopping Center (Near Don Quijote)</p>
         <p>850 Kamehameha Hwy Pearl City, 96782</p>
-        <p>Tuesdays 9am-5pm, Wednesdays 1pm-5pm, Thursdays 9am-5pm</p>
+        <p>Tuesdays 9am-5pm, Wednesdays 9am-5pm, Thursdays 9am-5pm</p>
       </div>
       {januaryEvents.map(({ node }, index) => {
         return (
