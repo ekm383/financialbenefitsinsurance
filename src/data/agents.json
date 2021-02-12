@@ -545,20 +545,6 @@
     "testimonials": [""]
   },
   {
-    "island": "oahu",
-    "id": "27",
-    "slug": "claren-afong",
-    "photo": "../images/agents/FBI-Claren-Afong.jpg",
-    "name": "Claren Afong",
-    "phone": "808-277-1907",
-    "email": "Cafong@fbihi.com",
-    "bilingual": "",
-    "bio": [
-      "As a Licensed Insurance Agent and a Licensed Registered Nurse, Claren has front line experience helping our Kupuna with healthcare as well as over 10 years experience working in the Medicare industry. Claren and her husband Bricyn (who is also licensed) work together in servicing our community."
-    ],
-    "testimonials": [""]
-  },
-  {
     "island": "maui",
     "id": "29",
     "slug": "natividad-ragudo-smith",
