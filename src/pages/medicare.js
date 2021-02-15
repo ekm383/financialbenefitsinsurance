@@ -283,7 +283,7 @@ const MedicarePage = () => {
                   </li>
                   <li>
                     You will typically pay a monthly premium for Part B. The
-                    premium is $144.60 per month for most people in 2020.
+                    premium is $148.50 per month for most people in 2021.
                   </li>
                   <li>
                     Part A is free for most people if you have paid into social
@@ -319,7 +319,7 @@ const MedicarePage = () => {
                   <li>
                     Premiums for an Advantage plan can be very low cost.
                     However, you are still responsible for your monthly Part B
-                    premium which is $144.60 per month for most people in 2020.
+                    premium which is $148.50 per month for most people in 2021.
                     You must also still pay for your Part A premium, if you have
                     one.
                   </li>
