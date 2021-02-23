@@ -110,6 +110,18 @@ const AboutPage = () => {
             </p>
           </div>
         </Section>
+        <Section style={{ margin: "4rem auto 2rem auto" }}>
+          <iframe
+            title="About FBIHI"
+            src="https://player.vimeo.com/video/514555574"
+            width="100%"
+            height="360"
+            frameborder="0"
+            webkitallowfullscreen
+            mozallowfullscreen
+            allowfullscreen
+          ></iframe>
+        </Section>
         <Section style={{ paddingBottom: "3rem" }}>
           <div className="container">
             <div className="profile">
