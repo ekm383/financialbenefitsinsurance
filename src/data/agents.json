@@ -432,6 +432,20 @@
       "- Octavia Y, Honolulu, HI"
     ]
   },
+
+  {
+    "island": "oahu",
+    "id": "57",
+    "slug": "travis-motosue",
+    "photo": "../images/agents/FBI-Travis-Motosue.jpg",
+    "name": "Travis Motosue",
+    "phone": "808-542-5109",
+    "email": "tmotosue@fbihi.com",
+    "bilingual": "",
+    "bio": [],
+    "testimonials": []
+  },
+
   {
     "island": "oahu",
     "id": "16",

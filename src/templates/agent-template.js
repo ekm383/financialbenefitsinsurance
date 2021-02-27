@@ -97,26 +97,26 @@ const Post = ({ data }) => {
             data-netlify="true"
           >
             <input type="hidden" name="form-name" value="contact" />
-            <ul class="form-list">
+            <ul className="form-list">
               <li id="hidden">
                 <label>
                   Don’t fill this out if you're human:{" "}
                   <input name="bot-field" />
                 </label>
               </li>
-              <li class="form-list__row">
+              <li className="form-list__row">
                 <label htmlFor="name">
                   Your Name:
                   <input id="name" type="text" name="name" required="true" />
                 </label>
               </li>
-              <li class="form-list__row">
+              <li className="form-list__row">
                 <label htmlFor="email">
                   Your Email:
                   <input id="email" type="text" name="email" required="true" />
                 </label>
               </li>
-              <li class="form-list__row">
+              <li className="form-list__row">
                 <label htmlFor="agent">
                   Agent:
                   <input
@@ -128,7 +128,7 @@ const Post = ({ data }) => {
                   />
                 </label>
               </li>
-              <li class="form-list__row">
+              <li className="form-list__row">
                 <label htmlFor="message">
                   Message
                   <textarea
@@ -140,7 +140,7 @@ const Post = ({ data }) => {
                 </label>
               </li>
               <li>
-                <button type="submit" class="button">
+                <button type="submit" className="button">
                   Send Email
                 </button>
               </li>

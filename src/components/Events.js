@@ -5,7 +5,7 @@ import { useStaticQuery, graphql } from "gatsby"
 const Events = () => {
   const data = useStaticQuery(graphql`
     query {
-      januaryEvents: allEventsJson(filter: { month: { eq: "january" } }) {
+      februaryEvents: allEventsJson(filter: { month: { eq: "february" } }) {
         edges {
           node {
             month
@@ -18,7 +18,7 @@ const Events = () => {
           }
         }
       }
-      februaryEvents: allEventsJson(filter: { month: { eq: "february" } }) {
+      marchEvents: allEventsJson(filter: { month: { eq: "march" } }) {
         edges {
           node {
             month
@@ -33,9 +33,8 @@ const Events = () => {
       }
     }
   `)
-  const januaryEvents = data.januaryEvents.edges
   const februaryEvents = data.februaryEvents.edges
-  // const marchEvents = data.marchEvents.edges
+  const marchEvents = data.marchEvents.edges
   return (
     <StyledEvent>
       <div className="repeat-days">
@@ -48,20 +47,6 @@ const Events = () => {
         <p>850 Kamehameha Hwy Pearl City, 96782</p>
         <p>Tuesdays 9am-5pm, Wednesdays 9am-5pm, Thursdays 9am-5pm</p>
       </div>
-      {januaryEvents.map(({ node }, index) => {
-        return (
-          <div className="event-box" key={index}>
-            <h3>{node.day}</h3>
-            <p>
-              <span>{node.location}</span>
-            </p>
-            <p>{node.street}</p>
-            <p>{node.city}</p>
-            <p>{node.time}</p>
-            <p>{node.type}</p>
-          </div>
-        )
-      })}
       {februaryEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
@@ -76,7 +61,7 @@ const Events = () => {
           </div>
         )
       })}
-      {/* {marchEvents.map(({ node }, index) => {
+      {marchEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
@@ -89,7 +74,7 @@ const Events = () => {
             <p>{node.type}</p>
           </div>
         )
-      })} */}
+      })}
     </StyledEvent>
   )
 }
