@@ -17,6 +17,7 @@ const Post = ({ data }) => {
     bilingual,
     bio,
     testimonials,
+    videoLink,
   } = data.agentItem
 
   return (
@@ -57,6 +58,23 @@ const Post = ({ data }) => {
               <p>
                 Bilingual: <span>{bilingual}</span>
               </p>
+            )}
+
+            {!videoLink ? (
+              ""
+            ) : (
+              <Section style={{ margin: "2rem auto" }}>
+                <iframe
+                  title="About FBIHI"
+                  src={videoLink}
+                  width="100%"
+                  height="360"
+                  frameborder="0"
+                  webkitallowfullscreen
+                  mozallowfullscreen
+                  allowfullscreen
+                ></iframe>
+              </Section>
             )}
 
             {bio < 1 ? (
@@ -170,6 +188,7 @@ export const query = graphql`
       bilingual
       bio
       testimonials
+      videoLink
     }
   }
 `
