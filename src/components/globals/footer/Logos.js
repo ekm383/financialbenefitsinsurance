@@ -11,6 +11,7 @@ import logo08 from "../../../images/logos/united-american-insurance-company-logo
 import logo09 from "../../../images/logos/united-health-care-logo.png"
 import logo10 from "../../../images/logos/well-care-logo.jpg"
 import logo11 from "../../../images/logos/aetna-logo-2.png"
+import logo12 from "../../../images/logos/centene-logo.jpg"
 
 const Logos = () => {
   return (
@@ -28,6 +29,7 @@ const Logos = () => {
           <img src={logo09} alt="logo" />
           <img src={logo10} alt="logo" />
           <img src={logo11} alt="logo" />
+          <img src={logo12} alt="logo" />
         </div>
       </div>
     </LogoWrapper>

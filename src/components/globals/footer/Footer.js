@@ -5,6 +5,9 @@ import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { FaInstagram, FaFacebook } from "react-icons/fa"
 import BBB from "../../../images/BBB.png"
 import Ethics from "../../../images/ethics-net.png"
+import NAHU from "../../../images/nahu-logo.png"
+import HIIA from "../../../images/state_logo.png"
+import TenYear from "../../../images/fib-hi-10-year-badge.png"
 
 class Footer extends Component {
   state = {
@@ -31,13 +34,13 @@ class Footer extends Component {
               <span>Contact:</span>
             </p>
             <p>
-              1311 Kapiolani Blvd
-              <br />
-              Suite 504
+              1311 Kapiolani Blvd Suite 504
               <br />
               Honolulu, HI 96814
             </p>
-            <p className="phone">Tel: (808) 792-5194</p>
+            <p className="phone">
+              <a href="tel:+1-808-792-5194">Tel: (808) 792-5194</a>
+            </p>
             <p className="phone">Fax: (808) 792-5187</p>
           </div>
           <div className="box">
@@ -84,13 +87,34 @@ class Footer extends Component {
             </div>
             <div className="ethics">
               <a href="https://www.bbb.org/northwest/business-reviews/insurance-services-office/financial-benefits-insurance-inc-in-honolulu-hi-53075218/#sealclick">
-                <img src={BBB} alt="BBB" width="75px" />
+                <img src={BBB} alt="BBB" width="100px" />
               </a>
               <a href="https://www.ethics.net/member=107896/edward-motosue">
-                <img src={Ethics} alt="ethics" width="75px" />
+                <img src={Ethics} alt="ethics" width="100px" />
               </a>
-              <p>Belong to HIIA, HAHU Org. Hawaii Genealogical Society</p>
             </div>
+          </div>
+          <div className="box belonging-box">
+            <p>
+              <span>Belonging to:</span>
+            </p>
+            <a href="http://nahu.org/">
+              <img src={NAHU} alt="NAHU" width="60px" />
+            </a>
+            <a href="https://www.hiia.org/default.aspx">
+              <img src={HIIA} alt="HIIA" width="150px" />
+            </a>
+            <a href="">
+              <p>- HAHU HI Genealogical Society</p>
+            </a>
+            <a href="http://hpgs.org/">
+              <p>- HPGS</p>
+            </a>
+          </div>
+        </Section>
+        <Section>
+          <div className="ten-year">
+            <img src={TenYear} alt="Ten Years of Service" />
           </div>
         </Section>
       </FooterWrapper>
@@ -116,13 +140,16 @@ const FooterWrapper = styled.div`
     color: var(--white);
   }
   p {
-    margin: 0;
-    font-size: 10px;
-    line-height: 1.2rem;
+    margin: 0px 0px 0px 0px;
+    font-size: 14px;
+    line-height: 1.5rem;
     span {
       font-weight: bold;
       text-transform: uppercase;
     }
+  }
+  .phone {
+    margin-bottom: 0px;
   }
   ul {
     list-style-type: none;
@@ -140,7 +167,20 @@ const FooterWrapper = styled.div`
     text-align: center;
   }
   a img {
-    margin: 1rem auto;
+    margin-bottom: 5px;
+  }
+  .ethics,
+  .belonging-box {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+  }
+  .ten-year {
+    margin: 0px auto;
+    img {
+      margin-top: 20px;
+      width: 150px;
+    }
   }
   @media (max-width: 768px) {
     .box {
