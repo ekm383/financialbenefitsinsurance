@@ -795,6 +795,25 @@
     "testimonials": [""]
   },
   {
+    "island": "kauai",
+    "id": "54",
+    "slug": "dominique-cami-baldovino",
+    "photo": "../images/agents/FBI-Dominique-Cami-Baldovino.jpg",
+    "name": "Dominique Cami Baldovino",
+    "phone": "808-639-0357",
+    "email": "dbaldovino@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Aloha!",
+      "My name is Dominique Cami Baldovino. I was born and raised in Kauai, Hawaii and graduated from Waimea High School. I earned a Bachelor of Science degree in Organizational Communication from the University of Portland, Oregon. I am now happily married and living in Kapaa, Kauai.",
+      "My insurance journey began as a humble Hawaii Health Connector, assisting those without medical to understand and obtain insurance under the Affordable Care Act. Eventually I earned my insurance license in Property and Casualty and Life and Health. I provided customer service as a Commercial Lines Representative for three years.",
+      "The FBIHI 'Ohana expressed their need for more agents on Kauai with a passion for serving our kupuna. I joined the Medicare field with the goal of helping our clients to 1) understand the many coverages available to them and 2) find the coverage that best suits their needs.",
+      "Outside of Medicare, I am faith-driven to serve as a church administrator, preschool director, youth minister, and Sunday School teacher.",
+      "Let's tackle Medicare together. I look forward to working with you!"
+    ],
+    "testimonials": [""]
+  },
+  {
     "island": "oahu",
     "id": "56",
     "slug": "kyler-kwock",
