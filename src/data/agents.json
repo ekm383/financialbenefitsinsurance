@@ -827,5 +827,51 @@
       "Kyler currently resides in Hawaii Kai with his wife and 2 daughters. He graduated from the University of Hawaii with a double major in Communications and Art. He is an avid photographer and has won numerous awards, both locally and nationally.  Other interests include technology, movies, traveling, and good eats (epicurean)."
     ],
     "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "58",
+    "slug": "richard-filanc",
+    "photo": "../images/agents/FBI-Richard-Filanc.jpg",
+    "name": "Richard Filanc",
+    "phone": "808-783-8859",
+    "email": "rfilanc@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Waipahu, HI (Hawaii 30 Years ago).",
+      "Hawaii Yacht Club, Calvary Chapel, Hawaii Memorial Reefs.",
+      "Born in California, Parents live in Laguna Beach, CA.",
+      "Funeral Director, Miner, Project Manager, and Insurance Agent.",
+      "Insurance licensed in the State of Hawaii, Project Management Professional (PMP).",
+      "6 Years in the insurance industry, 20 years experience in Project Management.",
+      "Majored in Business Management, Minored in Accounting, Health Science.",
+      "Occupation - Financial Benefits Insurance (Health, Accident, and Life).",
+      "I believe a strong retirement plan provides peace of mind. I'm dedicated to educating you on the innovative insurance planning solutions we offer, providing personal service and helping to make certain you can enjoy the life of your retirement."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "59",
+    "slug": "ed-ramos",
+    "photo": "../images/agents/FBI-Ed-Ramos.jpg",
+    "name": "Ed Ramos",
+    "phone": "808-589-7734",
+    "email": "eramos@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "maui",
+    "id": "60",
+    "slug": "jimelen-dalisay",
+    "photo": "../images/agents/FBI-Jimelen-Dalisay.jpg",
+    "name": "Jimelen (Len) Dalisay",
+    "phone": "808-385-0589",
+    "email": "jdalisay@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]
