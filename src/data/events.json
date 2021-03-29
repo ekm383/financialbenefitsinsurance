@@ -1,128 +1,11 @@
 [
   {
-    "month": "february",
-    "day": "Feb 26 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "february",
-    "day": "Feb 26 - UHC",
-    "time": "9:00am-12:00pm",
-    "location": "Seafood City",
-    "street": "94-050 Farrington Hwy",
-    "city": "Waipahu, HI 96797",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 2 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Financial Benefits Insurance",
-    "street": "Virtual Meeting",
+    "month": "",
+    "day": "",
+    "time": "",
+    "location": "",
+    "street": "",
     "city": "",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 3 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 4 - Ohana",
-    "time": "9:00am-10:30pm",
-    "location": "Ohana Health Plan Hilo Office",
-    "street": "194 Kilauea Avenue Hilo",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 5 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 10 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 12 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 16 - Ohana",
-    "time": "9:00am-10:30pm",
-    "location": "Ohana Health Plan Hilo Office",
-    "street": "194 Kilauea Avenue Hilo",
-    "city": "Hilo, HI 96720",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 16 - UHC",
-    "time": "6:00pm-7:30pm",
-    "location": "Financial Benefits Insurance",
-    "street": "Virtual Meeting",
-    "city": "",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 17 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 19 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 24 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
-    "type": ""
-  },
-  {
-    "month": "march",
-    "day": "Mar 26 - UHC",
-    "time": "9:00am-3:00pm",
-    "location": "Financial Benefits Insurance",
-    "street": "1311 Kapiolani Blvd Ste 504",
-    "city": "Honolulu, HI 96814",
     "type": ""
   },
   {
@@ -141,6 +24,24 @@
     "location": "Financial Benefits Insurance",
     "street": "1311 Kapiolani Blvd Ste 504",
     "city": "Honolulu, HI 96814",
+    "type": ""
+  },
+  {
+    "month": "april",
+    "day": "April 1 - Navigating Medicare Benefits",
+    "time": "2:00pm",
+    "location": "Financial Benefits Insurance",
+    "street": "Virtual Meeting",
+    "city": "",
+    "type": ""
+  },
+  {
+    "month": "april",
+    "day": "April 21 - Navigating Medicare Benefits",
+    "time": "11:30am-1:00pm",
+    "location": "Financial Benefits Insurance",
+    "street": "Virtual Meeting",
+    "city": "",
     "type": ""
   }
 ]

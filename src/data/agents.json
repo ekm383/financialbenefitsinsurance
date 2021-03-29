@@ -853,13 +853,18 @@
   {
     "island": "oahu",
     "id": "59",
-    "slug": "ed-ramos",
+    "slug": "eddie-ramos",
     "photo": "../images/agents/FBI-Ed-Ramos.jpg",
-    "name": "Ed Ramos",
+    "name": "Eddie Ramos",
     "phone": "808-589-7734",
     "email": "eramos@fbihi.com",
     "bilingual": "",
-    "bio": [""],
+    "bio": [
+      "Aloha, my name is Eddie Ramos. I'm a recent retiree of Delta Air Lines. I have always enjoyed traveling and seeing all aspects of the world. I understood that working all these years of how unique my position was touching every part of the world, meeting people and their different cultures, nationalities and lifestyle.",
+      "Another part of the world I had an opportunity to be a part of and start my career is the business world. I attained my Business Degree at the University of Hawaii system. I was employed by Sears Roebuck and Co. as a Christmas help and later became a Division Manager. I was employed by American Airlines, Air New Zealand, Air Canada, and Delta Air Lines as a supervisor.",
+      "I was also touched be another world and blessed to have, my wife Janice and 2 children Trina and Cherie. I am proud of my 3 grandchildren Carly, Remy, and Hudson. We as a family supported each other through each and every milestone and through my career.",
+      "There is another world I am passionate about, helping people with their medical coverage needs. As a licensed insurance broker with Financial Benefits Insurance, I am here to help and assist you."
+    ],
     "testimonials": [""]
   },
   {
