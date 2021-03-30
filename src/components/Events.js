@@ -15,6 +15,7 @@ const Events = () => {
             street
             city
             type
+            link
           }
         }
       }
@@ -72,6 +73,7 @@ const Events = () => {
             <p>{node.city}</p>
             <p>{node.time}</p>
             <p>{node.type}</p>
+            <a href={!node.link ? "" : node.link}>Meeting Link</a>
           </div>
         )
       })}
@@ -94,7 +96,7 @@ const StyledEvent = styled.div`
   h3 {
     flex-basis: 100%;
     font-size: 1.5rem;
-    margin: 1rem 0rem 0rem 0rem;
+    margin: 1rem 0rem 0.5rem 0rem;
     color: var(--mainColor);
   }
   p {

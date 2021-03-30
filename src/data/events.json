@@ -6,7 +6,8 @@
     "location": "",
     "street": "",
     "city": "",
-    "type": ""
+    "type": "",
+    "link": ""
   },
   {
     "month": "march",
@@ -15,7 +16,8 @@
     "location": "Financial Benefits Insurance",
     "street": "Virtual Meeting",
     "city": "",
-    "type": ""
+    "type": "",
+    "link": ""
   },
   {
     "month": "march",
@@ -24,24 +26,27 @@
     "location": "Financial Benefits Insurance",
     "street": "1311 Kapiolani Blvd Ste 504",
     "city": "Honolulu, HI 96814",
-    "type": ""
+    "type": "",
+    "link": ""
   },
   {
     "month": "april",
     "day": "April 1 - Navigating Medicare Benefits",
     "time": "2:00pm",
     "location": "Financial Benefits Insurance",
-    "street": "Virtual Meeting",
+    "street": "A Tutu's House Online Activity Virtual Meeting",
     "city": "",
-    "type": ""
+    "type": "",
+    "link": "https://bit.ly/3d9a5q4"
   },
   {
     "month": "april",
     "day": "April 21 - Navigating Medicare Benefits",
     "time": "11:30am-1:00pm",
     "location": "Financial Benefits Insurance",
-    "street": "Virtual Meeting",
+    "street": "Generations Magazine Brown Bag Lunch Webinar",
     "city": "",
-    "type": ""
+    "type": "",
+    "link": "https://us02web.zoom.us/j/81319383971"
   }
 ]
