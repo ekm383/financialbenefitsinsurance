@@ -28,7 +28,7 @@ class Footer extends Component {
   render() {
     return (
       <FooterWrapper>
-        <Section>
+        <Section style={{ width: "70%" }}>
           <div className="box">
             <p>
               <span>Contact:</span>
@@ -43,7 +43,7 @@ class Footer extends Component {
             </p>
             <p className="phone">Fax: (808) 792-5187</p>
           </div>
-          <div className="box">
+          {/* <div className="box">
             <p>
               <span>Our Menu:</span>
             </p>
@@ -68,7 +68,7 @@ class Footer extends Component {
                 </ul>
               </nav>
             </div>
-          </div>
+          </div> */}
           <div className="box">
             <p>
               <span>Follow Us:</span>
@@ -99,16 +99,21 @@ class Footer extends Component {
               <span>Belonging to:</span>
             </p>
             <a href="http://nahu.org/">
-              <img src={NAHU} alt="NAHU" width="60px" />
+              <img src={NAHU} alt="NAHU" width="100px" />
             </a>
             <a href="https://www.hiia.org/default.aspx">
-              <img src={HIIA} alt="HIIA" width="150px" />
+              <img src={HIIA} alt="HIIA" width="200px" />
             </a>
+          </div>
+          <div className="box belonging-box">
             <a href="">
-              <p>- HAHU HI Genealogical Society</p>
+              <p>
+                - Hawaii Association of Health Underwriters
+                <br /> HI Genealogical Society
+              </p>
             </a>
             <a href="http://hpgs.org/">
-              <p>- HPGS</p>
+              <p>- Hawaii Pacific Gerontological Society</p>
             </a>
           </div>
         </Section>
