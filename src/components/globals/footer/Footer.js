@@ -8,6 +8,7 @@ import Ethics from "../../../images/ethics-net.png"
 import NAHU from "../../../images/nahu-logo.png"
 import HIIA from "../../../images/state_logo.png"
 import TenYear from "../../../images/fib-hi-10-year-badge.png"
+import HPGS from "../../../images/hpgs-logo.png"
 
 class Footer extends Component {
   state = {
@@ -106,14 +107,14 @@ class Footer extends Component {
             </a>
           </div>
           <div className="box belonging-box">
+            <a href="http://hpgs.org/">
+              <img src={HPGS} alt="NAHU" width="75px" />
+            </a>
             <a href="">
               <p>
                 - Hawaii Association of Health Underwriters
                 <br /> HI Genealogical Society
               </p>
-            </a>
-            <a href="http://hpgs.org/">
-              <p>- Hawaii Pacific Gerontological Society</p>
             </a>
           </div>
         </Section>
