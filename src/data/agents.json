@@ -109,18 +109,6 @@
   },
   {
     "island": "big island",
-    "id": "11",
-    "slug": "kawela-incillio",
-    "photo": "../images/agents/FBI-Kawela-Incillio.jpg",
-    "name": "Kawela Incillio",
-    "phone": "808-825-2955",
-    "email": "Kincillio@fbihi.com",
-    "bilingual": "",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
-    "island": "big island",
     "id": "52",
     "slug": "lowana-richardson",
     "photo": "../images/agents/FBI-Richardson-Lowana.jpg",
@@ -136,7 +124,7 @@
   },
   {
     "island": "big island",
-    "id": "57",
+    "id": "61",
     "slug": "jessie-grace",
     "photo": "../images/agents/FBI-Jessie-Grace.jpg",
     "name": "Jessie Grace",
