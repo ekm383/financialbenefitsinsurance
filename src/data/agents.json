@@ -843,5 +843,17 @@
     "bilingual": "",
     "bio": [""],
     "testimonials": [""]
+  },
+  {
+    "island": "kauai",
+    "id": "62",
+    "slug": "Manu Dizon",
+    "photo": "../images/agents/FBI-Manu-Dizon.jpg",
+    "name": "Manu Dizon",
+    "phone": "808-482-0245",
+    "email": "mdizon@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]
