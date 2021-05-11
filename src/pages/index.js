@@ -91,16 +91,11 @@ const IndexPage = () => {
               subheading="Financial Benefits Insurance"
             >
               <div className="portal-buttons">
-                <Link to="/client-secure">
-                  <Button>
-                    Client Portal <FaArrowCircleRight />
-                  </Button>
-                </Link>
-                <Link to="/agent-secure">
+                <a href="http://143.198.57.71">
                   <Button>
                     Agent Portal <FaArrowCircleRight />
                   </Button>
-                </Link>
+                </a>
               </div>
             </Fifty>
           </div>
