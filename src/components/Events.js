@@ -41,12 +41,12 @@ const Events = () => {
       <div className="repeat-days">
         <p>Seafood City</p>
         <p>94-050 Farrington Hwy Waipahu, HI 96797</p>
-        <p>Every Friday, Saturday, & Monday 9am-6pm</p>
+        <p>Every Friday, & Saturday 9am-6pm</p>
       </div>
       <div className="repeat-days">
         <p>Pearl City Shopping Center (Near Don Quijote)</p>
         <p>850 Kamehameha Hwy Pearl City, 96782</p>
-        <p>Tuesdays 9am-5pm, Wednesdays 9am-5pm, Thursdays 9am-5pm</p>
+        <p>Tuesdays 9am-5pm, Wednesdays 9am-1pm, Thursdays 9am-1pm</p>
       </div>
       {marchEvents.map(({ node }, index) => {
         return (
