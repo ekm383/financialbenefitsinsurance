@@ -548,19 +548,6 @@
     "bio": [""],
     "testimonials": [""]
   },
-
-  {
-    "island": "kauai",
-    "id": "33",
-    "slug": "laurie-smith",
-    "photo": "../images/agents/FBI-Laurie-Smith.jpg",
-    "name": "Laurie Smith",
-    "phone": "808-855-5328",
-    "email": "Lsmith@fbihi.com",
-    "bilingual": "",
-    "bio": [""],
-    "testimonials": [""]
-  },
   {
     "island": "kauai",
     "id": "34",
@@ -847,9 +834,9 @@
   {
     "island": "kauai",
     "id": "62",
-    "slug": "Manu Dizon",
+    "slug": "manu-dizon",
     "photo": "../images/agents/FBI-Manu-Dizon.jpg",
-    "name": "Manu Dizon",
+    "name": "Lawrence 'Manu' Dizon Jr.",
     "phone": "808-482-0245",
     "email": "mdizon@fbihi.com",
     "bilingual": "",
