@@ -842,5 +842,21 @@
     "bilingual": "",
     "bio": [""],
     "testimonials": [""]
+  },
+  {
+    "island": "kauai",
+    "id": "63",
+    "slug": "elizabeth-sante",
+    "photo": "../images/agents/FBI-Elizabeth-Sante.jpg",
+    "name": "Elizabeth Sante",
+    "phone": "808-855-0168",
+    "email": "esante@fbihi.com",
+    "bilingual": "Tagalog",
+    "bio": [
+      "My name is Elizabeth Dacanay Sante, a resident of Kauai. Hawaii.  BSBA graduate, major in accounting from the University of the East, Manila . I came to Hawaii 24 years ago, married to Virgilio Sante Sr, with 2 sons. I have worked as a retail store associate for more than 20 years. I've worked at Walmart, RadioShack, and Kay Jewelers, just to name a few. I also worked at the Lihue Pharmacy as an accounting assistant. I've been doing life insurance since 2015.",
+      "I love working with people, understanding their needs, and doing personalized services. I joined Financial Benefits Insurance Inc., to do Medicare Sup and Med Advantage. I am excited to be a part of the team and ignite with them! Helping our kupuna with aloha!",
+      "I am looking forward to serving you."
+    ],
+    "testimonials": [""]
   }
 ]
