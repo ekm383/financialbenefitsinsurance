@@ -1,7 +1,6 @@
 import React, { Component } from "react"
 import styled from "styled-components"
 import Section from "../section/Section"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
 import { FaInstagram, FaFacebook } from "react-icons/fa"
 import BBB from "../../../images/BBB.png"
 import Ethics from "../../../images/ethics-net.png"

@@ -108,6 +108,26 @@ const Agents = () => {
           }
         }
       }
+      nevadaAgents: allAgentsJson(filter: { island: { eq: "nevada" } }) {
+        edges {
+          node {
+            id
+            island
+            slug
+            photo {
+              childImageSharp {
+                fluid(maxWidth: 500, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            name
+            phone
+            email
+            bilingual
+          }
+        }
+      }
     }
   `)
   const oahu = data.oahuAgents.edges
@@ -115,6 +135,7 @@ const Agents = () => {
   const maui = data.mauiAgents.edges
   const kauai = data.kauaiAgents.edges
   const texas = data.texasAgents.edges
+  const nevada = data.nevadaAgents.edges
 
   return (
     <SearchWrapper>
@@ -217,6 +238,28 @@ const Agents = () => {
           })}
           <h4 className="island-name">Texas Agents</h4>
           {texas.map(({ node }) => {
+            return (
+              <div className="box" key={`row_${node.id}`}>
+                <div className="avatar">
+                  <Img fluid={node.photo.childImageSharp.fluid} />
+                </div>
+                <div className="name">
+                  <p className="agent-name">
+                    <Link to={`/agent/${node.slug}`}>{node.name}</Link>
+                  </p>
+                  <p className="website-link">
+                    <Link to={`/agent/${node.slug}`}>View Profile</Link>
+                  </p>
+                  <p>{node.phone}</p>
+                  <p className="email">{node.email}</p>
+                  <p className="island">{node.island}</p>
+                  {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                </div>
+              </div>
+            )
+          })}
+          <h4 className="island-name">Nevada Agents</h4>
+          {nevada.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
                 <div className="avatar">
