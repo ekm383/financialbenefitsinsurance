@@ -874,5 +874,32 @@
       "In 2014, I was encouraged to obtain my Life and Health insurance licenses', and have not regretted it for a moment. I enjoy helping people make decisions about what insurance will be the best choice for them. My father has been sick for the past 10+ years, so I know how vital it is to have healthcare that fits every individual's needs. "
     ],
     "testimonials": [""]
+  },
+  {
+    "island": "nevada",
+    "id": "65",
+    "slug": "passion-bell",
+    "photo": "../images/agents/FBI-Passion-Bell.jpg",
+    "name": "Passion Bell",
+    "phone": "707-656-7379",
+    "email": "pbell@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Hi my name is Passion Bell and I recently relocated to Henderson, NV after finishing my Master of Public Health at Touro University CA. I am an avid reader, traveler, and enjoy learning new recipes for my cookbook. Aside from that I am a great listener and enjoy helping others and am determined to make your life easier by offering insurance plans that meets your criteria.",
+      "As a Licensed Life and Health Producer in the State of Nevada, it is my honor to help you put your health and life insurances plan in place.  I believe that you are your family's most valuable asset; insurance gives you better quality of life and gives them peace of mind."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
+    "id": "66",
+    "slug": "elia-gonzalez",
+    "photo": "../images/agents/FBI-Elia-Gonzalez.jpg",
+    "name": "Elia Gonzalez",
+    "phone": "713-805-4016",
+    "email": "egonzalez@fbihi.com",
+    "bilingual": "Spanish",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]
