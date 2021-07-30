@@ -901,5 +901,22 @@
     "bilingual": "Spanish",
     "bio": [""],
     "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "67",
+    "slug": "russell-anderson",
+    "photo": "../images/agents/FBI-Russell-Anderson.jpg",
+    "name": "Russell Anderson",
+    "phone": "808-693-5200",
+    "email": "randerson@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Russell has been an active Health Insurance Agent/Broker for 9 Years and is licensed in 2 states. He specializes in Medicare, Life Insurance and Elder Care. He began his Insurance Career as the son of aging parents and he helped navigate the complex world of Alzheimer’s Care, VA Benefits, Estate Trusts, Medicare & Prescription Drug Coverage. He has worked with Estate Planning Attorneys to organize complex retirement situations.",
+      "As a life-Long Learner, Russell graduated with a bachelor’s degree in communication studies from Cal State University Sacramento. After College, He worked in Advertising and the IT Industry and completed his Microsoft Certified Systems Engineering (MCSE) Degree.",
+      "In his spare-time he enjoys spending time with family and friends while Swimming, Golfing, going on Island Road Trips, dining out & attending concerts.",
+      "Using all the support Financial Benefits Insurance has to offer, Russell can help you find the Insurance or retirement plan that will help you live your best life."
+    ],
+    "testimonials": [""]
   }
 ]
