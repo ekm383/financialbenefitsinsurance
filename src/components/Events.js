@@ -5,7 +5,7 @@ import { useStaticQuery, graphql } from "gatsby"
 const Events = () => {
   const data = useStaticQuery(graphql`
     query {
-      aprilEvents: allEventsJson(filter: { month: { eq: "april" } }) {
+      octoberEvents: allEventsJson(filter: { month: { eq: "october" } }) {
         edges {
           node {
             month
@@ -19,23 +19,9 @@ const Events = () => {
           }
         }
       }
-      marchEvents: allEventsJson(filter: { month: { eq: "march" } }) {
-        edges {
-          node {
-            month
-            day
-            time
-            location
-            street
-            city
-            type
-          }
-        }
-      }
     }
   `)
-  const aprilEvents = data.aprilEvents.edges
-  const marchEvents = data.marchEvents.edges
+  const octoberEvents = data.octoberEvents.edges
   return (
     <StyledEvent>
       <div className="repeat-days">
@@ -48,7 +34,7 @@ const Events = () => {
         <p>850 Kamehameha Hwy Pearl City, 96782</p>
         <p>Tuesdays 9am-5pm, Wednesdays 9am-1pm, Thursdays 9am-1pm</p>
       </div>
-      {marchEvents.map(({ node }, index) => {
+      {octoberEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
@@ -59,21 +45,7 @@ const Events = () => {
             <p>{node.city}</p>
             <p>{node.time}</p>
             <p>{node.type}</p>
-          </div>
-        )
-      })}
-      {aprilEvents.map(({ node }, index) => {
-        return (
-          <div className="event-box" key={index}>
-            <h3>{node.day}</h3>
-            <p>
-              <span>{node.location}</span>
-            </p>
-            <p>{node.street}</p>
-            <p>{node.city}</p>
-            <p>{node.time}</p>
-            <p>{node.type}</p>
-            <a href={!node.link ? "" : node.link}>Meeting Link</a>
+            <p id="link">{node.link}</p>
           </div>
         )
       })}
@@ -115,6 +87,11 @@ const StyledEvent = styled.div`
     p:nth-child(1) {
       font-weight: bold;
     }
+  }
+  #link {
+    font-style: italic;
+    font-size: 1rem;
+    color: var(--lightGray);
   }
   @media (max-width: 768px) {
     .event-box {

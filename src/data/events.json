@@ -1,12 +1,102 @@
 [
   {
-    "month": "",
-    "day": "",
-    "time": "",
-    "location": "",
+    "month": "october",
+    "day": "October 2",
+    "time": "9:00am-10:30am, 11:00am-12:30pm",
+    "location": "Virtual Meeting",
     "street": "",
     "city": "",
-    "type": "",
-    "link": ""
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 3",
+    "time": "11:00am-12:30pm",
+    "location": "Virtual Meeting",
+    "street": "",
+    "city": "",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 5",
+    "time": "9:00am-10:30am",
+    "location": "Ala Moana Hotel Pakalana & Anthurium Room",
+    "street": "410 Atkinson Drive",
+    "city": "Honolulu 96814",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 7",
+    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
+    "location": "All Saints Church",
+    "street": "4-1065 Kuhio Hwy",
+    "city": "Kapaa, HI 96746",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 8",
+    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
+    "location": "Big City Diner Windward Mall - Makai Room",
+    "street": "46-056 Kamehameha Hwy D-01",
+    "city": "Kaneohe, HI 96744",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 9",
+    "time": "9:00am-10:30am, 11:00am-12:30pm, 1:00pm-2:30pm",
+    "location": "Virtual Meeting",
+    "street": "",
+    "city": "",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 11",
+    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
+    "location": "FILCOM - Tech Room 1",
+    "street": "94-428 Mokuola St",
+    "city": "Waipahu, HI 96797",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 12",
+    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
+    "location": "Maui Beach Hotel - Maui Room",
+    "street": "170 W Kaahumanu Ave",
+    "city": "Kahului, HI 96732",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 13",
+    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
+    "location": "Pearl Country Club - Pearl 2",
+    "street": "98-535 Kaonohi St.",
+    "city": "Aiea, HI 96701",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 14",
+    "time": "9am-10:30am, 11am-12:30pm, 1:00pm-2:30pm",
+    "location": "Hanapepe Public Library - Meeting Room",
+    "street": "4490 Kona Road",
+    "city": "Hanapepe, HI 96716",
+    "type": "Client Appreciation Meeting - Invite Only",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
   }
 ]
