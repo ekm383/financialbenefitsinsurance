@@ -623,7 +623,7 @@
     "slug": "garry-yee",
     "photo": "../images/agents/FBI-Garry-Yee.jpg",
     "name": "Garry Yee",
-    "phone": "808-349-2720",
+    "phone": "808-278-0678",
     "email": "Gyee@fbihi.com",
     "bilingual": "",
     "bio": [
@@ -917,6 +917,35 @@
       "In his spare-time he enjoys spending time with family and friends while Swimming, Golfing, going on Island Road Trips, dining out & attending concerts.",
       "Using all the support Financial Benefits Insurance has to offer, Russell can help you find the Insurance or retirement plan that will help you live your best life."
     ],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "68",
+    "slug": "peter-chock",
+    "photo": "../images/agents/FBI-Peter-Chock.jpg",
+    "name": "Peter Chock",
+    "phone": "808-358-6377",
+    "email": "pchock@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [
+      "Hi, my name is Peter Chock.",
+      "I am born and raised in Hawaii. I am married and have 3 wonderful children. My dad was a local doctor who enjoyed taking care of his patients by taking the time to listen to them and their concerns. I deeply loved my father and have enthusiastically embraced his mission of helping people and treating them with respect and dignity.",
+      "As a Medicare beneficiary, a great passion of mine is educating people regarding their health insurance needs. My professional background of being a pharmacist for over 35 years in Hawaii enables me to thoroughly understand the often overwhelming costs of prescription drugs and how it relates to Medicare beneficiaries.",
+      "My goal as your professional health insurance agent is to provide knowledge in easily understandable form which will enable you to make an educated decision regarding your health insurance needs. I look forward to the opportunity to serve you."
+    ]
+  },
+  {
+    "island": "oahu",
+    "id": "69",
+    "slug": "frank-leong",
+    "photo": "../images/agents/FBI-Frank-Leong.jpg",
+    "name": "Frank Leong",
+    "phone": "808-428-6770",
+    "email": "fleong@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
     "testimonials": [""]
   }
 ]
