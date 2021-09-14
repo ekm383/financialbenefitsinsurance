@@ -561,6 +561,9 @@
       "Aloha, from Kauai Island! I’m Yolanda “Yolie” Yee and I current serve as Vice President of YeeCorp, Inc., a family-owned corporation since 1988 offering Life, Health, and Disability insurance choices for clients statewide, as well as in California and Washington. My area of focus includes Individual and Family Health plans, Medicare plans, and Group Health, Life/Disability plans. I joined Financial Benefits Insurance and do Medicare with them.",
       "Having graduated from Waipahu HS on Oahu, I also received Bachelor of Arts-Psychology from University of Hawaii-Manoa. My career includes over 25 years in Human Resources in many industry sectors, including Hotel, Auto, Retail and Insurance.",
       "I enjoy being with my family of husband and three sons, and recently a daughter-in-law. My favorite past-time includes travel all over the world, as well as fishing for trout in Kokee or Oama at Anini Beach."
+    ],
+    "testimonials": [
+      "We just wanted to say, 'Thank You' for all your help, guidance, expertise, and most of all your patience with us! We had no idea retiring would be so complicated. You continue to go above and beyond to help us navigate the paperwork, phone calls, etc. We truly appreciate all that you do!"
     ]
   },
   {
@@ -944,6 +947,18 @@
     "name": "Frank Leong",
     "phone": "808-428-6770",
     "email": "fleong@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "70",
+    "slug": "jeff-tanaka",
+    "photo": "../images/agents/FBI-Jeff-Tanaka.jpg",
+    "name": "Jeff Tanaka",
+    "phone": "808-216-6830",
+    "email": "jtanaka@fbihi.com",
     "bilingual": "",
     "bio": [""],
     "testimonials": [""]
