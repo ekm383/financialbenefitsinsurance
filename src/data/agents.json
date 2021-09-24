@@ -962,5 +962,17 @@
     "bilingual": "",
     "bio": [""],
     "testimonials": [""]
+  },
+  {
+    "island": "nevada",
+    "id": "71",
+    "slug": "don-purdy",
+    "photo": "../images/agents/FBI-Don-Purdy.jpg",
+    "name": "Don Purdy",
+    "phone": "725-261-1355",
+    "email": "dpurdy@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]
