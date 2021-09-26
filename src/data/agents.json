@@ -974,5 +974,17 @@
     "bilingual": "",
     "bio": [""],
     "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "72",
+    "slug": "eric-barayuga",
+    "photo": "../images/agents/FBI-Eric-Barayuga.jpg",
+    "name": "Eric Barayuga",
+    "phone": "808-218-1903",
+    "email": "ebarayuga@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]

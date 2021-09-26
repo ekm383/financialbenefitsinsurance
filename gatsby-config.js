@@ -58,5 +58,15 @@ module.exports = {
         pixelId: "261120445374261",
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["UA-195381058-4"],
+        // This object is used for configuration specific to this plugin
+        pluginConfig: {
+          head: false,
+        },
+      },
+    },
   ],
 }

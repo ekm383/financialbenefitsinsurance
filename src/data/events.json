@@ -31,16 +31,6 @@
   },
   {
     "month": "october",
-    "day": "October 4",
-    "time": "11:00am-12:30am, 1:00pm-2:30pm",
-    "location": "Ala Moana Hotel Pakalana & Anthurium Room",
-    "street": "410 Atkinson Drive",
-    "city": "Honolulu 96814",
-    "type": "Client Appreciation Meeting - Invite Only",
-    "link": "Call our office at (808) 792-5194 to make a reservation."
-  },
-  {
-    "month": "october",
     "day": "October 5",
     "time": "5:00pm-6:30pm",
     "location": "Virtual Meeting",
@@ -52,7 +42,7 @@
   {
     "month": "october",
     "day": "October 5",
-    "time": "9:00am-10:30am",
+    "time": "9:00am-10:30am, 11:00am -12:30pm, 1:00pm-2:30pm",
     "location": "Ala Moana Hotel Pakalana & Anthurium Room",
     "street": "410 Atkinson Drive",
     "city": "Honolulu 96814",
