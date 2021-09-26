@@ -113,7 +113,7 @@ const AboutPage = () => {
         <Section style={{ margin: "4rem auto 2rem auto" }}>
           <iframe
             title="About FBIHI"
-            src="https://player.vimeo.com/video/514555574"
+            src="https://player.vimeo.com/video/467002085"
             width="100%"
             height="360"
             frameborder="0"
