@@ -138,5 +138,495 @@
     "city": "Hanapepe, HI 96716",
     "type": "Client Appreciation Meeting - Invite Only",
     "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 15 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "Ala Moana Hotel (Plumeria Room)",
+    "street": "410 Atkinson Dr, ",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 15 - Humana",
+    "time": "11am-12:30pm",
+    "location": "Ala Moana Hotel (Plumeria Room)",
+    "street": "410 Atkinson Dr, ",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 15 - Ohana",
+    "time": "1pm-2:30pm",
+    "location": "Ala Moana Hotel (Plumeria Room)",
+    "street": "410 Atkinson Dr,",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 15 - Humana",
+    "time": "9am-10:30am",
+    "location": "Ruby Tuesday Mililani",
+    "street": "95-1249 Meheula Pkwy",
+    "city": "Mililani, HI 96789",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 15 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Ruby Tuesday Mililani",
+    "street": "95-1249 Meheula Pkwy",
+    "city": "Mililani, HI 96789",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 15 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "Sangha Hall Conference Room",
+    "street": "398 Kilauea Ave",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 15 - Ohana",
+    "time": "11am-12:30pm",
+    "location": "Sangha Hall Conference Room",
+    "street": "398 Kilauea Ave",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 16 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "Pineapple Crate Whitmore Koa Room",
+    "street": "1116 Whitmore Ave,",
+    "city": "Wahiawa, HI 96786",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 16 - Humana",
+    "time": "11am-12:30pm",
+    "location": "Pineapple Crate Whitmore Koa Room",
+    "street": "1116 Whitmore Ave,",
+    "city": "Wahiawa, HI 96786",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 16 - Ohana",
+    "time": "1pm-2:30pm",
+    "location": "Pineapple Crate Whitmore Koa Room",
+    "street": "1116 Whitmore Ave,",
+    "city": "Wahiawa, HI 96786",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 16 - All",
+    "time": "10am-1pm",
+    "location": "Pearlridge Senior Lifestyle Fair",
+    "street": "98-1005 Moanalua Rd,",
+    "city": "Aiea, HI 96701",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 16 - All",
+    "time": "1pm-5pm",
+    "location": "Pearlridge Senior Lifestyle Fair",
+    "street": "98-1005 Moanalua Rd,",
+    "city": "Aiea, HI 96701",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 17 - All",
+    "time": "10am-1pm",
+    "location": "Pearlridge Senior Lifestyle Fair",
+    "street": "98-1005 Moanalua Rd,",
+    "city": "Aiea, HI 96701",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 17 - All",
+    "time": "1pm-5pm",
+    "location": "Pearlridge Senior Lifestyle Fair",
+    "street": "98-1005 Moanalua Rd,",
+    "city": "Aiea, HI 96701",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 19 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "All Saints Church Memorial Hall",
+    "street": "4-1065 Kuhio Hwy",
+    "city": "Kapaʻa, HI 96746",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 19 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "All Saints Church Memorial Hall",
+    "street": "4-1065 Kuhio Hwy",
+    "city": "Kapaʻa, HI 96746",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 19 - Humana",
+    "time": "9am-10:30am",
+    "location": "Zippy's Vinyard",
+    "street": "59 N Vineyard Blvd",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 19 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Zippy's Vinyard",
+    "street": "59 N Vineyard Blvd",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 20 - Humana",
+    "time": "9am-10:30am",
+    "location": "FILCOM Tech Center 1",
+    "street": "94-428 Mokuloa St.",
+    "city": "Waipahu, HI 96797",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 20 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "FILCOM Tech Center 1",
+    "street": "94-428 Mokuloa St.",
+    "city": "Waipahu, HI 96797",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 20 - Ohana",
+    "time": "1pm-2:30pm",
+    "location": "FILCOM Tech Center 1",
+    "street": "94-428 Mokuloa St.",
+    "city": "Waipahu, HI 96797",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 20 - Humana",
+    "time": "9am-10:30am",
+    "location": "Maui Beach Hotel (Lanai Room)",
+    "street": "170 W Kaahumanu Ave,",
+    "city": "Kahului, HI 96732",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 20 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Maui Beach Hotel (Lanai Room)",
+    "street": "170 W Kaahumanu Ave,",
+    "city": "Kahului, HI 96732",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 21 - Humana",
+    "time": "9am-10:30am",
+    "location": "Aina Haina Library Meeting Room",
+    "street": "5246 Kalanianaʻole Hwy,",
+    "city": "Honolulu, HI 96821",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 21 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Aina Haina Library Meeting Room",
+    "street": "5246 Kalanianaʻole Hwy,",
+    "city": "Honolulu, HI 96821",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 21 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "Imiloa Meeting Room",
+    "street": "600 Imiloa Pl",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 21 - Ohana",
+    "time": "11am-12:30pm",
+    "location": "Imiloa Meeting Room",
+    "street": "600 Imiloa Pl",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 23 - Humana",
+    "time": "9am-10:30am",
+    "location": "Pineapple Crate Whitmore Koa Room",
+    "street": "1116 Whitmore Ave,",
+    "city": "Wahiawa, HI 96786",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 23 - Ohana",
+    "time": "11am-12:30pm",
+    "location": "Pineapple Crate Whitmore Koa Room",
+    "street": "1116 Whitmore Ave,",
+    "city": "Wahiawa, HI 96786",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 23 - United Health Care",
+    "time": "1pm-2:30pm",
+    "location": "Pineapple Crate Whitmore Koa Room",
+    "street": "1116 Whitmore Ave,",
+    "city": "Wahiawa, HI 96786",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 23 - Humana",
+    "time": "9am-10:30am",
+    "location": "Ala Moana Hotel (Carnation Rm)",
+    "street": "410 Atkinson Dr. ",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 23 - Ohana",
+    "time": "11am-12:30pm",
+    "location": "Ala Moana Hotel (Carnation Rm)",
+    "street": "410 Atkinson Dr. ",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 23 - United Health Care",
+    "time": "1pm-2:30pm",
+    "location": "Ala Moana Hotel (Carnation Rm)",
+    "street": "410 Atkinson Dr. ",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 25 - Ohana",
+    "time": "9am-10:30am",
+    "location": "Sangha Hall Conference Room",
+    "street": "398 Kilauea Ave",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 25 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Sangha Hall Conference Room",
+    "street": "398 Kilauea Ave",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 26 - Humana",
+    "time": "9am-10:30am",
+    "location": "Big City Diner (Makai Room)",
+    "street": "46-056 Kamehameha Hwy D-01",
+    "city": "Kaneohe, HI 96744",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 26 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Big City Diner (Makai Room)",
+    "street": "46-056 Kamehameha Hwy D-01",
+    "city": "Kaneohe, HI 96744",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 27 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "Aina Haina Library Meeting Room",
+    "street": "5246 Kalanianaʻole Hwy,",
+    "city": "Honolulu, HI 96821",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 27 - Humana",
+    "time": "11am-12:30pm",
+    "location": "Aina Haina Library Meeting Room",
+    "street": "5246 Kalanianaʻole Hwy,",
+    "city": "Honolulu, HI 96821",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 27 - Humana",
+    "time": "9am-10:30am",
+    "location": "Hanapepe Public Library - Meeting Room",
+    "street": "4490 Kona Road",
+    "city": "Hanapepe, HI 96716",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 27 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Hanapepe Public Library - Meeting Room",
+    "street": "4490 Kona Road",
+    "city": "Hanapepe, HI 96716",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 28 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "Maui Beach Hotel - Maui Room",
+    "street": "170 W Kaahumanu Ave",
+    "city": "Kahului, HI 96732",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 28 - Humana",
+    "time": "11am-12:30pm",
+    "location": "Maui Beach Hotel - Maui Room",
+    "street": "170 W Kaahumanu Ave",
+    "city": "Kahului, HI 96732",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 28 - United Health Care",
+    "time": "9am-10:30am",
+    "location": "Ruby Tuesday Mililani",
+    "street": "95-1249 Meheula Pkwy",
+    "city": "Mililani, HI 96789",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 28 - Humana",
+    "time": "11am-12:30pm",
+    "location": "Ruby Tuesday Mililani",
+    "street": "95-1249 Meheula Pkwy",
+    "city": "Mililani, HI 96789",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 29 - Ohana",
+    "time": "9am-10:30am",
+    "location": "Kam Bowl Restaurant",
+    "street": "1620 N. School St",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 29 - United Health Care",
+    "time": "11am-12:30pm",
+    "location": "Kam Bowl Restaurant",
+    "street": "1620 N. School St",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 29 - Humana",
+    "time": "11am-12:30pm",
+    "location": "Fountain of Living Water Church",
+    "street": "2412 Rose St. ",
+    "city": "Honolulu, HI 96819",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
+  },
+  {
+    "month": "october",
+    "day": "October 29 - Ohana",
+    "time": "1pm-2:30pm",
+    "location": "Fountain of Living Water Church",
+    "street": "2412 Rose St. ",
+    "city": "Honolulu, HI 96819",
+    "type": "",
+    "link": "Call our office at (808) 792-5194 to make a reservation."
   }
 ]

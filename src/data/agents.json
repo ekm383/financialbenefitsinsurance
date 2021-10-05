@@ -314,7 +314,8 @@
       "- Kenrick C., Honolulu, HI",
       "I am very happy with my insurance plan and owe it all to you (Brenda Tanga). I appreciate you keeping in contact. You're great!",
       "- Lorraine T., Honolulu HI"
-    ]
+    ],
+    "videoLink": "https://player.vimeo.com/video/615465397"
   },
   {
     "island": "oahu",
@@ -781,7 +782,8 @@
       "Kyler Kwock is a licensed insurance consultant with Financial Benefits Insurance.  He is passionate about finding the right policies to fit individual client's needs, providing an exceptional experience, and building long-term relationships.",
       "Kyler currently resides in Hawaii Kai with his wife and 2 daughters. He graduated from the University of Hawaii with a double major in Communications and Art. He is an avid photographer and has won numerous awards, both locally and nationally.  Other interests include technology, movies, traveling, and good eats (epicurean)."
     ],
-    "testimonials": [""]
+    "testimonials": [""],
+    "videoLink": "https://player.vimeo.com/video/615451310"
   },
   {
     "island": "oahu",
@@ -876,7 +878,8 @@
       "Las Vegas has so much to offer. I love being a tourist in my own city. From the lights, entertainment, gambling, energy, and of course a great selection of food choices (Yes, I love the buffets). For those of you that have been here, you also know that Vegas has some absolutely amazing scenery, some great sunsets, and tons of outdoor activities. There is definitely no shortage golf courses, hiking trails, camp sites, or lake activities.",
       "In 2014, I was encouraged to obtain my Life and Health insurance licenses', and have not regretted it for a moment. I enjoy helping people make decisions about what insurance will be the best choice for them. My father has been sick for the past 10+ years, so I know how vital it is to have healthcare that fits every individual's needs. "
     ],
-    "testimonials": [""]
+    "testimonials": [""],
+    "videoLink": "https://player.vimeo.com/video/615446766"
   },
   {
     "island": "nevada",
@@ -891,7 +894,8 @@
       "Hi my name is Passion Bell and I recently relocated to Henderson, NV after finishing my Master of Public Health at Touro University CA. I am an avid reader, traveler, and enjoy learning new recipes for my cookbook. Aside from that I am a great listener and enjoy helping others and am determined to make your life easier by offering insurance plans that meets your criteria.",
       "As a Licensed Life and Health Producer in the State of Nevada, it is my honor to help you put your health and life insurances plan in place.  I believe that you are your family's most valuable asset; insurance gives you better quality of life and gives them peace of mind."
     ],
-    "testimonials": [""]
+    "testimonials": [""],
+    "videoLink": "https://player.vimeo.com/video/615439937"
   },
   {
     "island": "texas",
@@ -972,7 +976,12 @@
     "phone": "725-261-1355",
     "email": "dpurdy@fbihi.com",
     "bilingual": "",
-    "bio": [""],
+    "bio": [
+      "Aloha",
+      "My name is Don Purdy, I was born on the island of Maui and raised on Oahu. I’m a graduate of Farrington High School. My career started in the financial industry after a few years I decided to join the travel industry, where had a career for over 35 years. The travel industry had given me the opportunity to meet and share the aloha spirit with people from all around the world, the experience has helped learn the importance of customer service. Recently, I retired from United Airlines after 26 years of service, and decided to pursue a career in insurance.",
+      "As a Licensed Insurance Agent, I’m able to continue my 35 years of customer service experience to serve our community. Insurance, whether it’s life or health, can be intimidating to some, my job is to help navigate you through the process making it a seamless and memorable experience, giving you peace of mind that you deserve for your future. I’m licensed in Nevada, Hawaii, and Utah, if you reside in one of these states, I look forward to working with you.",
+      "During my spare time in Las Vegas, I like to help out the community by volunteering for 2 non-profit organizations that I’m very passionate about. Helping Hands and Nevada Partnership for Homeless Youth. Helping Hands is an organization that delivers necessities to our seniors such as meals, food, vegetables, fruits, paper products, etc. every other Saturdays. Nevada Partnership for Homeless Youth works with homeless youth who needs, shelter, food, clothing, social services, and more. Other than that, I like to travel and most of all, enjoy everything Las Vegas has to offer."
+    ],
     "testimonials": [""]
   },
   {
@@ -985,6 +994,37 @@
     "email": "ebarayuga@fbihi.com",
     "bilingual": "",
     "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "73",
+    "slug": "jovita-domingo",
+    "photo": "../images/agents/FBI-Jovita-Domingo.jpg",
+    "name": "Jovita Domingo",
+    "phone": "808-382-1123",
+    "email": "jdomingo@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "maui",
+    "id": "74",
+    "slug": "guy-purdy",
+    "photo": "../images/agents/FBI-Guy-Purdy.jpg",
+    "name": "Guy Purdy",
+    "phone": "808-359-4629",
+    "email": "gpurdy@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Guy Purdy lives on the beautiful island of Maui, Hawaii. He grew up in a small town on the east side of the island called Hana. Growing up in Hana he has learned the true meaning of \"Aloha\" which taught him at a very young age to always do things from the kindness of your heart. He enjoys freelancing as an online marketer, reading, working out, and started getting involved in Real Estate Investing.",
+      "He is an Electrician with the IBEW and has been in the trade for 20 years.",
+      "He is obtaining certifications to become a Financial Coach so he can help educate clients in developing good financial management skills such as budgeting, credit repair, debt elimination, and building wealth.",
+      "He has been a Hawaii Life Insurance Agent for 2 years and specializes in designing Cash Value Life Insurance policies for individuals. He also recently acquired his Hawaii Accident & Health license so he can assist clients who qualify for Medicare in navigating all the different carriers and plans that is available to them.",
+      "Guy has a strong passion in helping clients and is always willing to go the extra mile in ensuring all his clients are satisfied and happy with the services he provides.",
+      "If you are in need of or have any questions regarding Medicare, Life Insurance or need a fan installed lol, Guy is always happy to help.  He can be reached at 8083594629."
+    ],
     "testimonials": [""]
   }
 ]
