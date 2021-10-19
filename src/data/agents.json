@@ -1025,6 +1025,19 @@
       "Guy has a strong passion in helping clients and is always willing to go the extra mile in ensuring all his clients are satisfied and happy with the services he provides.",
       "If you are in need of or have any questions regarding Medicare, Life Insurance or need a fan installed lol, Guy is always happy to help.  He can be reached at 8083594629."
     ],
+    "testimonials": [""],
+    "website": "https://www.guypurdy.com/"
+  },
+  {
+    "island": "oahu",
+    "id": "75",
+    "slug": "rex-lee",
+    "photo": "../images/agents/FBI-Rex-Lee.jpg",
+    "name": "Rex Lee",
+    "phone": "808-724-8889",
+    "email": "rlee@fbihi.com",
+    "bilingual": "Korean",
+    "bio": [""],
     "testimonials": [""]
   }
 ]
