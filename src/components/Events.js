@@ -19,6 +19,20 @@ const Events = () => {
           }
         }
       }
+      novemberEvents: allEventsJson(filter: { month: { eq: "november" } }) {
+        edges {
+          node {
+            month
+            day
+            time
+            location
+            street
+            city
+            type
+            link
+          }
+        }
+      }
     }
   `)
   const octoberEvents = data.octoberEvents.edges
@@ -35,6 +49,21 @@ const Events = () => {
         <p>Tuesdays 9am-5pm, Wednesdays 1pm-5pm, Thursdays 9am-1pm</p>
       </div>
       {octoberEvents.map(({ node }, index) => {
+        return (
+          <div className="event-box" key={index}>
+            <h3>{node.day}</h3>
+            <p>
+              <span>{node.location}</span>
+            </p>
+            <p>{node.street}</p>
+            <p>{node.city}</p>
+            <p>{node.time}</p>
+            <p>{node.type}</p>
+            <p id="link">{node.link}</p>
+          </div>
+        )
+      })}
+      {novemberEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
