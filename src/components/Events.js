@@ -36,6 +36,7 @@ const Events = () => {
     }
   `)
   const octoberEvents = data.octoberEvents.edges
+  const novemberEvents = data.novemberEvents.edges
   return (
     <StyledEvent>
       <div className="repeat-days">
