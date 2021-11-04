@@ -108,21 +108,6 @@
     "testimonials": [""]
   },
   {
-    "island": "oahu",
-    "id": "52",
-    "slug": "lowana-richardson",
-    "photo": "../images/agents/FBI-Richardson-Lowana.jpg",
-    "name": "Lowana Richardson",
-    "phone": "808-657-4411",
-    "email": "lrichardson@fbihi.com",
-    "bilingual": "",
-    "bio": [
-      "My name is Lowana Richardson, born in Hawaii on the island of Oahu and moved to the Big Island in 2104 to the  Hamakua Coast.  I am the proud mother of four grown children, two boys and two girls, who represent to me my best achievements, as a single working mom.  My background has been varied, working for the Department of Education in Hawaii and in sales, having owned my own retail florist shop in Riverside, California.  I was raised both in California and Hawaii, but my heart has always been in the islands.",
-      "When I reached retirement age, I had to negotiate the world of Medicare Insurance - they don’t teach you this in college.  I also needed to help a family member that had a disability find the best plan for him when he qualified for SSI.  After years of struggling to figure out what was best, I ran into my agent who also works for FBIHI  and she shared her knowledge with me.  She was so wonderful and took such good care of me, making sure that when the different companies plans changed that she had me on the best plan for my needs.  I was so grateful to her, that I decided that I wanted to do the same and help others who were struggling to understand.  I knew it was important to be with a good company that would keep me updated and educated and thus why I joined FBIHI.  I love what I do and I love helping others in being informed about the best way to go when it comes to their Medicare coverage."
-    ],
-    "testimonials": [""]
-  },
-  {
     "island": "big island",
     "id": "61",
     "slug": "jessie-grace",
@@ -958,9 +943,9 @@
   {
     "island": "oahu",
     "id": "70",
-    "slug": "jeff-tanaka",
+    "slug": "jeffrey-tanaka",
     "photo": "../images/agents/FBI-Jeff-Tanaka.jpg",
-    "name": "Jeff Tanaka",
+    "name": "Jeffrey Tanaka",
     "phone": "808-216-6830",
     "email": "jtanaka@fbihi.com",
     "bilingual": "",
@@ -993,7 +978,10 @@
     "phone": "808-218-1903",
     "email": "ebarayuga@fbihi.com",
     "bilingual": "",
-    "bio": [""],
+    "bio": [
+      "I was born and raised on Oahu. I graduated from the University of Hawaii with a bachelor's degree in Accounting and a bachelor's degree in Computer Science. I have my own accounting business with a focus on care homes. My exposure to an industry tied to an aging population has motivated me to work with Financial Benefits Insurance, Inc. FBIHI's passion to support individuals navigate through important Medicare based decisions lined up well with my desire to help individuals.",
+      "When I'm not working, I enjoy playing piano, learning languages, studying the Bible, and traveling to Europe and Asia. And I especially enjoy exchanging stories with my clients about their adventures. I believe life should be enjoyed, and therefore is worth maintaining and protecting. To help families accomplish this, I assist them as a licensed agent in Hawaii to offer Life Insurance, Accident Insurance, Health Insurance, and Medicare solutions."
+    ],
     "testimonials": [""]
   },
   {
@@ -1038,6 +1026,21 @@
     "email": "rlee@fbihi.com",
     "bilingual": "Korean",
     "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
+    "id": "52",
+    "slug": "lowana-richardson",
+    "photo": "../images/agents/FBI-Richardson-Lowana.jpg",
+    "name": "Lowana Richardson",
+    "phone": "808-657-4411",
+    "email": "lrichardson@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "My name is Lowana Richardson, born in Hawaii on the island of Oahu and moved to the Big Island in 2104 to the  Hamakua Coast.  I am the proud mother of four grown children, two boys and two girls, who represent to me my best achievements, as a single working mom.  My background has been varied, working for the Department of Education in Hawaii and in sales, having owned my own retail florist shop in Riverside, California.  I was raised both in California and Hawaii, but my heart has always been in the islands.",
+      "When I reached retirement age, I had to negotiate the world of Medicare Insurance - they don’t teach you this in college.  I also needed to help a family member that had a disability find the best plan for him when he qualified for SSI.  After years of struggling to figure out what was best, I ran into my agent who also works for FBIHI  and she shared her knowledge with me.  She was so wonderful and took such good care of me, making sure that when the different companies plans changed that she had me on the best plan for my needs.  I was so grateful to her, that I decided that I wanted to do the same and help others who were struggling to understand.  I knew it was important to be with a good company that would keep me updated and educated and thus why I joined FBIHI.  I love what I do and I love helping others in being informed about the best way to go when it comes to their Medicare coverage."
+    ],
     "testimonials": [""]
   }
 ]
