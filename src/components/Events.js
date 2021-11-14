@@ -32,7 +32,7 @@ const Events = () => {
       <div className="repeat-days">
         <p>Pearl City Shopping Center (Near Don Quijote)</p>
         <p>850 Kamehameha Hwy Pearl City, 96782</p>
-        <p>Tuesdays 9am-5pm, Wednesdays 1pm-5pm, Thursdays 9am-1pm</p>
+        <p>Tuesdays 9am-1pm, Thursdays 9am-1pm</p>
       </div>
       {novemberEvents.map(({ node }, index) => {
         return (
