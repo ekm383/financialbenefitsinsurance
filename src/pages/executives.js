@@ -39,6 +39,13 @@ const ExecutivesPage = () => {
           }
         }
       }
+      laura: file(relativePath: { eq: "agents/FBI-Laura-Ajimine.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 800, quality: 90) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
     }
   `)
   return (
@@ -89,6 +96,17 @@ const ExecutivesPage = () => {
                 <p className="agent-name">Maryann Ancog</p>
                 <p className="website-link">
                   Client Retention and Service Coordinator
+                </p>
+              </div>
+            </div>
+            <div className="box">
+              <div className="avatar">
+                <Img fluid={data.laura.childImageSharp.fluid} />
+              </div>
+              <div className="name">
+                <p className="agent-name">Laura Ajimine</p>
+                <p className="website-link">
+                  Provider Service and Customer Service Coordinator
                 </p>
               </div>
             </div>
