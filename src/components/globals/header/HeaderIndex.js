@@ -23,7 +23,7 @@ const BackgroundSection = ({ children }) => {
           }
         }
       }
-      slide3: file(relativePath: { eq: "FBI-Slider-3.jpg" }) {
+      slide3: file(relativePath: { eq: "FBI-Slider-6.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 2000) {
             ...GatsbyImageSharpFluid_withWebp
@@ -73,8 +73,8 @@ const BackgroundSection = ({ children }) => {
         <Carousel.Item>
           <Img fluid={data.slide3.childImageSharp.fluid} alt="Third Slide" />
           <Carousel.Caption>
-            Licensed in: <br /> Arizona, California, Georgia, Hawaii, Nevada,
-            Oregon, Texas, Utah, Washington
+            Licensed in: <br /> Arizona, California, Florida, Georgia, Hawaii,
+            Nevada, Oregon, Texas, Utah, Washington
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
