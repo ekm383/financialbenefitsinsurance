@@ -43,11 +43,11 @@ const IndexPage = () => {
         />
         <HeaderIndex>
           <div className="banner-container">
-            <Banner
+            {/* <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
               title="Benefits are our business."
               title2="Service sets us apart."
-            ></Banner>
+            ></Banner> */}
           </div>
         </HeaderIndex>
         <Fifty
@@ -154,7 +154,7 @@ const IndexWrapper = styled.div`
     align-content: center;
     margin: 0rem auto;
     .banner-container {
-      top: 10%;
+      top: 8%;
     }
     .portal-buttons {
       justify-content: center;

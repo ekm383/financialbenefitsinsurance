@@ -5,6 +5,7 @@ import Img from "gatsby-image"
 import { Link } from "gatsby"
 import { Carousel } from "react-bootstrap"
 import { FaArrowCircleRight } from "react-icons/fa"
+import Banner from "../banner/Banner"
 
 const BackgroundSection = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -52,6 +53,13 @@ const BackgroundSection = ({ children }) => {
       <Carousel>
         <Carousel.Item>
           <Img fluid={data.slide1.childImageSharp.fluid} alt="First Slide" />
+          <div className="header-container">
+            <Banner
+              titleSmall="Welcome to Financial Benefits Insurance"
+              title="Benefits are our business."
+              title2="Service sets us apart."
+            ></Banner>
+          </div>
           <Carousel.Caption>
             <Link to="/events">
               <button>
@@ -62,6 +70,13 @@ const BackgroundSection = ({ children }) => {
         </Carousel.Item>
         <Carousel.Item>
           <Img fluid={data.slide2.childImageSharp.fluid} alt="Second Slide" />
+          <div className="header-container">
+            <Banner
+              titleSmall="Welcome to Financial Benefits Insurance"
+              title="Benefits are our business."
+              title2="Service sets us apart."
+            ></Banner>
+          </div>
           <Carousel.Caption>
             <Link to="/agents">
               <button>
@@ -72,14 +87,23 @@ const BackgroundSection = ({ children }) => {
         </Carousel.Item>
         <Carousel.Item>
           <Img fluid={data.slide3.childImageSharp.fluid} alt="Third Slide" />
+          <div className="header-container">
+            <Banner title="Spreading Aloha Island Style"></Banner>
+          </div>
           <Carousel.Caption>
             Licensed in: <br /> Arizona, California, Colorado, Florida, Georgia,
-            <br />
             Hawaii, Nevada, Oregon, Texas, Utah, Washington
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <Img fluid={data.slide4.childImageSharp.fluid} alt="Fourth Slide" />
+          <div className="header-container">
+            <Banner
+              titleSmall="Welcome to Financial Benefits Insurance"
+              title="Benefits are our business."
+              title2="Service sets us apart."
+            ></Banner>
+          </div>
           <Carousel.Caption>
             <Link to="/client-secure">
               <button>
@@ -91,6 +115,13 @@ const BackgroundSection = ({ children }) => {
         </Carousel.Item>
         <Carousel.Item>
           <Img fluid={data.slide5.childImageSharp.fluid} alt="Fifth Slide" />
+          <div className="header-container">
+            <Banner
+              titleSmall="Welcome to Financial Benefits Insurance"
+              title="Benefits are our business."
+              title2="Service sets us apart."
+            ></Banner>
+          </div>
           <Carousel.Caption>
             <Link to="/agent-secure">
               <button>
@@ -114,6 +145,17 @@ const CarouselWrapper = styled.div`
     bottom: 100px;
   }
 
+  .header-container {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 28%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    z-index: 9000;
+  }
+
   button {
     font-size: 1rem;
     width: 200px;
@@ -135,13 +177,18 @@ const CarouselWrapper = styled.div`
     margin-top: -2px;
   }
   @media (max-width: 768px) {
+    justify-content: center;
+    align-content: center;
+    margin: 0rem auto;
+
     .carousel-caption {
       bottom: 20px;
     }
     .gatsby-image-wrapper {
       height: 300px;
     }
-  }
+    .header-container {
+      top: 80%;
+    }
 `
-
 export default BackgroundSection
