@@ -11,6 +11,7 @@ import styled from "styled-components"
 const Post = ({ data }) => {
   const {
     name,
+    title,
     phone,
     photo,
     email,
@@ -45,6 +46,17 @@ const Post = ({ data }) => {
               <Img fluid={photo.childImageSharp.fluid} />
             </div>
             <h2>{name}</h2>
+
+            {!title ? (
+              ""
+            ) : (
+              <p>
+                <span>
+                  <strong>{title}</strong>
+                </span>
+              </p>
+            )}
+
             <p>
               Phone: <span>{phone}</span>
             </p>
@@ -183,6 +195,7 @@ export const query = graphql`
         }
       }
       name
+      title
       phone
       email
       bilingual

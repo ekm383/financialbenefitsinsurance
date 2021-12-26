@@ -88,7 +88,7 @@ const BackgroundSection = ({ children }) => {
         <Carousel.Item>
           <Img fluid={data.slide3.childImageSharp.fluid} alt="Third Slide" />
           <div className="header-container">
-            <Banner title="Spreading Aloha Island Style"></Banner>
+            <Banner title="Spreading Aloha" title2="Island Style"></Banner>
           </div>
           <Carousel.Caption>
             Licensed in: <br /> Arizona, California, Colorado, Florida, Georgia,
