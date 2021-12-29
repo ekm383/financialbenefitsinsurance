@@ -75,19 +75,6 @@
   },
   {
     "island": "oahu",
-    "id": "50",
-    "slug": "connie-fontanilla",
-    "photo": "../images/agents/FBI-Connie-Fontanilla.jpg",
-    "name": "Connie Fontanilla",
-    "title": "",
-    "phone": "(808) 783-5805",
-    "email": "cfontanilla@fbihi.com",
-    "bilingual": "Ilocano and Tagalog",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
-    "island": "oahu",
     "id": "7",
     "slug": "damien-morales",
     "photo": "../images/agents/FBI-Damien-Morales.jpg",
@@ -754,19 +741,6 @@
     "website": "http://fb.me/Yucong.Nikki.Fan"
   },
   {
-    "island": "oahu",
-    "id": "31",
-    "slug": "yukiko-suzuki",
-    "photo": "../images/agents/FBI-Yukiko-Suzuki.jpg",
-    "name": "Yukiko Suzuki",
-    "title": "",
-    "phone": "808-330-1758",
-    "email": "Ysuzuki@fbihi.com",
-    "bilingual": "Japanese",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
     "island": "big island",
     "id": "21",
     "slug": "angie-wahinekapu",
@@ -939,19 +913,6 @@
   },
   {
     "island": "maui",
-    "id": "60",
-    "slug": "jimelen-dalisay",
-    "photo": "../images/agents/FBI-Jimelen-Dalisay.jpg",
-    "name": "Jimelen (Len) Dalisay",
-    "title": "",
-    "phone": "808-385-0589",
-    "email": "jdalisay@fbihi.com",
-    "bilingual": "",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
-    "island": "maui",
     "id": "29",
     "slug": "natividad-ragudo-smith",
     "photo": "../images/agents/FBI-Natividad-Ragudo-Smith.jpg",
@@ -1047,14 +1008,14 @@
   },
   {
     "island": "texas",
-    "id": "66",
-    "slug": "elia-gonzalez",
-    "photo": "../images/agents/FBI-Elia-Gonzalez.jpg",
-    "name": "Elia Gonzalez",
+    "id": "78",
+    "slug": "shannon-simmons",
+    "photo": "../images/agents/FBI-Shannon-Simmons.jpg",
+    "name": "Shannon Simmons",
     "title": "",
-    "phone": "713-805-4016",
-    "email": "egonzalez@fbihi.com",
-    "bilingual": "Spanish",
+    "phone": "713-259-3509",
+    "email": "ssimmons@fbihi.com",
+    "bilingual": "",
     "bio": [""],
     "testimonials": [""]
   },
@@ -1110,5 +1071,21 @@
     ],
     "testimonials": [""],
     "videoLink": "https://player.vimeo.com/video/615439937"
+  },
+  {
+    "island": "georgia",
+    "id": "77",
+    "slug": "jaekyeong-baek",
+    "photo": "../images/agents/FBI-Jaekyeong-Baek.jpg",
+    "name": "Jaekyeong Baek",
+    "title": "",
+    "phone": "470-306-5097",
+    "email": "jbaek@fbihi.com",
+    "bilingual": "Korean",
+    "bio": [
+      "I have insurance license for Life and Health insurance, and I have over five years of experience selling various insurance products to diverse clients including small business owners and their families and friends and community people.",
+      "I build rapport fast with people I talk to, enjoy sharing product information and guide customers to select the most suitable insurance coverage they need. Based on my professional experience and knowledge, I would like to serve my customers as a trusted insurance professional and keep my clients happy for long time."
+    ],
+    "testimonials": [""]
   }
 ]
