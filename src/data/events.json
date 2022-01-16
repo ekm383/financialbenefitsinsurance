@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "month": "january",
+    "day": "January 24 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm",
+    "location": "Big City Diner - Makai Room",
+    "street": "46-056 Kamehameha Hwy",
+    "city": "Kaneohe, HI 96744",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "January 25 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm",
+    "location": "Hanapepe Library",
+    "street": "4490 Kona Road",
+    "city": "Hanapepe, HI 96716",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "January 26 - Client Appreciation Meeting",
+    "time": "9am-10:30am, & 11am-12:30pm",
+    "location": "Ala Moana Hotel - Pakalana & Anthurium Room",
+    "street": "410 Atkinson Drive",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "January 27 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm",
+    "location": "Maui Beach Hotel - Maui Room",
+    "street": "170 W Kaahumanu Ave.",
+    "city": "Kahului, HI 96732",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "January 28 - Client Appreciation Meeting",
+    "time": "9am-10:30am, 11am-12:30pm & 1pm-2:30pm",
+    "location": "FILCOM Teach Room 1",
+    "street": "94-428 Mokuola St.",
+    "city": "Waipahu, HI 96797",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "January 29 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm",
+    "location": "FBI Office",
+    "street": "1311 Kapiolani Blvd. Suite 504",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "January 29 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm (OAHU ONLY)",
+    "location": "Virtual Meeting",
+    "street": "",
+    "city": "",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  },
+  {
+    "month": "january",
+    "day": "January 31 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm",
+    "location": "All Saints Church - Memorial Hall",
+    "street": "4-1065 Kuhio Hwy",
+    "city": "Kapa'a, HI 96746",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "February 1 - Client Appreciation Meeting",
+    "time": "9am-10:30am, 11am-12:30pm & 1pm-2:30pm",
+    "location": "Pearl Country Club - Pearl 2 Room",
+    "street": "98-535 Kaonohi St.",
+    "city": "Aiea, HI 96701",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "February 2 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am- 12:30pm",
+    "location": "Sangha Hall Conference Room",
+    "street": "398 Kilauea Ave.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "january",
+    "day": "February 3 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm (BIG ISLAND ONLY)",
+    "location": "Virtual Meeting",
+    "street": "",
+    "city": "",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  },
+  {
+    "month": "january",
+    "day": "February 4 - Client Appreciation Meeting",
+    "time": "9am-10:30am & 11am-12:30pm (MAUI & KAUAI ONLY)",
+    "location": "Virtual Meeting",
+    "street": "",
+    "city": "",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  },
+  {
+    "month": "january",
+    "day": "February 4 - Client Appreciation Meeting",
+    "time": "1pm-2:30pm (OAHU ONLY)",
+    "location": "Virtual Meeting",
+    "street": "",
+    "city": "",
+    "type": "",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  }
+]
