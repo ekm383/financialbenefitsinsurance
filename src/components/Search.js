@@ -301,7 +301,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Georgia Agents</h4>
+          {/* <h4 className="island-name">Georgia Agents</h4>
           {georgia.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -322,7 +322,7 @@ const Agents = () => {
                 </div>
               </div>
             )
-          })}
+          })} */}
         </div>
       </div>
     </SearchWrapper>

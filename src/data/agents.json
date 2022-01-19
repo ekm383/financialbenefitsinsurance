@@ -155,22 +155,6 @@
   },
   {
     "island": "oahu",
-    "id": "72",
-    "slug": "eric-barayuga",
-    "photo": "../images/agents/FBI-Eric-Barayuga.jpg",
-    "name": "Eric Barayuga",
-    "title": "",
-    "phone": "808-218-1903",
-    "email": "ebarayuga@fbihi.com",
-    "bilingual": "",
-    "bio": [
-      "I was born and raised on Oahu. I graduated from the University of Hawaii with a bachelor's degree in Accounting and a bachelor's degree in Computer Science. I have my own accounting business with a focus on care homes. My exposure to an industry tied to an aging population has motivated me to work with Financial Benefits Insurance, Inc. FBIHI's passion to support individuals navigate through important Medicare based decisions lined up well with my desire to help individuals.",
-      "When I'm not working, I enjoy playing piano, learning languages, studying the Bible, and traveling to Europe and Asia. And I especially enjoy exchanging stories with my clients about their adventures. I believe life should be enjoyed, and therefore is worth maintaining and protecting. To help families accomplish this, I assist them as a licensed agent in Hawaii to offer Life Insurance, Accident Insurance, Health Insurance, and Medicare solutions."
-    ],
-    "testimonials": [""]
-  },
-  {
-    "island": "oahu",
     "id": "69",
     "slug": "frank-leong",
     "photo": "../images/agents/FBI-Frank-Leong.jpg",
@@ -287,19 +271,6 @@
     "phone": "808-358-8240",
     "email": "Jra@fbihi.com",
     "bilingual": "Korean",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
-    "island": "oahu",
-    "id": "73",
-    "slug": "jovita-domingo",
-    "photo": "../images/agents/FBI-Jovita-Domingo.jpg",
-    "name": "Jovita Domingo",
-    "title": "",
-    "phone": "808-382-1123",
-    "email": "jdomingo@fbihi.com",
-    "bilingual": "",
     "bio": [""],
     "testimonials": [""]
   },
@@ -1073,19 +1044,16 @@
     "videoLink": "https://player.vimeo.com/video/615439937"
   },
   {
-    "island": "georgia",
-    "id": "77",
-    "slug": "jaekyeong-baek",
-    "photo": "../images/agents/FBI-Jaekyeong-Baek.jpg",
-    "name": "Jaekyeong Baek",
+    "island": "nevada",
+    "id": "79",
+    "slug": "robin-cohen-cooperman",
+    "photo": "../images/agents/FBI-Robin-Cohen-Cooperman.jpg",
+    "name": "Robin Cohen-Cooperman",
     "title": "",
-    "phone": "470-306-5097",
-    "email": "jbaek@fbihi.com",
-    "bilingual": "Korean",
-    "bio": [
-      "I have insurance license for Life and Health insurance, and I have over five years of experience selling various insurance products to diverse clients including small business owners and their families and friends and community people.",
-      "I build rapport fast with people I talk to, enjoy sharing product information and guide customers to select the most suitable insurance coverage they need. Based on my professional experience and knowledge, I would like to serve my customers as a trusted insurance professional and keep my clients happy for long time."
-    ],
+    "phone": "702-513-5944",
+    "email": "rcohencooperman@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
     "testimonials": [""]
   }
 ]
