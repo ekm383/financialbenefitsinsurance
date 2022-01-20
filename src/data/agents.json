@@ -992,6 +992,19 @@
   },
   {
     "island": "nevada",
+    "id": "80",
+    "slug": "brian-welborne",
+    "photo": "../images/agents/FBI-Brian-Welborne.jpg",
+    "name": "Brian Welborne",
+    "title": "",
+    "phone": "702-321-3280",
+    "email": "bwelborne@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "nevada",
     "id": "64",
     "slug": "chad-denton",
     "photo": "../images/agents/FBI-Chad-Denton.jpg",
