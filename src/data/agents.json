@@ -1068,5 +1068,18 @@
     "bilingual": "",
     "bio": [""],
     "testimonials": [""]
+  },
+  {
+    "island": "nevada",
+    "id": "81",
+    "slug": "ruth-davis",
+    "photo": "../images/agents/FBI-Ruth-Davis.jpg",
+    "name": "Ruth Davis",
+    "title": "",
+    "phone": "725-214-4607",
+    "email": "rdavis@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]
