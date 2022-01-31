@@ -924,6 +924,22 @@
     "testimonials": [""]
   },
   {
+    "island": "maui",
+    "id": "84",
+    "slug": "rayna-mariano-balderas",
+    "photo": "../images/agents/FBI-Rayna-Mariano-Balderas.jpg",
+    "name": "Rayna Mariano-Balderas",
+    "title": "",
+    "phone": "808-866-7446",
+    "email": "rmarianobalderas@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Aloha, My name is Rayna, I am a licensed health and life insurance agent. I was born and raised on the island of Maui. Previously, I worked for Hawaii Medical Service Association (HMSA) as a customer service and insurance sales agent servicing individuals and small businesses.",
+      "I enjoy reading, lounging at the beach, and spending time with my ohana. I have a passion for serving our Maui community with aloha as you are my ohana as well. I will be your ally and advocate as we navigate your options to find the plan that best fits your needs."
+    ],
+    "testimonials": [""]
+  },
+  {
     "island": "kauai",
     "id": "54",
     "slug": "dominique-cami-baldovino",
