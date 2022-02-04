@@ -605,6 +605,22 @@
   },
   {
     "island": "oahu",
+    "id": "85",
+    "slug": "stan-cox",
+    "photo": "../images/agents/FBI-Stan-Cox.jpg",
+    "name": "Stan Cox",
+    "title": "",
+    "phone": "808-841-7733",
+    "email": "scox@fbihi.com",
+    "bilingual": "",
+    "bio": [
+      "Born and raised in California, Stan has made Hawaii his home since 1976. Married with two adult children and three grandchildren, Stan entered the Finance industry in 2011 as a Life and Health Insurance consultant.",
+      "Specializing in cash rich life insurance accounts for Infinite Banking, Stan is proud to be able to help clients with Life Insurance, Annuities and now Medicare Health Insurance in association with Finance Benefits Insurance."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
     "id": "41",
     "slug": "stephen-fung",
     "photo": "../images/agents/FBI-Stephen-Fung.jpg",
@@ -991,13 +1007,26 @@
   },
   {
     "island": "kauai",
+    "id": "87",
+    "slug": "james-butler",
+    "photo": "../images/agents/FBI-James-Butler.jpg",
+    "name": "James Butler",
+    "title": "",
+    "phone": "808-278-3197",
+    "email": "jbutler@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "kauai",
     "id": "34",
     "slug": "yolanda-yee",
     "photo": "../images/agents/FBI-Yolanda-Yee.jpg",
     "name": "Yolanda Yee",
     "title": "",
     "phone": "808-651-3247",
-    "email": "yyee@fbihi.com ",
+    "email": "yyee@fbihi.com",
     "bilingual": "",
     "bio": [
       "Aloha, from Kauai Island! I’m Yolanda “Yolie” Yee and I current serve as Vice President of YeeCorp, Inc., a family-owned corporation since 1988 offering Life, Health, and Disability insurance choices for clients statewide, as well as in California and Washington. My area of focus includes Individual and Family Health plans, Medicare plans, and Group Health, Life/Disability plans. I joined Financial Benefits Insurance and do Medicare with them.",
@@ -1017,6 +1046,19 @@
     "title": "",
     "phone": "808-436-4212",
     "email": "Auzama@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
+    "id": "86",
+    "slug": "omosalewa-lara-yemitan",
+    "photo": "../images/agents/FBI-Omosalewa-Lara-Yemitan.jpg",
+    "name": "Omosalewa (Lara) Yemitan",
+    "title": "",
+    "phone": "832-888-8787",
+    "email": "oyemitan@fbihi.com",
     "bilingual": "",
     "bio": [""],
     "testimonials": [""]
