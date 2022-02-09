@@ -3,25 +3,25 @@ import styled from "styled-components"
 import { useStaticQuery, graphql } from "gatsby"
 
 const Events = () => {
-  // const data = useStaticQuery(graphql`
-  //   query {
-  //     januaryEvents: allEventsJson(filter: { month: { eq: "january" } }) {
-  //       edges {
-  //         node {
-  //           month
-  //           day
-  //           time
-  //           location
-  //           street
-  //           city
-  //           type
-  //           link
-  //         }
-  //       }
-  //     }
-  //   }
-  // `)
-  // const januaryEvents = data.januaryEvents.edges
+  const data = useStaticQuery(graphql`
+    query {
+      marchEvents: allEventsJson(filter: { month: { eq: "march" } }) {
+        edges {
+          node {
+            month
+            day
+            time
+            location
+            street
+            city
+            type
+            link
+          }
+        }
+      }
+    }
+  `)
+  const marchEvents = data.marchEvents.edges
   return (
     <StyledEvent>
       <div className="repeat-days">
@@ -33,8 +33,9 @@ const Events = () => {
         <p>Pearl City Shopping Center (Near Don Quijote)</p>
         <p>850 Kamehameha Hwy Pearl City, 96782</p>
         <p>Tuesdays 9am-1pm, Thursdays 9am-1pm</p>
+        <br />
       </div>
-      {/* {januaryEvents.map(({ node }, index) => {
+      {marchEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
@@ -48,7 +49,7 @@ const Events = () => {
             <p id="link">{node.link}</p>
           </div>
         )
-      })} */}
+      })}
     </StyledEvent>
   )
 }
