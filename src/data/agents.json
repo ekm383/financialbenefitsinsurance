@@ -204,19 +204,6 @@
   },
   {
     "island": "oahu",
-    "id": "39",
-    "slug": "grace-rous",
-    "photo": "../images/agents/FBI-Grace-Rous.jpg",
-    "name": "Grace Rous",
-    "title": "",
-    "phone": "808-384-2588",
-    "email": "Grous@fbihi.com",
-    "bilingual": "Ilocano and Tagalog",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
-    "island": "oahu",
     "id": "10",
     "slug": "herb-kaopua",
     "photo": "../images/agents/FBI-Herb-Kaopua.jpg",
