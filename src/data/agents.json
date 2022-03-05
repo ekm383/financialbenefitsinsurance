@@ -270,7 +270,7 @@
     "title": "",
     "phone": "808-437-4908",
     "email": "jnakashima@fbihi.com",
-    "bilingual": "",
+    "bilingual": "Korean",
     "bio": [""],
     "testimonials": [""]
   },
@@ -1040,6 +1040,19 @@
   },
   {
     "island": "texas",
+    "id": "88",
+    "slug": "charles-orame",
+    "photo": "../images/agents/FBI-Charles-Orame.jpg",
+    "name": "Charles Orame",
+    "title": "",
+    "phone": "832-288-6004",
+    "email": "corame@fbihi.com",
+    "bilingual": "",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
     "id": "86",
     "slug": "omosalewa-lara-yemitan",
     "photo": "../images/agents/FBI-Omosalewa-Lara-Yemitan.jpg",
@@ -1047,7 +1060,7 @@
     "title": "",
     "phone": "832-888-8787",
     "email": "oyemitan@fbihi.com",
-    "bilingual": "",
+    "bilingual": "Yoruba",
     "bio": [""],
     "testimonials": [""]
   },
@@ -1055,7 +1068,7 @@
     "island": "texas",
     "id": "78",
     "slug": "shannon-simmons",
-    "photo": "../images/agents/FBI-Shannon-Simmons.jpg",
+    "photo": "../images/agents/FBI-Shannon-Simmons-2.jpg",
     "name": "Shannon Simmons",
     "title": "",
     "phone": "713-259-3509",
