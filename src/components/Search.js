@@ -47,6 +47,7 @@ const Agents = () => {
             email
             bilingual
             licensed
+            website
           }
         }
       }
@@ -68,6 +69,7 @@ const Agents = () => {
             email
             bilingual
             licensed
+            website
           }
         }
       }
@@ -89,6 +91,7 @@ const Agents = () => {
             email
             bilingual
             licensed
+            website
           }
         }
       }
@@ -110,6 +113,7 @@ const Agents = () => {
             email
             bilingual
             licensed
+            website
           }
         }
       }
@@ -131,6 +135,7 @@ const Agents = () => {
             email
             bilingual
             licensed
+            website
           }
         }
       }
@@ -152,6 +157,7 @@ const Agents = () => {
             email
             bilingual
             licensed
+            website
           }
         }
       }
@@ -218,6 +224,13 @@ const Agents = () => {
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                   {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
                 </div>
               </div>
             )
@@ -241,6 +254,13 @@ const Agents = () => {
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                   {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
                 </div>
               </div>
             )
@@ -264,6 +284,13 @@ const Agents = () => {
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                   {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
                 </div>
               </div>
             )
@@ -287,6 +314,13 @@ const Agents = () => {
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                   {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
                 </div>
               </div>
             )
@@ -310,6 +344,13 @@ const Agents = () => {
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                   {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
                 </div>
               </div>
             )

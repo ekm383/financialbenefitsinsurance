@@ -932,6 +932,26 @@
   },
   {
     "island": "maui",
+    "id": "89",
+    "slug": "amy-tamashiro",
+    "photo": "../images/agents/FBI-Amy-Tamashiro.jpg",
+    "name": "Amy Tamashiro",
+    "title": "",
+    "phone": "808-347-7541",
+    "email": "atamashiro@fbihi.com",
+    "bilingual": "Japanese and Okinawan",
+    "licensed": "HI",
+    "bio": [
+      "Hi! My name is Amy Tamashiro. I am from Maui. I was born and grew up here. I attended and graduated from Baldwin High School. Aiming to provide quality care and service to people, I trained and became a Certified Nursing Assistant.",
+      "Over the years I began to see how having the right medical insurance was important and one of the ways in taking care of one's health. Here, at Financial Benefits Insurance Inc., I found that I am able to provide that quality care and service to people.",
+      "Let's talk, and I'll help you find the plan that best fits your lifestyle, your needs, and what you want. - Let's find a plan that matches you.",
+      "I look forward to talking with you. Thank you, and Take care.",
+      "~Amy"
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "maui",
     "id": "74",
     "slug": "guy-purdy",
     "photo": "../images/agents/FBI-Guy-Purdy.jpg",
