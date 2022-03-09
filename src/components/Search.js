@@ -24,6 +24,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            licensed
             website
           }
         }
@@ -45,6 +46,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            licensed
           }
         }
       }
@@ -65,6 +67,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            licensed
           }
         }
       }
@@ -85,6 +88,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            licensed
           }
         }
       }
@@ -105,6 +109,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            licensed
           }
         }
       }
@@ -125,6 +130,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            licensed
           }
         }
       }
@@ -145,6 +151,7 @@ const Agents = () => {
             phone
             email
             bilingual
+            licensed
           }
         }
       }
@@ -180,6 +187,7 @@ const Agents = () => {
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
                   {!node.website ? (
                     ""
                   ) : (
@@ -209,6 +217,7 @@ const Agents = () => {
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
                 </div>
               </div>
             )
@@ -231,6 +240,7 @@ const Agents = () => {
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
                 </div>
               </div>
             )
@@ -253,6 +263,7 @@ const Agents = () => {
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
                 </div>
               </div>
             )
@@ -275,6 +286,7 @@ const Agents = () => {
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
                 </div>
               </div>
             )
@@ -297,6 +309,7 @@ const Agents = () => {
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
                 </div>
               </div>
             )
@@ -319,6 +332,7 @@ const Agents = () => {
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
                 </div>
               </div>
             )

@@ -16,6 +16,7 @@ const Post = ({ data }) => {
     photo,
     email,
     bilingual,
+    licensed,
     bio,
     testimonials,
     videoLink,
@@ -69,6 +70,14 @@ const Post = ({ data }) => {
             ) : (
               <p>
                 Bilingual: <span>{bilingual}</span>
+              </p>
+            )}
+
+            {!licensed ? (
+              ""
+            ) : (
+              <p>
+                Licensed in: <span>{licensed}</span>
               </p>
             )}
 
@@ -199,6 +208,7 @@ export const query = graphql`
       phone
       email
       bilingual
+      licensed
       bio
       testimonials
       videoLink
