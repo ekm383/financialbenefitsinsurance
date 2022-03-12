@@ -970,6 +970,27 @@
     ],
     "testimonials": [""]
   },
+
+  {
+    "island": "maui",
+    "id": "91",
+    "slug": "florante-garcia",
+    "photo": "../images/agents/FBI-Florante-Garcia.jpg",
+    "name": "Florante Garcia",
+    "title": "",
+    "phone": "808-281-2304",
+    "email": "fgarcia@fbihi.com",
+    "bilingual": "Ilocano and Tagalog",
+    "licensed": "HI",
+    "bio": [
+      "Greetings, my name is Florante M. Garcia and lived on Maui for over 50 years, a bilingual English/Filipino (Ilocano & Tagalog).",
+      "I am an insurance agent with over 25 years of insurance experience. I believe it is my responsibility to guide each of you through your questions and provide the products and knowledge that can serve you best.",
+      "At no cost, I will help you find a health plan that is best suits your personal healthcare needs and your budget. By educating you on all the options available, I will give you the power to compare and the freedom to choose.",
+      "I can advise you on a multitude of products and services, including home and auto insurance, commercial property coverage and life insurance."
+    ],
+    "testimonials": [""]
+  },
+
   {
     "island": "maui",
     "id": "74",
