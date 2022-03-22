@@ -1300,5 +1300,19 @@
     "licensed": "NV",
     "bio": [""],
     "testimonials": [""]
+  },
+  {
+    "island": "utah",
+    "id": "92",
+    "slug": "francesco-improta",
+    "photo": "../images/agents/FBI-Francesco-Improta.jpg",
+    "name": "Francesco Improta",
+    "title": "",
+    "phone": "801-687-3015",
+    "email": "fimprota@fbihi.com",
+    "bilingual": "Italian and Spanish",
+    "licensed": "UT",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]

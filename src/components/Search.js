@@ -139,7 +139,7 @@ const Agents = () => {
           }
         }
       }
-      georgiaAgents: allAgentsJson(filter: { island: { eq: "georgia" } }) {
+      utahAgents: allAgentsJson(filter: { island: { eq: "utah" } }) {
         edges {
           node {
             id
@@ -169,7 +169,7 @@ const Agents = () => {
   const kauai = data.kauaiAgents.edges
   const texas = data.texasAgents.edges
   const nevada = data.nevadaAgents.edges
-  const georgia = data.georgiaAgents.edges
+  const utah = data.utahAgents.edges
 
   return (
     <SearchWrapper>
@@ -355,8 +355,8 @@ const Agents = () => {
               </div>
             )
           })}
-          {/* <h4 className="island-name">Georgia Agents</h4>
-          {georgia.map(({ node }) => {
+          <h4 className="island-name">Utah Agents</h4>
+          {utah.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
                 <div className="avatar">
@@ -374,10 +374,17 @@ const Agents = () => {
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
                   {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
                 </div>
               </div>
             )
-          })} */}
+          })}
         </div>
       </div>
     </SearchWrapper>
