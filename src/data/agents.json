@@ -970,7 +970,20 @@
     ],
     "testimonials": [""]
   },
-
+  {
+    "island": "maui",
+    "id": "93",
+    "slug": "anita-cordero",
+    "photo": "../images/agents/FBI-Anita-Cordero.jpg",
+    "name": "Anita Cordero",
+    "title": "",
+    "phone": "808-463-0751",
+    "email": "acordero@fbihi.com",
+    "bilingual": "Tagalog and Ilocano",
+    "licensed": "HI",
+    "bio": [""],
+    "testimonials": [""]
+  },
   {
     "island": "maui",
     "id": "91",
@@ -1313,6 +1326,12 @@
     "bilingual": "Italian and Spanish",
     "licensed": "UT",
     "bio": [""],
-    "testimonials": [""]
+    "testimonials": [
+      "Born in Italy. He lived in South America where he learned Spanish. He moved to the beautiful state of Utah to attend Brigham Young University.",
+      "Before he got his insurance license in 2018, his work experience was helping small businesses and customer satisfaction.",
+      "He is now an insurance broker specializing in Medicare Advantage, Medicare Supplement plans, and prescription drug plans. He is also licensed to offer life insurance and final expenses.",
+      "His wife received dialysis for 4 years. Because of their lack of knowledge, the initial transition from private insurance to Medicare was a nightmare.",
+      "He is dedicated to making sure that he will educate you on the different Medicare plans, so you can navigate through this complicated system and select the plan that will get you all the benefits you deserve while saving money."
+    ]
   }
 ]
