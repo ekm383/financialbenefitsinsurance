@@ -73,8 +73,8 @@ const BackgroundSection = ({ children }) => {
           <div className="header-container">
             <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
-              title="No one plan is good for everyone."
-              title2=""
+              title="No one plan is good"
+              title2="for everyone."
             ></Banner>
           </div>
           <Carousel.Caption>
