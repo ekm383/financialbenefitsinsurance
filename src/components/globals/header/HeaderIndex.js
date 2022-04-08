@@ -73,8 +73,8 @@ const BackgroundSection = ({ children }) => {
           <div className="header-container">
             <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
-              title="Benefits are our business."
-              title2="Service sets us apart."
+              title="No one plan is good for everyone."
+              title2=""
             ></Banner>
           </div>
           <Carousel.Caption>
@@ -100,8 +100,8 @@ const BackgroundSection = ({ children }) => {
           <div className="header-container">
             <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
-              title="Benefits are our business."
-              title2="Service sets us apart."
+              title="Building relationships."
+              title2="Building Trust."
             ></Banner>
           </div>
           <Carousel.Caption>
@@ -118,8 +118,8 @@ const BackgroundSection = ({ children }) => {
           <div className="header-container">
             <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
-              title="Benefits are our business."
-              title2="Service sets us apart."
+              title="Be treated like family."
+              title2=""
             ></Banner>
           </div>
           <Carousel.Caption>
