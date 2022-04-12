@@ -94,20 +94,20 @@ const JoinPage = () => {
             see it as a blessing.{" "}
           </p>
           <p>
-            With 10 years in the Senior market, Financial Benefits Insurance has
+            With 11 years in the Senior market, Financial Benefits Insurance has
             established a reputation for honesty and integrity with our agents
             and carriers. We do what we say we are going to do and don’t cut
             corners for our own short-term gain. Honesty and integrity are the
             top two characteristics we look for in our agents. Join us as we
-            celebrate 10 years of growth, expansion, and innovation.
+            celebrate 11 years of growth, expansion, and innovation.
           </p>
           <p>
             We help our agents succeed before, during, and after the sale by
             providing them access to quality products that promote consumer
             health and well-being. Financial Benefits Insurance provides
             customized and back office support to our agents. Our office manager
-            and two administrative assistants are agent advocates and their main
-            focus is agent and client service.{" "}
+            and four administrative assistants are agent advocates and their
+            main focus is agent and client service.{" "}
           </p>
           <p>
             We are dedicated to:

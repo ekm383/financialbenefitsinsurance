@@ -108,6 +108,18 @@ const AboutPage = () => {
               schedule. Please bookmark our website, and visit us often. We look
               forward to hearing from you!
             </p>
+            <p>
+              Help Kupuna (Seniors) find peace of mind in the communities we
+              serve. We believe Seniors deserve to live healthier productive
+              lives. We want everyone get more from life.
+            </p>
+            <p>"Do the right thing, Always"</p>
+            <p>
+              "We believe, No one plan is good for everyone. Everyone has
+              different wants and needs. Everyone has different medical
+              conditions. Everyone has different financial situations. Everyone
+              is different."
+            </p>
           </div>
         </Section>
         <Section style={{ margin: "4rem auto 2rem auto" }}>
@@ -176,7 +188,7 @@ const AboutPage = () => {
                 came to Hawaii in 2004. Being an insurance broker, he makes it a
                 point to talk to each client individually to find the plan that
                 best suites them as each person has different wants and needs.
-                Mr. Motosue has 16 years of experience in the insurance
+                Mr. Motosue has 18 years of experience in the insurance
                 business, helping the needs of the Medicare options for Medicare
                 eligible beneficiaries. His agency Financial Benefits Insurance,
                 Inc has been in business from 2010. Benefits are our business,
@@ -251,9 +263,9 @@ const AboutPage = () => {
               </p>
               <p>
                 Since its inception, Financial Benefits Insurance has grown
-                rapidly and currently has fifty agents. Edward and Travis do
-                over 140 Medicare seminars every year. Emphasizing everyone has
-                different wants and needs, Edward’s motto is “No one plan is
+                rapidly and currently has seventy four agents. Edward and Travis
+                do over 140 Medicare seminars every year. Emphasizing everyone
+                has different wants and needs, Edward’s motto is “No one plan is
                 good for everybody”. He also says,” Benefits are our business,
                 service sets us apart”.
               </p>
