@@ -1142,20 +1142,6 @@
   },
   {
     "island": "kauai",
-    "id": "87",
-    "slug": "james-butler",
-    "photo": "../images/agents/FBI-James-Butler.jpg",
-    "name": "James Butler",
-    "title": "",
-    "phone": "808-278-3197",
-    "email": "jbutler@fbihi.com",
-    "bilingual": "",
-    "licensed": "HI, CA",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
-    "island": "kauai",
     "id": "34",
     "slug": "yolanda-yee",
     "photo": "../images/agents/FBI-Yolanda-Yee.jpg",
