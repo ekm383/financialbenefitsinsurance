@@ -435,6 +435,23 @@
   },
   {
     "island": "oahu",
+    "id": "95",
+    "slug": "maribel-mangalao",
+    "photo": "../images/agents/FBI-Maribel-Mangalao.jpg",
+    "name": "Maribel Mangalao",
+    "title": "",
+    "phone": "808-542-6918",
+    "email": "mmangalao@fbihi.com",
+    "bilingual": "",
+    "licensed": "HI",
+    "bio": [
+      "Hi my name is Maribel Mangalao. I started in the healthcare industry 20+ years ago working as a Patient Service Representative. It is where I gained the knowledge of the many different health insurances like Medicare, Medicaid, PPO, HMO, and Tricare to name a few.",
+      "Unlike the other health insurances, MEDICARE can be quite overwhelming and confusing especially for those that are just starting. Let me be your be your guide from start to finish to help you choose the best plan that suits your needs."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
     "id": "53",
     "slug": "marjorie-manangan",
     "photo": "../images/agents/FBI-Marjorie-Manangan.jpg",
