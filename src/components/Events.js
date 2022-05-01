@@ -33,6 +33,7 @@ const Events = () => {
         <p>Pearl City Shopping Center (Near Don Quijote)</p>
         <p>850 Kamehameha Hwy Pearl City, 96782</p>
         <p>Tuesdays 1:30am-4:30pm</p>
+        <p>Thursdays 9am-1pm</p>
         <br />
       </div>
       {marchEvents.map(({ node }, index) => {
