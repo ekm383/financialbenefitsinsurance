@@ -1,6 +1,16 @@
 [
   {
-    "month": "april",
+    "month": "may",
+    "day": "May - Mondays",
+    "time": "11am-3pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "May - Mondays, Tuesdays, and Wednesdays",
     "time": "9am-1pm",
     "location": "Safeway Hilo",
@@ -10,17 +20,17 @@
     "link": ""
   },
   {
-    "month": "april",
-    "day": "May - Tuesdays, Wednesdays, and Thursdays",
+    "month": "may",
+    "day": "May - Tuesdays and Wednesdays",
     "time": "9am-3pm",
-    "location": "KTA Hilo",
-    "street": "50 E. Puainako St",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St",
     "city": "Hilo, HI 96720",
     "type": "",
     "link": ""
   },
   {
-    "month": "april",
+    "month": "may",
     "day": "May - Tuesdays and Thursdays",
     "time": "8am-12pm",
     "location": "City Square",
@@ -30,17 +40,47 @@
     "link": ""
   },
   {
-    "month": "april",
-    "day": "May - Fridays",
-    "time": "10am-3pm",
-    "location": "KTA Hilo",
-    "street": "50 E. Puainako St",
+    "month": "may",
+    "day": "May - Thursdays",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "May - Thursdays",
+    "time": "9am-3pm",
+    "location": "Safeway Hilo",
+    "street": "381 E Maka'Ala St",
     "city": "Hilo, HI 96720",
     "type": "",
     "link": ""
   },
   {
-    "month": "april",
+    "month": "may",
+    "day": "May - Thursdays",
+    "time": "9am-12pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "May 6 - Friday",
+    "time": "10am-2pm",
+    "location": "Boulder Station Casino",
+    "street": "4111 Boulder Hwy",
+    "city": "Las Vegas, NV 89121",
+    "type": "50+ Festival",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "May - Fridays",
     "time": "9am-12pm",
     "location": "Safeway Hilo",
@@ -50,7 +90,17 @@
     "link": ""
   },
   {
-    "month": "april",
+    "month": "may",
+    "day": "May - Fridays",
+    "time": "10am-2pm",
+    "location": "CenterWell Senior Primary Care",
+    "street": "3129 N Rainbow Blvd",
+    "city": "Las Vegas, NV 89108",
+    "type": "Agent on Duty",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "June - Mondays, Tuesdays, and Wednesdays",
     "time": "9am-1pm",
     "location": "Safeway Hilo",
@@ -60,17 +110,17 @@
     "link": ""
   },
   {
-    "month": "april",
-    "day": "June - Tuesdays, Wednesdays, and Thursdays",
+    "month": "may",
+    "day": "June - Tuesdays and Wednesdays",
     "time": "9am-3pm",
-    "location": "KTA Hilo",
-    "street": "50 E. Puainako St",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St",
     "city": "Hilo, HI 96720",
     "type": "",
     "link": ""
   },
   {
-    "month": "april",
+    "month": "may",
     "day": "June - Tuesdays and Thursdays",
     "time": "8am-12pm",
     "location": "City Square",
@@ -80,17 +130,37 @@
     "link": ""
   },
   {
-    "month": "april",
-    "day": "June - Fridays",
-    "time": "10am-3pm",
-    "location": "KTA Hilo",
-    "street": "50 E. Puainako St",
+    "month": "may",
+    "day": "June - Thursdays",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "June - Thursdays",
+    "time": "9am-3pm",
+    "location": "Safeway Hilo",
+    "street": "381 E Maka'Ala St",
     "city": "Hilo, HI 96720",
     "type": "",
     "link": ""
   },
   {
-    "month": "april",
+    "month": "may",
+    "day": "June - Thursdays",
+    "time": "9am-12pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "June - Fridays",
     "time": "9am-12pm",
     "location": "Safeway Hilo",
@@ -100,7 +170,17 @@
     "link": ""
   },
   {
-    "month": "april",
+    "month": "may",
+    "day": "June - Fridays",
+    "time": "10am-2pm",
+    "location": "CenterWell Senior Primary Care",
+    "street": "3129 N Rainbow Blvd",
+    "city": "Las Vegas, NV 89108",
+    "type": "Agent on Duty",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "July - Mondays, Tuesdays, and Wednesdays",
     "time": "9am-1pm",
     "location": "Safeway Hilo",
@@ -110,13 +190,133 @@
     "link": ""
   },
   {
-    "month": "april",
+    "month": "may",
+    "day": "July - Tuesdays and Wednesdays",
+    "time": "9am-3pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "July - Thursdays",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "July - Thursdays",
+    "time": "9am-12pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "July - Fridays",
     "time": "9am-12pm",
     "location": "Safeway Hilo",
     "street": "381 E Maka'Ala St",
     "city": "Hilo, HI 96720",
     "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "July - Fridays",
+    "time": "10am-2pm",
+    "location": "CenterWell Senior Primary Care",
+    "street": "3129 N Rainbow Blvd",
+    "city": "Las Vegas, NV 89108",
+    "type": "Agent on Duty",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "August - Tuesdays and Wednesdays",
+    "time": "9am-3pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "August - Thursdays",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "August - Thursdays",
+    "time": "9am-12pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "August - Fridays",
+    "time": "10am-2pm",
+    "location": "CenterWell Senior Primary Care",
+    "street": "3129 N Rainbow Blvd",
+    "city": "Las Vegas, NV 89108",
+    "type": "Agent on Duty",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "September - Tuesdays and Wednesdays",
+    "time": "9am-3pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "September - Thursdays",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "September - Thursdays",
+    "time": "9am-12pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "September - Fridays",
+    "time": "10am-2pm",
+    "location": "CenterWell Senior Primary Care",
+    "street": "3129 N Rainbow Blvd",
+    "city": "Las Vegas, NV 89108",
+    "type": "Agent on Duty",
     "link": ""
   }
 ]
