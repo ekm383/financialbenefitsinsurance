@@ -47,18 +47,17 @@ const EagleAwardsPage = () => {
         </BackgroundImage>
 
         <Section style={{ margin: "4rem auto" }}>
-          <h4 style={{ marginBottom: "2rem", color: "var(--mainColor)" }}>
+          <h4 style={{ marginBottom: "0rem", color: "var(--mainColor)" }}>
             EAGLE AWARD HALL OF FAME
             <img className="eagle-awards" src={Photo} alt="ed" />
           </h4>
-
           <p>
             <strong>
               We proudly present Financial Benefits Insurance outstanding
               Medicare Eagle Hall of Fame recipients for 2021.
             </strong>
           </p>
-          <br />
+
           <p>
             These 11 exceptional licensed sales agents by virtue of their sales,
             success, and selfless service are recognized for their achievements.
