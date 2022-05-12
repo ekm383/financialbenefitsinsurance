@@ -42,7 +42,7 @@ const EagleAwardsPage = () => {
           backgroundColor={`#ffffff`}
         >
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title="Eagle Award Hall of Fame" />
+            <BannerPage title="Awards and Distinctions" />
           </Section>
         </BackgroundImage>
 

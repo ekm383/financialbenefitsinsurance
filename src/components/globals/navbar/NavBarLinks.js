@@ -25,7 +25,7 @@ const NavBarLinks = () => {
               </NavDropdown.Item>
               <NavDropdown.Item href="/our-story">Our Story</NavDropdown.Item>
               <NavDropdown.Item href="/eagle-awards">
-                Eagle Awards
+                Awards and Distinctions
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/medicare">Medicare Basics</Nav.Link>

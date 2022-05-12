@@ -1220,20 +1220,6 @@
     "testimonials": [""]
   },
   {
-    "island": "texas",
-    "id": "78",
-    "slug": "shannon-simmons",
-    "photo": "../images/agents/FBI-Shannon-Simmons-2.jpg",
-    "name": "Shannon Simmons",
-    "title": "",
-    "phone": "713-259-3509",
-    "email": "ssimmons@fbihi.com",
-    "bilingual": "",
-    "licensed": "TX",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
     "island": "nevada",
     "id": "80",
     "slug": "brian-welborne",
