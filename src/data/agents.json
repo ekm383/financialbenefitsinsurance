@@ -1207,6 +1207,24 @@
   },
   {
     "island": "texas",
+    "id": "96",
+    "slug": "michael-meier",
+    "photo": "../images/agents/FBI-Michael-Meier.jpg",
+    "name": "Michael Meier",
+    "title": "",
+    "phone": "713-815-9668",
+    "email": "mmeier@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX",
+    "bio": [
+      "I am originally from Northern New Jersey, just outside of New York City. I moved to Houston in 2014 because I love to weather here (Yay! No snow!).",
+      "I was inspired to enter the world of Medicare after 14 years of employment in the Workman's Comp industry. I look forward to assisting our clients with deciding which policy works for them.",
+      "Outside of work, my longtime partner is a flight attendant. We have three cats. I have played ice hockey for 25 years. I am also a long time drag racing enthusiast, having participated in races across the country."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
     "id": "86",
     "slug": "omosalewa-lara-yemitan",
     "photo": "../images/agents/FBI-Omosalewa-Lara-Yemitan.jpg",
