@@ -41,6 +41,16 @@
   },
   {
     "month": "may",
+    "day": "May - Wednesdays and Fridays",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1120 Maunakea St #200",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "May - Thursdays",
     "time": "9am-12pm",
     "location": "Safeway Beretania",
@@ -121,6 +131,16 @@
   },
   {
     "month": "may",
+    "day": "June - Wednesdays and Fridays",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1120 Maunakea St #200",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
     "day": "June - Thursdays",
     "time": "9am-12pm",
     "location": "Safeway Beretania",
@@ -186,6 +206,16 @@
     "location": "Walmart Hilo",
     "street": "325 Maka'Ala St",
     "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "may",
+    "day": "July - Tuesdays, Wednesdays, and Fridays",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1120 Maunakea St #200",
+    "city": "Honolulu, HI 96817",
     "type": "",
     "link": ""
   },
