@@ -944,6 +944,32 @@
   },
   {
     "island": "big island",
+    "id": "97",
+    "slug": "shardae-lopez",
+    "photo": "../images/agents/FBI-Shardae-Lopez.jpg",
+    "name": "Shardae Lopez",
+    "title": "",
+    "phone": "808-557-6106",
+    "email": "slopez@fbihi.com",
+    "bilingual": "",
+    "licensed": "HI",
+    "bio": [
+      "Shardae Lopez is the epitome of what a Mana Wahine truly encompasses.  She lives her life through the 4 constructs of what a kanaka maoli should resonate.",
+
+      "Pili ‘Uhane (Spirituality) Shardae allows God to lead and guide her and her family to salvation. Her total surrender gives control of motion to Jesus and her full commitment to his word resonates in her every move.",
+
+      "‘Olelo Hawai’i (Language) Shardae’s devotion to the tongue of her kupuna is validated in the early years of her children's education through Hawaiian language medium education.  She believes it is the only way that herself and her children will be able to communicate with their kupuna in the next realm.  She truly believes that although a lot of Hawai’i and its language was stripped from her kupuna a long time ago, as she builds the idea of nation within her own family, she will build a model of ‘ohana that many can aspire to follow.",
+
+      "‘Ike Ku’una (Ancestral knowledge) Shardae hails from two different extremes of Hawaiian communities in a social and an educational context.  She was born of the waters of Maunaloa in a little village known in Hawai’i as the “Last Hawaiian Fishing Village;” Miloli’i. Then 8 years later, transplanted to the cold waters of Kohala to the cowboy town of Waimea where she currently resides.  Spent all of her elementary school years in Waimea then transplanted again and graduated from Kamehameha Schools, Kapalama campus.  The extreme moves from village to town, from country elementary to high school city life is evidence to Shardae’s ability to balance.  Her juggle of duality is strong and it resonates so much of what her kupuna left for her to capture.  She is a living legacy.",
+
+      "Lawena (Behavior) “Show me your friends, and I’ll tell you who you are.”  Lawena is a concept that is exuded in the actions of you and your ‘ohana or those that surround you.  It is a Hawaiian concept that holds people accountable to their behavior.  Shardae’s outlook in the community is one to match.  She is a Pop Warner football coach, a financial advisor to families in need, a board member for a couple local non-profit organizations, and always helping at her church's food bank giveaways. Her exceptional persona is one to match and her kupuna are smiling down in approval.",
+
+      "Shardae is a mana wahine and has joined the FBI team to continue her work in sustaining the community.  She understands that the kupuna are a fragile resource and for without, she wouldn’t be the person she is today.  With her ability to move the masses and protect legacy, she has devoted her time to giving our Kupuna a healthy and wholesome life in their glory years."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "big island",
     "id": "5",
     "slug": "tamlyn-laurence",
     "photo": "../images/agents/FBI-Tamlyn-Laurence.jpg",
@@ -1286,6 +1312,28 @@
       "My name is Don Purdy, I was born on the island of Maui and raised on Oahu. I’m a graduate of Farrington High School. My career started in the financial industry after a few years I decided to join the travel industry, where had a career for over 35 years. The travel industry had given me the opportunity to meet and share the aloha spirit with people from all around the world, the experience has helped learn the importance of customer service. Recently, I retired from United Airlines after 26 years of service, and decided to pursue a career in insurance.",
       "As a Licensed Insurance Agent, I’m able to continue my 35 years of customer service experience to serve our community. Insurance, whether it’s life or health, can be intimidating to some, my job is to help navigate you through the process making it a seamless and memorable experience, giving you peace of mind that you deserve for your future. I’m licensed in Nevada, Hawaii, and Utah, if you reside in one of these states, I look forward to working with you.",
       "During my spare time in Las Vegas, I like to help out the community by volunteering for 2 non-profit organizations that I’m very passionate about. Helping Hands and Nevada Partnership for Homeless Youth. Helping Hands is an organization that delivers necessities to our seniors such as meals, food, vegetables, fruits, paper products, etc. every other Saturdays. Nevada Partnership for Homeless Youth works with homeless youth who needs, shelter, food, clothing, social services, and more. Other than that, I like to travel and most of all, enjoy everything Las Vegas has to offer."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "nevada",
+    "id": "98",
+    "slug": "gregory-salazar",
+    "photo": "../images/agents/FBI-Gregory-Salazar.jpg",
+    "name": "Gregory Salazar",
+    "title": "",
+    "phone": "702-426-5263",
+    "email": "gsalazar@fbihi.com",
+    "bilingual": "",
+    "licensed": "NV",
+    "bio": [
+      "Hi, my name is Gregory D. Salazar, and I have lived in Las Vegas, Nevada since 1985, I guess this is what you would call home. I have been in the retail customer service industry since 1995 along the way to my current path I have been Grocery Manager, Notary Public Singing Agent, Real Estate Agent, and Insurance Agent. I am also a Certified Paralegal. I tell my kids that it is never too late to further their education.",
+
+      "I love meeting new people every day and helping in any way. Customer Service has been built in me since my first job until now.",
+
+      "I do have a love for the outdoors from camping to fishing and even gardening! Yes, you can garden in the desert!",
+
+      "As a Professional Health and Life Producer, it would be my pleasure to help you with your specific needs in Health and Life Insurance!"
     ],
     "testimonials": [""]
   },
