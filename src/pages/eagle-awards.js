@@ -77,9 +77,10 @@ const EagleAwardsPage = () => {
 
         <Section style={{ margin: "4rem auto" }}>
           <div>
-            <p>
-              <strong>NATIONAL SOCIAL SECURITY ADVISOR</strong>
-            </p>
+            <h4 style={{ marginBottom: "0rem", color: "var(--mainColor)" }}>
+              NATIONAL SOCIAL SECURITY ADVISOR
+            </h4>
+            <br />
             <p>
               NSSA is the only Accredited Social Security Certificate program in
               the nation. The NSSA Certificate is the industry standard that
@@ -105,22 +106,21 @@ const EagleAwardsPage = () => {
             </p>
             <img src={NikkiPhoto} alt="Yucong “Nikki” Fan" width="200" /> <br />
             <p>
-              Yucong “Nikki” Fan <br />
-              National Social Security Advisor
+              Yucong “Nikki” Fan, NSSA <br />
             </p>
             <img src={DamienPhoto} alt="Damien Morales" width="200" /> <br />
             <p>
-              Damien Morales <br />
-              National Social Security Advisor
+              Damien Morales, NSSA <br />
             </p>
           </div>
         </Section>
 
         <Section style={{ margin: "4rem auto" }}>
           <div>
-            <p>
-              <strong>THE SOCIETY OF CERTIFIED SENIOR ADVISOR</strong>
-            </p>
+            <h4 style={{ marginBottom: "0rem", color: "var(--mainColor)" }}>
+              THE SOCIETY OF CERTIFIED SENIOR ADVISOR
+            </h4>
+            <br />
             <p>
               The Certified Senior Advisor (CSA) is the leading certification
               for professionals serving older adults and is a designation
@@ -144,8 +144,7 @@ const EagleAwardsPage = () => {
             </p>
             <img src={KamakaPhoto} alt="Kamaka Jingao" width="200" /> <br />
             <p>
-              Kamaka Jingao <br />
-              Certified Senior Advisor
+              Kamaka Jingao, CSA <br />
             </p>
           </div>
         </Section>
