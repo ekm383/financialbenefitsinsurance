@@ -1,6 +1,20 @@
 [
   {
     "island": "oahu",
+    "id": "99",
+    "slug": "aaron-yamato",
+    "photo": "../images/agents/FBI-Aaron-Yamato.jpg",
+    "name": "Aaron Yamato",
+    "title": "",
+    "phone": "808-352-7202",
+    "email": "ayamato@fbihi.com",
+    "bilingual": "",
+    "licensed": "HI",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
     "id": "35",
     "slug": "alan-lum",
     "photo": "../images/agents/FBI-Alan-Lum.jpg",
@@ -1229,6 +1243,26 @@
     "bilingual": "",
     "licensed": "TX",
     "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
+    "id": "100",
+    "slug": "niccole-hudson",
+    "photo": "../images/agents/FBI-Niccole-Hudson.jpg",
+    "name": "Niccole Hudson",
+    "title": "",
+    "phone": "832-880-7750",
+    "email": "nhudson@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX",
+    "bio": [
+      "It will be my pleasure to provide you with exceptional customer service!",
+      "I am a California native but have migrated to and made Texas my second home since 1997. I have 3 grown children and enjoy spending time with my family. Sunday dinners after church are our normal.",
+      "All of my background involves customer service in some respect. I have been in the real estate since 2004 and acquired my insurance license in 2018.",
+      "I truly enjoy working with seniors and know that I was placed on this earth to help & serve! I will always strive to answer all questions and make sure everyone has complete understanding of the products & services available to them.",
+      "I look forward to assisting you with all your insurance needs!"
+    ],
     "testimonials": [""]
   },
   {
