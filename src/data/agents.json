@@ -1247,6 +1247,24 @@
   },
   {
     "island": "texas",
+    "id": "96",
+    "slug": "michael-meier",
+    "photo": "../images/agents/FBI-Michael-Meier.jpg",
+    "name": "Michael Meier",
+    "title": "",
+    "phone": "713-815-9668",
+    "email": "mmeier@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX",
+    "bio": [
+      "I am originally from Northern New Jersey, just outside of New York City. I moved to Houston in 2014 because I love to weather here (Yay! No snow!).",
+      "I was inspired to enter the world of Medicare after 14 years of employment in the Workman's Comp industry. I look forward to assisting our clients with deciding which policy works for them.",
+      "Outside of work, my longtime partner is a flight attendant. We have three cats. I have played ice hockey for 25 years. I am also a long time drag racing enthusiast, having participated in races across the country."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
     "id": "100",
     "slug": "niccole-hudson",
     "photo": "../images/agents/FBI-Niccole-Hudson.jpg",
@@ -1262,24 +1280,6 @@
       "All of my background involves customer service in some respect. I have been in the real estate since 2004 and acquired my insurance license in 2018.",
       "I truly enjoy working with seniors and know that I was placed on this earth to help & serve! I will always strive to answer all questions and make sure everyone has complete understanding of the products & services available to them.",
       "I look forward to assisting you with all your insurance needs!"
-    ],
-    "testimonials": [""]
-  },
-  {
-    "island": "texas",
-    "id": "96",
-    "slug": "michael-meier",
-    "photo": "../images/agents/FBI-Michael-Meier.jpg",
-    "name": "Michael Meier",
-    "title": "",
-    "phone": "713-815-9668",
-    "email": "mmeier@fbihi.com",
-    "bilingual": "",
-    "licensed": "TX",
-    "bio": [
-      "I am originally from Northern New Jersey, just outside of New York City. I moved to Houston in 2014 because I love to weather here (Yay! No snow!).",
-      "I was inspired to enter the world of Medicare after 14 years of employment in the Workman's Comp industry. I look forward to assisting our clients with deciding which policy works for them.",
-      "Outside of work, my longtime partner is a flight attendant. We have three cats. I have played ice hockey for 25 years. I am also a long time drag racing enthusiast, having participated in races across the country."
     ],
     "testimonials": [""]
   },
