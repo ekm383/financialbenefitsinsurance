@@ -1247,6 +1247,23 @@
   },
   {
     "island": "texas",
+    "id": "101",
+    "slug": "john-griffiths",
+    "photo": "../images/agents/FBI-John-Griffiths.jpg",
+    "name": "John Griffiths",
+    "title": "",
+    "phone": "214-724-5499",
+    "email": "jgriffiths@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX",
+    "bio": [
+      "I was born and raised in Nebraska and Colorado. In 2017, after finally having enough of the cold winters, I moved to Texas with my wife and our two little girls. We love Texas weather, food, and hospitality.",
+      "I've been a successful small businessman for years and pride myself on hard work, honesty, and respect. I expanded into insurance because of how important these products are for protecting the assets, health and lives of families and seniors. My only regret is not starting this chapter of my life sooner."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
     "id": "96",
     "slug": "michael-meier",
     "photo": "../images/agents/FBI-Michael-Meier.jpg",
