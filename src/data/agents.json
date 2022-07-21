@@ -1461,5 +1461,19 @@
       "His wife received dialysis for 4 years. Because of their lack of knowledge, the initial transition from private insurance to Medicare was a nightmare.",
       "He is dedicated to making sure that he will educate you on the different Medicare plans, so you can navigate through this complicated system and select the plan that will get you all the benefits you deserve while saving money."
     ]
+  },
+  {
+    "island": "utah",
+    "id": "102",
+    "slug": "max-ah-quin",
+    "photo": "../images/agents/FBI-Max-Ah-Quin.jpg",
+    "name": "Max Ah Quin",
+    "title": "",
+    "phone": "801-420-7598",
+    "email": "mahquin@fbihi.com",
+    "bilingual": "",
+    "licensed": "UT",
+    "bio": [""],
+    "testimonials": [""]
   }
 ]
