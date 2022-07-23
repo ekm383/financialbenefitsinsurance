@@ -137,7 +137,7 @@
     "phone": "808-589-7734",
     "email": "eramos@fbihi.com",
     "bilingual": "",
-    "licensed": "HI",
+    "licensed": "HI, NV, WA",
     "bio": [
       "Aloha, my name is Eddie Ramos. I'm a recent retiree of Delta Air Lines. I have always enjoyed traveling and seeing all aspects of the world. I understood that working all these years of how unique my position was touching every part of the world, meeting people and their different cultures, nationalities and lifestyle.",
       "Another part of the world I had an opportunity to be a part of and start my career is the business world. I attained my Business Degree at the University of Hawaii system. I was employed by Sears Roebuck and Co. as a Christmas help and later became a Division Manager. I was employed by American Airlines, Air New Zealand, Air Canada, and Delta Air Lines as a supervisor.",
@@ -848,7 +848,7 @@
     "phone": "808-640-6398",
     "email": "Broberto@fbihi.com",
     "bilingual": "",
-    "licensed": "HI",
+    "licensed": "HI, FL",
     "bio": [
       "My name is Bernice Roberto from Big Island of Hawaii. I have been helping seniors here, and in Maui, to get the Medicare coverage they deserve.  In 2018, I started selling Medicare Insurance products for Financial Benefits Insurance. I am a licensed broker and insurance agent certified and appointed by various companies in Hawaii. As a Medicare recipient myself, I am vested in knowing about the insurance market and the local seniors I serve.",
       "I live in Kailua Kona with my husband and have three grown children. I am also a professional musician and harpist, playing for many of the resorts. I am looking forward to helping you with any questions about Medicare you may have."
@@ -891,7 +891,7 @@
     "phone": "808-896-8005",
     "email": "jgrace@fbihi.com",
     "bilingual": "",
-    "licensed": "HI",
+    "licensed": "HI, NV",
     "bio": [
       "Jessie's first LOVE is Jesus!  Her purpose is her passion.  As a daughter of aging parents', Jessie is committed to helping our Kupuna's on the Hawaii Island navigate through the Medicare process and find better healthcare and retirement solutions.",
       "Jessie lives in lovely Waimea, attends Imiola Church, married to Harry K Grace, Jr., mother of five adult children and eleven grandchildren.",
@@ -904,20 +904,6 @@
     ],
     "testimonials": [""],
     "videoLink": "https://player.vimeo.com/video/539450968"
-  },
-  {
-    "island": "big island",
-    "id": "23",
-    "slug": "kahale-camara",
-    "photo": "../images/agents/FBI-Kahale-Camara.jpg",
-    "name": "Kahale Camara",
-    "title": "",
-    "phone": "808-931-9525",
-    "email": "Kcamara@fbihi.com",
-    "bilingual": "",
-    "licensed": "HI",
-    "bio": [""],
-    "testimonials": [""]
   },
   {
     "island": "big island",
@@ -1440,6 +1426,22 @@
     "bilingual": "",
     "licensed": "NV",
     "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "utah",
+    "id": "103",
+    "slug": "catherine-wilcox",
+    "photo": "../images/agents/FBI-Catherine-Wilcox.jpg",
+    "name": "Catherine Wilcox",
+    "title": "",
+    "phone": "774-313-6750",
+    "email": "cwilcox@fbihi.com",
+    "bilingual": "",
+    "licensed": "UT",
+    "bio": [
+      "I was born and raised in Cape Cod Massachusetts. I lived in nine states across the U.S., transplanted to Salt Lake City Utah in 2016, and it has been my home ever since.  I brag about calling Salt Lake City home, I'm forever grateful to be so surrounded by beautiful mountains and National Parks. During the pandemic, I made the transition to healthcare and found meaning and purpose in helping people daily. I have an associate's degree in Nursing from Utah Valley University, currently pursuing my Bachelor's degree. I also am a certified nurse aide, which I believe helped me find insurance,  wanting to help people navigate and understand the benefits that are there to help everyone, especially seniors. If I am not snowboarding, then I will be somewhere outdoors with my two dogs, a nova scotia duck toller named Wynter and a border collie named Payson. My team and I, at Financial Benefits Insurance, are here to assist you in getting you the benefits you deserve please don't hesitate to reach out with any questions. Looking forward to meeting and assisting you."
+    ],
     "testimonials": [""]
   },
   {
