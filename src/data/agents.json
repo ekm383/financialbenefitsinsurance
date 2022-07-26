@@ -76,23 +76,6 @@
   },
   {
     "island": "oahu",
-    "id": "42",
-    "slug": "christy-chun",
-    "photo": "../images/agents/FBI-Christy-Chun.jpg",
-    "name": "Christy Chun",
-    "title": "",
-    "phone": "808-542-1807",
-    "email": "Cchun@fbihi.com",
-    "bilingual": "Korean",
-    "licensed": "HI",
-    "bio": [
-      "Christy strives for impeccable service while providing clients with solutions that fit their individual needs.  Christy’s main focus is helping Hawaii’s retirees make important decisions when it comes to their long-term healthcare options so that they can relax and enjoy retirement with peace of mind.  Oftentimes many people can feel overwhelmed with having so many different choices.  Many are put in a position of having to make important decisions without fully understanding what their options are, and without knowing the implications of what they have chosen.  As US citizens, we live in a country that allows for a lot of benefits that most countries could not afford.  Christy urges us to utilize all of these benefits and all of the resources available to us.  As a foreign national from South Korea, having lived in Hawaii for 13 years, Christy has had an amazing experience with the people of Hawaii.  Hawaii has treated her well and she would like to give back to her Ohana by devoting her time and efforts to make them feel safe and well informed.",
-      "Prior to working for Financial Benefits Insurance, Christy worked in sales as a Certified Insurance Agent with State Farm Insurance, where she specialized in Home, Auto and Whole Life Insurance.  Along with her expertise in servicing clients in the insurance industry, Christy is a licensed real estate agent with Coldwell Banker Pacific Properties where she helps individuals and families find permanent residences.  Previous to her work experiences locally here in Honolulu Christy founded and managed the “Kids Land” School for English Learning, a business which focused on teaching English to children in Seoul Korea.  Christy also gained valuable work experience in the hospitality industry while working for 5-Star International Hotels in Sydney Australia and Seoul Korea.  Christy graduated from the University of Seoul where she majored in Sociology.  She also obtained a Bachelor’s Degree of Liberal Arts and Sciences from the University of Hawaii and graduated from the Cesar Ritz Carlton College of Hotel Management based in Sydney."
-    ],
-    "testimonials": [""]
-  },
-  {
-    "island": "oahu",
     "id": "7",
     "slug": "damien-morales",
     "photo": "../images/agents/FBI-Damien-Morales.jpg",
@@ -830,7 +813,7 @@
     "phone": "808-987-8783",
     "email": "Awahinekapu@fbihi.com",
     "bilingual": "",
-    "licensed": "HI, CA, WA, NV, OR, TX, AZ",
+    "licensed": "HI, CA, WA, NV, OR, TX, AZ, UT",
     "bio": [
       "Anjeannette Wahinekapu grew up in Kailua Kona Hawaii; she spent part of her life in Tampa Florida before returning to the islands as the eldest sibling to help take care of her grandmother and her mother.  She started her insurance career in 2017 as a broker and has been a Public Benefits Coordinator with Financial Benefits Insurance since December 2018.  She’s been very successful in helping hundreds of her Medicare clients find better healthcare and retirement solutions and prides herself in being able to successfully help her Kupuna to navigate through the Medicare system and take the confusion out of their Medicare options.  If you were to ask her “Why Medicare Insurance” she would say because she understands how important it is to have proper coverage and access to healthcare when you need it!  It makes all the difference in the quality of your life when you know that you’re protected financially and have access to excellent care.  That’s what mattered to her as a caregiver for two of the most amazing and important women in her life, they meant the world to her.  The best insurance available is the insurance you have in place that fits YOUR needs when an emergency happens.  You… are your family’s most valuable asset, peace of mind for yourself and your family, that’s important.",
       "Anjeannette’s most common compliment has been her Aloha Spirit, how welcoming and approachable she is and how comfortable her members feel working together with her.  She will take whatever time is necessary to make sure she explains how Medicare works and solutions to help solve any issues her members may have.  She will take that time to listen to what her clients say, what they want, and what they need.  She will make sure everyone’s happy working together so that her clients and members are able to make well informed decisions about their healthcare choices; making sure she can help find the best fit for her clients and maximize benefits available to them.",
@@ -1245,6 +1228,25 @@
     "bio": [
       "I was born and raised in Nebraska and Colorado. In 2017, after finally having enough of the cold winters, I moved to Texas with my wife and our two little girls. We love Texas weather, food, and hospitality.",
       "I've been a successful small businessman for years and pride myself on hard work, honesty, and respect. I expanded into insurance because of how important these products are for protecting the assets, health and lives of families and seniors. My only regret is not starting this chapter of my life sooner."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
+    "id": "104",
+    "slug": "jose-felix-camacaro-arevalo",
+    "photo": "../images/agents/FBI-Jose-Felix-Camacaro-Arevalo.jpg",
+    "name": "Jose Felix Camacaro Arevalo",
+    "title": "",
+    "phone": "979-331-4500",
+    "email": "jcamacaroarevalo@fbihi.com",
+    "bilingual": "Spanish",
+    "licensed": "TX",
+    "bio": [
+      "Hi, my name is Jose Felix, I am proactive and committed individual, efficient doing things right and effective doing the right things. I have lived in Tomball Texas since 2019. I am a privileged adopted son of this wonderful land.  Along the way to my current path, I am a graduate IT Technician and bachelor's in Business Administration, I have a natural motivation for learning, I always seek to inspire my two children.",
+      "As an insurance agent I am a passionate for meeting new people every day, I feel it’s a great opportunity to be able to help using my knowledge to providing creative solutions of high level for every need, using technology and research, listen to the customer is the most important part.",
+      "I do have a love for the outdoors sport running, play tennis, and gardening!",
+      "As a Professional Health and Life Producer, I always like to build a personal connection with customer, always be my pleasure to help you with your specific needs in Health and Life Insurance!"
     ],
     "testimonials": [""]
   },
