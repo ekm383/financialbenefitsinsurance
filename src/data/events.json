@@ -1,27 +1,7 @@
 [
   {
     "month": "august",
-    "day": "August - Tuesdays and Wednesdays",
-    "time": "9am-3pm",
-    "location": "Walmart Hilo",
-    "street": "325 Maka'Ala St",
-    "city": "Hilo, HI 96720",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August - Thursdays",
-    "time": "9am-12pm",
-    "location": "Safeway Beretania",
-    "street": "1234 S. Beretania St",
-    "city": "Honolulu, HI 96814",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August - Thursdays",
+    "day": "August 12, 17, 18, 19, 24, 25, 26, 31",
     "time": "9am-12pm",
     "location": "Walmart Hilo",
     "street": "325 Maka'Ala St.",
@@ -31,12 +11,112 @@
   },
   {
     "month": "august",
-    "day": "August - Fridays",
+    "day": "August 16, 23",
+    "time": "9am-3pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 13, 14",
+    "time": "9am-5pm",
+    "location": "Pearlridge Mall Health Fair",
+    "street": "98-1005 Moanalua Rd",
+    "city": "Aiea, HI 96701",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 17, 18, 19",
+    "time": "12pm-3pm",
+    "location": "CVS Kihei",
+    "street": "1215 South Kihei Rd., Suite B",
+    "city": "Kihei, HI 96753",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 14, 21, 28",
+    "time": "10am-1pm",
+    "location": "CVS Kapolei",
+    "street": "590 Farrington Hwy Unit 300",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 13, 14, 27, 28",
+    "time": "9am-12pm",
+    "location": "CVS Pali",
+    "street": "1330 Pali Hwy",
+    "city": "Honolulu, HI 96813",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 16, 17, 23, 24, 30, 31",
+    "time": "10am-1pm",
+    "location": "CVS Lihue",
+    "street": "3 2600 Kaumualii Hwy Ste 1100",
+    "city": "Lihue, HI 96766",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 15, 22, 29",
+    "time": "9am-12pm",
+    "location": "CVS Moiliili",
+    "street": "2470 S King St",
+    "city": "Honolulu, HI 96826",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 16, 23, 30",
+    "time": "9am-12pm",
+    "location": "CVS Waialae",
+    "street": "3221 Waialae Ave",
+    "city": "Honolulu, HI 96816",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 18, 25",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 12, 19, 26",
     "time": "10am-2pm",
     "location": "CenterWell Senior Primary Care",
     "street": "3129 N Rainbow Blvd",
     "city": "Las Vegas, NV 89108",
     "type": "Agent on Duty",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "August 31",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1120 Maunakea St #200",
+    "city": "Honolulu, HI 96817",
+    "type": "",
     "link": ""
   },
   {
