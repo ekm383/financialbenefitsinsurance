@@ -970,6 +970,26 @@
   },
   {
     "island": "big island",
+    "id": "107",
+    "slug": "susan-cobb-adams",
+    "photo": "../images/agents/FBI-Susan-Cobb-Adams.jpg",
+    "name": "Susan Cobb-Adams",
+    "title": "",
+    "phone": "808-987-3897",
+    "email": "scobbadams@fbihi.com",
+    "bilingual": "",
+    "licensed": "HI",
+    "bio": [
+      "Aloha! My name is Susan Cobb-Adams. I live on the beautiful Big Island. I was raised on the North Shore of Oahu. I attended Laie Elementary, and Kahuku High School. Class of '87. So now you know my age! My husband (Castle H.S. grad), and I have been together since 1987, and we have a 33 year old and a 16 year old. Both are wonderful blessings!",
+
+      "We went to Las Vegas in 1997 for work. We were fortunate enough to be able to move back home in 2012. While in Las Vegas I got my Real Estate License. I was licensed there from 2001-2013. My husband was with the Department of Energy. In 2013 I got my Real Estate License here. I am currently an active licensed Realtor in the State of Hawaii. I am also a Notary Signing Agent. In this role I provide mobile real estate closing services to title companies and their clients. I am also available to anyone in the community who may need notary services.",
+
+      "As a cancer survivor I know first hand the importance of having access to the right care. I spent most of 2021 battling Triple Negative Breast Cancer. Months of chemotherapy and radiation left me bald. But that was a small price to pay. Today I feel as if nothing ever happened, just like my old self! I am so thankful for my cancer team! Needless to say, insurance has become a hot topic as I and the people around me age. This got me interested in the various insurance types and the benefits they offer. I love the fact that I can offer help to those around me through the process of finding the insurance plan that works best for their needs. I have a great time meeting new people and working with them! Although it never feels like work! I look forward to working and talking story with you!"
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "big island",
     "id": "5",
     "slug": "tamlyn-laurence",
     "photo": "../images/agents/FBI-Tamlyn-Laurence.jpg",
