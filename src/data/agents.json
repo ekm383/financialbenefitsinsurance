@@ -1307,7 +1307,7 @@
     "island": "texas",
     "id": "96",
     "slug": "michael-meier",
-    "photo": "../images/agents/FBI-Michael-Meier.jpg",
+    "photo": "../images/agents/FBI-Michael-Meier-2.jpg",
     "name": "Michael Meier",
     "title": "",
     "phone": "713-815-9668",
@@ -1531,6 +1531,22 @@
     "bilingual": "",
     "licensed": "UT",
     "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "utah",
+    "id": "108",
+    "slug": "melissa-hancock",
+    "photo": "../images/agents/FBI-Melissa-Hancock.jpg",
+    "name": "Melissa Hancock",
+    "title": "",
+    "phone": "435-558-5243",
+    "email": "mhancock@fbihi.com",
+    "bilingual": "",
+    "licensed": "UT",
+    "bio": [
+      "Melissa Hancock is a Licensed Insurance Agent for Financial Benefits Insurance. Before joining the team at Financial Benefits Insurance, Melissa worked in the Customer Service for over 25 years. The last 3 years have been working with Medicare. While she enjoyed the many aspects of Customer Service, she wanted to be more involved in helping people directly. And that’s why Melissa joined Financial Benefits Insurance – to help people! When Melissa isn’t helping people with Medicare, she spends as much time as she can with her family and friends. She loves to read and listen to music; she also is a big movie buff and she loves all animals. Melissa loves the outdoors and will spend as much time as possible in nature. Her favorite season is fall. She enjoys being active but also enjoys a quiet night at home with a good book or movie. Melissa’s clients say that she creates meaningful bonds with them and goes out of her way to make sure they get the help they need. Melissa provides unbiased, no-cost, personal Medicare advise to her clients."
+    ],
     "testimonials": [""]
   }
 ]
