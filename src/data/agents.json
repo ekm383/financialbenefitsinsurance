@@ -1356,6 +1356,20 @@
     "testimonials": [""]
   },
   {
+    "island": "texas",
+    "id": "109",
+    "slug": "pete-doran",
+    "photo": "../images/agents/FBI-Pete-Doran.jpg",
+    "name": "Pete Doran",
+    "title": "",
+    "phone": "281-416-6179",
+    "email": "pdoran@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
     "island": "nevada",
     "id": "80",
     "slug": "brian-welborne",
