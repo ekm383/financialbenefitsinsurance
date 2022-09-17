@@ -1,126 +1,6 @@
 [
   {
     "month": "august",
-    "day": "August 12, 17, 18, 19, 24, 25, 26, 31",
-    "time": "9am-12pm",
-    "location": "Walmart Hilo",
-    "street": "325 Maka'Ala St.",
-    "city": "Hilo, HI 96720",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 16, 23",
-    "time": "9am-3pm",
-    "location": "Walmart Hilo",
-    "street": "325 Maka'Ala St.",
-    "city": "Hilo, HI 96720",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 13, 14",
-    "time": "9am-5pm",
-    "location": "Pearlridge Mall Health Fair",
-    "street": "98-1005 Moanalua Rd",
-    "city": "Aiea, HI 96701",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 17, 18, 19",
-    "time": "12pm-3pm",
-    "location": "CVS Kihei",
-    "street": "1215 South Kihei Rd., Suite B",
-    "city": "Kihei, HI 96753",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 14, 21, 28",
-    "time": "10am-1pm",
-    "location": "CVS Kapolei",
-    "street": "590 Farrington Hwy Unit 300",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 13, 14, 27, 28",
-    "time": "9am-12pm",
-    "location": "CVS Pali",
-    "street": "1330 Pali Hwy",
-    "city": "Honolulu, HI 96813",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 16, 17, 23, 24, 30, 31",
-    "time": "10am-1pm",
-    "location": "CVS Lihue",
-    "street": "3 2600 Kaumualii Hwy Ste 1100",
-    "city": "Lihue, HI 96766",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 15, 22, 29",
-    "time": "9am-12pm",
-    "location": "CVS Moiliili",
-    "street": "2470 S King St",
-    "city": "Honolulu, HI 96826",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 16, 23, 30",
-    "time": "9am-12pm",
-    "location": "CVS Waialae",
-    "street": "3221 Waialae Ave",
-    "city": "Honolulu, HI 96816",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 18, 25",
-    "time": "9am-12pm",
-    "location": "Safeway Beretania",
-    "street": "1234 S. Beretania St",
-    "city": "Honolulu, HI 96814",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 12, 19, 26",
-    "time": "10am-2pm",
-    "location": "CenterWell Senior Primary Care",
-    "street": "3129 N Rainbow Blvd",
-    "city": "Las Vegas, NV 89108",
-    "type": "Agent on Duty",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "August 31",
-    "time": "9am-12pm",
-    "location": "Maunakea Marketplace",
-    "street": "1120 Maunakea St #200",
-    "city": "Honolulu, HI 96817",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
     "day": "September - Tuesdays and Wednesdays",
     "time": "9am-3pm",
     "location": "Walmart Hilo",
@@ -158,5 +38,145 @@
     "city": "Las Vegas, NV 89108",
     "type": "Agent on Duty",
     "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 3",
+    "time": "9am-10:30am & 11am- 12:30pm",
+    "location": "Maui Beach Hotel Maui Room",
+    "street": "170 W Kaahumanu Ave.",
+    "city": "Kahului, HI 96732",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Tuesday, October 4",
+    "time": "9am-10:30am, 11am-12:30pm & 1pm-2:30pm",
+    "location": "Pearl Country Club Pearl 2 Room",
+    "street": "98-535 Kaonohi St.",
+    "city": "Aiea, HI 96701",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Wednesday, October 5",
+    "time": "9am-10:30am & 11am- 12:30pm",
+    "location": "All Saints Church Memorial Hall",
+    "street": "4-1065 Kuhio Hwy",
+    "city": "Kapa'a, HI 96746",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Thursday, October 6",
+    "time": "9am-10:30am, & 11am- 12:30pm",
+    "location": "Ala Moana Hotel Pakalani & Anthurium Room",
+    "street": "410 Atkinson Drive",
+    "city": "Honolulu, HI 96814",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Thursday, October 6",
+    "time": "5pm-6:30pm",
+    "location": "Virtual Meeting - Maui and Kauai Only",
+    "street": "",
+    "city": "",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 7",
+    "time": "9am-10:30am & 11am- 12:30pm",
+    "location": "Big City Diner Makai Room",
+    "street": "46-056 Kamehameha Hwy",
+    "city": "Kaneohe, HI 96744",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 8",
+    "time": "9am-10:30am, 11am- 12:30pm & 1pm-2:30pm",
+    "location": "FBI Office",
+    "street": "1311 Kapiolani Blvd. Suite 504",
+    "city": "Honolulu, HI 96814",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 8",
+    "time": "9am-10:30am, 11am- 12:30pm, & 1pm-2:30pm",
+    "location": "Virtual Meeting - Oahu Only",
+    "street": "",
+    "city": "",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 10",
+    "time": "9am-10:30am, 11am-12:30pm & 1pm-2:30pm",
+    "location": "FILCOM Teach Room 1",
+    "street": "94-428 Mokuola St.",
+    "city": "Waipahu, HI 96797",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 10",
+    "time": "5pm-6:30pm",
+    "location": "Virtual Meeting - Maui and Kauai Only",
+    "street": "",
+    "city": "",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  },
+  {
+    "month": "august",
+    "day": "Tuesday, October 11",
+    "time": "9am-10:30am & 11am- 12:30pm",
+    "location": "Hanapepe Library",
+    "street": "4490 Kona Road",
+    "city": "Hanapepe, HI 96716",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Wednesday, October 12",
+    "time": "9am-10:30am & 11am- 12:30pm",
+    "location": "Sangha Hall Conference Room",
+    "street": "398 Kilauea Ave.",
+    "city": "Hilo, HI 96720",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Thursday, October 13",
+    "time": "9am-10:30am, 11am- 12:30pm & 1pm-2:30pm",
+    "location": "FBI Office",
+    "street": "1311 Kapiolani Blvd. Suite 504",
+    "city": "Honolulu, HI 96814",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to reserve your seat."
+  },
+  {
+    "month": "august",
+    "day": "Thursday, October 13",
+    "time": "9am-10:30am, 11am- 12:30pm & 1pm-2:30pm",
+    "location": "Virtual Meeting - Oahu Only",
+    "street": "",
+    "city": "",
+    "type": "Client Appreciation Meeting",
+    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
   }
 ]
