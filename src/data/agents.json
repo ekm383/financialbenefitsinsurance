@@ -944,6 +944,20 @@
   },
   {
     "island": "big island",
+    "id": "110",
+    "slug": "brook-kaupu-cabuag",
+    "photo": "../images/agents/FBI-Brook-Kaupu-Cabuag.jpg",
+    "name": "Shaftton (Brook) Kaupu-Cabuag",
+    "title": "",
+    "phone": "808-493-4047",
+    "email": "bkaupucabuag@fbihi.com",
+    "bilingual": "",
+    "licensed": "HI",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "big island",
     "id": "97",
     "slug": "shardae-lopez",
     "photo": "../images/agents/FBI-Shardae-Lopez.jpg",
