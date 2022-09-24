@@ -161,6 +161,28 @@ const Agents = () => {
           }
         }
       }
+      coloradoAgents: allAgentsJson(filter: { island: { eq: "colorado" } }) {
+        edges {
+          node {
+            id
+            island
+            slug
+            photo {
+              childImageSharp {
+                fluid(maxWidth: 500, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            name
+            phone
+            email
+            bilingual
+            licensed
+            website
+          }
+        }
+      }
     }
   `)
   const oahu = data.oahuAgents.edges
@@ -170,6 +192,7 @@ const Agents = () => {
   const texas = data.texasAgents.edges
   const nevada = data.nevadaAgents.edges
   const utah = data.utahAgents.edges
+  const colorado = data.coloradoAgents.edges
 
   return (
     <SearchWrapper>
@@ -357,6 +380,36 @@ const Agents = () => {
           })}
           <h4 className="island-name">Utah Agents</h4>
           {utah.map(({ node }) => {
+            return (
+              <div className="box" key={`row_${node.id}`}>
+                <div className="avatar">
+                  <Img fluid={node.photo.childImageSharp.fluid} />
+                </div>
+                <div className="name">
+                  <p className="agent-name">
+                    <Link to={`/agent/${node.slug}`}>{node.name}</Link>
+                  </p>
+                  <p className="website-link">
+                    <Link to={`/agent/${node.slug}`}>View Profile</Link>
+                  </p>
+                  <p>{node.phone}</p>
+                  <p className="email">{node.email}</p>
+                  <p className="island">{node.island}</p>
+                  {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
+                  {!node.licensed ? "" : <p>Licensed in: {node.licensed}</p>}
+                  {!node.website ? (
+                    ""
+                  ) : (
+                    <a className="personal-site" href={`${node.website}`}>
+                      View Website
+                    </a>
+                  )}
+                </div>
+              </div>
+            )
+          })}
+          <h4 className="island-name">Colorado Agents</h4>
+          {colorado.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
                 <div className="avatar">
