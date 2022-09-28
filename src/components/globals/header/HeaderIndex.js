@@ -147,10 +147,9 @@ const BackgroundSection = ({ children }) => {
             ></Banner>
           </div>
           <Carousel.Caption>
-            8 Office Locations: <br /> Kapiolani Office, Hilo, Hawaii Office,
-            Waipahu Office, Kahului, Maui Office, Chinatown Honolulu Office,
-            Houston Texas Office, Henderson Nevada Office, Salt Lake City Utah
-            Office
+            8 Office Locations: <br /> Kapiolani | Hilo, Hawaii | Waipahu |
+            Kahului, Maui | Chinatown, Honolulu | Houston, Texas | Henderson,
+            Nevada | Salt Lake City, Utah
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
