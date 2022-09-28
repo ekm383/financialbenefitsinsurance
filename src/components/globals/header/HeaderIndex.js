@@ -45,6 +45,13 @@ const BackgroundSection = ({ children }) => {
           }
         }
       }
+      slide6: file(relativePath: { eq: "FBI-Slider-9.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
     }
   `)
   return (
@@ -129,6 +136,21 @@ const BackgroundSection = ({ children }) => {
                 <FaArrowCircleRight />
               </button>
             </Link>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <Img fluid={data.slide6.childImageSharp.fluid} alt="Sixth Slide" />
+          <div className="header-container">
+            <Banner
+              title="Celebrating 12 years of Growth,"
+              title2="Expansion, and Innovation"
+            ></Banner>
+          </div>
+          <Carousel.Caption>
+            8 Office Locations: <br /> Kapiolani Office, Hilo, Hawaii Office,
+            Waipahu Office, Kahului, Maui Office, Chinatown Honolulu Office,
+            Houston Texas Office, Henderson Nevada Office, Salt Lake City Utah
+            Office
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
