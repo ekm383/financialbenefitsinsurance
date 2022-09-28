@@ -1,7 +1,7 @@
 [
   {
     "month": "august",
-    "day": "September - Tuesdays and Wednesdays",
+    "day": "September - Tuesdays & Wednesdays",
     "time": "9am-3pm",
     "location": "Walmart Hilo",
     "street": "325 Maka'Ala St",
@@ -37,6 +37,116 @@
     "street": "3129 N Rainbow Blvd",
     "city": "Las Vegas, NV 89108",
     "type": "Agent on Duty",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Mondays & Wednesdays starting October 17",
+    "time": "12pm-3pm",
+    "location": "Safeway Kailua-Kona",
+    "street": "75-971 Henry St.",
+    "city": "Kailua-Kona 96740",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Mondays, Wednesdays & Fridays",
+    "time": "3pm-6pm",
+    "location": "Safeway Hilo",
+    "street": "381 E Maka'Ala St",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Tuesdays",
+    "time": "9am-4pm",
+    "location": "CVS Lihue",
+    "street": "3 2600 Kaumualii Hwy",
+    "city": "Lihue, HI 96766",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Tuesdays, Thursdays & Saturdays",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd.",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Wednesdays & Fridays",
+    "time": "9am-12pm",
+    "location": "Maunakea Market Place",
+    "street": "1120 Maunakea St.",
+    "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Wednesdays & Sundays starting October 12",
+    "time": "10:30am-2pm",
+    "location": "Tamura Supermarket",
+    "street": "86-032 Farrington Hwy",
+    "city": "Waianae, HI 96792",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Thursdays, Fridays & Saturdays",
+    "time": "3pm-6pm",
+    "location": "CVS Nevada",
+    "street": "7190 W. Craig Rd",
+    "city": "Las Vegas, NV 89129",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 1",
+    "time": "8am-2:15pm",
+    "location": "Ala Moana Hotel",
+    "street": "410 Atkinson Dr.",
+    "city": "Honolulu, HI 96814",
+    "type": "Generations Aging In Place",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 1",
+    "time": "10am-1pm",
+    "location": "Humana Windward Mall Kiosk",
+    "street": "46-056 Kamehameha Hwy",
+    "city": "Kaneohe, HI 96744",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Sunday, October 2",
+    "time": "10am-1pm",
+    "location": "Humana Windward Mall Kiosk",
+    "street": "46-056 Kamehameha Hwy",
+    "city": "Kaneohe, HI 96744",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 3, 19, 31",
+    "time": "9am-12pm",
+    "location": "CVS Moiliili",
+    "street": "2470 S. King St",
+    "city": "Honolulu, HI 96826",
+    "type": "",
     "link": ""
   },
   {
@@ -161,6 +271,16 @@
   },
   {
     "month": "august",
+    "day": "Wednesday, October 12, 19, 26",
+    "time": "9am-12pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "Thursday, October 13",
     "time": "9am-10:30am, 11am- 12:30pm & 1pm-2:30pm",
     "location": "FBI Office",
@@ -178,5 +298,145 @@
     "city": "",
     "type": "Client Appreciation Meeting",
     "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 14, 28",
+    "time": "12pm-3pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 15",
+    "time": "9am-2pm",
+    "location": "Rec. Center 5",
+    "street": "95-1101 Ainamakua Dr.",
+    "city": "Mililani, HI 96789",
+    "type": "Mililani Senior Fair",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 15",
+    "time": "10am-5:30pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Sunday, October 16, 23, 30",
+    "time": "3:30pm-6:30pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 17, 24, 31",
+    "time": "3pm-6pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Tuesday, October 18, 25",
+    "time": "12pm-3pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Tuesday, October 18",
+    "time": "3pm-6pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Thursday, October 20",
+    "time": "9am-4pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 21, 28",
+    "time": "12pm-3pm",
+    "location": "Safeway #2893",
+    "street": "381 Makaala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 21, 28",
+    "time": "9am-3pm",
+    "location": "Safeway Kailua-Kona",
+    "street": "75-971 Henry St.",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 21, 28",
+    "time": "10am-1pm, 2pm-5pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 22, 29",
+    "time": "10am-1:30pm, 2:30pm-5:30pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Saturday, October 22, 29",
+    "time": "9am-1pm",
+    "location": "Walmart Pearl City",
+    "street": "1131 Kuala St.",
+    "city": "Pearl City, HI 96782",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Thursday, October 27",
+    "time": "9am-12pm, 12:30pm-4pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
   }
 ]

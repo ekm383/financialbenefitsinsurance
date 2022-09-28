@@ -27,8 +27,7 @@ const Events = () => {
       <div className="repeat-days">
         <p>Seafood City</p>
         <p>94-050 Farrington Hwy Waipahu, HI 96797</p>
-        <p>Fridays 9am-6pm</p>
-        <p>Saturday 9am-6pm</p>
+        <p>Mondays, Fridays & Saturdays 9am-6pm</p>
       </div>
       <div className="repeat-days"></div>
       {augustEvents.map(({ node }, index) => {
