@@ -147,9 +147,11 @@ const BackgroundSection = ({ children }) => {
             ></Banner>
           </div>
           <Carousel.Caption>
-            8 Office Locations: <br /> Kapiolani | Hilo, Hawaii | Waipahu |
-            Kahului, Maui | Chinatown, Honolulu | Houston, Texas | Henderson,
-            Nevada | Salt Lake City, Utah
+            <div className="office-locations">
+              8 Office Locations: <br /> Kapiolani | Hilo, Hawaii | Waipahu |
+              Kahului, Maui | Chinatown, Honolulu | Houston, Texas | Henderson,
+              Nevada | Salt Lake City, Utah
+            </div>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
@@ -175,6 +177,10 @@ const CarouselWrapper = styled.div`
     right: 0;
     text-align: center;
     z-index: 9000;
+  }
+
+  .office-locations {
+    font-size: 1.5rem;
   }
 
   button {
@@ -210,6 +216,9 @@ const CarouselWrapper = styled.div`
     }
     .header-container {
       top: 80%;
+    }
+    .office-locations {
+font-size: 0.5rem;
     }
 `
 export default BackgroundSection
