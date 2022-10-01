@@ -645,6 +645,20 @@
   },
   {
     "island": "oahu",
+    "id": "112",
+    "slug": "sam-kamu-lee",
+    "photo": "../images/agents/FBI-Sam-Kamu-Lee.jpg",
+    "name": "Sam (Kamu) Lee",
+    "title": "",
+    "phone": "808-937-9884",
+    "email": "klee@fbihi.com",
+    "bilingual": "Korean",
+    "licensed": "HI, CA, NV, TX, FL",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
     "id": "20",
     "slug": "sherry-lau",
     "photo": "../images/agents/FBI-Sherry-Lau.jpg",

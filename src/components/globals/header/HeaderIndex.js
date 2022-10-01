@@ -218,7 +218,7 @@ const CarouselWrapper = styled.div`
       top: 80%;
     }
     .office-locations {
-font-size: 0.5rem;
+font-size: 1rem;
     }
 `
 export default BackgroundSection
