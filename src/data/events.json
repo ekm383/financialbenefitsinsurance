@@ -1,6 +1,56 @@
 [
   {
     "month": "august",
+    "day": "October - Mondays",
+    "time": "9am-6pm",
+    "location": "Seafood City Arroyo",
+    "street": "7230 Arroyo Crossing Parkway",
+    "city": "Las Vegas, NV 89113",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Mondays",
+    "time": "9am-6pm",
+    "location": "Seafood City Henderson",
+    "street": "10405 S Eastern Ave",
+    "city": "Henderson, NV 89052",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Mondays",
+    "time": "9am-5:30pm",
+    "location": "Walmart Kunia",
+    "street": "94-595 Kupuohi St",
+    "city": "Waipahu, HI 96797",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Mondays, Tuesdays & Wednesdays",
+    "time": "10am-2pm",
+    "location": "Walmart Downtown",
+    "street": "1032 Fort Street Mall",
+    "city": "Honolulu, HI 96813",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Mondays, Tuesdays, Wednesdays & Fridays",
+    "time": "9am-3pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "October - Mondays & Wednesdays starting October 17",
     "time": "12pm-3pm",
     "location": "Safeway Kailua-Kona",
@@ -21,6 +71,16 @@
   },
   {
     "month": "august",
+    "day": "October - Mondays, Wednesdays & Fridays",
+    "time": "9am-3pm",
+    "location": "Walmart Pearl City",
+    "street": "1131 Kuala St",
+    "city": "Pearl City, HI 96782",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "October - Tuesdays",
     "time": "9am-4pm",
     "location": "CVS Lihue",
@@ -31,11 +91,51 @@
   },
   {
     "month": "august",
+    "day": "October - Tuesdays",
+    "time": "9am-4pm",
+    "location": "Walmart Kunia",
+    "street": "94-595 Kupuohi St",
+    "city": "Waipahu, HI 96797",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Tuesdays & Thursdays",
+    "time": "9am-3pm",
+    "location": "Safeway Hilo",
+    "street": "381 E Maka'Ala St",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "October - Tuesdays, Thursdays & Saturdays",
     "time": "8am-12pm",
     "location": "City Square",
     "street": "1199 Dillingham Blvd.",
     "city": "Honolulu, HI 96817",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Octobers - Tuesdays & Saturdays",
+    "time": "9am-5pm",
+    "location": "Walmart Pearl City",
+    "street": "1131 Kuala St",
+    "city": "Pearl City, HI 96782",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Wednesdays, Thursdays & Saturdays",
+    "time": "9am-5pm",
+    "location": "Walmart Kunia",
+    "street": "94-595 Kupuohi St",
+    "city": "Waipahu, HI 96797",
     "type": "",
     "link": ""
   },
@@ -66,6 +166,66 @@
     "location": "CVS Nevada",
     "street": "7190 W. Craig Rd",
     "city": "Las Vegas, NV 89129",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Thursdays & Saturdays",
+    "time": "9am-12pm",
+    "location": "Walmart Hilo",
+    "street": "325 Maka'Ala St",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Thursdays & Sundays",
+    "time": "9am-1pm",
+    "location": "Walmart Pearl City",
+    "street": "1131 Kuala St",
+    "city": "Pearl City, HI 96782",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Fridays",
+    "time": "9am-1pm",
+    "location": "Walmart Downtown",
+    "street": "1032 Fort Street Mall",
+    "city": "Honolulu, HI 96813",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Fridays",
+    "time": "9am-3pm",
+    "location": "Safeway Kona",
+    "street": "75-791 Henry St",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Fridays",
+    "time": "9am-6pm",
+    "location": "Walmart Kunia",
+    "street": "94-595 Kupuohi St",
+    "city": "Waipahu, HI 96797",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "October - Saturdays",
+    "time": "9am-12pm",
+    "location": "Walmart Downtown",
+    "street": "1032 Fort Street Mall",
+    "city": "Honolulu, HI 96813",
     "type": "",
     "link": ""
   },
@@ -661,6 +821,16 @@
   },
   {
     "month": "august",
+    "day": "Saturday, October 22",
+    "time": "9am-5pm",
+    "location": "Pearlridge Mall",
+    "street": "98-1005 Moanalua Road",
+    "city": "Aiea, HI 96701",
+    "type": "Pearlridge Senior Life Style Fair",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "Saturday, October 22, 29",
     "time": "10am-1:30pm, 2:30pm-5:30pm",
     "location": "Walmart Kapolei",
@@ -677,6 +847,16 @@
     "street": "1131 Kuala St.",
     "city": "Pearl City, HI 96782",
     "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Sunday, October 23",
+    "time": "9am-5pm",
+    "location": "Pearlridge Mall",
+    "street": "98-1005 Moanalua Road",
+    "city": "Aiea, HI 96701",
+    "type": "Pearlridge Senior Life Style Fair",
     "link": ""
   },
   {
