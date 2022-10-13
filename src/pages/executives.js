@@ -61,6 +61,18 @@ const ExecutivesPage = () => {
             <BannerPage title="Office Staff" />
           </Section>
         </BackgroundImage>
+        <Section style={{ margin: "4rem auto 0rem auto" }}>
+          <iframe
+            title="About FBIHI"
+            src="https://player.vimeo.com/video/467002224"
+            width="100%"
+            height="360"
+            frameborder="0"
+            webkitallowfullscreen
+            mozallowfullscreen
+            allowfullscreen
+          ></iframe>
+        </Section>
         <Section
           style={{ width: "90vw", alignItems: "center", margin: "2rem auto" }}
         >
@@ -112,6 +124,19 @@ const ExecutivesPage = () => {
             </div>
           </div>
         </Section>
+        <Section style={{ margin: "4rem auto 2rem auto" }}>
+          <iframe
+            title="About FBIHI"
+            src="https://player.vimeo.com/video/467002085"
+            width="100%"
+            height="360"
+            frameborder="0"
+            webkitallowfullscreen
+            mozallowfullscreen
+            allowfullscreen
+          ></iframe>
+        </Section>
+
         <Logos />
       </StyledExecutives>
     </Layout>
