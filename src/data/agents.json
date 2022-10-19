@@ -432,6 +432,20 @@
   },
   {
     "island": "oahu",
+    "id": "113",
+    "slug": "lucy-dureg",
+    "photo": "../images/agents/FBI-Lucy-Dureg.jpg",
+    "name": "Lucy Dureg",
+    "title": "",
+    "phone": "808-306-3801",
+    "email": "ldureg@fbihi.com",
+    "bilingual": "Ilocano",
+    "licensed": "HI",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "oahu",
     "id": "95",
     "slug": "maribel-mangalao",
     "photo": "../images/agents/FBI-Maribel-Mangalao.jpg",
