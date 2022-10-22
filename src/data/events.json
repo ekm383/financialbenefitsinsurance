@@ -51,7 +51,7 @@
   },
   {
     "month": "august",
-    "day": "October - Mondays & Wednesdays starting October 17",
+    "day": "October - Mondays & Wednesdays",
     "time": "12pm-3pm",
     "location": "Safeway Kailua-Kona",
     "street": "75-971 Henry St.",
@@ -151,7 +151,7 @@
   },
   {
     "month": "august",
-    "day": "October - Wednesdays & Sundays starting October 12",
+    "day": "October - Wednesdays & Sundays",
     "time": "10:30am-2pm",
     "location": "Tamura Supermarket",
     "street": "86-032 Farrington Hwy",
@@ -229,349 +229,10 @@
     "type": "",
     "link": ""
   },
+
   {
     "month": "august",
-    "day": "Saturday, October 1",
-    "time": "8am-2:15pm",
-    "location": "Ala Moana Hotel",
-    "street": "410 Atkinson Dr.",
-    "city": "Honolulu, HI 96814",
-    "type": "Generations Aging In Place",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 1",
-    "time": "10am-1pm",
-    "location": "Humana Windward Mall Kiosk",
-    "street": "46-056 Kamehameha Hwy",
-    "city": "Kaneohe, HI 96744",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Sunday, October 2",
-    "time": "10am-1pm",
-    "location": "Humana Windward Mall Kiosk",
-    "street": "46-056 Kamehameha Hwy",
-    "city": "Kaneohe, HI 96744",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 3, 19, 31",
-    "time": "9am-12pm",
-    "location": "CVS Moiliili",
-    "street": "2470 S. King St",
-    "city": "Honolulu, HI 96826",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 3",
-    "time": "9am-10:30am & 11am- 12:30pm",
-    "location": "Maui Beach Hotel Maui Room",
-    "street": "170 W Kaahumanu Ave.",
-    "city": "Kahului, HI 96732",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 3",
-    "time": "9am-12pm",
-    "location": "CVS #9954",
-    "street": "2470 S. King St",
-    "city": "Honolulu, HI 96816",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Tuesday, October 4",
-    "time": "9am-10:30am, 11am-12:30pm & 1pm-2:30pm",
-    "location": "Pearl Country Club Pearl 2 Room",
-    "street": "98-535 Kaonohi St.",
-    "city": "Aiea, HI 96701",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 5",
-    "time": "9am-10:30am & 11am- 12:30pm",
-    "location": "All Saints Church Memorial Hall",
-    "street": "4-1065 Kuhio Hwy",
-    "city": "Kapa'a, HI 96746",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 6",
-    "time": "9am-10:30am, & 11am- 12:30pm",
-    "location": "Ala Moana Hotel Pakalani & Anthurium Room",
-    "street": "410 Atkinson Drive",
-    "city": "Honolulu, HI 96814",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 6",
-    "time": "5pm-6:30pm",
-    "location": "Virtual Meeting - Maui and Kauai Only",
-    "street": "",
-    "city": "",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 7",
-    "time": "9am-10:30am & 11am- 12:30pm",
-    "location": "Big City Diner Makai Room",
-    "street": "46-056 Kamehameha Hwy",
-    "city": "Kaneohe, HI 96744",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 8",
-    "time": "9am-10:30am, 11am- 12:30pm & 1pm-2:30pm",
-    "location": "FBI Office",
-    "street": "1311 Kapiolani Blvd. Suite 504",
-    "city": "Honolulu, HI 96814",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 8",
-    "time": "9am-10:30am, 11am- 12:30pm, & 1pm-2:30pm",
-    "location": "Virtual Meeting - Oahu Only",
-    "street": "",
-    "city": "",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
-  },
-  {
-    "month": "august",
-    "day": "Sunday, October 9",
-    "time": "3:30pm-6:30pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Sunday, October 9, 16, 23, 30",
-    "time": "10am-1pm",
-    "location": "CVS #9317",
-    "street": "590 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 10",
-    "time": "9am-10:30am, 11am-12:30pm & 1pm-2:30pm",
-    "location": "FILCOM Teach Room 1",
-    "street": "94-428 Mokuola St.",
-    "city": "Waipahu, HI 96797",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 10",
-    "time": "5pm-6:30pm",
-    "location": "Virtual Meeting - Maui and Kauai Only",
-    "street": "",
-    "city": "",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 10, 17, 24, 31",
-    "time": "10am-2pm",
-    "location": "Kona Walmart",
-    "street": "75-1015 Henry St",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Tuesday, October 11",
-    "time": "9am-10:30am & 11am- 12:30pm",
-    "location": "Hanapepe Library",
-    "street": "4490 Kona Road",
-    "city": "Hanapepe, HI 96716",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Tuesday, October 11",
-    "time": "10am-2pm",
-    "location": "Kona Walmart",
-    "street": "75-1015 Henry St",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 12",
-    "time": "9am-10:30am & 11am- 12:30pm",
-    "location": "Sangha Hall Conference Room",
-    "street": "398 Kilauea Ave.",
-    "city": "Hilo, HI 96720",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 12, 19, 26",
-    "time": "9am-12pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 12, 19, 26",
-    "time": "9am-1pm",
-    "location": "CVS #9189",
-    "street": "3 2600 Kaumualii Hwy",
-    "city": "Lihue, HI 96766",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 13",
-    "time": "9am-10:30am, 11am- 12:30pm & 1pm-2:30pm",
-    "location": "FBI Office",
-    "street": "1311 Kapiolani Blvd. Suite 504",
-    "city": "Honolulu, HI 96814",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to reserve your seat."
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 13",
-    "time": "9am-10:30am, 11am- 12:30pm & 1pm-2:30pm",
-    "location": "Virtual Meeting - Oahu Only",
-    "street": "",
-    "city": "",
-    "type": "Client Appreciation Meeting (Current clients only)",
-    "link": "Please call our office at 808-792-5194 to receive Virtual Meeting Link"
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 13",
-    "time": "9pm-12pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 13, 20, 27",
-    "time": "10am-2pm",
-    "location": "Kona Walmart",
-    "street": "75-1015 Henry St",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 14",
-    "time": "10pm-5pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 14, 28",
-    "time": "12pm-3pm",
-    "location": "Safeway Beretania",
-    "street": "1234 S. Beretania St",
-    "city": "Honolulu, HI 96814",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 14, 21, 28",
-    "time": "10am-2pm",
-    "location": "Kona Walmart",
-    "street": "75-1015 Henry St",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 15",
-    "time": "9am-2pm",
-    "location": "Rec. Center 5",
-    "street": "95-1101 Ainamakua Dr.",
-    "city": "Mililani, HI 96789",
-    "type": "Mililani Senior Fair",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 15",
-    "time": "10am-5:30pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 15",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana, 1pm-2:30pm - Ohana",
-    "location": "Ala Moana Hotel - Pakalana / Anthurium Room",
-    "street": "410 Atkinson Dr",
-    "city": "Honolulu, HI 96814",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 15",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana",
-    "location": "Big City Diner - Makai Room",
-    "street": "46-056 Kamehameha Hwy",
-    "city": "Kaneohe, HI 96744",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Saturday, October 15, 22",
+    "day": "Saturday, October 22",
     "time": "10am-3pm",
     "location": "CVS #9220",
     "street": "4211 Waialae Ave",
@@ -579,236 +240,7 @@
     "type": "Kiosks",
     "link": ""
   },
-  {
-    "month": "august",
-    "day": "Saturday, October 15, 22, 29",
-    "time": "10am-2pm",
-    "location": "Kona Walmart",
-    "street": "75-1015 Henry St",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Sunday, October 16, 23, 30",
-    "time": "3:30pm-6:30pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 17",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Ohana",
-    "location": "Big City Diner - Makai Room",
-    "street": "46-056 Kamehameha Hwy",
-    "city": "Kaneohe, HI 96744",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 17",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Ohana",
-    "location": "Sangha Hall Conference Room",
-    "street": "424 Kilauea Ave",
-    "city": "Hilo, HI 96720",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 17",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana",
-    "location": "Wai'anae Library",
-    "street": "85-625 Farrington Hwy",
-    "city": "Waianae, HI 96792",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 17",
-    "time": "10am-2pm",
-    "location": "CVS #9185",
-    "street": "377 Keahole St",
-    "city": "Honolulu, HI 96825",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Monday, October 17, 24, 31",
-    "time": "3pm-6pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Tuesday, October 18, 25",
-    "time": "12pm-3pm",
-    "location": "Safeway Beretania",
-    "street": "1234 S. Beretania St",
-    "city": "Honolulu, HI 96814",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Tuesday, October 18",
-    "time": "3pm-6pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Tuesday, October 18",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana",
-    "location": "Kam Bowl Restaurant",
-    "street": "1620 N. School St",
-    "city": "Honolulu, HI 96817",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Tuesday, October 18",
-    "time": "10am-2pm",
-    "location": "Kona Walmart",
-    "street": "75-1015 Henry St",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 19",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana, 1pm-2:30pm - Ohana",
-    "location": "FILCOM Tech Room 1",
-    "street": "94-428 Mokuola St. Ste 302",
-    "city": "Waipahu, HI 96797",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 19",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana",
-    "location": "Hawaii Kai Library",
-    "street": "249 Lunalilo Home Road",
-    "city": "Honolulu, HI 96825",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 19",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Ohana",
-    "location": "Suite Possibilities",
-    "street": "75-5915 Walua Rd",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Wednesday, October 19, 26",
-    "time": "10am-2pm",
-    "location": "Kona Walmart",
-    "street": "75-1015 Henry St",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 20",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana",
-    "location": "Ruby Tuesdays",
-    "street": "95-1249 Meheula Pkwy",
-    "city": "Mililani, HI 96789",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 20",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana",
-    "location": "Kaimuki Library",
-    "street": "1041 Koko Head Ave",
-    "city": "Honolulu, HI 96816",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 20",
-    "time": "9am-2pm",
-    "location": "CVS #9164",
-    "street": "3221 Waialae Ave",
-    "city": "Honolulu, HI 96816",
-    "type": "Kiosks",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Thursday, October 20",
-    "time": "9am-4pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 21",
-    "time": "9am-10:30am - UHC, 11am-12:30pm - Humana, 1pm-2:30pm - Ohana",
-    "location": "Pearl Country Club - Pearl 2",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 21, 28",
-    "time": "12pm-3pm",
-    "location": "Safeway #2893",
-    "street": "381 Makaala St.",
-    "city": "Hilo, HI 96720",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 21, 28",
-    "time": "9am-3pm",
-    "location": "Safeway Kailua-Kona",
-    "street": "75-971 Henry St.",
-    "city": "Kailua-Kona, HI 96740",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "august",
-    "day": "Friday, October 21, 28",
-    "time": "10am-1pm, 2pm-5pm",
-    "location": "Walmart Kapolei",
-    "street": "91-600 Farrington Hwy",
-    "city": "Kapolei, HI 96707",
-    "type": "",
-    "link": ""
-  },
+
   {
     "month": "august",
     "day": "Saturday, October 22",
@@ -851,12 +283,42 @@
   },
   {
     "month": "august",
+    "day": "Saturday, October 22, 29",
+    "time": "10am-2pm",
+    "location": "Kona Walmart",
+    "street": "75-1015 Henry St",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "Kiosks",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "Sunday, October 23",
     "time": "9am-5pm",
     "location": "Pearlridge Mall",
     "street": "98-1005 Moanalua Road",
     "city": "Aiea, HI 96701",
     "type": "Pearlridge Senior Life Style Fair",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Sunday, October 23, 30",
+    "time": "3:30pm-6:30pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Sunday, October 23, 30",
+    "time": "10am-1pm",
+    "location": "CVS #9317",
+    "street": "590 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "Kiosks",
     "link": ""
   },
   {
@@ -887,6 +349,36 @@
     "street": "3221 Waialae Ave",
     "city": "Honolulu, HI 96816",
     "type": "Kiosks",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 24, 31",
+    "time": "10am-2pm",
+    "location": "Kona Walmart",
+    "street": "75-1015 Henry St",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "Kiosks",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 24, 31",
+    "time": "3pm-6pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Tuesday, October 25",
+    "time": "12pm-3pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
     "link": ""
   },
   {
@@ -951,6 +443,36 @@
   },
   {
     "month": "august",
+    "day": "Wednesday, October 26",
+    "time": "10am-2pm",
+    "location": "Kona Walmart",
+    "street": "75-1015 Henry St",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "Kiosks",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Wednesday, October 26",
+    "time": "9am-12pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Wednesday, October 26",
+    "time": "9am-1pm",
+    "location": "CVS #9189",
+    "street": "3 2600 Kaumualii Hwy",
+    "city": "Lihue, HI 96766",
+    "type": "Kiosks",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "Thursday, October 27",
     "time": "9am-12pm, 12:30pm-4pm",
     "location": "Walmart Kapolei",
@@ -981,6 +503,67 @@
   },
   {
     "month": "august",
+    "day": "Thursday, October 27",
+    "time": "10am-2pm",
+    "location": "Kona Walmart",
+    "street": "75-1015 Henry St",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "Kiosks",
+    "link": ""
+  },
+
+  {
+    "month": "august",
+    "day": "Friday, October 28",
+    "time": "12pm-3pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S. Beretania St",
+    "city": "Honolulu, HI 96814",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 28",
+    "time": "10am-2pm",
+    "location": "Kona Walmart",
+    "street": "75-1015 Henry St",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "Kiosks",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 28",
+    "time": "12pm-3pm",
+    "location": "Safeway #2893",
+    "street": "381 Makaala St.",
+    "city": "Hilo, HI 96720",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 28",
+    "time": "9am-3pm",
+    "location": "Safeway Kailua-Kona",
+    "street": "75-971 Henry St.",
+    "city": "Kailua-Kona, HI 96740",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Friday, October 28",
+    "time": "10am-1pm, 2pm-5pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy",
+    "city": "Kapolei, HI 96707",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "august",
     "day": "Friday, October 28",
     "time": "9am-10:30am - UHC, 11am-12:30pm - Ohana",
     "location": "Ruby Tuesdays",
@@ -997,6 +580,16 @@
     "street": "75-1015 Henry St",
     "city": "Kailua-Kona, HI 96740",
     "type": "Kiosks",
+    "link": ""
+  },
+  {
+    "month": "august",
+    "day": "Monday, October 31",
+    "time": "9am-12pm",
+    "location": "CVS Moiliili",
+    "street": "2470 S. King St",
+    "city": "Honolulu, HI 96826",
+    "type": "",
     "link": ""
   },
   {
