@@ -212,7 +212,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
@@ -242,7 +242,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
@@ -272,7 +272,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
@@ -302,7 +302,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
@@ -332,7 +332,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
@@ -362,7 +362,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
@@ -392,7 +392,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
@@ -422,7 +422,7 @@ const Agents = () => {
                   <p className="website-link">
                     <Link to={`/agent/${node.slug}`}>View Profile</Link>
                   </p>
-                  <p>{node.phone}</p>
+                  <a href={`tel:${node.phone}`}>{node.phone}</a>
                   <p className="email">{node.email}</p>
                   <p className="island">{node.island}</p>
                   {!node.bilingual ? "" : <p>Bilingual: {node.bilingual}</p>}
