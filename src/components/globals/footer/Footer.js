@@ -6,7 +6,7 @@ import BBB from "../../../images/BBB.png"
 import Ethics from "../../../images/ethics-net.png"
 import NAHU from "../../../images/nahu-logo.png"
 import HIIA from "../../../images/state_logo.png"
-import TenYear from "../../../images/fib-hi-10-year-badge.png"
+import TwelveYear from "../../../images/fbihi-12-year-badge.png"
 import HPGS from "../../../images/hpgs-logo.png"
 
 class Footer extends Component {
@@ -42,6 +42,7 @@ class Footer extends Component {
               <a href="tel:+1-808-792-5194">Tel: (808) 792-5194</a>
             </p>
             <p className="phone">Fax: (808) 792-5187</p>
+            <p className="hours">Monday-Friday 8:30am-5:00pm</p>
           </div>
           {/* <div className="box">
             <p>
@@ -118,8 +119,8 @@ class Footer extends Component {
           </div>
         </Section>
         <Section>
-          <div className="ten-year">
-            <img src={TenYear} alt="Ten Years of Service" />
+          <div className="twelve-year">
+            <img src={TwelveYear} alt="Twelve Years of Service" />
           </div>
         </Section>
       </FooterWrapper>
@@ -180,7 +181,7 @@ const FooterWrapper = styled.div`
     flex-direction: column;
     margin-top: 10px;
   }
-  .ten-year {
+  .twelve-year {
     margin: 0px auto;
     img {
       margin-top: 20px;
