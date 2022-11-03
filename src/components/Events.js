@@ -5,7 +5,7 @@ import { useStaticQuery, graphql } from "gatsby"
 const Events = () => {
   const data = useStaticQuery(graphql`
     query {
-      augustEvents: allEventsJson(filter: { month: { eq: "august" } }) {
+      novemberEvents: allEventsJson(filter: { month: { eq: "november" } }) {
         edges {
           node {
             month
@@ -21,7 +21,7 @@ const Events = () => {
       }
     }
   `)
-  const augustEvents = data.augustEvents.edges
+  const novemberEvents = data.novemberEvents.edges
   return (
     <StyledEvent>
       <div className="repeat-days">
@@ -30,7 +30,7 @@ const Events = () => {
         <p>Mondays, Fridays & Saturdays 9am-6pm</p>
       </div>
       <div className="repeat-days"></div>
-      {augustEvents.map(({ node }, index) => {
+      {novemberEvents.map(({ node }, index) => {
         return (
           <div className="event-box" key={index}>
             <h3>{node.day}</h3>
