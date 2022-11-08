@@ -13,6 +13,10 @@ import BackgroundImage from "gatsby-background-image"
 import OahuPhotos from "../components/officePhotos/OahuPhotos"
 import HiloPhotos from "../components/officePhotos/HiloPhotos"
 import WaipahuPhotos from "../components/officePhotos/WaipahuPhotos"
+import ChinatownPhotos from "../components/officePhotos/ChinatownPhotos"
+import HendersonPhotos from "../components/officePhotos/HendersonPhotos"
+import HoustonPhotos from "../components/officePhotos/HoustonPhotos"
+import SaltlakecityPhotos from "../components/officePhotos/SaltlakecityPhotos"
 import Logos from "../components/globals/footer/Logos"
 
 const IndexPage = () => {
@@ -66,7 +70,7 @@ const IndexPage = () => {
         <Section style={{ width: "80vw", margin: "4rem auto" }}>
           <div className="photo-header">
             <h6>Big Island Hilo Office</h6>
-            <p>1289 Kilauea Ave. Hilo, HI  96720</p>
+            <p>1289 Kilauea Ave. Hilo, HI 96720</p>
           </div>
           <HiloPhotos />
         </Section>
@@ -76,6 +80,34 @@ const IndexPage = () => {
             <p>94-050 Farrington Hwy Waipahu, HI 96797</p>
           </div>
           <WaipahuPhotos />
+        </Section>
+        <Section style={{ width: "80vw", margin: "4rem auto" }}>
+          <div className="photo-header">
+            <h6>Chinatown Office</h6>
+            <p>1120 Maunakea St Honolulu, HI 96817</p>
+          </div>
+          <ChinatownPhotos />
+        </Section>
+        <Section style={{ width: "80vw", margin: "4rem auto" }}>
+          <div className="photo-header">
+            <h6>Henderson Office</h6>
+            <p>170 S Green Valley Parkway Suite 300 Henderson, NV 89012</p>
+          </div>
+          <HendersonPhotos />
+        </Section>
+        <Section style={{ width: "80vw", margin: "4rem auto" }}>
+          <div className="photo-header">
+            <h6>Houston Office</h6>
+            <p>2245 Texas Drive Suite 300 Sugarland, TX 77479</p>
+          </div>
+          <HoustonPhotos />
+        </Section>
+        <Section style={{ width: "80vw", margin: "4rem auto" }}>
+          <div className="photo-header">
+            <h6>Salt Lake City Office</h6>
+            <p>222 South Main St. 5th Floor Salt Lake City, UT 84101</p>
+          </div>
+          <SaltlakecityPhotos />
         </Section>
         <BackgroundImage
           Tag="section"
