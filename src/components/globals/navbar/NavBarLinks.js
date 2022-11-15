@@ -27,6 +27,9 @@ const NavBarLinks = () => {
               <NavDropdown.Item href="/eagle-awards">
                 Awards and Distinctions
               </NavDropdown.Item>
+              <NavDropdown.Item href="/organizational-chart">
+                Organizational Chart
+              </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/medicare">Medicare Basics</Nav.Link>
             <NavDropdown title="Services" id="collasible-nav-dropdown">
