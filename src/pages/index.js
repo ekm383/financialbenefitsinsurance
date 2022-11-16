@@ -63,7 +63,12 @@ const IndexPage = () => {
         <Section style={{ width: "80vw", margin: "4rem auto 4rem auto" }}>
           <div className="photo-header">
             <h6>Honolulu Kapiolani Office</h6>
-            <p>1311 Kapiolani Blvd. Ste. 504 Honolulu, HI 96814</p>
+            <p>
+              1311 Kapiolani Blvd. Ste. 504 Honolulu, HI 96814 <br />
+              <a className="phone" href="tel:+1-808-792-5194">
+                Tel: 808-792-5194
+              </a>
+            </p>
           </div>
           <OahuPhotos />
         </Section>
@@ -91,21 +96,36 @@ const IndexPage = () => {
         <Section style={{ width: "80vw", margin: "4rem auto" }}>
           <div className="photo-header">
             <h6>Henderson Office</h6>
-            <p>170 S Green Valley Parkway Suite 300 Henderson, NV 89012</p>
+            <p>
+              170 S Green Valley Parkway Suite 300 Henderson, NV 89012 <br />
+              <a className="phone" href="tel:+1-702-508-2886">
+                Tel: 702-508-2886
+              </a>
+            </p>
           </div>
           <HendersonPhotos />
         </Section>
         <Section style={{ width: "80vw", margin: "4rem auto" }}>
           <div className="photo-header">
             <h6>Houston Office</h6>
-            <p>2245 Texas Drive Suite 300 Sugarland, TX 77479</p>
+            <p>
+              2245 Texas Drive Suite 300 Sugarland, TX 77479 <br />
+              <a className="phone" href="tel:+1-832-380-2619">
+                Tel: 832-380-2619
+              </a>
+            </p>
           </div>
           <HoustonPhotos />
         </Section>
         <Section style={{ width: "80vw", margin: "4rem auto" }}>
           <div className="photo-header">
             <h6>Salt Lake City Office</h6>
-            <p>222 South Main St. 5th Floor Salt Lake City, UT 84101</p>
+            <p>
+              222 South Main St. 5th Floor Salt Lake City, UT 84101 <br />
+              <a className="phone" href="tel:+1-801-895-7844">
+                Tel: 801-895-7844
+              </a>
+            </p>
           </div>
           <SaltlakecityPhotos />
         </Section>
@@ -180,6 +200,9 @@ const IndexWrapper = styled.div`
       color: var(--mainColor);
       text-shadow: 1px 2px 2px rgba(0, 0, 0, 0.1);
     }
+  }
+  .phone {
+    color: black;
   }
   @media (max-width: 768px) {
     justify-content: center;
