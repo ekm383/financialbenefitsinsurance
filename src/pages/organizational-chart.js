@@ -3,11 +3,10 @@ import { graphql, useStaticQuery } from "gatsby"
 import styled from "styled-components"
 import Layout from "../components/layout"
 import BackgroundImage from "gatsby-background-image"
-import Img from "gatsby-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Logos from "../components/globals/footer/Logos"
-import OrgChart from "../images/FBI-Organizational-Chart.jpg"
+import OrgChart from "../images/FBI-Organizational-Chart-2022-11-17.jpg"
 
 const OrganizationalPage = () => {
   const data = useStaticQuery(graphql`
