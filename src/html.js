@@ -11,6 +11,10 @@ export default function HTML(props) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
+        <meta
+          name="facebook-domain-verification"
+          content="ea8nchay0sw204zs8yjkpb9ikhibb1"
+        />
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
@@ -21,7 +25,6 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-
       </body>
     </html>
   )
