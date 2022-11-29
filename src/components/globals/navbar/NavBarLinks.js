@@ -23,6 +23,7 @@ const NavBarLinks = () => {
               <NavDropdown.Item href="/executives">
                 Office Staff
               </NavDropdown.Item>
+              <NavDropdown.Item href="/our-vision">Our Vision</NavDropdown.Item>
               <NavDropdown.Item href="/organizational-chart">
                 Organizational Chart
               </NavDropdown.Item>
