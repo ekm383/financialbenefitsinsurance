@@ -94,12 +94,12 @@ const JoinPage = () => {
             see it as a blessing.{" "}
           </p>
           <p>
-            With 11 years in the Senior market, Financial Benefits Insurance has
+            With 12 years in the Senior market, Financial Benefits Insurance has
             established a reputation for honesty and integrity with our agents
             and carriers. We do what we say we are going to do and don’t cut
             corners for our own short-term gain. Honesty and integrity are the
             top two characteristics we look for in our agents. Join us as we
-            celebrate 11 years of growth, expansion, and innovation.
+            celebrate 12 years of growth, expansion, and innovation.
           </p>
           <p>
             We help our agents succeed before, during, and after the sale by
