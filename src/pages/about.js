@@ -32,13 +32,13 @@ const AboutPage = () => {
       <Wrapper>
         <SEO
           title="Home"
-          description="Industrial Group HI is a commercial real estate group.`,
-      author: `@industrialgrouphawaii"
+          description="We are an independent insurance agency. We do not work for an insurance company; we work for you!`,
+      author: `@financialbenefitsinsurance"
           keywords={[
-            `Commerical Real Estate`,
-            `Hawaii Real Estate`,
-            `Industrial Real Estate`,
-            `Industrial Group Hawaii`,
+            `Hawaii Term Life Insurance`,
+            `Hawaii Medicare Supplements`,
+            `Hawaii Medicare Advantage`,
+            `Hawaii Health Insurance`,
           ]}
         />
         <BackgroundImage

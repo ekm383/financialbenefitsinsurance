@@ -65,7 +65,15 @@ const NavBarLinks = () => {
             </NavDropdown>
             <Nav.Link href="/events">Events</Nav.Link>
             <Nav.Link href="/agents">Agents</Nav.Link>
-            <Nav.Link href="/join">Join Us</Nav.Link>
+            <NavDropdown title="Join Us" id="collasible-nav-dropdown">
+              <NavDropdown.Item href="/join">Join Us</NavDropdown.Item>
+              <NavDropdown.Item href="/what-separates-us">
+                What Separates Us From the Field
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/get-this">
+                Get All of This and More
+              </NavDropdown.Item>
+            </NavDropdown>
             <Nav.Link href="/contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>

@@ -7,6 +7,9 @@ import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Logos from "../components/globals/footer/Logos"
+import Photo1 from "../images/FBI-Join-Us-1.jpg"
+import Photo2 from "../images/FBI-Join-Us-2.jpg"
+import Photo3 from "../images/FBI-Join-Us-3.jpg"
 
 const JoinPage = () => {
   const image = useStaticQuery(graphql`
@@ -44,8 +47,9 @@ const JoinPage = () => {
             <BannerPage title="Join Us" />
           </Section>
         </BackgroundImage>
-        <Section style={{ margin: "4rem auto" }}>
+        <Section style={{ margin: "2rem auto" }}>
           <h4 style={{ marginBottom: "2rem", color: "var(--mainColor)" }}>
+            <img className="join-us-1" src={Photo1} alt="join-us-1" />
             Why Do Business With Financial Benefits Insurance:
           </h4>
           <p>
@@ -93,6 +97,7 @@ const JoinPage = () => {
             agents had a difficult time with electronic enrollments but now they
             see it as a blessing.{" "}
           </p>
+          <img className="join-us-2" src={Photo2} alt="join-us-2" />
           <p>
             With 12 years in the Senior market, Financial Benefits Insurance has
             established a reputation for honesty and integrity with our agents
@@ -126,6 +131,7 @@ const JoinPage = () => {
             and we welcome them as part of our Ohana. We believe Financial
             Benefits Insurance No Ka Oi.
           </p>
+          <img className="join-us-3" src={Photo3} alt="join-us-3" />
         </Section>
       </StyledStory>
       <Logos />
@@ -135,6 +141,18 @@ const JoinPage = () => {
 
 const StyledStory = styled.div`
   .generation {
+    width: 100%;
+    margin: 2rem auto;
+  }
+  .join-us-1 {
+    width: 100%;
+    margin: 2rem auto;
+  }
+  .join-us-2 {
+    width: 100%;
+    margin: 2rem auto;
+  }
+  .join-us-3 {
     width: 100%;
     margin: 2rem auto;
   }
