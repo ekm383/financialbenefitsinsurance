@@ -32,7 +32,7 @@ const ExecutivesPage = () => {
           }
         }
       }
-      mary: file(relativePath: { eq: "agents/FBI-Maryann-Ancog.jpg" }) {
+      leeah: file(relativePath: { eq: "agents/FBI-Leeah-Tano.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 800, quality: 90) {
             ...GatsbyImageSharpFluid
@@ -102,12 +102,12 @@ const ExecutivesPage = () => {
             </div>
             <div className="box">
               <div className="avatar">
-                <Img fluid={data.mary.childImageSharp.fluid} />
+                <Img fluid={data.leeah.childImageSharp.fluid} />
               </div>
               <div className="name">
-                <p className="agent-name">Maryann Ancog</p>
+                <p className="agent-name">Leeah Tano</p>
                 <p className="website-link">
-                  Client Retention and Service Coordinator
+                  Provider Service and Customer Service Coordinator
                 </p>
               </div>
             </div>
@@ -118,7 +118,7 @@ const ExecutivesPage = () => {
               <div className="name">
                 <p className="agent-name">Laura Ajimine</p>
                 <p className="website-link">
-                  Provider Service and Customer Service Coordinator
+                  Client Retention and Service Coordinator
                 </p>
               </div>
             </div>

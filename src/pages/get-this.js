@@ -69,7 +69,9 @@ const GetAllOfThisPage = () => {
               7. Thank You Cards/Stamps <br />
               8. Birthday Cards/Stamps <br />
               9. Quoting Tools <br />
-              10. Leads{" "}
+              10. Leads <br />
+              11. Magnetic Business Cards <br />
+              12. Full Commissions
             </strong>
             <br />
             <br />
