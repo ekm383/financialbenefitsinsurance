@@ -4,7 +4,7 @@ import styled from "styled-components"
 const Copyright = () => {
   return (
     <CopyrightWrapper className="copyright">
-      &copy; Copyright 2022 | Financial Benefits Insurance
+      &copy; Copyright 2023 | Financial Benefits Insurance
     </CopyrightWrapper>
   )
 }
