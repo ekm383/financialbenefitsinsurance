@@ -44,7 +44,7 @@ const JoinPage = () => {
           backgroundColor={`#ffffff`}
         >
           <Section style={{ width: "100vw", alignItems: "center" }}>
-            <BannerPage title="Join Us" />
+            <BannerPage title="Why Do Business with Financial Benefits Insurance" />
           </Section>
         </BackgroundImage>
         <Section style={{ margin: "2rem auto" }}>

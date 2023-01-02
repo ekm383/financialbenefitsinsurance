@@ -66,7 +66,9 @@ const NavBarLinks = () => {
             <Nav.Link href="/events">Events</Nav.Link>
             <Nav.Link href="/agents">Agents</Nav.Link>
             <NavDropdown title="Join Us" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="/join">Join Us</NavDropdown.Item>
+              <NavDropdown.Item href="/join">
+                Why Do Business with Financial Benefits Insurance
+              </NavDropdown.Item>
               <NavDropdown.Item href="/what-separates-us">
                 What Separates Us From the Field
               </NavDropdown.Item>
