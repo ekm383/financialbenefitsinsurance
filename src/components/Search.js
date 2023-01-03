@@ -198,7 +198,7 @@ const Agents = () => {
     <SearchWrapper>
       <div style={{ margin: "0rem auto" }}>
         <div className="container">
-          <h4 className="island-name">Oahu Agents</h4>
+          <h4 className="island-name">Oahu Team</h4>
           {oahu.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -228,7 +228,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Big Island Agents</h4>
+          <h4 className="island-name">Big Island Team</h4>
           {bi.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -258,7 +258,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Maui Agents</h4>
+          <h4 className="island-name">Maui Team</h4>
           {maui.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -288,7 +288,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Kauai Agents</h4>
+          <h4 className="island-name">Kauai Team</h4>
           {kauai.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -318,7 +318,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Texas Agents</h4>
+          <h4 className="island-name">Texas Team</h4>
           {texas.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -348,7 +348,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Nevada Agents</h4>
+          <h4 className="island-name">Nevada Team</h4>
           {nevada.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -378,7 +378,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Utah Agents</h4>
+          <h4 className="island-name">Utah Team</h4>
           {utah.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>
@@ -408,7 +408,7 @@ const Agents = () => {
               </div>
             )
           })}
-          <h4 className="island-name">Colorado Agents</h4>
+          <h4 className="island-name">Colorado Team</h4>
           {colorado.map(({ node }) => {
             return (
               <div className="box" key={`row_${node.id}`}>

@@ -1,11 +1,286 @@
 [
   {
-    "month": "",
-    "day": "",
-    "time": "",
-    "location": "",
-    "street": "",
-    "city": "",
+    "month": "january",
+    "day": "January - Monday to Friday",
+    "time": "10am-12pm",
+    "location": "Walgreens",
+    "street": "1520 N. School Street",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "January - Tuesdays",
+    "time": "3pm-6pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy.",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "January - Wednesdays",
+    "time": "9am-12pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy.",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "January - Thursdays",
+    "time": "12:30pm-4pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy.",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "January - Fridays & Saturdays",
+    "time": "10am-5pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy.",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "January - Sundays",
+    "time": "3:30pm-6:30pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy.",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 4, 11, 25",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1129 Maunakea Street #200",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 4, 11, 18, 25",
+    "time": "9am-12pm",
+    "location": "CVS Lihue",
+    "street": "3 2600 Kaumualii Hwy. Ste 1100",
+    "city": "Lihue, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 5",
+    "time": "9am-4pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 5, 12, 26",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 5, 12, 19, 26",
+    "time": "1pm-4pm",
+    "location": "CVS Keaau",
+    "street": "16-529 Keaau-Pahoa Rd.",
+    "city": "Keaau, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Friday, January 6, 13, 27",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 6, 13, 27",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1129 Maunakea Street #200",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 6, 20, 27",
+    "time": "1pm-4pm",
+    "location": "CVS Lihue",
+    "street": "3 2600 Kaumualii Hwy. Ste 1100",
+    "city": "Lihue, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, January 7, 14, 21, 28",
+    "time": "9am-12pm",
+    "location": "CVS Keaau",
+    "street": "16-529 Keaau-Pahoa Rd.",
+    "city": "Keaau, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, January 7, 14, 21, 28",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Sunday, January 8, 15, 22, 29",
+    "time": "9am-12pm",
+    "location": "CVS Honolulu",
+    "street": "3221 Waialae Ave.",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Sunday, January 8, 15, 22, 29",
+    "time": "10am-1pm",
+    "location": "CVS Kapolei",
+    "street": "590 Farrington Hwy. Unit 300",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Monday, January 9, 23, 30",
+    "time": "9am-12pm",
+    "location": "CVS Moiliili",
+    "street": "2470 South King St.",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, January 10",
+    "time": "9am-3pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, January 10, 24, 31",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 11, 18",
+    "time": "9am-3pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 12, 26",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Monday, January 16, 30",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, January 17",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, January 21, 28",
+    "time": "9am-3pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Monday, January 23",
+    "time": "9am-3pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 25",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
     "type": "",
     "link": ""
   }
