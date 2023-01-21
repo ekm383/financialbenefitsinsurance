@@ -193,25 +193,6 @@
   },
   {
     "island": "oahu",
-    "id": "40",
-    "slug": "garry-yee",
-    "photo": "../images/agents/FBI-Garry-Yee.jpg",
-    "name": "Garry Yee",
-    "title": "",
-    "phone": "808-202-2213",
-    "email": "Gyee@fbihi.com",
-    "bilingual": "",
-    "licensed": "HI, CA, TX, WA, AZ, NV, OR",
-    "bio": [
-      "Garry was born and raised on the east side of Honolulu. He is a graduate of Kalani High School. He attended Heald Business College, formerly known as Cannon’s Business College , and has a Certificate in Accounting.",
-      "Garry was involved in high tech during the 80’s,  90’s and 2000’s. He built small computer networks for businesses in the Sacramento, California area.",
-      "He returned to Hawaii 2005, to work in the finance and insurance industry.  Presently, Garry’s main focus is on the  Medicare and Senior Citizens Health Insurance Market. Due to his own circumstances, he is very familiar with the in’s and out’s of getting the best insurance based on an individual’s monetary circumstance, health and medical conditions. He is very thorough and patient. He’s familiar with all the  medicare plans offered and is always available to answer questions. Since plans change every year, it’s in your best interest to go over it to see if it is still the best one for you!! "
-    ],
-    "testimonials": [""],
-    "website": "https://www.medicareandyee.com"
-  },
-  {
-    "island": "oahu",
     "id": "10",
     "slug": "herb-kaopua",
     "photo": "../images/agents/FBI-Herb-Kaopua.jpg",

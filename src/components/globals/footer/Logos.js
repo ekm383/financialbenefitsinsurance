@@ -13,6 +13,7 @@ import logo10 from "../../../images/logos/well-care-logo.jpg"
 import logo11 from "../../../images/logos/aetna-logo-2.png"
 import logo12 from "../../../images/logos/centene-logo.jpg"
 import logo13 from "../../../images/logos/devoted.jpg"
+import logo14 from "../../../images/logos/wellcare.jpg"
 
 const Logos = () => {
   return (
@@ -29,6 +30,7 @@ const Logos = () => {
           <img src={logo07} alt="logo" />
           <img src={logo08} alt="logo" />
           <img src={logo09} alt="logo" />
+          <img src={logo14} alt="logo" />
           <img src={logo10} alt="logo" />
           <img src={logo11} alt="logo" />
           <img src={logo12} alt="logo" />
