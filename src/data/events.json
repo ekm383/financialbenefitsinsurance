@@ -19,7 +19,6 @@
     "type": "",
     "link": ""
   },
-
   {
     "month": "january",
     "day": "January - Wednesdays",
@@ -30,7 +29,6 @@
     "type": "",
     "link": ""
   },
-
   {
     "month": "january",
     "day": "January - Thursdays",
@@ -41,7 +39,6 @@
     "type": "",
     "link": ""
   },
-
   {
     "month": "january",
     "day": "January - Fridays & Saturdays",
@@ -52,7 +49,6 @@
     "type": "",
     "link": ""
   },
-
   {
     "month": "january",
     "day": "January - Sundays",
@@ -65,204 +61,43 @@
   },
   {
     "month": "january",
-    "day": "Wednesday, January 4, 11, 25",
-    "time": "9am-12pm",
-    "location": "Maunakea Marketplace",
-    "street": "1129 Maunakea Street #200",
-    "city": "Honolulu, HI",
-    "type": "",
+    "day": "Monday, January 23",
+    "time": "9am-10:30am",
+    "location": "Ala Moana Hotel - Pakalana & Anthurium Room",
+    "street": "410 Atkinson Dr",
+    "city": "Honolulu, HI 96814",
+    "type": "Navigating Medicare",
     "link": ""
   },
   {
     "month": "january",
-    "day": "Wednesday, January 4, 11, 18, 25",
-    "time": "9am-12pm",
-    "location": "CVS Lihue",
-    "street": "3 2600 Kaumualii Hwy. Ste 1100",
-    "city": "Lihue, HI",
-    "type": "",
-    "link": ""
+    "day": "Monday, January 23",
+    "time": "11am-12:30pm",
+    "location": "Ala Moana Hotel - Pakalana & Anthurium Room",
+    "street": "410 Atkinson Dr",
+    "city": "Honolulu, HI 96814",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
   },
   {
     "month": "january",
-    "day": "Thursday, January 5",
-    "time": "9am-4pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
+    "day": "Monday, January 23",
+    "time": "1pm-2:30pm",
+    "location": "Ala Moana Hotel - Pakalana & Anthurium Room",
+    "street": "410 Atkinson Dr",
+    "city": "Honolulu, HI 96814",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
   },
   {
     "month": "january",
-    "day": "Thursday, January 5, 12, 26",
-    "time": "8am-12pm",
-    "location": "City Square",
-    "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Thursday, January 5, 12, 19, 26",
-    "time": "1pm-4pm",
-    "location": "CVS Keaau",
-    "street": "16-529 Keaau-Pahoa Rd.",
-    "city": "Keaau, HI",
-    "type": "",
-    "link": ""
-  },
-
-  {
-    "month": "january",
-    "day": "Friday, January 6, 13, 27",
-    "time": "9am-1pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Friday, January 6, 13, 27",
-    "time": "9am-12pm",
-    "location": "Maunakea Marketplace",
-    "street": "1129 Maunakea Street #200",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Friday, January 6, 20, 27",
-    "time": "1pm-4pm",
-    "location": "CVS Lihue",
-    "street": "3 2600 Kaumualii Hwy. Ste 1100",
-    "city": "Lihue, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Saturday, January 7, 14, 21, 28",
-    "time": "9am-12pm",
-    "location": "CVS Keaau",
-    "street": "16-529 Keaau-Pahoa Rd.",
-    "city": "Keaau, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Saturday, January 7, 14, 21, 28",
-    "time": "8am-12pm",
-    "location": "City Square",
-    "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Sunday, January 8, 15, 22, 29",
-    "time": "9am-12pm",
-    "location": "CVS Honolulu",
-    "street": "3221 Waialae Ave.",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Sunday, January 8, 15, 22, 29",
-    "time": "10am-1pm",
-    "location": "CVS Kapolei",
-    "street": "590 Farrington Hwy. Unit 300",
-    "city": "Kapolei, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Monday, January 9, 23, 30",
-    "time": "9am-12pm",
-    "location": "CVS Moiliili",
-    "street": "2470 South King St.",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Tuesday, January 10",
-    "time": "9am-3pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Tuesday, January 10, 24, 31",
-    "time": "8am-12pm",
-    "location": "City Square",
-    "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Wednesday, January 11, 18",
-    "time": "9am-3pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Thursday, January 12, 26",
-    "time": "9am-1pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Monday, January 16, 30",
-    "time": "9am-1pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Tuesday, January 17",
-    "time": "9am-1pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Saturday, January 21, 28",
-    "time": "9am-3pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
+    "day": "Monday, January 23",
+    "time": "3pm-4:30pm",
+    "location": "Ala Moana Hotel - Pakalana & Anthurium Room",
+    "street": "410 Atkinson Dr",
+    "city": "Honolulu, HI 96814",
+    "type": "Ohana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
   },
   {
     "month": "january",
@@ -276,6 +111,88 @@
   },
   {
     "month": "january",
+    "day": "Monday, January 23, 30",
+    "time": "9am-12pm",
+    "location": "CVS Moiliili",
+    "street": "2470 South King St.",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, January 24",
+    "time": "9am-10:30am",
+    "location": "Sangha Hall - Conference Room",
+    "street": "398 Kilauea Ave",
+    "city": "Hilo, HI 96720",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+
+  {
+    "month": "january",
+    "day": "Tuesday, January 24",
+    "time": "11am-12:30pm",
+    "location": "Sangha Hall - Conference Room",
+    "street": "398 Kilauea Ave",
+    "city": "Hilo, HI 96720",
+    "type": "Ohana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+
+  {
+    "month": "january",
+    "day": "Tuesday, January 24, 31",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 25",
+    "time": "9am-10:30am",
+    "location": "All Saints Church - Memorial Hall",
+    "street": "4-1061 Kuhio Hwy",
+    "city": "Kapa'a, HI 96746",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 25",
+    "time": "11am-12:30pm",
+    "location": "All Saints Church - Memorial Hall",
+    "street": "4-1061 Kuhio Hwy",
+    "city": "Kapa'a, HI 96746",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 25",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1129 Maunakea Street #200",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, January 25",
+    "time": "9am-12pm",
+    "location": "CVS Lihue",
+    "street": "3 2600 Kaumualii Hwy. Ste 1100",
+    "city": "Lihue, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
     "day": "Wednesday, January 25",
     "time": "9am-1pm",
     "location": "Walmart Maui",
@@ -283,5 +200,326 @@
     "city": "Kahului, HI",
     "type": "",
     "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 26",
+    "time": "9am-10:30am",
+    "location": "Virtual Meeting (Oahu Only)",
+    "street": "",
+    "city": "",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 26",
+    "time": "11am-12:30pm",
+    "location": "Virtual Meeting (Oahu Only)",
+    "street": "",
+    "city": "",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 26",
+    "time": "1pm-2:30pm",
+    "location": "Virtual Meeting (Oahu Only)",
+    "street": "",
+    "city": "",
+    "type": "Ohana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 26",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 26",
+    "time": "1pm-4pm",
+    "location": "CVS Keaau",
+    "street": "16-529 Keaau-Pahoa Rd.",
+    "city": "Keaau, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, January 26",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 27",
+    "time": "9am-10:30am",
+    "location": "FILCOM - Flores Ballroom",
+    "street": "94-428 Mokuola St",
+    "city": "Waipahu, HI 96797",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 27",
+    "time": "11am-12:30pm",
+    "location": "FILCOM - Flores Ballroom",
+    "street": "94-428 Mokuola St",
+    "city": "Waipahu, HI 96797",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 27",
+    "time": "1pm-2:30pm",
+    "location": "FILCOM - Flores Ballroom",
+    "street": "94-428 Mokuola St",
+    "city": "Waipahu, HI 96797",
+    "type": "Ohana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 27",
+    "time": "5pm-6:30pm",
+    "location": "Virtual Meeting (Big Island)",
+    "street": "",
+    "city": "",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+
+  {
+    "month": "january",
+    "day": "Friday, January 27",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 27",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1129 Maunakea Street #200",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Friday, January 27",
+    "time": "1pm-4pm",
+    "location": "CVS Lihue",
+    "street": "3 2600 Kaumualii Hwy. Ste 1100",
+    "city": "Lihue, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, January 28",
+    "time": "9am-12pm",
+    "location": "CVS Keaau",
+    "street": "16-529 Keaau-Pahoa Rd.",
+    "city": "Keaau, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, January 28",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, January 28",
+    "time": "9am-3pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Sunday, January 29",
+    "time": "9am-12pm",
+    "location": "CVS Honolulu",
+    "street": "3221 Waialae Ave.",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Sunday, January 29",
+    "time": "10am-1pm",
+    "location": "CVS Kapolei",
+    "street": "590 Farrington Hwy. Unit 300",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Monday, January 30",
+    "time": "9am-10:30am",
+    "location": "Big City Diner - Makai Room",
+    "street": "46-056 Kamehameha Hwy",
+    "city": "Kaneohe, HI 96744",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Monday, January 30",
+    "time": "11am-12:30pm",
+    "location": "Big City Diner - Makai Room",
+    "street": "46-056 Kamehameha Hwy",
+    "city": "Kaneohe, HI 96744",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Monday, January 30",
+    "time": "9am-1pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, January 31",
+    "time": "9am-10:30am",
+    "location": "Hanapepe Library - Meeting Room",
+    "street": "4490 Kona Rd",
+    "city": "Hanapepe, HI 96716",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, January 31",
+    "time": "11am-12:30pm",
+    "location": "Hanapepe Library - Meeting Room",
+    "street": "4490 Kona Rd",
+    "city": "Hanapepe, HI 96716",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, February 1",
+    "time": "9am-10:30am",
+    "location": "Virtual Meeting (Maui/Kauai)",
+    "street": "",
+    "city": "",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, February 1",
+    "time": "11am-12:30pm",
+    "location": "Virtual Meeting (Maui/Kauai)",
+    "street": "",
+    "city": "",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, February 1",
+    "time": "1pm-2:30pm",
+    "location": "Virtual Meeting (Maui/Kauai/Big Island)",
+    "street": "",
+    "city": "",
+    "type": "Ohana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Thursday, February 2",
+    "time": "9am-10:30am",
+    "location": "Maui Beach Hotel - Maui Room",
+    "street": "170 W Kaahumanu Ave",
+    "city": "Kahului, HI 96732",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Thursday, February 2",
+    "time": "11am-12:30pm",
+    "location": "Maui Beach Hotel - Maui Room",
+    "street": "170 W Kaahumanu Ave",
+    "city": "Kahului, HI 96732",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Friday, February 3",
+    "time": "9am-10:30am",
+    "location": "Pearl Country Club - Pearl 2 Room",
+    "street": "98-535 Kaonohi St",
+    "city": "Aiea, HI 96701",
+    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Friday, February 3",
+    "time": "11am-12:30pm",
+    "location": "Pearl Country Club - Pearl 2 Room",
+    "street": "98-535 Kaonohi St",
+    "city": "Aiea, HI 96701",
+    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Friday, February 3",
+    "time": "1pm-2:30pm",
+    "location": "Pearl Country Club - Pearl 2 Room",
+    "street": "98-535 Kaonohi St",
+    "city": "Aiea, HI 96701",
+    "type": "Ohana - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
+  },
+  {
+    "month": "january",
+    "day": "Friday, February 3",
+    "time": "5pm-6:30pm",
+    "location": "Virtual Meeting (Oahu Only)",
+    "street": "",
+    "city": "",
+    "type": "Devoted - Client Appreciation Meeting (Current Clients Only)",
+    "link": "Call our office at (808) 792-5194 to make a reservation"
   }
 ]
