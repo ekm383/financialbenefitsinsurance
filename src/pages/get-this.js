@@ -71,7 +71,9 @@ const GetAllOfThisPage = () => {
               9. Quoting Tools <br />
               10. Leads <br />
               11. Magnetic Business Cards <br />
-              12. Full Commissions
+              12. Full Commissions <br />
+              13. Receive 50% tuition reimbursement up to $500 for designations
+              like CSA, NSSA etc.
             </strong>
             <br />
             <br />
