@@ -62,78 +62,18 @@
 
   {
     "month": "january",
-    "day": "Thursday, February 2",
-    "time": "9am-10:30am",
-    "location": "Maui Beach Hotel - Maui Room",
-    "street": "170 W Kaahumanu Ave",
-    "city": "Kahului, HI 96732",
-    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
-    "link": "Call our office at (808) 792-5194 to make a reservation"
-  },
-  {
-    "month": "january",
-    "day": "Thursday, February 2",
-    "time": "11am-12:30pm",
-    "location": "Maui Beach Hotel - Maui Room",
-    "street": "170 W Kaahumanu Ave",
-    "city": "Kahului, HI 96732",
-    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
-    "link": "Call our office at (808) 792-5194 to make a reservation"
-  },
-  {
-    "month": "january",
-    "day": "Thursday, February 2, 9, 23",
+    "day": "Thursday, February 9, 23",
     "time": "8am-12pm",
     "location": "City Square",
     "street": "1199 Dillingham Blvd",
     "city": "Honolulu, HI",
     "type": "",
     "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Friday, February 3",
-    "time": "9am-10:30am",
-    "location": "Pearl Country Club - Pearl 2 Room",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": "United Health Care - Client Appreciation Meeting (Current Clients Only)",
-    "link": "Call our office at (808) 792-5194 to make a reservation"
-  },
-  {
-    "month": "january",
-    "day": "Friday, February 3",
-    "time": "11am-12:30pm",
-    "location": "Pearl Country Club - Pearl 2 Room",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": "Humana - Client Appreciation Meeting (Current Clients Only)",
-    "link": "Call our office at (808) 792-5194 to make a reservation"
-  },
-  {
-    "month": "january",
-    "day": "Friday, February 3",
-    "time": "1pm-2:30pm",
-    "location": "Pearl Country Club - Pearl 2 Room",
-    "street": "98-535 Kaonohi St",
-    "city": "Aiea, HI 96701",
-    "type": "Ohana - Client Appreciation Meeting (Current Clients Only)",
-    "link": "Call our office at (808) 792-5194 to make a reservation"
-  },
-  {
-    "month": "january",
-    "day": "Friday, February 3",
-    "time": "5pm-6:30pm",
-    "location": "Virtual Meeting (Oahu Only)",
-    "street": "",
-    "city": "",
-    "type": "Devoted - Client Appreciation Meeting (Current Clients Only)",
-    "link": "Call our office at (808) 792-5194 to make a reservation"
   },
 
   {
     "month": "january",
-    "day": "Friday, February 3, 10, 24",
+    "day": "Friday, February 10, 24",
     "time": "9am-12pm",
     "location": "Maunakea Marketplace",
     "street": "1120 Maunakea Street #200",
@@ -143,40 +83,10 @@
   },
   {
     "month": "january",
-    "day": "Saturday, February 4, 11, 18, 25",
+    "day": "Saturday, February 11, 18, 25",
     "time": "8am-12pm",
     "location": "City Square",
     "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Tuesday, February 7, 21, 28",
-    "time": "8am-12pm",
-    "location": "City Square",
-    "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Tuesday, February 7, 21",
-    "time": "1pm-4pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Wednesday, February 8, 22",
-    "time": "9am-12pm",
-    "location": "Maunakea Marketplace",
-    "street": "1120 Maunakea Street #200",
     "city": "Honolulu, HI",
     "type": "",
     "link": ""
@@ -188,6 +98,37 @@
     "location": "Walgreens Maui",
     "street": "10 E Kamehameha Ave",
     "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, February 21",
+    "time": "1pm-4pm",
+    "location": "Walmart Maui",
+    "street": "101 Pakaula Street",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, February 21, 28",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Wednesday, February 22",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1120 Maunakea Street #200",
+    "city": "Honolulu, HI",
     "type": "",
     "link": ""
   }
