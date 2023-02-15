@@ -89,7 +89,7 @@ const OurStoryPage = () => {
             Planning for the future:
           </h4>
           <p>
-            <strong>“11 years of growth, expansion, and innovation” </strong>
+            <strong>“12 years of growth, expansion, and innovation” </strong>
             <br />
             Travis Motosue and Ed Motosue started Financial Benefits Insurance
             in August 2010 with two Medicare carriers (United Healthcare and
@@ -113,19 +113,19 @@ const OurStoryPage = () => {
             marketplace.
           </p>
           <p>
-            From 3 agents in Aug 2010, Financial Benefits Insurance currently
-            has 74 agents servicing Oahu, Maui, Kauai, Big Island, Nevada,
-            Texas, and Utah. In February 2011, they moved into their first
-            office at 1311 Kapiolani Blvd., suite 504. The office consisted of a
-            Conference Room, reception area and two rooms. In 2016 Financial
-            Benefits Insurance nearly doubled the size of their Honolulu office
-            from 823 sq ft to 1,353 sq ft and built a Training Room and agent
-            workstations. In July 2019 Travis and Ed opened a 680 sq ft office
-            in Hilo at 1289 Kilauea Ave, suite G to support their Hilo agents.
-            In March 2020 they renovated their Honolulu office by installing
-            vinyl wood flooring, glass interior doors, and building another
-            Appointment Room. In June 2020 Travis and Ed leased 369 sq ft in
-            Seafood City Waipahu for a Waipahu Community Office. Financial
+            From 3 agents in August 2010, Financial Benefits Insurance currently
+            has over 90 agents servicing Oahu, Maui, Kauai, Big Island, Nevada,
+            Texas, Utah and Colorado. In February 2011, they moved into their
+            first office at 1311 Kapiolani Blvd., suite 504. The office
+            consisted of a Conference Room, reception area and two rooms. In
+            2016 Financial Benefits Insurance nearly doubled the size of their
+            Honolulu office from 823 sq ft to 1,353 sq ft and built a Training
+            Room and agent workstations. In July 2019 Travis and Ed opened a 680
+            sq ft office in Hilo at 1289 Kilauea Ave, suite G to support their
+            Hilo agents. In March 2020 they renovated their Honolulu office by
+            installing vinyl wood flooring, glass interior doors, and building
+            another Appointment Room. In June 2020 Travis and Ed leased 369 sq
+            ft in Seafood City Waipahu for a Waipahu Community Office. Financial
             Benefits Insurance agents are among the most dedicated and engaged
             in serving our community.{" "}
           </p>
