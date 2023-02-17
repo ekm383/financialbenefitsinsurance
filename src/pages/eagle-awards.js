@@ -84,12 +84,12 @@ const EagleAwardsPage = () => {
           <p>
             <strong>
               We proudly present Financial Benefits Insurance outstanding
-              Medicare Eagle Hall of Fame recipients for 2021.
+              Medicare Eagle Hall of Fame recipients for 2022.
             </strong>
           </p>
 
           <p>
-            These 11 exceptional licensed sales agents by virtue of their sales,
+            These 8 exceptional licensed sales agents by virtue of their sales,
             success, and selfless service are recognized for their achievements.
             They inspire other agents by their example, confidence in
             leadership, commitment, and integrity.{" "}
@@ -97,7 +97,7 @@ const EagleAwardsPage = () => {
           <p>
             The Eagle Hall of Fame awards were established by Financial Benefits
             Insurance in 2017 as a means of expressing our desire to recognize
-            leaders of our team. The program, now in its 5th consecutive year,
+            leaders of our team. The program, now in its 6th consecutive year,
             benefits the Senior community in service and education.
           </p>
         </Section>
