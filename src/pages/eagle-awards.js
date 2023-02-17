@@ -7,6 +7,20 @@ import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Photo from "../images/fbihi-eagle-awards-2021.jpg"
+import EagleAward1 from "../images/2022-EagleHallOfFame-1.jpg"
+import EagleAward2 from "../images/2022-EagleHallOfFame-2.jpg"
+import EagleAward3 from "../images/2022-EagleHallOfFame-3.jpg"
+import EagleAward4 from "../images/2022-EagleHallOfFame-4.jpg"
+import EagleAward5 from "../images/2022-EagleHallOfFame-5.jpg"
+import EagleAward6 from "../images/2022-EagleHallOfFame-6.jpg"
+import EagleAward7 from "../images/2022-EagleHallOfFame-7.jpg"
+import EagleAward8 from "../images/2022-EagleHallOfFame-8.jpg"
+import EagleAward9 from "../images/2022-EagleHallOfFame-9.jpg"
+import EagleAward10 from "../images/2022-EagleHallOfFame-10.jpg"
+import EagleAward11 from "../images/2022-EagleHallOfFame-11.jpg"
+import EagleAward12 from "../images/2022-EagleHallOfFame-12.jpg"
+import EagleAward13 from "../images/2022-EagleHallOfFame-13.jpg"
+import EagleAward14 from "../images/2022-EagleHallOfFame-14.jpg"
 import NikkiPhoto from "../images/agents/FBI-Nikki-Kida.jpg"
 import DamienPhoto from "../images/agents/FBI-Damien-Morales.jpg"
 import KamakaPhoto from "../images/agents/FBI-Kamaka-Jingao-2.jpg"
@@ -52,7 +66,20 @@ const EagleAwardsPage = () => {
         <Section style={{ margin: "4rem auto" }}>
           <h4 style={{ marginBottom: "0rem", color: "var(--mainColor)" }}>
             EAGLE AWARD HALL OF FAME
-            <img className="eagle-awards" src={Photo} alt="ed" />
+            <img className="eagle-awards" src={EagleAward1} alt="ed" />
+            <img className="eagle-awards" src={EagleAward2} alt="ed" />
+            <img className="eagle-awards" src={EagleAward3} alt="ed" />
+            <img className="eagle-awards" src={EagleAward4} alt="ed" />
+            <img className="eagle-awards" src={EagleAward5} alt="ed" />
+            <img className="eagle-awards" src={EagleAward6} alt="ed" />
+            <img className="eagle-awards" src={EagleAward7} alt="ed" />
+            <img className="eagle-awards" src={EagleAward8} alt="ed" />
+            <img className="eagle-awards" src={EagleAward9} alt="ed" />
+            <img className="eagle-awards" src={EagleAward10} alt="ed" />
+            <img className="eagle-awards" src={EagleAward11} alt="ed" />
+            <img className="eagle-awards" src={EagleAward12} alt="ed" />
+            <img className="eagle-awards" src={EagleAward13} alt="ed" />
+            <img className="eagle-awards" src={EagleAward14} alt="ed" />
           </h4>
           <p>
             <strong>

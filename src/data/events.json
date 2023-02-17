@@ -62,42 +62,11 @@
 
   {
     "month": "january",
-    "day": "Thursday, February 9, 23",
+    "day": "Saturday, February 18, 25",
     "time": "8am-12pm",
     "location": "City Square",
     "street": "1199 Dillingham Blvd",
     "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-
-  {
-    "month": "january",
-    "day": "Friday, February 10, 24",
-    "time": "9am-12pm",
-    "location": "Maunakea Marketplace",
-    "street": "1120 Maunakea Street #200",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Saturday, February 11, 18, 25",
-    "time": "8am-12pm",
-    "location": "City Square",
-    "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Wednesday, February 15",
-    "time": "10am-2pm",
-    "location": "Walgreens Maui",
-    "street": "10 E Kamehameha Ave",
-    "city": "Kahului, HI",
     "type": "",
     "link": ""
   },
@@ -125,6 +94,27 @@
   {
     "month": "january",
     "day": "Wednesday, February 22",
+    "time": "9am-12pm",
+    "location": "Maunakea Marketplace",
+    "street": "1120 Maunakea Street #200",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, February 23",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Friday, February 24",
     "time": "9am-12pm",
     "location": "Maunakea Marketplace",
     "street": "1120 Maunakea Street #200",

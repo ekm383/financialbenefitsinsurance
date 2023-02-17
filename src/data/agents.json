@@ -1253,6 +1253,20 @@
   },
   {
     "island": "texas",
+    "id": "117",
+    "slug": "amber-ousley",
+    "photo": "../images/agents/FBI-Amber-Ousley.jpg",
+    "name": "Amber Ousley",
+    "title": "",
+    "phone": "346-526-0800",
+    "email": "aousley@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX, CA",
+    "bio": [""],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
     "id": "37",
     "slug": "austin-uzama",
     "photo": "../images/agents/FBI-Austin-Uzama.jpg",
@@ -1278,6 +1292,23 @@
     "licensed": "TX",
     "bio": [
       "Bernadette Rodriguez is Texan born and raised. She has been licensed for over 20 years and loves helping others who need to navigate their Medicare benefits, Life Insurance, Dental & Vision, Supplemental coverage and Annuities. Her goal is to assist people in having peace of mind. She is God and family centered. She is a wife, mother of 5 and Grandmother of 9 whom she absolutely loves with all of her heart. She loves to sing, dance, serve her church and community, travel and enjoy time with her family."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
+    "id": "116",
+    "slug": "bria-page",
+    "photo": "../images/agents/FBI-Bria-Page.jpg",
+    "name": "Bria Page",
+    "title": "",
+    "phone": "832-341-9915",
+    "email": "bpage@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX",
+    "bio": [
+      "Hello, my name is Bria Page, I was born and raised in Houston Texas. I am a Licensed Life and Health insurance agent with experience with working with individuals and families of all diverse backgrounds.",
+      "My passion for insurance stems from my desire to protect people and their families. As an expert it is my goal to offer the best possible service tailored to clients specific personal or life insurance needs."
     ],
     "testimonials": [""]
   },
@@ -1328,6 +1359,22 @@
       "As an insurance agent I am a passionate for meeting new people every day, I feel it's a great opportunity to be able to help using my knowledge to providing creative solutions of high level for every need, using technology and research, listen to the customer is the most important part.",
       "I do have a love for the outdoors sport running, play tennis, and gardening!",
       "As a Professional Health and Life Producer, I always like to build a personal connection with customer, always be my pleasure to help you with your specific needs in Health and Life Insurance!"
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "texas",
+    "id": "118",
+    "slug": "lindsey-marshall",
+    "photo": "../images/agents/FBI-Lindsey-Marshall.jpg",
+    "name": "Lindsey Marshall",
+    "title": "",
+    "phone": "409-797-2466",
+    "email": "lmarshall@fbihi.com",
+    "bilingual": "",
+    "licensed": "TX",
+    "bio": [
+      "Hello, My name is Lindsey Marshall, and I am a man of principles. I am trying to be a humble servant and a  good steward to people. Having helped over 2000 families over 30 years I specialize in final expense and Government medical health plans for seniors. So let me walk you through the maze of insurance carriers to find you the Best Plan and Coverage to Protect you, your family, and your legacy. I am licensed in Texas and I reside in Houston, TX.  So contact me now and take advantage of a free consultation to see what free Government benefits you qualify for."
     ],
     "testimonials": [""]
   },
