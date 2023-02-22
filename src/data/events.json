@@ -62,37 +62,6 @@
 
   {
     "month": "january",
-    "day": "Saturday, February 18, 25",
-    "time": "8am-12pm",
-    "location": "City Square",
-    "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Tuesday, February 21",
-    "time": "1pm-4pm",
-    "location": "Walmart Maui",
-    "street": "101 Pakaula Street",
-    "city": "Kahului, HI",
-    "type": "",
-    "link": ""
-  },
-  {
-    "month": "january",
-    "day": "Tuesday, February 21, 28",
-    "time": "8am-12pm",
-    "location": "City Square",
-    "street": "1199 Dillingham Blvd",
-    "city": "Honolulu, HI",
-    "type": "",
-    "link": ""
-  },
-
-  {
-    "month": "january",
     "day": "Wednesday, February 22",
     "time": "9am-12pm",
     "location": "Maunakea Marketplace",
@@ -119,6 +88,104 @@
     "location": "Maunakea Marketplace",
     "street": "1120 Maunakea Street #200",
     "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, February 25",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Tuesday, February 28",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Monday, April 3, 10, 17, 24",
+    "time": "10am-1pm",
+    "location": "CVS Kahului",
+    "street": "70 E Kaahumanu Ave",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Monday, April 3, 17, 24",
+    "time": "9am-12pm",
+    "location": "CVS Moiliili",
+    "street": "2470 South King St",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Tuesday, April 4",
+    "time": "11am-2pm",
+    "location": "CVS Kahului",
+    "street": "70 E Kaahumanu Ave",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Tuesday, April 4, 11, 18, 25",
+    "time": "10am-1pm",
+    "location": "CVS Lihue",
+    "street": "3-2600 Kaumualii Hwy",
+    "city": "Lihue, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Wednesday, April 5, 12, 19, 26",
+    "time": "10am-1pm",
+    "location": "CVS Lihue",
+    "street": "3-2600 Kaumualii Hwy",
+    "city": "Lihue, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Thursday, April 6, 13, 20, 27",
+    "time": "10am-1pm",
+    "location": "CVS Kahului",
+    "street": "70 E Kaahumanu Ave",
+    "city": "Kahului, HI",
+    "type": "",
+    "link": ""
+  },
+
+  {
+    "month": "january",
+    "day": "Friday, April 14",
+    "time": "11am-2pm",
+    "location": "CVS Pukalani",
+    "street": "55 Kiopaa Place",
+    "city": "Makawao, HI",
     "type": "",
     "link": ""
   }

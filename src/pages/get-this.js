@@ -8,6 +8,7 @@ import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Logos from "../components/globals/footer/Logos"
 import Photo1 from "../images/FBI-Get-All-Of-This-1.jpg"
+import Photo2 from "../images/FBI-Get-All-Of-This-2.jpg"
 
 const GetAllOfThisPage = () => {
   const image = useStaticQuery(graphql`
@@ -48,9 +49,9 @@ const GetAllOfThisPage = () => {
         <Section style={{ margin: "2rem auto" }}>
           <h4 style={{ marginBottom: "2rem", color: "var(--mainColor)" }}>
             <img
-              className="get-all-of-this-1"
-              src={Photo1}
-              alt="get-all-of-this-1"
+              className="get-all-of-this-2"
+              src={Photo2}
+              alt="get-all-of-this-2"
             />
             Get All of This and More
           </h4>
@@ -93,6 +94,11 @@ const StyledStory = styled.div`
     margin: 2rem auto;
   }
   .get-all-of-this-1 {
+    width: 100%;
+    margin: 2rem auto;
+  }
+
+  .get-all-of-this-2 {
     width: 100%;
     margin: 2rem auto;
   }

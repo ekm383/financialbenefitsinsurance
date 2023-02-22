@@ -10,6 +10,7 @@ import Logos from "../components/globals/footer/Logos"
 import Photo1 from "../images/FBI-Join-Us-1.jpg"
 import Photo2 from "../images/FBI-Join-Us-2.jpg"
 import Photo3 from "../images/FBI-Join-Us-3.jpg"
+import Photo4 from "../images/FBI-Join-Us-4.jpg"
 
 const JoinPage = () => {
   const image = useStaticQuery(graphql`
@@ -49,7 +50,7 @@ const JoinPage = () => {
         </BackgroundImage>
         <Section style={{ margin: "2rem auto" }}>
           <h4 style={{ marginBottom: "2rem", color: "var(--mainColor)" }}>
-            <img className="join-us-1" src={Photo1} alt="join-us-1" />
+            <img className="join-us-4" src={Photo4} alt="join-us-4" />
             Why Do Business With Financial Benefits Insurance:
           </h4>
           <p>
@@ -153,6 +154,10 @@ const StyledStory = styled.div`
     margin: 2rem auto;
   }
   .join-us-3 {
+    width: 100%;
+    margin: 2rem auto;
+  }
+  .join-us-4 {
     width: 100%;
     margin: 2rem auto;
   }
