@@ -6,7 +6,7 @@ import BackgroundImage from "gatsby-background-image"
 import BannerPage from "../components/globals/banner/BannerPage"
 import Section from "../components/globals/section/Section"
 import Logos from "../components/globals/footer/Logos"
-import OrgChart from "../images/FBI-Organizational-Chart-2023-02-12.jpg"
+import OrgChart from "../images/FBI-Organizational-Chart-2023-02-24.jpg"
 
 const OrganizationalPage = () => {
   const data = useStaticQuery(graphql`

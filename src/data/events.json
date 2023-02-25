@@ -1,7 +1,27 @@
 [
   {
     "month": "january",
-    "day": "February - Monday to Friday",
+    "day": "Saturday, February 25",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, February 28",
+    "time": "8am-12pm",
+    "location": "City Square",
+    "street": "1199 Dillingham Blvd",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "March - Monday to Friday",
     "time": "10am-12pm",
     "location": "Walgreens",
     "street": "1520 N. School Street",
@@ -11,7 +31,7 @@
   },
   {
     "month": "january",
-    "day": "February - Tuesdays",
+    "day": "March - Tuesdays",
     "time": "3pm-6pm",
     "location": "Walmart Kapolei",
     "street": "91-600 Farrington Hwy.",
@@ -21,7 +41,7 @@
   },
   {
     "month": "january",
-    "day": "February - Wednesdays",
+    "day": "March - Wednesdays",
     "time": "9am-12pm",
     "location": "Walmart Kapolei",
     "street": "91-600 Farrington Hwy.",
@@ -31,7 +51,7 @@
   },
   {
     "month": "january",
-    "day": "February - Thursdays",
+    "day": "March - Thursdays",
     "time": "12:30pm-4pm",
     "location": "Walmart Kapolei",
     "street": "91-600 Farrington Hwy.",
@@ -41,7 +61,7 @@
   },
   {
     "month": "january",
-    "day": "February - Fridays & Saturdays",
+    "day": "March - Fridays",
     "time": "10am-5pm",
     "location": "Walmart Kapolei",
     "street": "91-600 Farrington Hwy.",
@@ -51,7 +71,17 @@
   },
   {
     "month": "january",
-    "day": "February - Sundays",
+    "day": "March - Saturdays",
+    "time": "10am-5pm",
+    "location": "Walmart Kapolei",
+    "street": "91-600 Farrington Hwy.",
+    "city": "Kapolei, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "March - Sundays",
     "time": "3:30pm-6:30pm",
     "location": "Walmart Kapolei",
     "street": "91-600 Farrington Hwy.",
@@ -59,20 +89,39 @@
     "type": "",
     "link": ""
   },
-
   {
     "month": "january",
-    "day": "Wednesday, February 22",
+    "day": "Wednesday, March 1, 8, 22, 29",
     "time": "9am-12pm",
     "location": "Maunakea Marketplace",
-    "street": "1120 Maunakea Street #200",
+    "street": "1120 Maunakea St",
     "city": "Honolulu, HI",
     "type": "",
     "link": ""
   },
   {
     "month": "january",
-    "day": "Thursday, February 23",
+    "day": "Wednesday, March 1, 8, 15, 22, 29",
+    "time": "3pm-6pm",
+    "location": "Safeway Hilo",
+    "street": "381 E. Maka'Ala St",
+    "city": "Hilo, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Wednesday, March 1, 15",
+    "time": "10am-2pm",
+    "location": "CVS Kihei",
+    "street": "1215 South Kihei Rd",
+    "city": "Kihei, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Thursday, March 2, 9, 23, 30",
     "time": "8am-12pm",
     "location": "City Square",
     "street": "1199 Dillingham Blvd",
@@ -80,20 +129,29 @@
     "type": "",
     "link": ""
   },
-
   {
     "month": "january",
-    "day": "Friday, February 24",
+    "day": "Thursday, March 2, 9, 16, 23, 30",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S Beretania St",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Friday, March 3, 10, 24, 31",
     "time": "9am-12pm",
     "location": "Maunakea Marketplace",
-    "street": "1120 Maunakea Street #200",
+    "street": "1120 Maunakea St",
     "city": "Honolulu, HI",
     "type": "",
     "link": ""
   },
   {
     "month": "january",
-    "day": "Saturday, February 25",
+    "day": "Saturday, March 4, 11, 18, 25",
     "time": "8am-12pm",
     "location": "City Square",
     "street": "1199 Dillingham Blvd",
@@ -101,15 +159,54 @@
     "type": "",
     "link": ""
   },
-
   {
     "month": "january",
-    "day": "Tuesday, February 28",
+    "day": "Saturday, March 4, 11, 18, 25",
+    "time": "9am-12pm",
+    "location": "Safeway Hilo",
+    "street": "381 E. Maka'Ala St",
+    "city": "Hilo, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Monday, March 6, 13, 20, 27",
+    "time": "9am-12pm",
+    "location": "CVS Moiliili Longs",
+    "street": "2470 S King St",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, March 7, 21, 28",
     "time": "8am-12pm",
     "location": "City Square",
     "street": "1199 Dillingham Blvd",
     "city": "Honolulu, HI",
     "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Tuesday, March 7, 14, 21, 28",
+    "time": "9am-12pm",
+    "location": "Safeway Beretania",
+    "street": "1234 S Beretania St",
+    "city": "Honolulu, HI",
+    "type": "",
+    "link": ""
+  },
+  {
+    "month": "january",
+    "day": "Saturday, March 25",
+    "time": "9am-5pm",
+    "location": "Windward Mall",
+    "street": "46-056 Kamehameha Hwy",
+    "city": "Kaneohe, HI",
+    "type": "Caregivers Expo",
     "link": ""
   },
 

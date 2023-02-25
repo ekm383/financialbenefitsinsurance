@@ -45,7 +45,14 @@ const BackgroundSection = ({ children }) => {
           }
         }
       }
-      slide6: file(relativePath: { eq: "FBI-Slider-9.jpg" }) {
+      slide6: file(relativePath: { eq: "FBI-Slider-8.jpg" }) {
+        childImageSharp {
+          fluid(maxWidth: 2000) {
+            ...GatsbyImageSharpFluid_withWebp
+          }
+        }
+      }
+      slide7: file(relativePath: { eq: "FBI-Slider-9.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 2000) {
             ...GatsbyImageSharpFluid_withWebp
@@ -140,6 +147,17 @@ const BackgroundSection = ({ children }) => {
         </Carousel.Item>
         <Carousel.Item>
           <Img fluid={data.slide6.childImageSharp.fluid} alt="Sixth Slide" />
+          <div className="header-container">
+            <Banner
+              titleSmall="Welcome to Financial Benefits Insurance"
+              title="We are a Diversified Agency"
+              title2=""
+            ></Banner>
+          </div>
+          <Carousel.Caption></Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <Img fluid={data.slide7.childImageSharp.fluid} alt="Seventh Slide" />
           <div className="header-container">
             <Banner
               title="Celebrating 12 years of Growth,"

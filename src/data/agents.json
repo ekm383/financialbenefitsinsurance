@@ -1027,6 +1027,29 @@
   },
   {
     "island": "big island",
+    "id": "119",
+    "slug": "yonette-nakamura",
+    "photo": "../images/agents/FBI-Yonette-Nakamura.jpg",
+    "name": "Yonette Nakamura",
+    "title": "",
+    "phone": "808-895-5165",
+    "email": "ynakamura@fbihi.com",
+    "bilingual": "",
+    "licensed": "HI",
+    "bio": [
+      "Born into 'ohana that have lived on these lands for multi-generations before me, I consider it a privilege to have grown up in Waimea on Hawai'i Island. After four years of university life in Hilo, there was no question as to my returning to Waimea to serve in the community that had given to my upbringing. I continue to reside in Waimea with my son, my 94-year-old dad, and our fur babies. Aloha, I am Yonette Nakamura.",
+
+      "Yeshua remains my first love and takes priority in my life. His Word keeps me grounded in love as I daily seek His Truth. I continue to be sharpened through discipleship at Imiola Church where I have served since 1999.",
+
+      "I have a variety of work/life experiences, including retail and customer service in resort apparel, and the airline industry, and 20 years of Dental assisting and management; In 2004 I entered the world of early childhood education, where I worked in teaching and management positions, servicing keiki and their caregivers. I am also an Independent Contractor providing Clerical Support. Believing in servant leadership, I will always strive to keep the highest level of standards and service in all that I do.",
+
+      "A series of God-incidences in my Medicare education and licensing journey led me to Financial Benefits Insurance as a licensed Health and Life Insurance Agent, where 'Benefits is our Business, Service sets us apart.' Granted an opportunity to join an awesome organization that resonates with my beliefs and ethics, I am committed to serving kupuna to the best of my ability. It would be my privilege and honor to assist you in finding the proper coverage and access to the best possible healthcare to suit your needs."
+    ],
+    "testimonials": [""],
+    "videoLink": ""
+  },
+  {
+    "island": "big island",
     "id": "19",
     "slug": "zashell-labrador-espinosa",
     "photo": "../images/agents/FBI-Zashell-Labrador-Espinosa.jpg",
@@ -1255,7 +1278,7 @@
     "island": "texas",
     "id": "117",
     "slug": "amber-ousley",
-    "photo": "../images/agents/FBI-Amber-Ousley.jpg",
+    "photo": "../images/agents/FBI-Amber-Ousley-2.jpg",
     "name": "Amber Ousley",
     "title": "",
     "phone": "346-526-0800",
@@ -1426,20 +1449,6 @@
     "phone": "832-888-8787",
     "email": "oyemitan@fbihi.com",
     "bilingual": "Yoruba",
-    "licensed": "TX",
-    "bio": [""],
-    "testimonials": [""]
-  },
-  {
-    "island": "texas",
-    "id": "109",
-    "slug": "pete-doran",
-    "photo": "../images/agents/FBI-Pete-Doran.jpg",
-    "name": "Pete Doran",
-    "title": "",
-    "phone": "281-416-6179",
-    "email": "pdoran@fbihi.com",
-    "bilingual": "",
     "licensed": "TX",
     "bio": [""],
     "testimonials": [""]
