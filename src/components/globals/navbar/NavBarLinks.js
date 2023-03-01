@@ -33,11 +33,19 @@ const NavBarLinks = () => {
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/medicare">Medicare Basics</Nav.Link>
-            <NavDropdown title="Services" id="collasible-nav-dropdown">
+            <NavDropdown title="Health Products" id="collasible-nav-dropdown">
+              <NavDropdown.Item href="/product/medicare-advantage">
+                Medicare Advantage
+              </NavDropdown.Item>
+              <NavDropdown.Item href="/medicare-supplements">
+                Medicare Supplements
+              </NavDropdown.Item>
               <NavDropdown.Item href="/dental">Dental</NavDropdown.Item>
               <NavDropdown.Item href="/service/health-insurance">
                 Health Insurance
               </NavDropdown.Item>
+            </NavDropdown>
+            <NavDropdown title="Wealth Products" id="collasible-nav-dropdown">
               <NavDropdown.Item href="/life-insurance">
                 Life Insurance
               </NavDropdown.Item>
@@ -47,20 +55,12 @@ const NavBarLinks = () => {
               <NavDropdown.Item href="/term-life">
                 Term Life Insurance
               </NavDropdown.Item>
-            </NavDropdown>
-            <NavDropdown title="Products" id="collasible-nav-dropdown">
-              <NavDropdown.Item href="/product/medicare-advantage">
-                Medicare Advantage
-              </NavDropdown.Item>
               <NavDropdown.Item href="/final-expense">
                 Final Expense
               </NavDropdown.Item>
               <NavDropdown.Item href="/annuity">Annuity</NavDropdown.Item>
               <NavDropdown.Item href="/product/long-term-care">
                 Long Term Care
-              </NavDropdown.Item>
-              <NavDropdown.Item href="/medicare-supplements">
-                Medicare Supplements
               </NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/events">Events</Nav.Link>

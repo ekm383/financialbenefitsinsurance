@@ -150,7 +150,7 @@ const BackgroundSection = ({ children }) => {
           <div className="header-container">
             <Banner
               titleSmall="Welcome to Financial Benefits Insurance"
-              title="We are a Diversified Agency"
+              title="We are a Diversified Team"
               title2=""
             ></Banner>
           </div>

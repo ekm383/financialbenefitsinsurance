@@ -746,7 +746,7 @@
     "phone": "808-542-5109",
     "email": "tmotosue@fbihi.com",
     "bilingual": "",
-    "licensed": "HI",
+    "licensed": "HI, TX, UT, NV",
     "bio": [],
     "testimonials": []
   },
@@ -1569,6 +1569,23 @@
   },
   {
     "island": "utah",
+    "id": "121",
+    "slug": "aidan-gunnell",
+    "photo": "../images/agents/FBI-Aidan-Gunnell.jpg",
+    "name": "Aidan Gunnell",
+    "title": "",
+    "phone": "385-207-5467",
+    "email": "agunnell@fbihi.com",
+    "bilingual": "",
+    "licensed": "UT",
+    "bio": [
+      "I was born and raised in Pleasant Grove Utah. I have been working ever since I was 12 years old, starting at my parents restaurant, then local businesses. As soon as I turned 16 I started working to develop my skills and experience  in customer service and sales. Now being 19 I have over 3 years of combined sales and customer service experience.",
+      "I may be young but I am a hardworking and determined individual. I enjoy helping people and I'm very open minded. In my free time you will find me outdoors. Whether it's snowboarding, camping, hiking, anything in the mountains and I'm there."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "utah",
     "id": "115",
     "slug": "amanda-neeley",
     "photo": "../images/agents/FBI-Amanda-Neeley.jpg",
@@ -1666,6 +1683,28 @@
       "With over 15 years of customer experience, I am excited to expand my expertise to a new set of clienteles, by bringing the same values that I instill in my 5 children of Honesty, Integrity and Hard work to my client’s needs and goals. I look forward to providing an exceptional experience and building long-term relationships with my clients.",
 
       "In my free time, I enjoy hiking and exploring the outdoors with my family. On cold rainy or winter days I enjoy cooking, baking and trying new recipes in the kitchen with my husband and arts and crafts with my children."
+    ],
+    "testimonials": [""]
+  },
+  {
+    "island": "oregon",
+    "id": "120",
+    "slug": "luna-delisle",
+    "photo": "../images/agents/FBI-Luna-Delisle.jpg",
+    "name": "Luna Delisle",
+    "title": "",
+    "phone": "541-272-0387",
+    "email": "ldelisle@fbihi.com",
+    "bilingual": "",
+    "licensed": "OR",
+    "bio": [
+      "(My legal/licensed name is Alysia Carlisle, but please, call me by my authentic name, Luna Delisle.)",
+
+      "I was an island girl from early childhood in the USVI, grew up in Georgia, and became an island woman during a decade in Kaua'i and Maui. In 2017, my wandering heart (and a hurricane) pushed me and my son from the deep south, across the mainland as a volunteer with state parks, and into the beautiful, bountiful forests and dunes of the Oregon coast by 2020.",
+
+      "I've worn many hats, including teacher, realtor, equestrian, federal field rep, and sales and service of many types. Throughout it all, my dedication to providing sparkling customer service and growing genuine connections to do what is best for my fellow humans has driven me.",
+
+      "And now, that dedication and drive has brought me to YOU. I am here to help, I will ALWAYS call you back, and I want to hear all about what matters to YOU! Thank you for trusting me. I promise to earn it. 🙂"
     ],
     "testimonials": [""]
   }
